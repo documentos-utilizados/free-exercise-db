@@ -1,0 +1,28 @@
+{
+  "name": "Imprensa do Conselho",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece deitando-se no banco, obtendo sua cabeça além do bar, se possível. Uma a cinco tábuas, feitas de 2x6, podem ser aparafusadas e mantidas no lugar por um parceiro de treinamento, bandas, ou apenas dobradas sob sua camisa.",
+    "Aperte os pés debaixo de você e arqueie as costas. Usando a barra para ajudar a suportar seu peso, levante o ombro do banco e retraia-os, apertando as omoplatas juntas. Use os pés para conduzir suas armadilhas no banco. Mantenha essa posição apertada do corpo durante todo o movimento.",
+    "Você pode ter um aperto de banco padrão, ou largura do ombro para se concentrar no tríceps. Puxe a barra para fora do rack sem puxar os ombros. A barra, o pulso e o cotovelo devem permanecer na linha o tempo todo. Concentre-se em apertar a barra e tentar separá-la.",
+    "Abaixe a barra para as placas e, em seguida, conduza a barra para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Board_Press/0.jpg",
+    "Board_Press/1.jpg"
+  ],
+  "id": "Board_Press"
+}

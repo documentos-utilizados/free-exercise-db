@@ -1,0 +1,26 @@
+{
+  "name": "Curls de concentração",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Sente-se em um banco plano com um haltere na frente de você entre as pernas. Suas pernas devem ser espalhadas com os joelhos dobrados e os pés no chão.",
+    "Use o braço direito para pegar o haltere para cima. Coloque a parte de trás do braço direito na parte superior da coxa direita interna. Gire a palma da mão até que ela esteja voltada para frente, longe da coxa. Dica: Seu braço deve ser estendido e o haltere deve estar acima do chão. Esta será sua posição inicial.",
+    "Enquanto segura o braço parado, enrole os pesos para a frente enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Dica: No topo do movimento, certifique-se de que o dedo mínimo do seu braço seja maior que o polegar. Isso garante uma boa contração. Segure a posição contratada por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto respira. Cuidado: Evite movimentos oscilantes a qualquer momento.",
+    "Repita para a quantidade recomendada de repetições. Em seguida, repita o movimento com o braço esquerdo."
+  ],
+  "category": "strength",
+  "images": [
+    "Concentration_Curls/0.jpg",
+    "Concentration_Curls/1.jpg"
+  ],
+  "id": "Concentration_Curls"
+}

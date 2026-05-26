@@ -1,0 +1,26 @@
+{
+  "name": "Calf sentado estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Sente-se em linha reta em um tapete de exercício.",
+    "Dobre um joelho e coloque o pé no chão para estabilizar o tronco.",
+    "Endireitar a outra perna e flexionar o tornozelo.",
+    "Usando uma banda, toalha ou sua mão, se você puder alcançar, puxe os dedos dos pés em sua direção. Segure por 10 a 20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Seated_Calf_Stretch/0.jpg",
+    "Seated_Calf_Stretch/1.jpg"
+  ],
+  "id": "Seated_Calf_Stretch"
+}

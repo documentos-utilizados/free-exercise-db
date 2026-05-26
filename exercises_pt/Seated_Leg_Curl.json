@@ -1,0 +1,24 @@
+{
+  "name": "Curl de perna sentada",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca da máquina para ajustar sua altura e sente-se na máquina com as costas contra o suporte traseiro.",
+    "Coloque a parte de trás da perna em cima da alavanca acolchoada (apenas alguns centímetros abaixo das panturrilhas) e prenda a almofada de volta contra as coxas, logo acima dos joelhos. Em seguida, segure as alças laterais na máquina enquanto aponta os dedos dos pés em linha reta (ou você também pode usar qualquer uma das outras duas posições) e certifique-se de que as pernas estejam totalmente retas à sua frente. Esta será a sua posição inicial.",
+    "Ao expirar, puxe a alavanca da máquina o mais longe possível para a parte de trás de suas coxas, flexionando nos joelhos. Mantenha seu tronco parado o tempo todo. Mantenha a posição contraída por um segundo.",
+    "Retorne lentamente à posição inicial enquanto você respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Leg_Curl/0.jpg",
+    "Seated_Leg_Curl/1.jpg"
+  ],
+  "id": "Seated_Leg_Curl"
+}

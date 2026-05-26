@@ -1,0 +1,29 @@
+{
+  "name": "Déficit Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "costas (meio)",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece por ter uma plataforma ou placas de peso em que você pode ficar, geralmente 1-3 polegadas de altura. Aproxime-se da barra para que esteja centrada sobre seus pés. Seus pés devem estar sobre a largura do quadril separados. Dobre-se no quadril para segurar a barra na largura do ombro, permitindo que suas omoplatas se protraiam. Normalmente, você usaria um aperto de mão ou um aperto sobre / sob em conjuntos mais pesados.",
+    "Com os pés e o aperto ajustado, respire fundo e abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra. Olhe para a frente com a cabeça, mantenha o peito para cima e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima. Depois que a barra passar os joelhos, puxe agressivamente a barra para trás, puxando as omoplatas juntas enquanto você dirige seus quadris para a frente na barra.",
+    "Abaixe a barra dobrando-se nos quadris e guiando-a até o chão."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Deficit_Deadlift/0.jpg",
+    "Deficit_Deadlift/1.jpg"
+  ],
+  "id": "Deficit_Deadlift"
+}

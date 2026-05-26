@@ -1,0 +1,37 @@
+{
+  "name": "Limpo e Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "costas (meio)",
+    "quadríceps",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Assuma uma postura de largura de ombro, com os joelhos dentro dos braços. Agora, mantendo as costas planas, dobre os joelhos e os quadris para que você possa agarrar a barra com os braços totalmente estendidos e uma aderência pronada que é ligeiramente mais larga do que a largura do ombro. Aponte os cotovelos para os lados. A barra deve estar perto das canelas. Posicione os ombros sobre ou ligeiramente à frente da barra. Estabeleça uma postura de costas plana. Esta será sua posição inicial.",
+    "Comece a puxar a barra, estendendo os joelhos. Mova os quadris para a frente e levante os ombros na mesma taxa, mantendo o ângulo da constante de volta; continue a levantar a barra em linha reta, mantendo-a perto do seu corpo.",
+    "medida que a barra passa pelo joelho, estenda-se nos tornozelos, joelhos e quadris com força, semelhante a um movimento de salto. Ao fazê-lo, continue a guiar a barra com as mãos, encolhendo os ombros e usando o impulso do seu movimento para puxar a barra o mais alto possível. A barra deve viajar perto de seu corpo, e você deve manter seus cotovelos para fora.",
+    "Na elevação máxima, seus pés devem limpar o chão e você deve começar a se puxar sob a barra. A mecânica disso pode mudar ligeiramente, dependendo do peso usado. Você deve descer em uma posição de agachamento enquanto se puxa sob a barra.",
+    "medida que a barra atinge a altura do terminal, gire os cotovelos ao redor e sob a barra. Rack a barra na frente dos ombros, mantendo o tronco ereto e flexionando os quadris e joelhos para absorver o peso da barra.",
+    "Mantenha a altura máxima, mantendo a barra na posição limpa.",
+    "Sem mover os pés, pressione a barra acima enquanto expira. Abaixe a barra sob controle."
+  ],
+  "category": "strength",
+  "images": [
+    "Clean_and_Press/0.jpg",
+    "Clean_and_Press/1.jpg"
+  ],
+  "id": "Clean_and_Press"
+}

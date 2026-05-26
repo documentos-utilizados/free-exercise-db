@@ -1,0 +1,24 @@
+{
+  "name": "Rope Jumping",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Segure uma extremidade da corda em cada mão. Posicione a corda atrás de você no chão. Levante os braços e vire a corda sobre a cabeça, derrubando-a na sua frente. Quando ela chegar ao chão, salte sobre ela. Encontre um bom ritmo de giro que possa ser mantido. Diferentes velocidades e técnicas podem ser usadas para introduzir variação.",
+    "O salto de corda é emocionante, desafia sua coordenação e requer muita energia. Uma pessoa de 150 lb queimará cerca de 350 calorias pulando corda por 30 minutos, em comparação com mais de 450 calorias correndo."
+  ],
+  "category": "cardio",
+  "images": [
+    "Rope_Jumping/0.jpg",
+    "Rope_Jumping/1.jpg"
+  ],
+  "id": "Rope_Jumping"
+}

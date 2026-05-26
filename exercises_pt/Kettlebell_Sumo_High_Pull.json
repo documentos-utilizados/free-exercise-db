@@ -1,0 +1,27 @@
+{
+  "name": "Kettlebell Sumo High Pull",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell no chão entre os pés. Posicione os pés em uma posição ampla e segure o kettlebell com as duas mãos. Coloque os quadris o mais longe possível, com os joelhos dobrados. Mantenha o peito e a cabeça erguida. Esta será sua posição inicial.",
+    "Comece estendendo os quadris e joelhos, puxando simultaneamente o kettlebell para os ombros, levantando os cotovelos enquanto você faz isso. Reverta o movimento para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Sumo_High_Pull/0.jpg",
+    "Kettlebell_Sumo_High_Pull/1.jpg"
+  ],
+  "id": "Kettlebell_Sumo_High_Pull"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kettlebell de um pé Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Segure um kettlebell pela alça em uma mão. Fique em uma perna, no mesmo lado que você segura o kettlebell.",
+    "Mantendo esse joelho ligeiramente dobrado, faça um levantamento de pernas rígidas dobrando-se no quadril, estendendo sua perna livre atrás de você para o equilíbrio.",
+    "Continue abaixando o kettlebell até que você esteja paralelo ao chão e, em seguida, retorne à posição vertical."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_One-Legged_Deadlift/0.jpg",
+    "Kettlebell_One-Legged_Deadlift/1.jpg"
+  ],
+  "id": "Kettlebell_One-Legged_Deadlift"
+}

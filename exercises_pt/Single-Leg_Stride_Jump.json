@@ -1,0 +1,27 @@
+{
+  "name": "Single-Leg Stride Jump",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique ao lado de uma caixa com o pé interno em cima dela, perto da borda.",
+    "Comece balançando os braços para cima enquanto você empurra a perna superior, pulando para cima o mais alto possível. Tente dirigir o joelho oposto para cima.",
+    "Aterre na mesma posição que você começou, usando sua perna interna para desacelerar o impacto."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Single-Leg_Stride_Jump/0.jpg",
+    "Single-Leg_Stride_Jump/1.jpg"
+  ],
+  "id": "Single-Leg_Stride_Jump"
+}

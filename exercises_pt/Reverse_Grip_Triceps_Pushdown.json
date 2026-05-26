@@ -1,0 +1,24 @@
+{
+  "name": "Reverse Grip Triceps Pushdown",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece definindo um acessório de barra (direto ou e-z) em uma máquina de polia alta.",
+    "De frente para o acessório da barra, agarre-o com as palmas viradas para cima (agarramento supinado) na largura do ombro. Abaixe a barra usando os lats até que seus braços estejam totalmente estendidos pelos lados. Dica: Os cotovelos devem estar ao lado e seus pés devem estar separados da largura do ombro. Esta é a posição inicial.",
+    "Lentamente, eleve o acessório da barra à medida que você inala, para que esteja alinhado com o peito. Apenas os antebraços devem se mover e os cotovelos / braços superiores devem estar estacionários ao seu lado em todos os momentos.",
+    "Em seguida, comece a baixar a barra de cabo de volta para a posição original olhando enquanto expira e contrai o tríceps com força.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Grip_Triceps_Pushdown/0.jpg",
+    "Reverse_Grip_Triceps_Pushdown/1.jpg"
+  ],
+  "id": "Reverse_Grip_Triceps_Pushdown"
+}

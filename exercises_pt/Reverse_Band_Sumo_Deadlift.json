@@ -1,0 +1,33 @@
+{
+  "name": "Banda Reversa Sumo Deadlift",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada no chão dentro de um rack de energia. Anexe as bandas ao topo do rack, usando pinos ou o próprio quadro. Anexe a outra extremidade à barra.",
+    "Aproxime-se da barra para que a barra cruze o meio dos pés. Os pés devem ser muito largos, perto dos colares. Dobre os quadris para segurar a barra. Os braços devem estar diretamente abaixo dos ombros, dentro das pernas, e você pode usar um aperto pronado, um aperto misto ou gancho. Relaxe os ombros, que na verdade alonga seus braços.",
+    "Respire um pouco e, em seguida, abaixe os quadris, olhando para a frente com a cabeça para cima. Dirija pelo chão, espalhe os pés, com o peso na parte de trás da metade dos pés. Estenda-se pelos quadris e joelhos.",
+    "medida que a barra passa pelos joelhos, incline-se para trás e conduza os quadris para dentro da barra, puxando as omoplatas juntas.",
+    "Retorne o peso ao chão dobrando-se nos quadris e controlando o peso no caminho para baixo."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Reverse_Band_Sumo_Deadlift/0.jpg",
+    "Reverse_Band_Sumo_Deadlift/1.jpg"
+  ],
+  "id": "Reverse_Band_Sumo_Deadlift"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Squat Olímpico",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece com uma barra apoiada em cima das armadilhas. O peito deve estar para cima e a cabeça virada para a frente. Adote uma posição de largura do quadril com os pés, conforme necessário.",
+    "Desça flexionando os joelhos, abstendo-se de mover os quadris para trás o máximo possível. Isso requer que os joelhos viajem para a frente; certifique-se de que eles permaneçam alinhados com os pés. O objetivo é manter o tronco o mais reto possível. Continue todo o caminho para baixo, mantendo o peso na frente do calcanhar.",
+    "No momento em que as pernas superiores entram em contato com a parte inferior, inverter o movimento, dirigindo o peso para cima."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Olympic_Squat/0.jpg",
+    "Olympic_Squat/1.jpg"
+  ],
+  "id": "Olympic_Squat"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Smith Máquina Stiff-Legged Deadlift",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Para começar, defina a barra na máquina de ferreiro para uma altura que está ao redor do meio de suas coxas. Uma vez que a altura correta é escolhida e a barra é carregada, segure a barra usando um aperto pronated (palms forward) que é largura do ombro distante. Você pode precisar de alguns envoltórios de pulso se usar uma quantidade significativa de peso.",
+    "Levante a barra, estendendo totalmente os braços, mantendo as costas retas. Fique de pé com o tronco reto e as pernas espaçadas usando uma largura do ombro ou uma postura mais estreita. Os joelhos devem ser ligeiramente dobrados. Esta é a sua posição inicial.",
+    "Mantendo os joelhos parados, abaixe a barra até o topo dos pés dobrando-se na cintura enquanto mantém as costas retas. Continue avançando como se fosse pegar algo do chão até sentir um estiramento nos isquiotibiais. Expire enquanto realiza esse movimento",
+    "Comece a trazer o seu tronco para cima em linha reta novamente assim que você sentir os isquiotibiais esticar, estendendo seus quadris e cintura até que você esteja de volta na posição inicial. Inspire como você executar este movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
+    "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
+  ],
+  "id": "Smith_Machine_Stiff-Legged_Deadlift"
+}

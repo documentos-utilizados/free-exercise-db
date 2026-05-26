@@ -1,0 +1,29 @@
+{
+  "name": "Suspenso Split Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Suspenda suas alças para que as alças estejam a 18-30 polegadas do chão.",
+    "De frente para longe da configuração, coloque o pé traseiro no punho atrás de você. Mantenha sua cabeça olhando para frente e seu peito para cima, com o joelho ligeiramente dobrado. Esta será sua posição inicial.",
+    "Desça flexionando o joelho e os quadris, baixando-se até o chão. Mantenha seu peso no calcanhar do pé e mantenha sua postura durante todo o exercício.",
+    "Na parte inferior do movimento, reverta o movimento, estendendo-se através do quadril e joelho para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Suspended_Split_Squat/0.jpg",
+    "Suspended_Split_Squat/1.jpg"
+  ],
+  "id": "Suspended_Split_Squat"
+}

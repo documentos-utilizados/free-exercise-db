@@ -1,0 +1,26 @@
+{
+  "name": "Push no peito (resposta única)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma posição ajoelhada segurando a bola do medicamento com as duas mãos firmemente no peito.",
+    "Execute o passe explodindo para frente e para fora com os quadris enquanto empurra a bola o mais longe possível.",
+    "Siga em frente, caindo para a frente, pegando-se com as mãos."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Chest_Push_single_response/0.jpg",
+    "Chest_Push_single_response/1.jpg"
+  ],
+  "id": "Chest_Push_single_response"
+}

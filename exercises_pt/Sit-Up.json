@@ -1,0 +1,24 @@
+{
+  "name": "Sit-Up",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão colocando os pés sob algo que não se moverá ou segurando um parceiro. Suas pernas devem ser dobradas nos joelhos.",
+    "Coloque as mãos atrás da cabeça e tranque-as, apertando os dedos. Esta é a posição inicial.",
+    "Eleve sua parte superior do corpo para que ela crie uma forma V imaginária com suas coxas. Respire ao realizar essa parte do exercício.",
+    "Depois de sentir a contração por um segundo, abaixe a parte superior do corpo de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Sit-Up/0.jpg",
+    "Sit-Up/1.jpg"
+  ],
+  "id": "Sit-Up"
+}

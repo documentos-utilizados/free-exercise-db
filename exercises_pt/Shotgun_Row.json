@@ -1,0 +1,26 @@
+{
+  "name": "Shotgun Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Anexe uma única alça a um cabo baixo.",
+    "Depois de selecionar o peso correto, fique um par de pés para trás com uma posição ampla. Seu braço deve ser estendido e seu ombro para a frente. Esta será a sua posição inicial.",
+    "Execute o movimento retraindo o ombro e flexionando o cotovelo.  medida que você puxa, supinar o pulso, virando a palma para cima como você vai.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Shotgun_Row/0.jpg",
+    "Shotgun_Row/1.jpg"
+  ],
+  "id": "Shotgun_Row"
+}

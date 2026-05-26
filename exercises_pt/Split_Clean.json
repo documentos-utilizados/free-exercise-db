@@ -1,0 +1,33 @@
+{
+  "name": "Split Limpar",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com uma barra no chão perto das canelas, tome um aperto de mão fora das pernas. Abaixe os quadris com o peso focado nos calcanhares, de volta em linha reta, a cabeça virada para a frente, peito para cima, com os ombros bem na frente da barra. Esta será a sua posição inicial.",
+    "Comece a primeira tração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos. Mova o peso com controle enquanto você continua acima dos joelhos.",
+    "Em seguida vem a segunda tração, a principal fonte de aceleração para o limpo.  medida que a barra se aproxima da posição média da altura, comece a se estender pelos quadris. Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente pelos braços para acelerar o peso; no final da segunda tração, o corpo deve ser totalmente estendido, inclinando-se ligeiramente para trás, com os braços ainda.",
+    "medida que a extensão total é alcançada, a transição para a terceira tração, encolhendo e flexionando agressivamente os braços com os cotovelos para cima e para fora. Na extensão de pico, puxe-se agressivamente para baixo, girando os cotovelos sob a barra enquanto você faz isso.",
+    "Receba a barra com os pés divididos, movendo agressivamente um pé para a frente e um pé para trás. A barra deve ser amarrada nos ombros prolongados, tocando levemente a garganta com as mãos relaxadas. Continue a descer para a posição inferior, o que ajudará na recuperação.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Reúna os pés enquanto se levanta."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Split_Clean/0.jpg",
+    "Split_Clean/1.jpg"
+  ],
+  "id": "Split_Clean"
+}

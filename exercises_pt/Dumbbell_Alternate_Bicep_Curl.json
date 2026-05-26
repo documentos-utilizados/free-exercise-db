@@ -1,0 +1,26 @@
+{
+  "name": "Dumbbell Alternate Bicep Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Fique de pé (torso ereto) com um haltere em cada mão segurada no comprimento dos braços. Os cotovelos devem estar perto do tronco e as palmas das mãos devem estar viradas para as coxas.",
+    "Enquanto segura o braço parado, enrole o peso direito enquanto você gira a palma das mãos até que elas estejam voltadas para a frente. Neste ponto, continue contraindo o bíceps enquanto você expira até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto você aperta o bíceps. Dica: Apenas os antebraços devem se mover.",
+    "Lentamente, comece a trazer o haltere de volta para a posição inicial enquanto respira. Dica: Lembre-se de torcer as palmas das mãos de volta para a posição inicial (de frente para as coxas) à medida que você desce.",
+    "Repita o movimento com a mão esquerda. Isso equivale a uma repetição.",
+    "Continue alternando desta forma para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Alternate_Bicep_Curl/0.jpg",
+    "Dumbbell_Alternate_Bicep_Curl/1.jpg"
+  ],
+  "id": "Dumbbell_Alternate_Bicep_Curl"
+}

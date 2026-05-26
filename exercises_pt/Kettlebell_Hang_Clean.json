@@ -1,0 +1,28 @@
+{
+  "name": "Kettlebell Hang Limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque o kettlebell entre os pés. Para entrar na posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe o kettlebell no ombro. Limpe o kettlebell nos ombros, estendendo-se pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você o faz.",
+    "Abaixe o kettlebell para uma posição suspensa entre as pernas, mantendo os isquiotibiais carregados. Mantenha a cabeça erguida o tempo todo."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Hang_Clean/0.jpg",
+    "Kettlebell_Hang_Clean/1.jpg"
+  ],
+  "id": "Kettlebell_Hang_Clean"
+}

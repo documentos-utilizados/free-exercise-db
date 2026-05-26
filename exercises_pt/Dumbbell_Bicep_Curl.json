@@ -1,0 +1,25 @@
+{
+  "name": "Dumbbell Bicep Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Levante-se em linha reta com um haltere em cada mão no comprimento do braço. Mantenha os cotovelos perto do tronco e gire as palmas das mãos até que elas estejam voltadas para a frente. Esta será sua posição inicial.",
+    "Agora, mantendo os braços superiores estacionários, expire e enrole os pesos enquanto contrai seu bíceps. Continue a levantar os pesos até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída para uma breve pausa enquanto aperta seu bíceps.",
+    "Em seguida, inspire e comece lentamente a abaixar os halteres de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Bicep_Curl/0.jpg",
+    "Dumbbell_Bicep_Curl/1.jpg"
+  ],
+  "id": "Dumbbell_Bicep_Curl"
+}

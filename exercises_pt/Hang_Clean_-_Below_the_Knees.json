@@ -1,0 +1,31 @@
+{
+  "name": "Pendure limpo - abaixo dos joelhos",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece com uma largura de ombro, mão dupla ou gancho, com a barra pendurada logo abaixo dos joelhos. Suas costas devem estar retas e inclinadas ligeiramente para a frente.",
+    "Comece estendendo-se agressivamente através dos quadris, joelhos e tornozelos, dirigindo o peso para cima. Ao fazê-lo, encolher os ombros em direção às orelhas.  medida que a extensão total é alcançada, a transição para a terceira tração, encolhendo e flexionando agressivamente os braços com os cotovelos para cima e para fora.",
+    "Na extensão de pico, puxe-se agressivamente para baixo, girando os cotovelos sob a barra enquanto você faz isso. Receba a barra em uma posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira tração. A barra deve ser estancada nos ombros prolongados, tocando levemente a garganta com as mãos relaxadas. Continue a descer para a posição de agachamento inferior, o que ajudará na recuperação.",
+    "Recupere-se imediatamente dirigindo através dos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até que você tenha subido a uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Hang_Clean_-_Below_the_Knees/0.jpg",
+    "Hang_Clean_-_Below_the_Knees/1.jpg"
+  ],
+  "id": "Hang_Clean_-_Below_the_Knees"
+}

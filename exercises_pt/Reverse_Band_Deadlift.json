@@ -1,0 +1,31 @@
+{
+  "name": "Deadlift banda reversa",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Configure a barra em um rack de energia. Anexe as bandas à parte superior do rack, usando pinos de bandas ou o próprio quadro. Anexe a outra extremidade das bandas à barra.",
+    "Aproxime-se da barra para que ela esteja centrada sobre seus pés. Seus pés devem estar separados pela largura do quadril. Dobre-se no quadril para segurar a barra na largura do ombro, permitindo que suas omoplatas se protraiam. Normalmente, você usaria um aperto de mão ou um aperto sobre/sob em conjuntos mais pesados.",
+    "Com os pés e o aperto ajustado, respire fundo e abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra. Olhe para a frente com a cabeça, mantenha o peito para cima e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima.",
+    "Depois que a barra passa os joelhos, puxe agressivamente a barra para trás, puxando as omoplatas juntas enquanto você dirige seus quadris para a frente na barra.",
+    "Abaixe a barra dobrando-se nos quadris e guiando-a até o chão."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Reverse_Band_Deadlift/0.jpg",
+    "Reverse_Band_Deadlift/1.jpg"
+  ],
+  "id": "Reverse_Band_Deadlift"
+}

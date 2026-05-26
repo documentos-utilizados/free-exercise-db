@@ -1,0 +1,24 @@
+{
+  "name": "Extensão do tríceps da mentira do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano e agarre o acessório de barra reta de uma polia baixa com um aperto de mão estreito. Dica: A maneira mais fácil de fazer isso é ter alguém lhe entregar a barra enquanto você se deita.",
+    "Com os braços estendidos, posicione a barra sobre o tronco. Seus braços e seu tronco devem criar um ângulo de 90 graus. Esta será sua posição inicial.",
+    "Abaixe a barra dobrando-se no cotovelo enquanto mantém os braços superiores estacionários e os cotovelos dentro. Vá para baixo até que a barra toque levemente sua testa. Respire enquanto você executa esta parte do movimento.",
+    "Flexione o tríceps enquanto você levanta a barra de volta à sua posição inicial. Exale enquanto você executa essa parte do movimento.",
+    "Segure por um segundo na posição contratada e repita a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Lying_Triceps_Extension/0.jpg",
+    "Cable_Lying_Triceps_Extension/1.jpg"
+  ],
+  "id": "Cable_Lying_Triceps_Extension"
+}

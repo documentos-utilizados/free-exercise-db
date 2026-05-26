@@ -1,0 +1,21 @@
+{
+  "name": "Andar Side-Lying estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Primeiro deite-se do lado esquerdo, dobrando o joelho esquerdo na frente de você para estabilizar o tronco (use seus músculos abdominais também para mantê-lo na posição vertical).",
+    "Endireite a perna direita e descanse o pé direito no chão atrás da esquerda. Endireite o braço direito sobre a cabeça e puxe suavemente o pulso direito para esticar todo o lado direito do corpo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Side-Lying_Floor_Stretch/0.jpg",
+    "Side-Lying_Floor_Stretch/1.jpg"
+  ],
+  "id": "Side-Lying_Floor_Stretch"
+}

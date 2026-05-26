@@ -1,0 +1,24 @@
+{
+  "name": "Peito e frente do ombro estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Comece por ficar de pé com as pernas juntas, segurando uma barra de corpo ou uma vassoura.",
+    "Pegue um pouco mais largo do que a largura do ombro no poste e segure-o na frente de você com as palmas das mãos voltadas para baixo.",
+    "Levante cuidadosamente o poste para cima e para trás da cabeça."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+    "Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
+  ],
+  "id": "Chest_And_Front_Of_Shoulder_Stretch"
+}

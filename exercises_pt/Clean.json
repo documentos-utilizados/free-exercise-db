@@ -1,0 +1,33 @@
+{
+  "name": "Limpar",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com uma barra no chão perto das canelas, pegue um aperto overhand (ou gancho) apenas fora das pernas. Abaixe os quadris com o peso focado nos calcanhares, costas retas, cabeça virada para a frente, peito para cima, com os ombros apenas na frente da barra. Esta será a sua posição inicial.",
+    "",
+    "Comece a primeira tração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos. Mova o peso com controle enquanto você continua acima dos joelhos.",
+    "Em seguida vem a segunda tração, a principal fonte de aceleração para o limpo.  medida que a barra se aproxima da posição média da altura, comece a se estender pelos quadris. Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente pelos braços para acelerar o peso; no final da segunda tração, o corpo deve ser totalmente estendido, inclinando-se ligeiramente para trás, com os braços ainda.",
+    "medida que a extensão completa é alcançada, a transição para a terceira tração, encolhendo e flexionando agressivamente os braços com os cotovelos para cima e para fora. Na extensão de pico, puxe-se agressivamente para baixo, girando os cotovelos sob a barra enquanto você faz isso. Continue a barra em uma posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira tração. A barra deve ser estagnada nos ombros prolongados, tocando levemente a garganta com as mãos.",
+    "Recupere-se imediatamente dirigindo através dos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até que você tenha subido a uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Clean/0.jpg",
+    "Clean/1.jpg"
+  ],
+  "id": "Clean"
+}

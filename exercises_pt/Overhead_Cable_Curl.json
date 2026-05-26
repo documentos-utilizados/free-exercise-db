@@ -1,0 +1,25 @@
+{
+  "name": "Curl cabo overhead",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, defina um peso que seja confortável em cada lado da máquina de polia. Nota: Certifique-se de que a quantidade de peso selecionada seja a mesma em cada lado.",
+    "Agora ajuste a altura das polias de cada lado e certifique-se de que elas estejam posicionadas a uma altura maior do que a dos ombros.",
+    "Fique no meio de ambos os lados e use um aperto de mão (palmas voltadas para o teto) para agarrar cada alça. Seus braços devem ser totalmente estendidos e paralelos ao chão com os pés posicionados com largura do ombro separada uns dos outros. Seu corpo deve estar uniformemente alinhado com as alças. Esta é a posição inicial.",
+    "Ao expirar, esprema lentamente o bíceps de cada lado até que seus antebraços e bíceps toquem.",
+    "Durante a inalação, mova os antebraços de volta para a posição inicial. Nota: Todo o seu corpo está parado durante este exercício, exceto para os antebraços.",
+    "Repita para a quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "strength",
+  "images": [
+    "Overhead_Cable_Curl/0.jpg",
+    "Overhead_Cable_Curl/1.jpg"
+  ],
+  "id": "Overhead_Cable_Curl"
+}

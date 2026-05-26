@@ -1,0 +1,24 @@
+{
+  "name": "Alternando o aumento deltóide",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Em uma posição de pé, segure um par de halteres ao seu lado.",
+    "Mantendo os cotovelos ligeiramente dobrados, eleve os pesos diretamente na sua frente para a altura do ombro, evitando qualquer balanço ou trapaça.",
+    "Retorne os pesos para o seu lado.",
+    "Na próxima repetição, eleve os pesos lateralmente, levantando-os para o seu lado para cerca de altura do ombro.",
+    "Retorne os pesos para a posição inicial e continue alternando para a frente e para o lado."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternating_Deltoid_Raise/0.jpg",
+    "Alternating_Deltoid_Raise/1.jpg"
+  ],
+  "id": "Alternating_Deltoid_Raise"
+}

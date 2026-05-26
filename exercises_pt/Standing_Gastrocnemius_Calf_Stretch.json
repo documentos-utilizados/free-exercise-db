@@ -1,0 +1,24 @@
+{
+  "name": "Pé Gastrocnemius Calf estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Coloque o calcanhar direito em um passo com o joelho estendido e incline-se para a frente para agarrar o dedo direito com a mão direita. Seu joelho esquerdo deve ser ligeiramente dobrado e suas costas devem ser retas.",
+    "Apoie o seu peso na perna esquerda e coloque a mão esquerda na coxa esquerda.",
+    "Puxe os dedos direitos em direção ao joelho até sentir um estiramento em sua panturrilha."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Gastrocnemius_Calf_Stretch/0.jpg",
+    "Standing_Gastrocnemius_Calf_Stretch/1.jpg"
+  ],
+  "id": "Standing_Gastrocnemius_Calf_Stretch"
+}

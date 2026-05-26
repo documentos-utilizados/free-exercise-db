@@ -1,0 +1,24 @@
+{
+  "name": "Rotação interna com banda",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Aperte a banda em torno de um poste. A banda deve estar na mesma altura que o cotovelo. Fique com o lado direito da banda a alguns metros de distância.",
+    "Segure a extremidade da banda com a mão direita e mantenha o cotovelo pressionado firmemente para o seu lado. Recomendamos que você segure uma almofada ou rolo de espuma no lugar com o cotovelo para mantê-lo firmemente na posição.",
+    "Com o braço na posição, o cotovelo deve ser flexionado a 90 graus com a mão afastando-se do tronco. Esta será a sua posição inicial.",
+    "Execute o movimento girando o braço em um movimento do forehand, mantendo o cotovelo no lugar.",
+    "Continue o mais longe que puder, faça uma pausa e, em seguida, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Internal_Rotation_with_Band/0.jpg",
+    "Internal_Rotation_with_Band/1.jpg"
+  ],
+  "id": "Internal_Rotation_with_Band"
+}

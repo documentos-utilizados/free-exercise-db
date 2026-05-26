@@ -1,0 +1,24 @@
+{
+  "name": "Calf Press na máquina da imprensa da perna",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Usando uma máquina de prensa de perna, sente-se na máquina e coloque as pernas na plataforma diretamente à sua frente em uma posição média (largura do ombro).",
+    "Abaixe as barras de segurança segurando a plataforma ponderada no lugar e pressione a plataforma todo o caminho até que suas pernas estejam totalmente estendidas na frente de você sem trancar os joelhos. (Nota: Em algumas unidades de prensa de perna, você pode deixar as barras de segurança para maior segurança. Se a sua unidade de prensa de perna permitir isso, então este é o método preferido de realizar o exercício.) Seu tronco e as pernas devem fazer um ângulo perfeito de 90 graus. Agora, coloque cuidadosamente os dedos e as bolas de início.",
+    "Pressione a plataforma levantando os calcanhares enquanto expira, estendendo os tornozelos o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho seja mantido parado em todos os momentos. Não deve haver flexão a qualquer momento. Mantenha a posição contraída por um segundo antes de começar a voltar para baixo.",
+    "Volte lentamente para a posição inicial enquanto respira, baixando os calcanhares enquanto dobra os tornozelos até que os bezerros sejam esticados.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+    "Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+  ],
+  "id": "Calf_Press_On_The_Leg_Press_Machine"
+}

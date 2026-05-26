@@ -1,0 +1,27 @@
+{
+  "name": "Hammer Curl alternativo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical e um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco.",
+    "As palmas das mãos devem estar voltadas para o seu tronco. Esta será a sua posição inicial.",
+    "Enquanto segura o braço parado, enrole o peso direito para a frente enquanto contrai o bíceps enquanto expira. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o bíceps. Dica: Apenas os antebraços devem se mover.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto respira.",
+    "Repita o movimento com a mão esquerda. Isso equivale a uma repetição.",
+    "Continue alternando desta forma para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternate_Hammer_Curl/0.jpg",
+    "Alternate_Hammer_Curl/1.jpg"
+  ],
+  "id": "Alternate_Hammer_Curl"
+}

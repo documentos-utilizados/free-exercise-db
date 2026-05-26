@@ -1,0 +1,23 @@
+{
+  "name": "Prensa de tríceps assentada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco com apoio nas costas e segure um haltere com as duas mãos e segure-o acima do comprimento do braço. Dica: uma maneira melhor é ter alguém entregá-lo a você, especialmente se for muito pesado. A resistência deve estar descansando nas palmas das mãos com os polegares ao redor. A palma da mão deve estar voltada para dentro. Esta será sua posição inicial.",
+    "Mantendo seus braços superiores perto de sua cabeça (cotovelo) e perpendicular ao chão, diminua a resistência em um movimento semicircular atrás de sua cabeça até que seus antebraços toquem seu bíceps. Dica: Os braços superiores devem permanecer estacionários e apenas os antebraços devem se mover. Respire enquanto você executa este passo.",
+    "Volte para a posição inicial usando o tríceps para levantar o haltere. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Triceps_Press/0.jpg",
+    "Seated_Triceps_Press/1.jpg"
+  ],
+  "id": "Seated_Triceps_Press"
+}

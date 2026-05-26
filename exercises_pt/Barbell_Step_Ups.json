@@ -1,0 +1,28 @@
+{
+  "name": "Barbell Step Ups",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura uma barra colocada na parte de trás dos ombros (ligeiramente abaixo do pescoço) e fique de pé atrás de uma plataforma elevada (como a usada para manchar atrás de um banco plano). Esta é a sua posição inicial.",
+    "Coloque o pé direito na plataforma elevada. Passo na plataforma, estendendo o quadril e o joelho da perna direita. Use o calcanhar principalmente para levantar o resto do seu corpo e colocar o pé da perna esquerda na plataforma também. Respire enquanto executa a força necessária para subir.",
+    "Desça com a perna esquerda, flexionando o quadril e o joelho da perna direita enquanto você inala. Volte para a posição original em pé, colocando o pé direito de ao lado do pé esquerdo na posição inicial.",
+    "Repita com a perna direita para a quantidade recomendada de repetições e, em seguida, executar com a perna esquerda."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Step_Ups/0.jpg",
+    "Barbell_Step_Ups/1.jpg"
+  ],
+  "id": "Barbell_Step_Ups"
+}

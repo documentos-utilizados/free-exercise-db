@@ -1,0 +1,26 @@
+{
+  "name": "Ajoelhado Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Defina a barra para a altura adequada em uma cremalheira de energia. Ajoelhe-se atrás da barra; pode ser benéfico colocar um tapete para baixo para almofadar os joelhos. Deslize sob a barra, acumulando-a na parte de trás de seus ombros. Suas omoplatas devem ser retraídas e a barra apertada em suas costas. Desfaça o peso.",
+    "Com a cabeça voltada para a frente, sente-se com a bunda até tocar nas panturrilhas.",
+    "Inverta o movimento, retornando o tronco para uma posição vertical."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Kneeling_Squat/0.jpg",
+    "Kneeling_Squat/1.jpg"
+  ],
+  "id": "Kneeling_Squat"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Moinho de passo",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, entre na esteira e selecione a opção desejada no menu. Você pode escolher uma configuração manual ou pode selecionar um programa para correr. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício. Tenha cuidado para não tropeçar enquanto sobe as escadas. Recomenda-se que você mantenha seu controle sobre as alças para que você não caia.",
+    "Stepmills oferecem conveniência, benefícios cardiovasculares e geralmente têm menos impacto do que correr fora, oferecendo uma taxa semelhante de calorias queimadas. Eles são tipicamente muito mais difíceis do que outros equipamentos de cardio. Uma pessoa de 150 lb normalmente queima mais de 300 calorias em 30 minutos, em comparação com cerca de 175 calorias andando."
+  ],
+  "category": "cardio",
+  "images": [
+    "Step_Mill/0.jpg",
+    "Step_Mill/1.jpg"
+  ],
+  "id": "Step_Mill"
+}

@@ -1,5 +1,6 @@
 <script>
-import exercises from '../../../dist/exercises.json'
+import exercisesEn from '../../../dist/exercises.json'
+import exercisesPt from '../../../dist/exercises_pt.json'
 import ExerciseInstructions from './ExerciseInstructions.vue'
 import PhotoGallery from './PhotoGallery.vue'
 
@@ -19,8 +20,9 @@ export default {
   data() {
     return {
       query: '',
-      exercises: exercises,
-      searchResults: exercises,
+      language: 'pt', // Default to Portuguese
+      exercises: exercisesPt,
+      searchResults: exercisesPt,
       pageSize: 50,
       currentPage: 0,
       savedExercises: [],
@@ -103,6 +105,13 @@ export default {
     }
   },
   watch: {
+    language(newLang) {
+      this.exercises = newLang === 'pt' ? exercisesPt : exercisesEn
+      this.query = ''
+      this.searchResults = this.exercises
+      this.currentPage = 0
+      this.showSavedExercises = false
+    },
     savedExercises: {
       handler: function (val) {
         localStorage.setItem('savedExercises', JSON.stringify(val))
@@ -128,13 +137,13 @@ export default {
 }
 </script>
 <template>
-  <div class="flex">
-    <div class="w-full">
+  <div class="flex items-center space-x-2 w-full">
+    <div class="flex-1">
       <form @submit.prevent="onSubmit">
         <label
           for="default-search"
           class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
-          >Search</label
+          >{{ language === 'pt' ? 'Buscar' : 'Search' }}</label
         >
         <div class="relative">
           <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
@@ -161,24 +170,33 @@ export default {
             autofocus="autofocus"
             id="search"
             class="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-            placeholder="Search Exercises, Instructions"
+            :placeholder="language === 'pt' ? 'Buscar exercícios, instruções...' : 'Search Exercises, Instructions'"
             required
           />
         </div>
       </form>
     </div>
-    <div class="w-24 relative">
+    <div class="flex space-x-2">
+      <!-- Language Button -->
+      <button
+        type="button"
+        @click="language = language === 'pt' ? 'en' : 'pt'"
+        class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-4 py-4 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700"
+      >
+        {{ language === 'pt' ? '🇺🇸 EN' : '🇧🇷 PT' }}
+      </button>
+      <!-- Saved Items Button -->
       <button
         type="button"
         @click.prevent="toggleSavedExercises"
         :class="savedItemClasses"
-        class="text-white absolute right-2.5 bottom-2.5 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2"
+        class="text-white focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-4 relative"
       >
         <BookmarkIconOutline
-          class="w-5 h-5 mr-2 -ml-1 text-white"
+          class="w-5 h-5"
           v-if="savedExercises.length == 0"
         />
-        <BookmarkIconSolid class="w-5 h-5 mr-2 -ml-1 text-white" v-if="savedExercises.length > 0" />
+        <BookmarkIconSolid class="w-5 h-5" v-if="savedExercises.length > 0" />
         <span class="sr-only">Saved</span>
         <div
           class="absolute inline-flex items-center justify-center w-6 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-2 -right-2 dark:border-gray-900"
@@ -216,7 +234,7 @@ export default {
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
           {{ exercise.name }}
         </h5>
-        <ExerciseInstructions :text="exercise.instructions" />
+        <ExerciseInstructions :text="exercise.instructions" :language="language" />
       </div>
     </div>
   </div>

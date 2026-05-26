@@ -1,0 +1,29 @@
+{
+  "name": "Perna alternativa Diagonal Bound",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Assuma uma postura confortável com um pé ligeiramente na frente do outro.",
+    "Comece empurrando para fora com a perna dianteira, dirigindo o joelho oposto para a frente e o mais alto possível antes de pousar. Tente cobrir a maior distância de cada lado com cada limite.",
+    "Pode ajudar a usar uma linha no chão para desviar a distância de um lado para o outro.",
+    "Repita a sequência com a outra perna."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Alternate_Leg_Diagonal_Bound/0.jpg",
+    "Alternate_Leg_Diagonal_Bound/1.jpg"
+  ],
+  "id": "Alternate_Leg_Diagonal_Bound"
+}

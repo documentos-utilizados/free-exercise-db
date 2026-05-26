@@ -1,0 +1,24 @@
+{
+  "name": "Flat Bench Perna Pull-In",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um tapete de exercícios ou um banco plano com as pernas fora do final.",
+    "Coloque as mãos sob os glúteos com as palmas das mãos para baixo ou pelos lados segurando o banco (ou com as palmas das mãos para baixo ao lado de uma esteira de exercício). Também estenda as pernas para fora. Esta será a sua posição inicial.",
+    "Dobre os joelhos e puxe as coxas superiores para o meio enquanto expira. Continue este movimento até que os joelhos estejam perto do peito. Mantenha a posição contraída por um segundo.",
+    "medida que você respira, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Flat_Bench_Leg_Pull-In/0.jpg",
+    "Flat_Bench_Leg_Pull-In/1.jpg"
+  ],
+  "id": "Flat_Bench_Leg_Pull-In"
+}

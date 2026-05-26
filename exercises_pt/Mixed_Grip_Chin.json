@@ -1,0 +1,27 @@
+{
+  "name": "Mixed Grip Chin",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Usando um espaçamento que é apenas cerca de 1 polegada mais largo do que a largura do ombro, pegue uma barra pull-up com as palmas de uma mão voltada para a frente e as palmas da outra mão voltadas para você. Esta será a sua posição inicial.",
+    "Agora comece a puxar-se enquanto expira. Dica: Com o braço que tem as palmas das mãos voltadas para cima, concentre-se em usar os músculos das costas para realizar o movimento. O cotovelo desse braço deve permanecer perto do tronco. Com o outro braço que tem as palmas das mãos voltadas para a frente, os cotovelos estarão longe, mas em linha com o tronco. Você se concentrará em usar os lats para puxar seu corpo para cima.",
+    "Depois de uma segunda contração no topo, comece a descer lentamente à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições.",
+    "No conjunto a seguir, aperte as garras; então, se você tiver a mão direita com as palmas voltadas para você e a esquerda com as palmas voltadas para a frente, no próximo conjunto você terá as palmas voltadas para a direita e voltadas para você para a esquerda."
+  ],
+  "category": "strength",
+  "images": [
+    "Mixed_Grip_Chin/0.jpg",
+    "Mixed_Grip_Chin/1.jpg"
+  ],
+  "id": "Mixed_Grip_Chin"
+}

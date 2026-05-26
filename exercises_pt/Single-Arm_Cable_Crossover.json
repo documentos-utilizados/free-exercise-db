@@ -1,0 +1,24 @@
+{
+  "name": "Crossover de cabo de braço único",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece movendo as polias para a posição alta, selecione a resistência a ser usada e pegue uma alça em cada mão.",
+    "Passo para a frente de ambas as polias com os braços estendidos na frente de você, trazendo as mãos juntas. Sua cabeça e peito devem estar para cima enquanto você se inclina para a frente, enquanto seus pés devem estar escalonados. Esta será a sua posição inicial.",
+    "Mantendo o braço esquerdo no lugar, permita que o braço direito se estenda para o lado, mantendo uma ligeira curvatura no cotovelo. O braço direito deve ser perpendicular ao corpo a aproximadamente o nível do ombro.",
+    "Retorne o braço de volta à posição inicial, puxando a mão de volta para a linha média do corpo.",
+    "Segure por um segundo na posição inicial e repita o movimento no lado oposto. Continue alternando para frente e para trás para o número prescrito de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Single-Arm_Cable_Crossover/0.jpg",
+    "Single-Arm_Cable_Crossover/1.jpg"
+  ],
+  "id": "Single-Arm_Cable_Crossover"
+}

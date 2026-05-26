@@ -1,0 +1,23 @@
+{
+  "name": "Flexão de quadril com banda",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma extremidade da banda à parte inferior de um poste e prenda a outra a um tornozelo.",
+    "Afaste-se do ponto de ligação da banda.",
+    "Mantendo a cabeça e o peito para cima, levante o joelho até 90 graus e faça uma pausa.",
+    "Retorne a perna para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Hip_Flexion_with_Band/0.jpg",
+    "Hip_Flexion_with_Band/1.jpg"
+  ],
+  "id": "Hip_Flexion_with_Band"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Dynamic Back Stretch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de pé com os pés afastados da largura do ombro. Esta será a sua posição inicial.",
+    "Mantenha os braços retos, balançando-os na frente de você 5-10 vezes, aumentando a amplitude de movimento a cada vez até que seus braços estejam acima de sua cabeça."
+  ],
+  "category": "stretching",
+  "images": [
+    "Dynamic_Back_Stretch/0.jpg",
+    "Dynamic_Back_Stretch/1.jpg"
+  ],
+  "id": "Dynamic_Back_Stretch"
+}

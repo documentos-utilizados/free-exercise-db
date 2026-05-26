@@ -1,0 +1,29 @@
+{
+  "name": "Barra dianteira Squat para um banco",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para fins de segurança. Para começar, primeiro defina um banco plano atrás de você e defina a barra em um rack que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, coloque os braços sob a barra, mantendo os cotovelos altos e o braço um pouco acima paralelo ao chão. Descanse a barra em cima dos deltóides e cruze os braços enquanto segura a barra para controle total.",
+    "Levante a barra do rack empurrando primeiro com as pernas e, ao mesmo tempo, endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média de largura do ombro com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o deixará desequilibrado e também manterá as costas retas. Esta será sua posição inicial. (Nota: Para os fins desta discussão, usaremos a postura média descrita acima, que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posturas descritas na seção de posicionamento do pé).",
+    "Comece a abaixar lentamente a barra, dobrando os joelhos como você manter uma postura reta com a cabeça para cima. Continue para baixo até tocar o banco com os glúteos. Inspire como você executar esta parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos dos pés que é perpendicular à frente. Se os joelhos estão além dessa linha imaginária (se eles estão além de seus dedos) então você está colocando o esforço indevido",
+    "Comece a levantar a barra à medida que você expira, empurrando o chão principalmente com o calcanhar do pé enquanto você endireita as pernas novamente e volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Barbell_Squat_To_A_Bench/0.jpg",
+    "Front_Barbell_Squat_To_A_Bench/1.jpg"
+  ],
+  "id": "Front_Barbell_Squat_To_A_Bench"
+}

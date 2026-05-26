@@ -1,0 +1,25 @@
+{
+  "name": "Tuck Crunch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se no chão ou um tapete de exercícios com as costas pressionadas contra o chão. Seus braços devem estar deitados em seus lados com as palmas das mãos voltadas para baixo.",
+    "Suas pernas devem ser cruzadas envolvendo um tornozelo ao redor do outro. Lentamente eleve suas pernas para cima no ar até que suas coxas estejam perpendiculares ao chão com uma ligeira curvatura nos joelhos. Nota: Seus joelhos e dedos dos pés devem ser paralelos ao chão em oposição às coxas.",
+    "Mova os braços do chão e cruze-os para que eles estejam descansando em seu peito. Esta é a posição inicial.",
+    "Enquanto mantém a parte inferior das costas pressionada contra o chão, levante lentamente o tronco. Lembre-se de expirar enquanto realiza essa parte do exercício.",
+    "Lentamente, comece a baixar o tronco de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Tuck_Crunch/0.jpg",
+    "Tuck_Crunch/1.jpg"
+  ],
+  "id": "Tuck_Crunch"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Retromedicine Ball Throw",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Este exercício é melhor feito com um parceiro. Se você não tiver um parceiro, a bola pode ser jogada e recuperada ou jogada contra uma parede.",
+    "Comece a ficar alguns metros na frente do seu parceiro, ambos voltados para a mesma direção. Comece a segurar a bola entre as pernas.",
+    "Agache-se e, em seguida, forçosamente inverter a direção, chegando a extensão total e você joga a bola sobre a cabeça para o seu parceiro.",
+    "Seu parceiro pode então rolar a bola de volta para você. Repita para o número desejado de repetições."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Backward_Medicine_Ball_Throw/0.jpg",
+    "Backward_Medicine_Ball_Throw/1.jpg"
+  ],
+  "id": "Backward_Medicine_Ball_Throw"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cadeira inferior costas estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "lombar"
+  ],
+  "instructions": [
+    "Sente-se em pé em uma cadeira.",
+    "Dobre-se para um lado com o braço sobre a cabeça. Você pode segurar a cadeira com a mão livre.",
+    "Segure por 10 segundos e repita para o seu outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chair_Lower_Back_Stretch/0.jpg",
+    "Chair_Lower_Back_Stretch/1.jpg"
+  ],
+  "id": "Chair_Lower_Back_Stretch"
+}

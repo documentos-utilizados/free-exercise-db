@@ -1,0 +1,27 @@
+{
+  "name": "Rack Pulls",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "trapézio"
+  ],
+  "instructions": [
+    "Configure em um rack de energia com a barra nos pinos. Os pinos devem ser definidos para o ponto desejado; logo abaixo dos joelhos, logo acima ou na posição central da coxa. Posicione-se contra a barra na posição correta de levantamento. Seus pés devem estar sob seus quadris, largura do ombro do punho, arqueado nas costas e quadris para trás para envolver os isquiotibiais. Como o peso é tipicamente pesado, você pode usar um aperto misto, uma alça ou um gancho.",
+    "Com a cabeça voltada para a frente, estenda-se pelos quadris e joelhos, puxando o peso para cima e para trás até o bloqueio. Certifique-se de puxar os ombros para trás enquanto completa o movimento.",
+    "Retorne o peso para os pinos e repita."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Rack_Pulls/0.jpg",
+    "Rack_Pulls/1.jpg"
+  ],
+  "id": "Rack_Pulls"
+}

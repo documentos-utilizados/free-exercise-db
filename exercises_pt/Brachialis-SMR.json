@@ -1,0 +1,21 @@
+{
+  "name": "Brachialis-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado, com o braço contra o rolo de espuma. O braço deve estar mais ou menos alinhado com o corpo, com o exterior do bíceps pressionado contra o rolo de espuma.",
+    "Levante os quadris do chão, apoiando seu peso em seu braço e em seus pés. Segure por 10-30 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Brachialis-SMR/0.jpg",
+    "Brachialis-SMR/1.jpg"
+  ],
+  "id": "Brachialis-SMR"
+}

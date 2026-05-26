@@ -1,0 +1,29 @@
+{
+  "name": "Assento de um braço Cabo Pulley Rows",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "trapézio"
+  ],
+  "instructions": [
+    "Para entrar na posição inicial, primeiro sente-se na máquina e coloque os pés na plataforma frontal ou barra transversal, desde que seus joelhos estejam ligeiramente dobrados e não bloqueados.",
+    "Incline-se enquanto mantém o alinhamento natural das costas e agarre o acessório de alça única com o braço esquerdo usando um aperto de palmas para baixo.",
+    "Com o braço estendido puxe para trás até que seu tronco esteja em um ângulo de 90 graus de suas pernas. Suas costas devem ser ligeiramente arqueadas e seu peito deve estar saindo. Você deve estar se sentindo um bom estiramento em seu colo enquanto segura a barra na frente de você. O braço direito pode ser mantido pela cintura. Esta é a posição inicial do exercício.",
+    "Mantendo o tronco parado, puxe as alças de volta em direção ao seu tronco, mantendo os braços perto dele enquanto gira o pulso, de modo que, no momento em que sua mão estiver por seus abdominais, esteja em uma posição neutra (palmas voltadas para o tronco). Respire enquanto realiza esse movimento. Nesse ponto, você deve apertar os músculos das costas com força.",
+    "Segure essa contração por um segundo e volte lentamente para a posição original enquanto respira. Dica: Lembre-se de girar o pulso enquanto volta para a posição inicial para que as palmas das mãos estejam voltadas para baixo novamente.",
+    "Repita para a quantidade recomendada de repetições e, em seguida, execute o mesmo movimento com a mão direita."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+    "Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+  ],
+  "id": "Seated_One-arm_Cable_Pulley_Rows"
+}

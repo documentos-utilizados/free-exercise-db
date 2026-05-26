@@ -1,0 +1,21 @@
+{
+  "name": "Flexores de quadril em pé",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se em linha reta com a coluna vertical, o pé esquerdo ligeiramente na frente da direita.",
+    "Dobre ambos os joelhos e levante o calcanhar traseiro do chão enquanto pressiona o quadril direito para a frente. Você não pode obter um alongamento profundo e completo nesta posição, no entanto, porque é difícil relaxar o flexor do quadril e ficar sobre ele ao mesmo tempo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Hip_Flexors/0.jpg",
+    "Standing_Hip_Flexors/1.jpg"
+  ],
+  "id": "Standing_Hip_Flexors"
+}

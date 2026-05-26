@@ -1,0 +1,25 @@
+{
+  "name": "nico-Leg High Box Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Posicione uma caixa em um rack. Proteja uma faixa ou corda no lugar acima da caixa.",
+    "Em pé na frente dele, pisar na caixa para uma posição de pé completa, deixando sua outra perna permanecer sem suporte. Segure a banda para o equilíbrio",
+    ". Continue subindo e descendo na mesma perna antes de mudar para o lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Single-Leg_High_Box_Squat/0.jpg",
+    "Single-Leg_High_Box_Squat/1.jpg"
+  ],
+  "id": "Single-Leg_High_Box_Squat"
+}

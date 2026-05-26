@@ -1,0 +1,25 @@
+{
+  "name": "Prensa Chain",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece conectando as correntes aos acessórios do cabo. Posicione-se no banco plano na mesma posição que para uma prensa de halteres. Seus pulsos devem ser pronados e braços perpendiculares ao chão. Esta será sua posição inicial.",
+    "Abaixe as correntes flexionando os cotovelos, descarregando parte da corrente no chão.",
+    "Continue até que o cotovelo forme um ângulo de 90 graus e, em seguida, reverta o movimento, estendendo-se através do cotovelo até o bloqueio."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Chain_Press/0.jpg",
+    "Chain_Press/1.jpg"
+  ],
+  "id": "Chain_Press"
+}

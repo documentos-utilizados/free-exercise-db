@@ -1,0 +1,29 @@
+{
+  "name": "Declínio Close-Grip Bench Para Skull Crusher",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Prenda as pernas no final do banco declinante e deite-se lentamente no banco.",
+    "Usando um aperto próximo (uma aderência que é um pouco menor do que a largura do ombro), levante a barra do rack e segure-a diretamente sobre você com os braços fechados e os cotovelos dentro. Os braços devem ser perpendiculares ao chão. Esta será sua posição inicial. Dica: Para proteger seu manguito rotador, é melhor se você tiver um observador ajudá-lo a levantar a barra do rack.",
+    "Agora abaixe a barra até o peito inferior enquanto respira. Mantenha os cotovelos dentro enquanto realiza esse movimento.",
+    "Usando o tríceps para empurrar a barra de volta para cima, pressione-o de volta para a posição inicial enquanto expira.",
+    "medida que você respira e mantém os braços parados, abaixe a barra lentamente movendo os antebraços em um movimento semicircular em sua direção até sentir a barra tocar ligeiramente a testa. Respire enquanto realiza essa parte do movimento.",
+    "Levante a barra de volta para a posição inicial, contraindo o tríceps e expirando.",
+    "Repita os passos 3-6 até que a quantidade recomendada de repetições seja realizada."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
+    "Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
+  ],
+  "id": "Decline_Close-Grip_Bench_To_Skull_Crusher"
+}

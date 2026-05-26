@@ -1,0 +1,22 @@
+{
+  "name": "Um gancho de mão",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps"
+  ],
+  "instructions": [
+    "Segure em uma barra de chinup com uma mão, usando um aperto pronado. Mantenha os pés no chão ou um passo. Permita que a maior parte do seu peso pendure nessa mão, mantendo os pés no chão. Segure por 10-20 segundos e mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "One_Handed_Hang/0.jpg",
+    "One_Handed_Hang/1.jpg"
+  ],
+  "id": "One_Handed_Hang"
+}

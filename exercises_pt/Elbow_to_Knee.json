@@ -1,0 +1,22 @@
+{
+  "name": "Cotovelo a Joelho",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão, cruzando a perna direita através do joelho esquerdo dobrado. Feche as mãos atrás da cabeça, começando com as omoplatas no chão. Esta será sua posição inicial.",
+    "Execute o movimento flexionando a coluna e girando o tronco para trazer o cotovelo esquerdo para o joelho direito.",
+    "Volte para a posição inicial e repita o movimento para o número desejado de repetições antes de mudar de lado."
+  ],
+  "category": "strength",
+  "images": [
+    "Elbow_to_Knee/0.jpg",
+    "Elbow_to_Knee/1.jpg"
+  ],
+  "id": "Elbow_to_Knee"
+}

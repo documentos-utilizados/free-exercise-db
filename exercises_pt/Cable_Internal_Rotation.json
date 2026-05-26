@@ -1,0 +1,24 @@
+{
+  "name": "Rotação interna do cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se ao lado de uma polia baixa lateralmente (com as pernas esticadas na sua frente ou cruzadas) e segure o acessório de cabo de mão única com o braço mais próximo do cabo. Dica: Se você pode ajustar a altura da polia, você pode usar um banco plano para se sentar em vez disso.",
+    "Posicione o cotovelo contra o seu lado com o cotovelo dobrado a 90 ° e o braço apontando para a polia. Esta será a sua posição inicial.",
+    "Puxe a fixação do cabo de mão única em direção ao seu corpo girando internamente o ombro até que o antebraço esteja em todo o abdômen. Você estará criando um semi-círculo imaginário. Dica: O antebraço deve ser perpendicular ao seu tronco em todos os momentos.",
+    "Volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições e, em seguida, repita o movimento com o próximo braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Internal_Rotation/0.jpg",
+    "Cable_Internal_Rotation/1.jpg"
+  ],
+  "id": "Cable_Internal_Rotation"
+}

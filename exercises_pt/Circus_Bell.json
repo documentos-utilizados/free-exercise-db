@@ -1,0 +1,30 @@
+{
+  "name": "Circus Bell",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "O sino de circo é um haltere de grandes dimensões com uma alça grossa. Comece com o haltere entre os pés e segure a alça com as duas mãos.",
+    "Limpe o haltere, estendendo-se através de seus quadris e joelhos para entregar o implemento para o ombro desejado, deixando ir com a mão extra.",
+    "Certifique-se de que você obtenha uma das cabeças do haltere atrás do ombro para evitar ser jogado fora do equilíbrio. Para levantá-lo acima da cabeça, mergulhe flexionando os joelhos e a unidade para cima enquanto você estende a cabeça do haltere, inclinando-se ligeiramente para longe dele enquanto você faz isso.",
+    "Guiar cuidadosamente o sino de volta para o chão, mantendo-o sob controle, tanto quanto possível. É melhor realizar este evento em um tapete de borracha grossa para evitar danos ao chão."
+  ],
+  "category": "strongman",
+  "images": [
+    "Circus_Bell/0.jpg",
+    "Circus_Bell/1.jpg"
+  ],
+  "id": "Circus_Bell"
+}

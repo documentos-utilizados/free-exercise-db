@@ -1,0 +1,25 @@
+{
+  "name": "Flexor Incline Dumbbell Curls",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure o haltere em direção ao lado mais longe de você para que você tenha mais peso no lado mais próximo. (Isso pode ser feito para um bom efeito em todos os exercícios de haltere de bíceps). Agora faça um cacho de haltere de inclinação normal, mas mantenha seus pulsos o mais longe possível para trás, de modo a neutralizar qualquer estresse que seja colocado sobre eles.",
+    "Sente-se em um banco inclinado que é inclinado a 45 graus enquanto segura um haltere em cada mão.",
+    "Deixe seus braços pendurados em seus lados, com os cotovelos dentro, e gire as palmas das mãos para a frente com os polegares apontando para longe do corpo. Dica: Você manterá esta posição da mão durante todo o movimento, pois não deve haver qualquer torção das mãos à medida que elas sobem. Esta será sua posição inicial.",
+    "Enrole os dois halteres ao mesmo tempo até que seu bíceps esteja totalmente contraído e expire. Dica: Não balançar os braços ou usar o momento. Mantenha um movimento controlado em todos os momentos. Mantenha a posição contraída por um segundo no topo.",
+    "medida que você inala, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Flexor_Incline_Dumbbell_Curls/0.jpg",
+    "Flexor_Incline_Dumbbell_Curls/1.jpg"
+  ],
+  "id": "Flexor_Incline_Dumbbell_Curls"
+}

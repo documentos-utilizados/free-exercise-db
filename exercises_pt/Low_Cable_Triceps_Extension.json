@@ -1,0 +1,25 @@
+{
+  "name": "Extensão baixa do tríceps do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Selecione o peso desejado e deite-se de frente para o banco de uma máquina de linha sentada que tem uma corda presa a ele. Sua cabeça deve estar apontando para o anexo.",
+    "Pegue a parte externa da corda com as palmas das mãos voltadas umas para as outras (aperto neutro).",
+    "Posicione os cotovelos para que eles sejam dobrados em um ângulo de 90 graus e seus braços superiores sejam perpendiculares (ângulo de 90 graus) ao seu tronco. Dica: Mantenha os cotovelos dentro e certifique-se de que os braços superiores apontem para o teto enquanto seus antebraços apontam para a polia acima da cabeça. Esta será sua posição inicial.",
+    "medida que você expira, estenda os braços inferiores até que estejam retos e verticais. Os braços e cotovelos superiores permanecem estacionários durante todo o movimento. Apenas os antebraços devem se mover. Contrate o tríceps duro por um segundo.",
+    "medida que você respira, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Low_Cable_Triceps_Extension/0.jpg",
+    "Low_Cable_Triceps_Extension/1.jpg"
+  ],
+  "id": "Low_Cable_Triceps_Extension"
+}

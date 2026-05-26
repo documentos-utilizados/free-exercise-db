@@ -1,0 +1,28 @@
+{
+  "name": "Leg Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Usando uma máquina de prensa de pernas, sente-se na máquina e coloque as pernas na plataforma diretamente à sua frente em uma posição média (largura do ombro). (Nota: Para os fins desta discussão, usaremos a posição média descrita acima, que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posições descritas na seção de posicionamento do pé).",
+    "Abaixe as barras de segurança segurando a plataforma ponderada no lugar e pressione a plataforma até que suas pernas estejam totalmente estendidas à sua frente. Dica: Certifique-se de que você não bloqueie os joelhos. Seu tronco e as pernas devem fazer um ângulo perfeito de 90 graus. Esta será sua posição inicial.",
+    "medida que você inala, abaixe lentamente a plataforma até que suas pernas superiores e inferiores façam um ângulo de 90 graus.",
+    "Empurrando principalmente com os calcanhares dos pés e usando o quadríceps voltar para a posição inicial como você expirar.",
+    "Repita para a quantidade recomendada de repetições e certifique-se de bloquear os pinos de segurança corretamente depois de terminar. Você não quer que a plataforma caia em você totalmente carregada."
+  ],
+  "category": "strength",
+  "images": [
+    "Leg_Press/0.jpg",
+    "Leg_Press/1.jpg"
+  ],
+  "id": "Leg_Press"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Chin para peito estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Entre em uma posição sentada no chão.",
+    "Coloque as duas mãos na parte de trás da cabeça, os dedos entrelaçados, os polegares apontando para baixo e os cotovelos apontando para a frente. Puxe lentamente a cabeça para baixo até o peito. Segure por 20-30 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chin_To_Chest_Stretch/0.jpg",
+    "Chin_To_Chest_Stretch/1.jpg"
+  ],
+  "id": "Chin_To_Chest_Stretch"
+}

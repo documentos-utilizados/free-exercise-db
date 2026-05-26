@@ -1,0 +1,27 @@
+{
+  "name": "Lunge Sprint",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Ajuste uma barra em uma máquina Smith a uma altura apropriada. Posicione-se sob a barra, acumulando-a na parte de trás de seus ombros. Desfaça a barra e, em seguida, divida os pés, movendo um pé para frente e um pé para trás. Esta será sua posição inicial.",
+    "Abaixe o joelho das costas quase no chão, flexionando os joelhos e abaixando os quadris ao fazê-lo.",
+    "Na parte inferior da descida, imediatamente inverter a direção. Explosivamente dirigir através do calcanhar do pé da frente com a pressão leve de seu pé traseiro. Salte para cima e reverter a posição de suas pernas.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lunge_Sprint/0.jpg",
+    "Lunge_Sprint/1.jpg"
+  ],
+  "id": "Lunge_Sprint"
+}

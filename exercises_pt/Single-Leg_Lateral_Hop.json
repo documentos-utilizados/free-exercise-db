@@ -1,0 +1,28 @@
+{
+  "name": "nico-Leg Lateral Hop",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique ao lado de um cone ou obstáculo. Para entrar na posição inicial, fique em uma perna com o joelho ligeiramente dobrado.",
+    "Para começar, execute um contra-salto para saltar lateralmente sobre o cone.",
+    "Aterre na sua perna de salto, e imediatamente rebote para fora dela, saltando de volta para a posição inicial.",
+    "Continue pulando para frente e para trás."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Single-Leg_Lateral_Hop/0.jpg",
+    "Single-Leg_Lateral_Hop/1.jpg"
+  ],
+  "id": "Single-Leg_Lateral_Hop"
+}

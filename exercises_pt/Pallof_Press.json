@@ -1,0 +1,29 @@
+{
+  "name": "Pallof Press",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre e, se possível, posicione o cabo à altura do ombro. Caso contrário, uma polia baixa será suficiente.",
+    "Com o seu lado para o cabo, pegue a alça com as duas mãos e afaste-se da torre. Você deve estar aproximadamente comprimento do braço longe da polia, com a tensão do peso no cabo.",
+    "Com os pés posicionados de largura do quadril separados e os joelhos ligeiramente dobrados, segure o cabo no meio do peito. Esta será sua posição inicial.",
+    "Pressione o cabo para longe de seu peito, estendendo totalmente os dois braços. Seu núcleo deve estar apertado e envolvido.",
+    "Mantenha a repetição por vários segundos antes de retornar à posição inicial.",
+    "Na conclusão do conjunto, repita encarando a outra direção."
+  ],
+  "category": "strength",
+  "images": [
+    "Pallof_Press/0.jpg",
+    "Pallof_Press/1.jpg"
+  ],
+  "id": "Pallof_Press"
+}

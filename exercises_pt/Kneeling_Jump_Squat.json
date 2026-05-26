@@ -1,0 +1,27 @@
+{
+  "name": "Ajoelhado Jump Squat",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece a ajoelhar-se no chão com uma barra na parte de trás dos ombros, ou você pode usar seu peso corporal para este exercício. Isso pode ser feito dentro de uma cremalheira de energia para facilitar o desenraizamento.",
+    "Sente-se com seus quadris até que seus glúteos toquem seus pés, mantendo sua cabeça e peito para cima.",
+    "Exploda com seus quadris, gerando energia suficiente para pousar com os pés no chão.",
+    "Continue com o agachamento dirigindo pelos calcanhares e estendendo os joelhos para chegar a uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Kneeling_Jump_Squat/0.jpg",
+    "Kneeling_Jump_Squat/1.jpg"
+  ],
+  "id": "Kneeling_Jump_Squat"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Extensões de Pernas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para este exercício, você precisará usar uma máquina de extensão de joelho. Primeiro escolha seu peso e sente-se na máquina com as pernas sob a almofada (pés apontados para a frente) e as mãos segurando as barras laterais. Esta será a sua posição inicial. Dica: Você precisará ajustar a almofada para que ela caia em cima da perna (logo acima dos pés). Além disso, certifique-se de que suas pernas formem um ângulo de 90 graus abaixo da perna. Se a máquina estiver inclinada.",
+    "Usando o quadríceps, estenda as pernas ao máximo enquanto expira. Certifique-se de que o resto do corpo permaneça parado no assento. Pausar um segundo na posição contraída.",
+    "Reduza lentamente o peso de volta para a posição original à medida que você inala, garantindo que você não ultrapasse o limite de ângulo de 90 graus.",
+    "Repita para a quantidade recomendada de vezes."
+  ],
+  "category": "strength",
+  "images": [
+    "Leg_Extensions/0.jpg",
+    "Leg_Extensions/1.jpg"
+  ],
+  "id": "Leg_Extensions"
+}

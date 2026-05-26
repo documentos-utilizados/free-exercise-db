@@ -1,0 +1,27 @@
+{
+  "name": "Hiperextensões Sem Banco de Hiperextensão",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Com alguém segurando suas pernas, deslize-se para baixo até a borda de um banco plano até que seus quadris pendurem na extremidade do banco. Dica: Toda a sua parte superior do corpo deve estar pendurada em direção ao chão. Além disso, você estará na mesma posição como se estivesse em um banco de hiperextensão, mas a amplitude de movimento será menor devido à altura do banco plano vs. a do banco de hiperextensão.",
+    "Com o seu corpo em linha reta, cruze os braços à sua frente (minha preferência) ou atrás da sua cabeça. Esta será a sua posição inicial. Dica: Você também pode segurar uma placa de peso para resistência extra na frente de você sob seus braços cruzados.",
+    "Comece a se inclinar para a frente lentamente na cintura, tanto quanto você pode, mantendo as costas planas. Inspire enquanto você executa este movimento. Continue avançando até que você quase toque o chão ou sinta um bom alongamento nos isquiotibiais (o que vier primeiro). Dica: Nunca vire as costas enquanto realiza este exercício.",
+    "Lentamente, levante o tronco de volta para a posição inicial enquanto expira. Dica: Evite a tentação de arquear as costas após uma linha reta. Além disso, não balançar o tronco a qualquer momento, a fim de proteger as costas de lesões.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+    "Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+  ],
+  "id": "Hyperextensions_With_No_Hyperextension_Bench"
+}

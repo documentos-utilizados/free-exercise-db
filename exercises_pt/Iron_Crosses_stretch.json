@@ -1,0 +1,22 @@
+{
+  "name": "Cruzes de Ferro (stretch)",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de frente para o chão, com os braços estendidos para o seu lado, palmas pressionadas para o chão. Esta será a sua posição inicial.",
+    "Para começar, flexione um joelho e traga essa perna através da parte de trás do seu corpo, tentando tocá-lo no chão perto da mão oposta.",
+    "Retorne rapidamente a perna para a posição inicial e repita rapidamente com a outra perna. Continue alternando por 10-20 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Iron_Crosses_stretch/0.jpg",
+    "Iron_Crosses_stretch/1.jpg"
+  ],
+  "id": "Iron_Crosses_stretch"
+}

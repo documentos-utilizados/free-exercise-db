@@ -1,0 +1,28 @@
+{
+  "name": "Linha baixa da polia ao pescoço",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "trapézio"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina de linha de polia baixa com um acessório de corda.",
+    "Pegue as extremidades da corda usando um aperto palmas-down e sente-se com as costas retas e os joelhos ligeiramente dobrados. Dica: Mantenha as costas quase completamente vertical e seus braços totalmente estendidos na frente de você. Esta será a sua posição inicial.",
+    "Enquanto mantém o tronco parado, levante os cotovelos e comece a dobrá-los enquanto puxa a corda em direção ao pescoço enquanto expira. Durante todo o movimento, seus braços superiores devem permanecer paralelos ao chão. Dica: Continue esse movimento até que suas mãos estejam quase ao lado de suas orelhas (os antebraços não serão paralelos ao chão no final do movimento, pois serão inclinados um pouco para cima) e seus cotovelos estão fora de seus lados.",
+    "Depois de segurar por um segundo ou mais na posição contraída, volte lentamente para a posição inicial à medida que você inala. Dica: Novamente, durante nenhuma parte do movimento, o tronco deve se mover.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Low_Pulley_Row_To_Neck/0.jpg",
+    "Low_Pulley_Row_To_Neck/1.jpg"
+  ],
+  "id": "Low_Pulley_Row_To_Neck"
+}

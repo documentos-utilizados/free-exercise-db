@@ -1,0 +1,24 @@
+{
+  "name": "Cabo assentou o crunch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Assento em um banco plano com as costas viradas para uma polia alta.",
+    "Segure o acessório da corda do cabo com as duas mãos (com as palmas das mãos voltadas uma para a outra) e coloque as mãos firmemente sobre os dois ombros. Dica: Permita que o peso hiperestenda ligeiramente a parte inferior das costas. Esta será sua posição inicial.",
+    "Com os quadris estacionários, flexione a cintura para que os cotovelos viajem em direção aos quadris. Respire enquanto você executa este passo.",
+    "medida que você inala, volte para a posição inicial lentamente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Seated_Crunch/0.jpg",
+    "Cable_Seated_Crunch/1.jpg"
+  ],
+  "id": "Cable_Seated_Crunch"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Return Push da Stance",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "tríceps"
+  ],
+  "instructions": [
+    "Você vai precisar de um parceiro para este exercício.",
+    "Comece em uma postura atlética de 2 ou 3 pontos.",
+    "No sinal, mova-se para uma posição para receber o passe do seu parceiro.",
+    "Pegue a bola de remédio com as duas mãos e jogue-a imediatamente de volta para o seu parceiro.",
+    "Você pode modificar esta broca executando rotas diferentes."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Return_Push_from_Stance/0.jpg",
+    "Return_Push_from_Stance/1.jpg"
+  ],
+  "id": "Return_Push_from_Stance"
+}

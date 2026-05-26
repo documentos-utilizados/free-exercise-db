@@ -1,0 +1,23 @@
+{
+  "name": "Flat Bench Perna Deitada Levantar",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se com as costas planas em um banco e suas pernas estendidas na frente de você fora do final.",
+    "Coloque as mãos sob os glúteos com as palmas das mãos para baixo ou pelos lados segurando o banco. Esta será a sua posição inicial.",
+    "Enquanto você mantém as pernas estendidas, reto o máximo possível com os joelhos ligeiramente dobrados, mas trancados, levante as pernas até que elas façam um ângulo de 90 graus com o chão. Expire enquanto você executa essa parte do movimento e segure a contração no topo por um segundo.",
+    "Agora, à medida que você inala, abaixe lentamente as pernas de volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Flat_Bench_Lying_Leg_Raise/0.jpg",
+    "Flat_Bench_Lying_Leg_Raise/1.jpg"
+  ],
+  "id": "Flat_Bench_Lying_Leg_Raise"
+}

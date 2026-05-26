@@ -1,0 +1,28 @@
+{
+  "name": "Incline o push-up largo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique de frente para uma barra de máquinas Smith ou uma plataforma elevada e resistente a uma altura adequada.",
+    "Coloque as mãos na barra, com as mãos mais largas do que a largura do ombro.",
+    "Posicione os pés para trás da barra com os braços e o corpo em linha reta. Seus braços devem ser perpendiculares ao corpo. Esta será sua posição inicial.",
+    "Mantendo seu corpo reto, abaixe o peito para a barra, dobrando os braços.",
+    "Volte para a posição inicial, estendendo os cotovelos, pressionando-se de volta para cima."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Push-Up_Wide/0.jpg",
+    "Incline_Push-Up_Wide/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Wide"
+}

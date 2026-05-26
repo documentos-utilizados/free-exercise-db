@@ -1,0 +1,23 @@
+{
+  "name": "Cruzamento mentiroso",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com as pernas estendidas.",
+    "Cruze uma perna sobre seu corpo com o joelho dobrado, tentando tocar o joelho no chão. Seu parceiro deve se ajoelhar ao seu lado, segurando o ombro com uma mão e controlando a perna cruzada com a outra. esta será sua posição inicial.",
+    "Tente levantar o joelho dobrado do chão, pois seu parceiro evita qualquer movimento real.",
+    "Após 10-20 segundos, relaxe a perna enquanto seu parceiro pressiona suavemente o joelho em direção ao chão. Repita com o outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lying_Crossover/0.jpg",
+    "Lying_Crossover/1.jpg"
+  ],
+  "id": "Lying_Crossover"
+}

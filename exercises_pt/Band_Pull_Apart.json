@@ -1,0 +1,26 @@
+{
+  "name": "Banda Puxar Apart",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece com os braços estendidos na frente de você, segurando a banda com as duas mãos.",
+    "Inicie o movimento realizando um movimento de mosca reversa, movendo as mãos lateralmente para os lados.",
+    "Mantenha os cotovelos estendidos enquanto você realiza o movimento, trazendo a banda para o peito. Certifique-se de manter os ombros para trás durante o exercício.",
+    "Pausa enquanto você completa o movimento, retornando à posição inicial sob controle."
+  ],
+  "category": "strength",
+  "images": [
+    "Band_Pull_Apart/0.jpg",
+    "Band_Pull_Apart/1.jpg"
+  ],
+  "id": "Band_Pull_Apart"
+}

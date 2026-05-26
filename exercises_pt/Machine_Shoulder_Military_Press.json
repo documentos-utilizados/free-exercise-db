@@ -1,0 +1,26 @@
+{
+  "name": "Máquina Ombro (Military) Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se na Máquina de Prensa de Ombro e selecione o peso.",
+    "Agarre as alças para os lados enquanto mantém os cotovelos dobrados e alinhados com o tronco. Esta será a sua posição inicial.",
+    "Agora levante as alças enquanto expira e estende os braços completamente. No topo da posição, certifique-se de manter a contração por um segundo.",
+    "Abaixe as alças lentamente de volta à posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Machine_Shoulder_Military_Press/0.jpg",
+    "Machine_Shoulder_Military_Press/1.jpg"
+  ],
+  "id": "Machine_Shoulder_Military_Press"
+}

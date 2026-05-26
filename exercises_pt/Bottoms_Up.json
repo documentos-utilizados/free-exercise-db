@@ -1,0 +1,22 @@
+{
+  "name": "Bottoms para cima",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitado de costas no chão. Suas pernas devem estar retas e seus braços ao seu lado. Esta será sua posição inicial.",
+    "Para realizar o movimento, aperte os joelhos em direção ao peito, flexionando os quadris e joelhos. Depois disso, estenda as pernas diretamente acima de você para que elas sejam perpendiculares ao chão. Gire e eleve a pélvis para levantar os glúteos do chão.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Bottoms_Up/0.jpg",
+    "Bottoms_Up/1.jpg"
+  ],
+  "id": "Bottoms_Up"
+}

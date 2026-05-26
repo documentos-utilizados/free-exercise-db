@@ -1,0 +1,21 @@
+{
+  "name": "Pescoço-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Usando um rolo muscular ou um pino rolante, coloque o rolo atrás da cabeça e contra o pescoço. Certifique-se de que você não coloque o rolo diretamente contra a coluna, mas girou ligeiramente para que o rolo seja pressionado contra os músculos para ambos os lados da coluna. Esta será sua posição inicial.",
+    "Começando na parte superior do pescoço, enrole lentamente os músculos do pescoço, pausando em pontos de tensão por 10-30 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Neck-SMR/0.jpg",
+    "Neck-SMR/1.jpg"
+  ],
+  "id": "Neck-SMR"
+}

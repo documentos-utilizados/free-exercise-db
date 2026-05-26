@@ -1,0 +1,26 @@
+{
+  "name": "Adução do quadril do cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique na frente de uma polia baixa virada para a frente com uma perna ao lado da polia e a outra para longe.",
+    "Anexe o manguito do tornozelo ao cabo e também ao tornozelo da perna que está ao lado da polia.",
+    "Agora saia e afaste-se da pilha com uma posição ampla e agarre a barra do sistema de polia.",
+    "Fique no pé que não tem o manguito do tornozelo (o pé distante) e permita que a perna com o manguito seja puxada em direção à polia baixa. Esta será a sua posição inicial.",
+    "Agora realize o movimento movendo a perna com o punho do tornozelo na frente da perna distante usando as coxas internas para sequestrar o quadril. Respire durante esta parte do movimento.",
+    "Retorne lentamente à posição inicial enquanto você respira.",
+    "Repita para a quantidade recomendada de repetições e, em seguida, repita o mesmo movimento com a perna oposta."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Hip_Adduction/0.jpg",
+    "Cable_Hip_Adduction/1.jpg"
+  ],
+  "id": "Cable_Hip_Adduction"
+}

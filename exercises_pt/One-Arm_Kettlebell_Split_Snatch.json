@@ -1,0 +1,26 @@
+{
+  "name": "Um braço Kettlebell Split Snatch",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Segure um kettlebell em uma mão pelo punho.",
+    "Agache-se em direção ao chão e, em seguida, reverta o movimento, estendendo os quadris, joelhos e, finalmente, os tornozelos, para levantar o kettlebell acima.",
+    "Depois de estender totalmente o corpo, desça em uma posição de lunge para receber os pesos acima, uma perna para frente e uma perna para trás. Certifique-se de dirigir com os quadris e bloquear os ketttlebells acima em um movimento ininterrupto.",
+    "Volte para uma posição de pé, segurando o peso acima e junte os pés. Abaixe o peso para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Split_Snatch/0.jpg",
+    "One-Arm_Kettlebell_Split_Snatch/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Split_Snatch"
+}

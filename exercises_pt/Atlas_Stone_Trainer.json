@@ -1,0 +1,29 @@
+{
+  "name": "Atlas Stone Trainer",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Este treinador é eficaz para desenvolver a força da Pedra Atlas para aqueles que não têm acesso a pedras, e são tipicamente feitos de extremidades de barras ou tubos pesados.",
+    "Comece carregando o peso desejado na barra. Enrole o peso, envolvendo os braços ao redor do implemento, dobrando-se nos quadris.",
+    "Comece puxando o peso para cima após os joelhos, estendendo-se através dos quadris.  medida que o peso limpa os joelhos, ele pode ser amarrado descansando-o em suas coxas e sentado, abraçando-o firmemente ao seu peito.",
+    "Termine o movimento estendendo-se através de seus quadris e joelhos para aumentar o peso o mais alto possível. O peso pode ser devolvido ao colo ou ao chão para repetições sucessivas."
+  ],
+  "category": "strongman",
+  "images": [
+    "Atlas_Stone_Trainer/0.jpg",
+    "Atlas_Stone_Trainer/1.jpg"
+  ],
+  "id": "Atlas_Stone_Trainer"
+}

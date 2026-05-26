@@ -1,0 +1,27 @@
+{
+  "name": "Abrir Palm Kettlebell Limpar",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés. Limpe o kettlebell estendendo-se pelas pernas e quadris enquanto levanta o kettlebell em direção aos ombros.",
+    "Solte o kettlebell à medida que ele sobe, e deixe-o girar para que a bola do kettlebell caia nas palmas das suas mãos.",
+    "Solte o kettlebell na sua frente e pegue o cabo com as duas mãos. Abaixe o kettlebell para a posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Open_Palm_Kettlebell_Clean/0.jpg",
+    "Open_Palm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "Open_Palm_Kettlebell_Clean"
+}

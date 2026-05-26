@@ -1,0 +1,25 @@
+{
+  "name": "Toe Touchers",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se no chão ou um tapete de exercícios com as costas pressionadas contra o chão. Seus braços devem estar deitados em seus lados com as palmas das mãos voltadas para baixo.",
+    "Suas pernas devem estar se tocando. Lentamente eleve suas pernas para cima no ar até que estejam quase perpendiculares ao chão com uma ligeira curvatura nos joelhos. Seus pés devem ser paralelos ao chão.",
+    "Mova os braços para que eles sejam totalmente estendidos em um ângulo de 45 graus do chão. Esta é a posição inicial.",
+    "Enquanto mantém a parte inferior das costas pressionada contra o chão, levante lentamente o tronco e use as mãos para tentar tocar os dedos dos pés. Lembre-se de expirar enquanto realiza essa parte do exercício.",
+    "Lentamente, comece a abaixar o tronco e os braços de volta para a posição inicial enquanto inala. Lembre-se de manter os braços para fora apontando para os dedos dos pés.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Toe_Touchers/0.jpg",
+    "Toe_Touchers/1.jpg"
+  ],
+  "id": "Toe_Touchers"
+}

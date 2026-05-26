@@ -1,0 +1,23 @@
+{
+  "name": "Aumento da placa frontal",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto em pé, segure uma placa de barra em ambas as mãos nas posições de 3 e 9 horas. Suas palmas das mãos devem estar voltadas umas para as outras e seus braços devem ser estendidos e trancados com uma ligeira curvatura nos cotovelos e a placa deve estar perto de sua cintura na frente de você, tanto quanto você pode ir. Dica: Os braços permanecerão nesta posição durante todo o exercício. Esta será a sua posição inicial.",
+    "Levante lentamente a placa enquanto expira até que esteja um pouco acima do nível do ombro. Segure a contração por um segundo. Dica: certifique-se de não balançar o peso ou dobrar nos cotovelos. Seu tronco deve permanecer estacionário durante todo o movimento também.",
+    "medida que você inala, abaixe lentamente a placa de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Plate_Raise/0.jpg",
+    "Front_Plate_Raise/1.jpg"
+  ],
+  "id": "Front_Plate_Raise"
+}

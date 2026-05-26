@@ -1,0 +1,29 @@
+{
+  "name": "Double Perna Butt Kick",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece a ficar de pé com os joelhos ligeiramente dobrados.",
+    "Agache rapidamente uma curta distância, flexionando os quadris e joelhos, e imediatamente se estenda para saltar para a altura vertical máxima.",
+    "medida que você sobe, aperte os calcanhares flexionando os joelhos, tentando tocar as nádegas.",
+    "Termine o movimento aterrando com os joelhos apenas parcialmente dobrados, usando as pernas para absorver o impacto."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Double_Leg_Butt_Kick/0.jpg",
+    "Double_Leg_Butt_Kick/1.jpg"
+  ],
+  "id": "Double_Leg_Butt_Kick"
+}

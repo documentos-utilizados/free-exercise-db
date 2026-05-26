@@ -1,0 +1,26 @@
+{
+  "name": "Close-Grip EZ-Bar Curl com Banda",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Anexe uma banda a cada extremidade da barra. Pegue a barra, colocando um pé no meio da banda. Fique na posição vertical com uma aderência estreita e supinada na barra EZ. Os cotovelos devem estar perto do tronco. Esta será sua posição inicial.",
+    "Enquanto mantém os braços no lugar, flexione os cotovelos para executar o cacho. Expire à medida que o peso é levantado.",
+    "Continue o movimento até que seu bíceps esteja totalmente contraído e a barra esteja no nível do ombro. Mantenha a posição contraída por um segundo e esprema o bíceps com força.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Close-Grip_EZ-Bar_Curl_with_Band/0.jpg",
+    "Close-Grip_EZ-Bar_Curl_with_Band/1.jpg"
+  ],
+  "id": "Close-Grip_EZ-Bar_Curl_with_Band"
+}

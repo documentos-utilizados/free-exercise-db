@@ -1,0 +1,25 @@
+{
+  "name": "Curl de cabo de um braço em pé",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece agarrando a alça única ao lado da máquina de polia baixa. Certifique-se de que você está longe o suficiente da máquina para que seu braço esteja suportando o peso.",
+    "Certifique-se de que seu braço está parado, perpendicular ao chão com cotovelos e palmas voltadas para a frente. Seu braço sem levantamento deve estar agarrando sua cintura. Isso permitirá que você mantenha seu equilíbrio.",
+    "Lentamente comece a enrolar o único punho para cima, mantendo o braço parado até que seu antebraço toque seu bíceps enquanto expira. Dica: Apenas o antebraço deve se mover.",
+    "Mantenha a posição de contração enquanto você aperta o bíceps e, em seguida, abaixe a alça única de volta para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque os braços durante a realização deste exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_One-Arm_Cable_Curl/0.jpg",
+    "Standing_One-Arm_Cable_Curl/1.jpg"
+  ],
+  "id": "Standing_One-Arm_Cable_Curl"
+}

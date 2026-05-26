@@ -1,0 +1,24 @@
+{
+  "name": "Inclinação frontal Dumbbell Raise",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco inclinado com a inclinação definida em qualquer lugar entre 30 a 60 graus, segurando um haltere em cada mão. Dica: Você pode mudar o ângulo para bater o músculo um pouco diferente a cada vez.",
+    "Estenda os braços em linha reta na sua frente e tenha as palmas das mãos voltadas para baixo com os halteres levantados cerca de 1 polegada acima de suas coxas. Esta será a sua posição inicial.",
+    "Lentamente levante os halteres para cima até que eles estejam ligeiramente acima de seus ombros, mantendo seus cotovelos trancados. Esprema no topo por um segundo e certifique-se de respirar durante esta parte do movimento. Dica: Mantenha sua cabeça descansando contra o banco e suas pernas no chão em todos os momentos.",
+    "Abaixe os braços de volta para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Incline_Dumbbell_Raise/0.jpg",
+    "Front_Incline_Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Front_Incline_Dumbbell_Raise"
+}

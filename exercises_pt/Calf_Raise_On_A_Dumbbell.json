@@ -1,0 +1,24 @@
+{
+  "name": "Calf Raise Em Um Dumbbell",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure-se em um objeto resistente para o equilíbrio e ficar em uma alça haltere, de preferência um com placas redondas para que ele rola como desta forma você tem que trabalhar mais para estabilizar-se; aumentando assim a eficácia do exercício.",
+    "Agora role o pé ligeiramente para a frente para que você possa obter um bom trecho da panturrilha. Esta será a sua posição inicial.",
+    "Levante o bezerro como você rolar o pé sobre a parte superior da alça para que você obtenha uma extensão completa. Exale durante a execução deste movimento. Contrate o bezerro duro na parte superior e segure por um segundo. Dica:  medida que você subir, role o haltere ligeiramente para trás.",
+    "Agora inale como você rolar o haltere ligeiramente para a frente como você descer para obter um melhor estiramento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Calf_Raise_On_A_Dumbbell/0.jpg",
+    "Calf_Raise_On_A_Dumbbell/1.jpg"
+  ],
+  "id": "Calf_Raise_On_A_Dumbbell"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Zottman Preacher Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada mão e coloque os braços superiores em cima do banco do pregador ou do banco inclinado. Os halteres devem ser mantidos na altura do ombro e os cotovelos devem ser flexionados. Segure os halteres com as palmas das mãos voltadas para baixo. Esta será sua posição inicial.",
+    "medida que você respira, abaixe lentamente os halteres mantendo as palmas das mãos para baixo até que seu braço esteja estendido e seu bíceps esteja totalmente esticado.",
+    "Agora gire seus pulsos uma vez que você está na parte inferior do movimento para que as palmas das mãos estejam viradas para cima.",
+    "medida que você expira, use seu bíceps para enrolar os pesos até que eles estejam totalmente contraídos e os halteres estejam na altura do ombro. Mais uma vez, lembre-se de que, para garantir a contração total, você precisa trazer esse pequeno dedo mais alto do que o polegar.",
+    "Aperte o bíceps com força por um segundo na posição contraída e gire os pulsos para que as palmas das mãos fiquem voltadas para baixo novamente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Zottman_Preacher_Curl/0.jpg",
+    "Zottman_Preacher_Curl/1.jpg"
+  ],
+  "id": "Zottman_Preacher_Curl"
+}

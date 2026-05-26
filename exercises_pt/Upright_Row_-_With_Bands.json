@@ -1,0 +1,25 @@
+{
+  "name": "Upright Row - Com Bandas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, fique em uma faixa de exercício para que a tensão comece no comprimento do braço. Segure as alças usando um aperto pronado (palmas voltadas para as coxas) que é ligeiramente menor que a largura do ombro. As alças devem estar apoiadas em cima de suas coxas. Seus braços devem ser estendidos com uma ligeira curvatura nos cotovelos e suas costas devem ser retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar as alças enquanto expira. As alças devem estar perto do corpo à medida que você as move. Continue a levantar as alças até que elas quase toquem seu queixo. Dica: Seus cotovelos devem dirigir o movimento. Ao levantar as alças, seus cotovelos devem sempre ser mais altos do que seus antebraços. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe as alças para baixo lentamente para a posição inicial. Inale enquanto você executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Upright_Row_-_With_Bands/0.jpg",
+    "Upright_Row_-_With_Bands/1.jpg"
+  ],
+  "id": "Upright_Row_-_With_Bands"
+}

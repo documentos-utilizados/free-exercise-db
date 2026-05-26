@@ -1,0 +1,31 @@
+{
+  "name": "Escadas de energia",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Nas escadas de energia, os implementos são movidos para cima de uma escada. Para fins de treinamento, estes podem ser realizados com um pneu ou caixa.",
+    "Comece tomando o implemento com as duas mãos. Coloque os pés de largura, com a cabeça e o peito para cima. Dirija pelo chão com os calcanhares, estendendo os joelhos e quadris para aumentar o peso do chão.",
+    "Enquanto você se inclina para trás, tente balançar o peso para as escadas, que geralmente são em torno de 16-18\" de altura. Você pode usar suas pernas para ajudar a empurrar o peso para a escada.",
+    "Repita por 3-5 repetições e continue com um peso mais pesado, movendo-se o mais rápido possível."
+  ],
+  "category": "strongman",
+  "images": [
+    "Power_Stairs/0.jpg",
+    "Power_Stairs/1.jpg"
+  ],
+  "id": "Power_Stairs"
+}

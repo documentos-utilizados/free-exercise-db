@@ -1,0 +1,24 @@
+{
+  "name": "Kettlebell Arnold Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe um kettlebell no ombro. Limpe o kettlebell no ombro, estendendo-se pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. A palma da mão deve estar voltada para dentro.",
+    "Olhando para a frente, pressione o kettlebell para fora e para cima, girando o pulso para que a palma da mão fique voltada para a frente na parte superior do movimento.",
+    "Retorne o kettlebell para a posição inicial, com a palma virada para dentro."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Arnold_Press/0.jpg",
+    "Kettlebell_Arnold_Press/1.jpg"
+  ],
+  "id": "Kettlebell_Arnold_Press"
+}

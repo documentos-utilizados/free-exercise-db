@@ -1,0 +1,26 @@
+{
+  "name": "Moscas planas do cabo do banco",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione um banco plano entre duas polias baixas para que, quando você estiver deitado sobre ele, seu peito seja alinhado com as polias de cabo.",
+    "Deite-se no banco e mantenha os pés no chão.",
+    "Peça a alguém que lhe dê as alças em cada mão. Você pegará cada acessório de alça única com as palmas das mãos.",
+    "Estenda os braços ao seu lado com uma ligeira curvatura nos cotovelos. Dica: Você manterá essa curvatura constante durante todo o movimento. Seus braços devem ser paralelos ao chão. Esta é sua posição inicial.",
+    "Agora comece a levantar os braços em um movimento semi-círculo diretamente na frente de você, puxando os cabos juntos até que ambas as mãos se encontrem no topo do movimento. Aperte o peito enquanto executa esse movimento e expire durante esse movimento. Além disso, segure a contração por um segundo no topo. Dica: Quando executado corretamente, na posição superior deste movimento, seus braços devem ser perpendiculares ao seu tronco e o chão tocando acima do peito.",
+    "Lentamente, volte para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Flat_Bench_Cable_Flyes/0.jpg",
+    "Flat_Bench_Cable_Flyes/1.jpg"
+  ],
+  "id": "Flat_Bench_Cable_Flyes"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Levantamento dianteiro e pulôver",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano enquanto segura uma barra usando uma palmas para baixo aperto que é de cerca de 15 centímetros de distância.",
+    "Coloque a barra nas coxas superiores, estenda os braços e tranque-os, mantendo uma ligeira curvatura nos cotovelos. Esta será a sua posição inicial.",
+    "Agora levante o peso usando um movimento semicircular e mantenha os braços retos enquanto você inala. Continue o mesmo movimento até que a barra esteja do outro lado acima da cabeça . (Dica: a barra viajará aproximadamente 180 graus). Neste ponto, seus braços devem ser paralelos ao chão com as palmas das mãos voltadas para o teto.",
+    "Agora devolva a barra para a posição inicial, invertendo o movimento enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Raise_And_Pullover/0.jpg",
+    "Front_Raise_And_Pullover/1.jpg"
+  ],
+  "id": "Front_Raise_And_Pullover"
+}

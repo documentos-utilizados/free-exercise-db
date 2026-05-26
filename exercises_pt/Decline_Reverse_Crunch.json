@@ -1,0 +1,24 @@
+{
+  "name": "Declínio Reverso Crunch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas em um banco de declínio e segure-se no topo do banco com as duas mãos. Não deixe seu corpo escorregar para baixo a partir desta posição.",
+    "Segure as pernas paralelas ao chão usando o abdômen para mantê-las lá, mantendo os joelhos e os pés juntos. Dica: Suas pernas devem ser totalmente estendidas com uma ligeira curvatura no joelho. Esta será sua posição inicial.",
+    "Ao expirar, mova as pernas em direção ao tronco enquanto você rola a pélvis para trás e levanta os quadris do banco. No final deste movimento, seus joelhos tocarão seu peito.",
+    "Segure a contração por um segundo e mova as pernas de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Reverse_Crunch/0.jpg",
+    "Decline_Reverse_Crunch/1.jpg"
+  ],
+  "id": "Decline_Reverse_Crunch"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Kettlebell Thruster",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells para os ombros. Limpe os kettlebells para os ombros, estendendo-se pelas pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire seus pulsos enquanto faz isso. Esta será sua posição inicial.",
+    "Comece a agachar flexionando os quadris e os joelhos, baixando os quadris entre as pernas. Mantenha uma parte traseira reta e vertical enquanto desce o mais baixo possível.",
+    "Na parte inferior, inverter a direção e agachamento, estendendo os joelhos e quadris, dirigindo através de seus calcanhares. Ao fazê-lo, pressione ambos os kettlebells acima, estendendo os braços para cima, usando o impulso do agachamento para ajudar a dirigir os pesos para cima.",
+    "Quando você começar a próxima repetição, devolva os pesos para os ombros."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Thruster/0.jpg",
+    "Kettlebell_Thruster/1.jpg"
+  ],
+  "id": "Kettlebell_Thruster"
+}

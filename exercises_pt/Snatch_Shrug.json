@@ -1,0 +1,24 @@
+{
+  "name": "Snatch Shrug",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece com uma grande aderência, com a barra pendurada na posição do meio da coxa. Você pode usar um gancho ou aperto de mão. Suas costas devem ser retas e inclinadas ligeiramente para a frente.",
+    "Enrole os ombros em direção aos ouvidos. Enquanto este exercício geralmente pode ser carregado com peso mais pesado do que um arrebatamento, evite sobrecarregar a ponto de a execução desacelerar."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Snatch_Shrug/0.jpg",
+    "Snatch_Shrug/1.jpg"
+  ],
+  "id": "Snatch_Shrug"
+}

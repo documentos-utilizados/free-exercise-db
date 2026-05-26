@@ -1,0 +1,26 @@
+{
+  "name": "Máquina de Smith por trás do encolher de costas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Com a barra no nível da coxa, carregue um peso apropriado.",
+    "Fique com a barra atrás de você, tendo um ombro-largura, pronated aperto na barra e desenganhou o peso. Você deve estar em pé em linha reta com a cabeça e o peito para cima e seus braços estendidos. Esta será a sua posição inicial.",
+    "Inicie o movimento encolhendo os ombros para cima. Não flexione os braços ou o pulso durante o movimento.",
+    "Depois de uma breve pausa, retorne o peso para a posição inicial.",
+    "Repita para o número desejado de repetições antes de envolver os ganchos para acumular o peso."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Behind_the_Back_Shrug/0.jpg",
+    "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
+  ],
+  "id": "Smith_Machine_Behind_the_Back_Shrug"
+}

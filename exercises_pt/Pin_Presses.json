@@ -1,0 +1,31 @@
+{
+  "name": "Pin Presses",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Pin presses remover a fase excêntrica do supino, desenvolvendo a força de partida. Eles também permitem que você treine uma gama desejada de movimento.",
+    "O banco deve ser configurado em uma cremalheira de energia. Defina os pinos para o ponto desejado em sua faixa de movimento, seja apenas bloqueio ou uma polegada fora do seu peito. A barra deve ser movida para os pinos e preparada para levantar.",
+    "Comece deitando-se no banco, com a barra diretamente acima do ponto de contato durante o seu banco regular. Coloque os pés debaixo de você e arqueie as costas. Use a barra para ajudar a suportar seu peso, levante o ombro do banco e retraia-os, apertando as omoplatas juntas. Use seus pés para conduzir suas armadilhas no banco. Mantenha essa posição firme do corpo durante todo o movimento.",
+    "Você pode ter um aperto de banco padrão, ou largura do ombro para se concentrar no tríceps. A barra, o pulso e o cotovelo devem permanecer na linha o tempo todo. Concentre-se em apertar a barra e tentar separá-la.",
+    "Conduza a barra com o máximo de força possível. Os cotovelos devem ser colocados até o bloqueio.",
+    "Retorne a barra para os pinos, pausando antes de iniciar a próxima repetição."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Pin_Presses/0.jpg",
+    "Pin_Presses/1.jpg"
+  ],
+  "id": "Pin_Presses"
+}

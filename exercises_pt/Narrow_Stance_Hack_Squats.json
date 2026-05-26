@@ -1,0 +1,30 @@
+{
+  "name": "Narrow Stance Hack Squats",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Coloque a parte de trás do seu tronco contra a parte de trás da máquina e prenda os ombros sob as ombreiras fornecidas.",
+    "Posicione as pernas na plataforma usando uma posição estreita com menos de largura do ombro com os dedos dos pés ligeiramente apontados. Seus pés devem estar em torno de 3 polegadas ou menos separados. Dica: Mantenha a cabeça erguida o tempo todo e também mantenha as costas na almofada em todos os momentos.",
+    "Coloque os braços nas alças laterais da máquina e desconecte as barras de segurança (o que na maioria dos projetos é feito movendo as alças laterais de uma posição frontal para uma posição diagonal).",
+    "Agora endireitar as pernas sem bloquear os joelhos. Esta será a sua posição inicial.",
+    "Comece a abaixar lentamente a unidade, dobrando os joelhos como você manter uma postura reta com a cabeça para cima (de volta para a almofada em todos os momentos). Continue para baixo até que o ângulo entre a perna superior e os bezerros torna-se ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo paralelo ao chão). Inspire como você executar esta parte do movimento.",
+    "Comece a elevar a unidade à medida que expire, empurrando o chão principalmente com os calcanhares dos pés à medida que endireita as pernas novamente e volte para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Narrow_Stance_Hack_Squats/0.jpg",
+    "Narrow_Stance_Hack_Squats/1.jpg"
+  ],
+  "id": "Narrow_Stance_Hack_Squats"
+}

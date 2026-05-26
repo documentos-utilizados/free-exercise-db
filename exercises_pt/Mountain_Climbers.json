@@ -1,0 +1,25 @@
+{
+  "name": "Alpinistas de montanha",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece em uma posição de flexão, com seu peso apoiado por suas mãos e dedos dos pés. Flexionando o joelho e o quadril, traga uma perna até que o joelho esteja aproximadamente sob o quadril. Esta será sua posição inicial.",
+    "Inverta explosivamente as posições das pernas, estendendo a perna dobrada até que a perna esteja reta e apoiada pelo dedo do pé, e trazendo o outro pé para cima com o quadril e o joelho flexionados. Repita de forma alternada por 20-30 segundos."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Mountain_Climbers/0.jpg",
+    "Mountain_Climbers/1.jpg"
+  ],
+  "id": "Mountain_Climbers"
+}

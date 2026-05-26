@@ -1,0 +1,26 @@
+{
+  "name": "Barbell Ab Rollout - Em joelhos",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure uma barra olímpica carregada com 5-10 libras de cada lado e ajoelhe-se no chão.",
+    "Agora coloque a barra no chão à sua frente para que você esteja em todas as suas mãos e joelhos (como em uma posição de flexão de joelhos). Esta será a sua posição inicial.",
+    "Role lentamente a barra para a frente, esticando seu corpo em uma posição reta. Dica: Desça o mais longe que puder sem tocar o chão com seu corpo. Respire durante esta parte do movimento.",
+    "Depois de uma segunda pausa na posição esticada, comece a puxar-se de volta para a posição inicial à medida que expira. Dica: Vá devagar e mantenha o abdômen apertado o tempo todo."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+    "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
+  ],
+  "id": "Barbell_Ab_Rollout_-_On_Knees"
+}

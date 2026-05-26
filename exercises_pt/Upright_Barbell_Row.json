@@ -1,0 +1,25 @@
+{
+  "name": "Linha Barbell Upright",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Segure uma barra com um aperto de mão que é um pouco menor do que a largura do ombro. A barra deve estar descansando no topo de suas coxas com os braços estendidos e uma ligeira curvatura em seus cotovelos. Suas costas também devem ser retas. Esta será a sua posição inicial.",
+    "Agora expire e use os lados de seus ombros para levantar a barra, levantando os cotovelos para cima e para o lado. Mantenha a barra perto de seu corpo enquanto você a levanta. Continue a levantar a barra até que ela quase toque seu queixo. Dica: Seus cotovelos devem dirigir o movimento e devem sempre ser mais altos do que seus antebraços. Lembre-se de manter seu tronco estacionário e pausar por um segundo no topo do movimento.",
+    "Abaixe a barra para baixo lentamente para a posição inicial. Inspire enquanto você executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Upright_Barbell_Row/0.jpg",
+    "Upright_Barbell_Row/1.jpg"
+  ],
+  "id": "Upright_Barbell_Row"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Dumbbell Raise",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada braço e levante-se em linha reta com os braços estendidos por seus lados com uma ligeira curva nos cotovelos e nas costas em linha reta. Esta será sua posição inicial. Dica: O haltere deve estar ao lado de suas coxas com a palma de suas mãos voltadas para trás.",
+    "Use os ombros laterais para levantar os halteres enquanto expira. Os halteres devem estar ao lado do corpo enquanto você os move. Continue a levantá-lo até que os halteres estejam quase alinhados com o queixo. Dica: seus cotovelos devem dirigir o movimento. Ao levantar o haltere, seu cotovelo deve sempre ser mais alto do que seu antebraço. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe os halteres para baixo lentamente para a posição inicial. Inspire enquanto executa esta parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Raise/0.jpg",
+    "Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Raise"
+}

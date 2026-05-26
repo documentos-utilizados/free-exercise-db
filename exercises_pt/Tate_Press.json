@@ -1,0 +1,27 @@
+{
+  "name": "Tate Press",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em cada mão em cima de suas coxas. As palmas da sua mão estarão viradas uma para a outra.",
+    "Ao usar suas coxas para ajudá-lo a levantar os halteres, limpe os halteres um braço de cada vez para que você possa segurá-los na sua frente na largura do ombro. Nota: ao segurar os halteres na sua frente, certifique-se de que seus braços estejam mais largos do que a largura do ombro um do outro usando um aperto pronado (palmas para frente). Permita que seus cotovelos apontem. Esta é sua posição inicial.",
+    "Mantendo os braços superiores estacionários, mova lentamente os halteres para dentro e para baixo em um movimento semi circular até que eles toquem o peito superior enquanto inalam. Mantenha o controle total dos halteres em todos os momentos e não mova os braços superiores nem descanse os halteres no peito.",
+    "medida que você expira, mova os halteres para cima usando seu tríceps e o mesmo movimento semi-circular, mas ao contrário. Tente manter os halteres juntos enquanto eles se movem para cima. Feche os braços na posição contraída, segure por um segundo e comece a descer novamente lentamente. Dica: Deve demorar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "strength",
+  "images": [
+    "Tate_Press/0.jpg",
+    "Tate_Press/1.jpg"
+  ],
+  "id": "Tate_Press"
+}

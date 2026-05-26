@@ -1,0 +1,29 @@
+{
+  "name": "Plie Dumbbell Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Segure um haltere na base com as duas mãos e fique em linha reta para cima. Mova as pernas para que elas sejam mais largas do que a largura do ombro, afastando-se umas das outras com os joelhos ligeiramente dobrados.",
+    "Seus dedos dos pés devem estar voltados para fora. Nota: Seus braços devem estar estacionários durante a realização do exercício. Esta é a posição inicial.",
+    "Dobre lentamente os joelhos e abaixe as pernas até que suas coxas estejam paralelas ao chão. Certifique-se de inalar, pois essa é a parte excêntrica do exercício.",
+    "Pressione principalmente com o calcanhar do pé para trazer o corpo de volta à posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Plie_Dumbbell_Squat/0.jpg",
+    "Plie_Dumbbell_Squat/1.jpg"
+  ],
+  "id": "Plie_Dumbbell_Squat"
+}

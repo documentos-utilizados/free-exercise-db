@@ -1,0 +1,29 @@
+{
+  "name": "Zottman Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical e um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco.",
+    "Certifique-se de que as palmas das mãos estão voltadas umas para as outras. Esta será a sua posição inicial.",
+    "Enquanto segura o braço parado, enrole os pesos enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Seu pulso deve girar para que você tenha uma aderência supinada (palmas para cima). Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro.",
+    "Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Agora, durante a posição contraída, gire o pulso até que você tenha agora uma preensão pronada (palmas voltadas para baixo) com o polegar em uma posição mais alta do que o mindinho.",
+    "Lentamente começar a trazer os halteres de volta para baixo usando o aperto pronated.",
+    "medida que os halteres fecham suas coxas, comece a girar o pulso para que você volte a um aperto neutro (palmas voltadas para o seu corpo).",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Zottman_Curl/0.jpg",
+    "Zottman_Curl/1.jpg"
+  ],
+  "id": "Zottman_Curl"
+}

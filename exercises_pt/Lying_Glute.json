@@ -1,0 +1,25 @@
+{
+  "name": "Glute mentiroso",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdutores"
+  ],
+  "instructions": [
+    "Deite-se de costas com seu parceiro ajoelhado ao seu lado.",
+    "Flexione o quadril de uma perna, levantando-o do chão. Gire a perna para que o pé esteja sobre o quadril oposto, a perna inferior perpendicular ao seu corpo. Seu parceiro deve manter o joelho e o tornozelo no lugar. Esta será sua posição inicial.",
+    "Tente empurrar a perna em direção ao seu parceiro, que deve estar impedindo qualquer movimento real da perna.",
+    "Após 10-20 segundos, relaxe completamente enquanto seu parceiro empurra suavemente o tornozelo e o joelho em direção ao peito. Certifique-se de informar seu ajudante quando o alongamento for adequado para evitar lesões ou alongamento excessivo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lying_Glute/0.jpg",
+    "Lying_Glute/1.jpg"
+  ],
+  "id": "Lying_Glute"
+}

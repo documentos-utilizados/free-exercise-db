@@ -1,0 +1,29 @@
+{
+  "name": "Banda Reversa Power Squat",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece em uma cremalheira de energia com os pinos e a barra ajustada na altura apropriada. Depois de carregar a barra, prenda as bandas à parte superior da cremalheira, usando pinos ou a própria armação. Anexe a outra extremidade das bandas à barra.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para frente, tentando dobrar a barra pelos ombros. Remova a barra do rack, criando um arco apertado na parte inferior das costas e volte para a posição. Coloque os pés de largura para mais ênfase nas costas, glúteos, adutores e isquiotibiais.",
+    "Mantenha a cabeça voltada para a frente. Com as costas, os ombros e o núcleo apertados, empurre os joelhos e a bunda para fora e você começa sua descida. Sente-se com os quadris o máximo possível. Idealmente, suas canelas devem ser perpendiculares ao chão. A posição da barra inferior requer uma maior inclinação do tronco para manter a barra nos calcanhares. Continue até que você quebre o paralelo, que é definido como o vinco do quadril em linha com o topo do joelho.",
+    "Manter o peso em seus calcanhares e empurrar os pés e joelhos para fora, dirigir para cima como você liderar o movimento com a cabeça. Continue para cima, mantendo a tensão cabeça aos pés, até que você tenha retornado à posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Reverse_Band_Power_Squat/0.jpg",
+    "Reverse_Band_Power_Squat/1.jpg"
+  ],
+  "id": "Reverse_Band_Power_Squat"
+}

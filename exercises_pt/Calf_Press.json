@@ -1,0 +1,23 @@
+{
+  "name": "Calf Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o assento para que suas pernas estejam apenas ligeiramente dobradas na posição inicial. As bolas dos pés devem estar firmemente na plataforma.",
+    "Selecione um peso apropriado e agarre as alças. Esta será a sua posição inicial.",
+    "Endireitar as pernas, estendendo os joelhos, apenas mal levantando o peso da pilha. Seu tornozelo deve ser totalmente flexionado, os dedos dos pés apontando para cima. Execute o movimento pressionando para baixo através das bolas de seus pés, tanto quanto possível.",
+    "Após uma breve pausa, reverta o movimento e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Calf_Press/0.jpg",
+    "Calf_Press/1.jpg"
+  ],
+  "id": "Calf_Press"
+}

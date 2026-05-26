@@ -1,0 +1,28 @@
+{
+  "name": "Puxar limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com uma barra no chão perto das canelas, tomar um aperto overhand ou gancho apenas fora das pernas. Abaixe os quadris com o peso focado nos calcanhares, costas retas, cabeça virada para a frente, peito para cima, com os ombros apenas na frente da barra. Esta será a sua posição inicial.",
+    "Comece a primeira atração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos e cotovelos para fora. Mova o peso com controle enquanto você continua acima dos joelhos.",
+    "Em seguida vem a segunda tração, a principal fonte de aceleração para o limpo.  medida que a barra se aproxima da posição média da altura, comece a se estender pelos quadris. Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente através dos braços para acelerar o peso; no final da segunda tração, o corpo deve ser totalmente estendido, inclinando-se ligeiramente mais para trás."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Clean_Pull/0.jpg",
+    "Clean_Pull/1.jpg"
+  ],
+  "id": "Clean_Pull"
+}

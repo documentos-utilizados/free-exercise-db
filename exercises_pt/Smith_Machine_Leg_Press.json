@@ -1,0 +1,26 @@
+{
+  "name": "imprensa perna máquina Smith",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Posicione uma barra de máquina Smith a alguns pés do chão. Certifique-se de que ela esteja descansando nos cofres. Depois de carregar a barra com um peso apropriado, deite-se debaixo da barra. Coloque o meio de seus pés na barra, puxando os joelhos para o peito. Esta será sua posição inicial.",
+    "Comece o movimento dirigindo pelos pés para mover a barra para cima, estendendo os quadris e joelhos. Não feche os joelhos.",
+    "No topo do movimento, faça uma breve pausa antes de retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Leg_Press/0.jpg",
+    "Smith_Machine_Leg_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Leg_Press"
+}

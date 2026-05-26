@@ -1,0 +1,26 @@
+{
+  "name": "Alavancagem Shrug",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Carregue os pinos com um peso adequado. Posicione-se diretamente entre as alças.",
+    "Segure as alças superiores com uma aderência confortável e, em seguida, abaixe os quadris enquanto respira. Olhe para a frente com a cabeça e mantenha o peito para cima.",
+    "Dirija pelo chão com os calcanhares, estendendo seus quadris e joelhos à medida que você se levanta para uma posição de pé. Mantenha os braços retos durante todo o movimento, terminando com os ombros para trás. Esta será sua posição inicial.",
+    "Levante o peso encolhendo os ombros em direção às orelhas, movendo-se para cima e para baixo.",
+    "Pausa na parte superior do movimento e, em seguida, retornar o peso para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Leverage_Shrug/0.jpg",
+    "Leverage_Shrug/1.jpg"
+  ],
+  "id": "Leverage_Shrug"
+}

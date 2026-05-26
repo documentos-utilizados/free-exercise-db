@@ -1,0 +1,25 @@
+{
+  "name": "Escapular Pull-Up",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Tome um aperto pronated em um bar pull-up.",
+    "De uma posição suspensa, levante-se alguns centímetros sem usar os braços. Faça isso deprimendo a cintura do ombro em um movimento de encolher reverso.",
+    "Pausar na conclusão do movimento e, em seguida, retornar lentamente para a posição inicial antes de realizar mais repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Scapular_Pull-Up/0.jpg",
+    "Scapular_Pull-Up/1.jpg"
+  ],
+  "id": "Scapular_Pull-Up"
+}

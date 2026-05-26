@@ -1,0 +1,28 @@
+{
+  "name": "Extensão de tríceps de um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, levante-se com um haltere mantido em uma mão. Seus pés devem estar sobre a largura do ombro para além um do outro. Agora estenda totalmente o braço com o haltere sobre a cabeça. Dica: O dedo pequeno da sua mão deve estar de frente para o teto e a palma da sua mão deve estar voltada para a frente. O haltere deve estar acima da sua cabeça.",
+    "Esta será a sua posição inicial.",
+    "Mantendo o braço superior perto da cabeça (cotovelo) e perpendicular ao chão, diminua a resistência em um movimento semicircular atrás da cabeça até que o antebraço toque seu bíceps. Dica: O braço superior deve permanecer estacionário e apenas o antebraço deve se mover. Respire enquanto você executa este passo.",
+    "Volte para a posição inicial usando o tríceps para levantar o haltere. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque os braços e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_One-Arm_Dumbbell_Triceps_Extension"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Alternando em pé Dumbbell Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique com um haltere em cada mão. Levante os halteres para os ombros com as palmas das mãos voltadas para a frente e os cotovelos apontados. Esta será a sua posição inicial.",
+    "Estenda um braço para pressionar o haltere para cima, mantendo sua mão no lugar. Não incline ou empurre o peso durante o movimento.",
+    "Após uma breve pausa, retorne o peso para a posição inicial.",
+    "Repita para o lado oposto, continuando a alternar entre os braços."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Alternating_Dumbbell_Press/0.jpg",
+    "Standing_Alternating_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Standing_Alternating_Dumbbell_Press"
+}

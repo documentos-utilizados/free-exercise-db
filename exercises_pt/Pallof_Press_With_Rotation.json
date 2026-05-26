@@ -1,0 +1,32 @@
+{
+  "name": "Pallof Press com rotação",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre e posicione o cabo à altura do ombro.",
+    "Com o seu lado para o cabo, pegue a alça com uma mão e afaste-se da torre. Você deve estar aproximadamente o comprimento do braço longe da polia, com a tensão do peso no cabo. Alinhe o braço estendido com o cabo.",
+    "Com os pés posicionados na largura do quadril separados, puxe o cabo em seu peito e pegue a alça com a outra mão. Ambas as mãos devem estar na alça neste momento.",
+    "De frente para a frente, pressione o cabo para longe de seu peito. Seu núcleo deve estar apertado e envolvido.",
+    "Mantendo os quadris retos, torça o tronco para longe da polia até obter uma rotação de um quarto.",
+    "Mantenha sua postura rígida e braços retos. Volte para a posição neutra de maneira lenta e controlada. Seus braços devem ser estendidos na frente de você.",
+    "Com a tensão lateral ainda envolvendo seu núcleo, traga suas mãos para o peito e pressione imediatamente para fora para uma posição totalmente estendida. Isso constitui um representante.",
+    "Repita para o fracasso.",
+    "Em seguida, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Pallof_Press_With_Rotation/0.jpg",
+    "Pallof_Press_With_Rotation/1.jpg"
+  ],
+  "id": "Pallof_Press_With_Rotation"
+}

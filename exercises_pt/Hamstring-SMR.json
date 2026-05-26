@@ -1,0 +1,22 @@
+{
+  "name": "Hamstring-SMR",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Em uma posição sentada, estenda as pernas sobre um rolo de espuma para que esteja na parte de trás das pernas superiores. Coloque as mãos para o lado ou atrás de você para ajudar a suportar seu peso. Esta será sua posição inicial.",
+    "Usando as mãos, levante os quadris do chão e mude seu peso no rolo de espuma para uma perna. Relaxe os isquiotibiais da perna que você está esticando.",
+    "Role a espuma de baixo do quadril para acima da parte de trás do joelho, pausando em pontos de tensão por 10-30 segundos. Repita para a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Hamstring-SMR/0.jpg",
+    "Hamstring-SMR/1.jpg"
+  ],
+  "id": "Hamstring-SMR"
+}

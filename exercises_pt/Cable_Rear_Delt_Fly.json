@@ -1,0 +1,23 @@
+{
+  "name": "Cabo traseiro Delt Fly",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste as polias à altura apropriada e ajuste o peso. As polias devem estar acima da sua cabeça.",
+    "Pegue a polia esquerda com a mão direita e a polia direita com a mão esquerda, cruzando-as na sua frente. Esta será a sua posição inicial.",
+    "Inicie o movimento movendo os braços para trás e para fora, mantendo os braços retos enquanto executa o movimento.",
+    "Pausar no final do movimento antes de retornar as alças para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Rear_Delt_Fly/0.jpg",
+    "Cable_Rear_Delt_Fly/1.jpg"
+  ],
+  "id": "Cable_Rear_Delt_Fly"
+}

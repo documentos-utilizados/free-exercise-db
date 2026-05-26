@@ -1,0 +1,25 @@
+{
+  "name": "Trunchas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés no chão, ou descansando em um banco com os joelhos dobrados em um ângulo de 90 graus. Se você estiver descansando os pés em um banco, coloque-os de três a quatro centímetros de distância e aponte os dedos para dentro para que eles toquem.",
+    "Agora coloque as mãos levemente em ambos os lados da cabeça mantendo os cotovelos. Dica: Não tranque os dedos atrás da cabeça.",
+    "Ao empurrar o pequeno de suas costas para baixo no chão para melhor isolar seus músculos abdominais, comece a rolar os ombros do chão.",
+    "Continue a empurrar para baixo o máximo que puder com a parte inferior das costas enquanto contrai seus abdominais e expira. Seus ombros devem subir do chão apenas cerca de quatro polegadas, e sua parte inferior das costas deve permanecer no chão. No topo do movimento, contraia seus abdominais com força e mantenha a contração por um segundo. Dica: Concentre-se em movimento lento e controlado - não se engane usando o impulso.",
+    "Após a contração de um segundo, comece a descer lentamente novamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Crunches/0.jpg",
+    "Crunches/1.jpg"
+  ],
+  "id": "Crunches"
+}

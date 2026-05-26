@@ -1,0 +1,24 @@
+{
+  "name": "Extensão do tríceps da sobrecarga da corda do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe uma corda à polia inferior da máquina de polia.",
+    "Agarrando a corda com as duas mãos, estenda os braços com as mãos diretamente acima da cabeça usando um aperto neutro (palmas voltadas uma para a outra). Seus cotovelos devem estar perto da cabeça e os braços devem ser perpendiculares ao chão com os dedos apontados para o teto. Esta será a sua posição inicial.",
+    "Abaixe lentamente a corda atrás da cabeça enquanto segura os braços parados. Inspire enquanto realiza esse movimento e faça uma pausa quando o tríceps estiver totalmente esticado.",
+    "Volte para a posição inicial flexionando o tríceps enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+    "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+  ],
+  "id": "Cable_Rope_Overhead_Triceps_Extension"
+}

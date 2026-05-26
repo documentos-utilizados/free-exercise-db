@@ -1,0 +1,26 @@
+{
+  "name": "Inclinação alternativa Dumbbell Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Sente-se em um banco inclinado com um haltere em cada mão sendo realizada no comprimento dos braços. Dica: Mantenha os cotovelos perto do tronco.Esta será a sua posição inicial.",
+    "Enquanto segura o braço parado, enrole o peso direito para a frente enquanto contrai o bíceps enquanto expira. Ao fazê-lo, gire a mão para que a palma da mão esteja virada para cima. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o bíceps. Dica: Apenas os antebraços devem se mover.",
+    "Lentamente, comece a trazer o haltere de volta à posição inicial enquanto respira.",
+    "Repita o movimento com a mão esquerda. Isso equivale a uma repetição.",
+    "Continue alternando desta forma para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternate_Incline_Dumbbell_Curl/0.jpg",
+    "Alternate_Incline_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Alternate_Incline_Dumbbell_Curl"
+}

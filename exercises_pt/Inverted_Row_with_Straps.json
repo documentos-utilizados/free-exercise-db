@@ -1,0 +1,26 @@
+{
+  "name": "Correia invertida com alças",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Pendure uma corda ou tiras de suspensão de um rack ou outro objeto estável. Segure as extremidades e posicione-se em uma posição supina pendurada nas cordas. Seu corpo deve ser reto com os calcanhares no chão com os braços totalmente estendidos. Esta será sua posição inicial.",
+    "Comece flexionando o cotovelo, puxando o peito para as mãos. Retraia as omoplatas enquanto realiza o movimento.",
+    "Pausa no topo do movimento, e voltar-se para a posição inicial.",
+    "Repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Inverted_Row_with_Straps/0.jpg",
+    "Inverted_Row_with_Straps/1.jpg"
+  ],
+  "id": "Inverted_Row_with_Straps"
+}

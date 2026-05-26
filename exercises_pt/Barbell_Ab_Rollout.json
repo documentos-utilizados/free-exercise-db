@@ -1,0 +1,26 @@
+{
+  "name": "Barbell Ab Rollout",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará entrar em uma posição de flexão, mas em vez de ter suas mãos no chão, você estará se agarrando a uma barra olímpica (carregada com 5-10 libras de cada lado). Esta será sua posição inicial.",
+    "Enquanto mantém um ligeiro arco nas costas, levante os quadris e role a barra em direção aos pés enquanto expira. Dica: Ao realizar o movimento, seus glúteos devem estar subindo, você deve manter o abdômen apertado e deve manter sua postura nas costas em todos os momentos. Também seus braços devem ficar perpendiculares ao chão durante todo o movimento. Se você não fizer isso, você vai trabalhar seus ombros e costas mais do que o abdômen.",
+    "Depois de uma segunda contração no topo, comece a rolar a barra de volta para a posição inicial lentamente à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Ab_Rollout/0.jpg",
+    "Barbell_Ab_Rollout/1.jpg"
+  ],
+  "id": "Barbell_Ab_Rollout"
+}

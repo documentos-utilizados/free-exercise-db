@@ -1,0 +1,25 @@
+{
+  "name": "Salto Foguete",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece em uma postura relaxada com a largura do ombro dos pés separados e segure os braços perto do corpo.",
+    "Para iniciar o movimento, agache-se no meio do caminho e exploda de volta o mais alto possível.",
+    "Estenda totalmente todo o seu corpo, atingindo a sobrecarga, tanto quanto possível.  medida que você aterrissa, absorva seu impacto através das pernas."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Rocket_Jump/0.jpg",
+    "Rocket_Jump/1.jpg"
+  ],
+  "id": "Rocket_Jump"
+}

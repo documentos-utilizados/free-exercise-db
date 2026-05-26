@@ -1,0 +1,27 @@
+{
+  "name": "Close-Grip EZ-Bar Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com uma barra EZ carregada com um peso adequado.",
+    "Usando um aperto estreito, levante a barra e segure-a diretamente sobre o tronco com os cotovelos. Os braços devem ser perpendiculares ao chão. Esta será sua posição inicial.",
+    "Agora abaixe a barra até o peito inferior enquanto respira. Mantenha os cotovelos dentro enquanto realiza esse movimento.",
+    "Usando o tríceps para empurrar a barra de volta para cima, pressione-o de volta para a posição inicial, estendendo os cotovelos à medida que você expira.",
+    "Repito."
+  ],
+  "category": "strength",
+  "images": [
+    "Close-Grip_EZ-Bar_Press/0.jpg",
+    "Close-Grip_EZ-Bar_Press/1.jpg"
+  ],
+  "id": "Close-Grip_EZ-Bar_Press"
+}

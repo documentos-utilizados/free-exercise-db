@@ -1,0 +1,26 @@
+{
+  "name": "Prensa do banco dumbbell com aperto neutro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada mão e deite-se de volta em um banco plano. Seus pés devem estar planos no chão e suas omoplatas retraídas.",
+    "Mantendo uma aderência neutra, palmas voltadas umas para as outras, comece com os braços estendidos diretamente acima de você, perpendicular ao chão. Esta será sua posição inicial.",
+    "Comece o movimento flexionando o cotovelo, baixando os braços para o lado. Desça até que os halteres estejam no seu tronco.",
+    "Pausa, em seguida, estenda o cotovelo e volte para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
+    "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
+  ],
+  "id": "Dumbbell_Bench_Press_with_Neutral_Grip"
+}

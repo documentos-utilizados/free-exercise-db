@@ -1,0 +1,25 @@
+{
+  "name": "Cross Body Hammer Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Levante-se em linha reta com um haltere em cada mão. Suas mãos devem estar ao seu lado com as palmas das mãos voltadas para dentro.",
+    "Enquanto mantém as palmas das mãos voltadas para dentro e sem torcer o braço, enrole o haltere do braço direito para cima em direção ao ombro esquerdo enquanto expira. Toque no topo do haltere para o ombro e segure a contração por um segundo.",
+    "Abaixe lentamente o haltere ao longo do mesmo caminho que você inala e repita o mesmo movimento para o braço esquerdo.",
+    "Continue alternando desta forma até que a quantidade recomendada de repetições seja realizada para cada braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Cross_Body_Hammer_Curl/0.jpg",
+    "Cross_Body_Hammer_Curl/1.jpg"
+  ],
+  "id": "Cross_Body_Hammer_Curl"
+}

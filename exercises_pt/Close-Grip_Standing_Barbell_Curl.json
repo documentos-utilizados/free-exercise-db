@@ -1,0 +1,26 @@
+{
+  "name": "Close-Grip Standing Barbell Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Segure uma barra com as duas mãos, palmas para cima e alguns centímetros de distância.",
+    "Fique de pé com o tronco reto e a cabeça erguida. Seus pés devem estar sobre a largura do ombro e seus cotovelos próximos ao seu tronco. Esta será sua posição inicial. Dica: Você manterá seus braços e cotovelos superiores estacionários durante todo o movimento.",
+    "Curl a barra em um movimento semicircular até que os antebraços toquem seu bíceps. Exale enquanto você executa esta parte do movimento e contraia seu bíceps com força por um segundo no topo. Dica: Evite dobrar as costas ou usar movimentos oscilantes enquanto você levanta o peso. Apenas os antebraços devem se mover.",
+    "Lentamente, volte para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Close-Grip_Standing_Barbell_Curl/0.jpg",
+    "Close-Grip_Standing_Barbell_Curl/1.jpg"
+  ],
+  "id": "Close-Grip_Standing_Barbell_Curl"
+}

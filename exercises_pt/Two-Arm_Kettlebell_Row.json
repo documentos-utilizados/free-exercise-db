@@ -1,0 +1,24 @@
+{
+  "name": "Linha Kettlebell de dois braços",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells na frente de seus pés. Dobre os joelhos ligeiramente e, em seguida, empurre o seu bumbum para fora, tanto quanto possível, como você se curva para entrar na posição inicial.",
+    "Pegue os dois kettlebells e puxe-os para o estômago, retraindo as omoplatas e flexionando os cotovelos. Mantenha as costas retas. Abaixe e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Two-Arm_Kettlebell_Row/0.jpg",
+    "Two-Arm_Kettlebell_Row/1.jpg"
+  ],
+  "id": "Two-Arm_Kettlebell_Row"
+}

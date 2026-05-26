@@ -1,0 +1,28 @@
+{
+  "name": "Deadlifts cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Mova os cabos para o fundo das torres e selecione um peso apropriado. Fique diretamente entre os eretos.",
+    "Para começar, agache-se flexionando seus quadris e joelhos até que você possa alcançar as alças.",
+    "Depois de agarrá-los, comece a sua subida. Dirigindo através de seus calcanhares estender os quadris e joelhos mantendo as mãos penduradas ao seu lado. Mantenha sua cabeça e peito para cima durante todo o movimento.",
+    "Depois de atingir uma posição de pé completa, retorne à posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Deadlifts/0.jpg",
+    "Cable_Deadlifts/1.jpg"
+  ],
+  "id": "Cable_Deadlifts"
+}

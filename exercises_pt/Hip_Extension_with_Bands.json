@@ -1,0 +1,25 @@
+{
+  "name": "Extensão de quadril com bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Prenda uma extremidade da banda à parte inferior de um poste e prenda a outra a um tornozelo.",
+    "De frente para o ponto de fixação da banda, segure a coluna para estabilizar-se.",
+    "Mantendo a cabeça e o peito para cima, mova a perna resistida para trás o máximo que puder, mantendo o joelho reto.",
+    "Retorne a perna para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Hip_Extension_with_Bands/0.jpg",
+    "Hip_Extension_with_Bands/1.jpg"
+  ],
+  "id": "Hip_Extension_with_Bands"
+}

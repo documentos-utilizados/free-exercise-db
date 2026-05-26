@@ -1,0 +1,22 @@
+{
+  "name": "Extensão de alça de corrente",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Você precisará de dois acessórios de cabo e um banco plano, bem como correntes, para este exercício. Clipe o meio das correntes para as alças e posicione-se no banco plano. Seus cotovelos devem estar apontando para cima.",
+    "Comece estendendo-se através do cotovelo, mantendo o braço parado, com os pulsos pronados.",
+    "Pausar no bloqueio e reverter o movimento para retornar à posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Chain_Handle_Extension/0.jpg",
+    "Chain_Handle_Extension/1.jpg"
+  ],
+  "id": "Chain_Handle_Extension"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Supinação de mentira dumbbell",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado em um banco plano com um braço segurando um haltere e a outra mão em cima do banco dobrado para que você possa descansar a cabeça nele.",
+    "Dobre os cotovelos do braço segurando o haltere para que ele crie um ângulo de 90 graus entre a parte superior do braço e o antebraço.",
+    "Agora levante a parte superior do braço para que o antebraço esteja paralelo ao chão e perpendicular ao seu tronco (Dica: Então o antebraço estará diretamente na sua frente). A parte superior do braço ficará estacionária pelo seu tronco e deve estar paralela ao chão (alinhada com o seu tronco em todos os momentos). Esta será a sua posição inicial.",
+    "medida que você expira, gire externamente o antebraço para que o haltere seja levantado em um movimento de semicírculo, mantendo a curva angular de 90 graus entre os braços superiores e o antebraço. Você continuará essa rotação externa até que o antebraço esteja perpendicular ao chão e o tronco apontando para o teto. Neste ponto, você manterá a contração por um segundo.",
+    "medida que você respira, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições e, em seguida, mude para o outro braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Lying_Supination/0.jpg",
+    "Dumbbell_Lying_Supination/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_Supination"
+}

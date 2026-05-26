@@ -1,0 +1,24 @@
+{
+  "name": "Kettlebell Figura 8",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre as pernas e tome uma posição mais larga do que a largura do ombro. Dobre-se empurrando a bunda para fora e mantendo as costas planas.",
+    "Pegue um kettlebell e passe-o para sua outra mão entre as pernas. A mão receptora deve alcançar por trás das pernas. Vá para frente e para trás para várias repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Figure_8/0.jpg",
+    "Kettlebell_Figure_8/1.jpg"
+  ],
+  "id": "Kettlebell_Figure_8"
+}

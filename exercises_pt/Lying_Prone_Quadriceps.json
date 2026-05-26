@@ -1,0 +1,23 @@
+{
+  "name": "Quadríceps Prono Deitado",
+  "force": null,
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite o rosto no chão com seu parceiro ajoelhado ao seu lado. Flexione um joelho e levante essa perna do chão, tentando tocar seus glúteos com o pé. Seu parceiro deve segurar o joelho e o tornozelo. Esta será sua posição inicial.",
+    "Tente estender o joelho enquanto seu parceiro impede qualquer movimento real.",
+    "Depois de 10-20 segundos, relaxe os músculos enquanto seu parceiro empurra suavemente o pé em direção aos glúteos, esticando ainda mais o quadríceps e os flexores do quadril.",
+    "Após 10-20 segundos, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lying_Prone_Quadriceps/0.jpg",
+    "Lying_Prone_Quadriceps/1.jpg"
+  ],
+  "id": "Lying_Prone_Quadriceps"
+}

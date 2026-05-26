@@ -1,0 +1,24 @@
+{
+  "name": "Deltóide dianteiro assentado",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão com as pernas dobradas, seu parceiro atrás de você. Coloque os braços diretamente para os lados, com as palmas das mãos voltadas para o chão. Tente movê-las o mais longe possível, pois seu assistente segura seus pulsos. Esta será sua posição inicial.",
+    "Mantendo os cotovelos retos, tente mover os braços para a frente, com seu parceiro gentilmente restringindo-o para evitar qualquer movimento real por 10-20 segundos.",
+    "Agora, relaxe os músculos e permita que seu parceiro aumente suavemente o alongamento nos ombros e no peito. Segure por 10 a 20 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Seated_Front_Deltoid/0.jpg",
+    "Seated_Front_Deltoid/1.jpg"
+  ],
+  "id": "Seated_Front_Deltoid"
+}

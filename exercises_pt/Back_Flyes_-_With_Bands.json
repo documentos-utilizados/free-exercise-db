@@ -1,0 +1,28 @@
+{
+  "name": "Back Flyes - Com Bandas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)",
+    "tríceps"
+  ],
+  "instructions": [
+    "Execute uma banda em torno de um poste estacionário como o de um rack de agachamento.",
+    "Pegue a banda pelas alças e fique para trás para que a tensão na banda suba.",
+    "Estenda e levante os braços diretamente na sua frente. Dica: Seus braços devem estar retos e paralelos ao chão enquanto perpendiculares ao seu tronco. Seus pés devem estar firmemente plantados no chão, espalhados na largura do ombro. Esta será sua posição inicial.",
+    "Ao expirar, mova os braços para os lados e para trás. Mantenha os braços estendidos e paralelos ao chão. Continue o movimento até que os braços sejam estendidos para os lados.",
+    "Depois de uma pausa, volte para a posição original enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Back_Flyes_-_With_Bands/0.jpg",
+    "Back_Flyes_-_With_Bands/1.jpg"
+  ],
+  "id": "Back_Flyes_-_With_Bands"
+}

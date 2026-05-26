@@ -1,0 +1,24 @@
+{
+  "name": "Deitado Supina Dumbbell Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano de frente para cima enquanto segura um haltere em cada braço em cima de suas coxas.",
+    "Traga os halteres para os lados com os braços estendidos e as palmas das mãos voltadas para as coxas (aperto neutro).",
+    "Enquanto mantém os braços perto do seu tronco e cotovelos, abaixe lentamente os braços (como você mantê-los estendidos com uma ligeira curvatura nos cotovelos) tão longe para baixo em direção ao chão como você pode ir. Uma vez que você não pode ir para baixo mais, tranque os braços superiores nessa posição e que será a sua posição inicial.",
+    "Ao expirar, comece lentamente a enrolar os pesos enquanto gira simultaneamente os pulsos para que as palmas das mãos fiquem viradas para cima. Continue enrolando o peso até que seu bíceps esteja totalmente contraído e esprema com força na posição superior por um segundo. Dica: Apenas os antebraços devem se mover. Os braços superiores devem permanecer estacionários e os cotovelos devem permanecer durante todo o movimento.",
+    "Volte para a posição inicial muito lentamente."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Supine_Dumbbell_Curl/0.jpg",
+    "Lying_Supine_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Lying_Supine_Dumbbell_Curl"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Prensa de bancada de banda reversa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Posicione um banco dentro de uma cremalheira de energia, com a barra definida para a altura correta. Comece ancorando as bandas ou para pegs de banda ou para o topo da cremalheira. Certifique-se de que você estará posicionado corretamente sob as bandas. Anexe a outra extremidade à barra.",
+    "Deite-se no banco, aperte os pés debaixo de você e arqueie as costas. Usando a barra para ajudar a suportar seu peso, levante o ombro do banco e retraia-os, apertando as omoplatas juntas. Use os pés para conduzir suas armadilhas no banco. Mantenha essa posição apertada do corpo durante todo o movimento. Por mais larga que sua aderência, ela deve cobrir o anel na barra.",
+    "Puxe a barra para fora do rack sem puxar os ombros. Concentre-se em apertar a barra e tentar separá-la. Abaixe a barra no peito inferior ou no estômago superior. A barra, o pulso e o cotovelo devem permanecer na linha o tempo todo.",
+    "Pausa quando a barra toca seu tronco e, em seguida, conduza a barra para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Reverse_Band_Bench_Press/0.jpg",
+    "Reverse_Band_Bench_Press/1.jpg"
+  ],
+  "id": "Reverse_Band_Bench_Press"
+}

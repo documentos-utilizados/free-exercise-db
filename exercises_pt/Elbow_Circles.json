@@ -1,0 +1,24 @@
+{
+  "name": "Círculos Cotovelo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Sente-se ou fique de pé com os pés ligeiramente separados.",
+    "Coloque as mãos nos ombros com os cotovelos ao nível do ombro e apontando para fora.",
+    "Faça lentamente um círculo com os cotovelos. Respire enquanto inicia o círculo e respire enquanto completa o círculo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Elbow_Circles/0.jpg",
+    "Elbow_Circles/1.jpg"
+  ],
+  "id": "Elbow_Circles"
+}

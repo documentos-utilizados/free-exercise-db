@@ -1,0 +1,30 @@
+{
+  "name": "Box Squat com Bandas",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece em um rack de energia com uma caixa na altura apropriada atrás de você. Configure as bandas nas mangas, fixadas a qualquer pinos de banda, o rack ou halteres para que haja tensão apropriada. Se halteres forem usados, prenda-os para que eles não se movam. Além disso, certifique-se de que os halteres desejados sejam pesados o suficiente para as bandas que você está usando. Placas adicionais podem ser usadas para manter os halteres no chão.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra pelos ombros. Remova a barra do rack, criando um arco apertado na parte inferior das costas e volte para a posição. Coloque os pés mais largos para mais ênfase nas costas, glúteos, adutores e isquiotibiais, ou mais próximos para mais desenvolvimento de quadrilátero. Mantenha a cabeça voltada para a frente.",
+    "Com as costas, os ombros e o núcleo apertados, empurre os joelhos e a bunda para fora e você começa sua descida. Sente-se com os quadris até que você esteja sentado na caixa. Idealmente, suas canelas devem ser perpendiculares ao chão. Pause quando chegar à caixa e relaxe os flexores do quadril. Nunca salte de uma caixa.",
+    "Mantendo o peso em seus calcanhares e empurrando seus pés e joelhos para fora, dirigir para cima fora da caixa como você liderar o movimento com a cabeça. Continue para cima, mantendo aperto cabeça aos pés. Use o cuidado para retornar a barra para o rack."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Box_Squat_with_Bands/0.jpg",
+    "Box_Squat_with_Bands/1.jpg"
+  ],
+  "id": "Box_Squat_with_Bands"
+}

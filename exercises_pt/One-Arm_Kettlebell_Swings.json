@@ -1,0 +1,23 @@
+{
+  "name": "Um braço Kettlebell Swings",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Swings/0.jpg",
+    "One-Arm_Kettlebell_Swings/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Swings"
+}

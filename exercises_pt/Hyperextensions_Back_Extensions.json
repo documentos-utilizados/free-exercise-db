@@ -1,0 +1,28 @@
+{
+  "name": "Hiperextensões (Extensões posteriores)",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Deite-se de frente para baixo em um banco de hiperextensão, puxando os tornozelos com segurança sob as patas.",
+    "Ajuste a almofada superior, se possível, para que suas coxas superiores fiquem planas em toda a almofada larga, deixando espaço suficiente para você dobrar na cintura sem qualquer restrição.",
+    "Com o seu corpo em linha reta, cruze os braços à sua frente (minha preferência) ou atrás da sua cabeça. Esta será a sua posição inicial. Dica: Você também pode segurar uma placa de peso para resistência extra na frente de você sob seus braços cruzados.",
+    "Comece a dobrar lentamente na cintura, tanto quanto você pode, mantendo as costas planas. Inspire enquanto você executa este movimento. Continue avançando até sentir um bom alongamento nos isquiotibiais e você não pode mais continuar sem um arredondamento das costas. Dica: Nunca arredondar as costas enquanto você realiza este exercício. Além disso, algumas pessoas podem ir mais longe do que outras. O importante é que você vá tão longe quanto seu corpo permite que você vá sem arredondar as costas.",
+    "Lentamente, levante o tronco de volta para a posição inicial à medida que você inala. Dica: Evite a tentação de arquear as costas além de uma linha reta. Além disso, não balançar o tronco a qualquer momento, a fim de proteger as costas de lesões.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Hyperextensions_Back_Extensions/0.jpg",
+    "Hyperextensions_Back_Extensions/1.jpg"
+  ],
+  "id": "Hyperextensions_Back_Extensions"
+}

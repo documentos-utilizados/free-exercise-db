@@ -1,0 +1,22 @@
+{
+  "name": "Standing Elevated Quad Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece por ficar de pé com as costas a cerca de dois a três metros de distância de um banco ou degrau.",
+    "Levante uma perna atrás de você e descanse o pé no degrau, seja no pé ou na bola do pé, o que achar mais confortável.",
+    "Mantenha o joelho de suporte ligeiramente dobrado e evite deixar que o joelho se estenda além dos dedos dos pés."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Elevated_Quad_Stretch/0.jpg",
+    "Standing_Elevated_Quad_Stretch/1.jpg"
+  ],
+  "id": "Standing_Elevated_Quad_Stretch"
+}

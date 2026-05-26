@@ -1,0 +1,24 @@
+{
+  "name": "Crunch corda",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajoelhe-se 1-2 pés na frente de um sistema de cabo com uma corda presa.",
+    "Depois de selecionar um peso adequado, agarre a corda com as duas mãos atingindo a sobrecarga. Seu tronco deve estar na posição vertical na posição inicial.",
+    "Para começar, flexione na coluna, tentando trazer sua caixa torácica para as pernas enquanto puxa o cabo para baixo.",
+    "Pausa na parte inferior do movimento e, em seguida, volta lentamente para a posição inicial.",
+    "Estes podem ser feitos com torções ou para o lado para bater os oblíquos."
+  ],
+  "category": "strength",
+  "images": [
+    "Rope_Crunch/0.jpg",
+    "Rope_Crunch/1.jpg"
+  ],
+  "id": "Rope_Crunch"
+}

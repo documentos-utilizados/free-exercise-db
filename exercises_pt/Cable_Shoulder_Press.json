@@ -1,0 +1,25 @@
+{
+  "name": "Imprensa do ombro do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Mova os cabos para o fundo das torres e selecione um peso apropriado.",
+    "Fique diretamente entre os eretos. Agarre os cabos e segure-os na altura do ombro, palmas voltadas para a frente. Esta será sua posição inicial.",
+    "Mantendo a cabeça e o peito para cima, estenda-se através do cotovelo para pressionar as alças diretamente sobre a cabeça.",
+    "Depois de pausar no topo, retorne à posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Shoulder_Press/0.jpg",
+    "Cable_Shoulder_Press/1.jpg"
+  ],
+  "id": "Cable_Shoulder_Press"
+}

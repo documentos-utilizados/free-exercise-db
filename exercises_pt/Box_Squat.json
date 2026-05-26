@@ -1,0 +1,29 @@
+{
+  "name": "Caixa Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "O agachamento da caixa permite que você agache à profundidade desejada e desenvolva força explosiva no movimento do agachamento. Comece em um rack de energia com uma caixa na altura apropriada atrás de você. Normalmente, você apontaria para uma altura da caixa que o leva a um agachamento paralelo, mas você pode treinar mais alto ou mais baixo, se desejado.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra pelos ombros. Remova a barra do rack, criando um arco apertado na parte inferior das costas e volte para a posição. Coloque os pés mais largos para mais ênfase nas costas, glúteos, adutores e isquiotibiais, ou mais próximos para mais desenvolvimento de quadrilátero. Mantenha a cabeça voltada para a frente.",
+    "Com as costas, os ombros e o núcleo apertados, empurre os joelhos e a bunda para fora e você começa sua descida. Sente-se com os quadris até que você esteja sentado na caixa. Idealmente, suas canelas devem ser perpendiculares ao chão. Pause quando chegar à caixa e relaxe os flexores do quadril. Nunca salte de uma caixa.",
+    "Manter o peso em seus calcanhares e empurrar os pés e joelhos para fora, dirigir para cima fora da caixa como você liderar o movimento com a cabeça. Continue para cima, mantendo a tensão cabeça aos pés."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Box_Squat/0.jpg",
+    "Box_Squat/1.jpg"
+  ],
+  "id": "Box_Squat"
+}

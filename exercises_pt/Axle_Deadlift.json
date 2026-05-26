@@ -1,0 +1,30 @@
+{
+  "name": "Axle Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "costas (meio)",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Aproxime-se da barra de modo que ela esteja centrada sobre seus pés. Seus pés devem estar separados pela largura do quadril. Dobre-se no quadril para segurar a barra na largura do ombro, permitindo que suas omoplatas se protraiam. Normalmente, você usaria uma alça sobre/sob.",
+    "Com os pés e o aperto ajustados, respire fundo e, em seguida, abaixe os quadris e flexione os joelhos até que as canelas entrem em contato com a barra. Olhe para a frente com a cabeça, mantenha o peito para cima e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima.",
+    "Depois que a barra passa os joelhos, puxe agressivamente a barra para trás, puxando as omoplatas juntas enquanto você dirige seus quadris para a frente na barra.",
+    "Abaixe a barra dobrando-se nos quadris e guiando-a até o chão."
+  ],
+  "category": "strongman",
+  "images": [
+    "Axle_Deadlift/0.jpg",
+    "Axle_Deadlift/1.jpg"
+  ],
+  "id": "Axle_Deadlift"
+}

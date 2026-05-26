@@ -1,0 +1,27 @@
+{
+  "name": "Sentada Dumbbell Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue um par de halteres e sentar-se em um banco de imprensa militar ou um banco de utilitários que tem um apoio de volta sobre ele como você colocar os halteres na vertical em cima de suas coxas.",
+    "Limpe os halteres um de cada vez, usando suas coxas para trazer os halteres até a altura do ombro em cada lado.",
+    "Gire os pulsos para que as palmas das suas mãos estejam voltadas para a frente. Esta é a sua posição inicial.",
+    "Ao expirar, empurre os halteres até que eles toquem no topo.",
+    "Depois de uma segunda pausa, desça lentamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Dumbbell_Press/0.jpg",
+    "Seated_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Seated_Dumbbell_Press"
+}

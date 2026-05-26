@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell Assento Box Jump",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Posicione uma caixa a alguns pés ao lado de um banco. Segure um haltere no peito com as duas mãos e sente-se no banco de frente para a caixa. Esta será sua posição inicial.",
+    "Plante os pés firmemente no chão enquanto se inclina para a frente, estendendo-se através dos quadris e joelhos para saltar para cima e para frente.",
+    "Aterre na caixa com os dois pés, absorvendo o impacto, permitindo que os quadris e joelhos se dobrem.",
+    "Desça e volte para a posição inicial."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Dumbbell_Seated_Box_Jump/0.jpg",
+    "Dumbbell_Seated_Box_Jump/1.jpg"
+  ],
+  "id": "Dumbbell_Seated_Box_Jump"
+}

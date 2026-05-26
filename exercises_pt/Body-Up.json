@@ -1,0 +1,26 @@
+{
+  "name": "Body-Up",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "antebraços"
+  ],
+  "instructions": [
+    "Assuma uma posição de prancha no chão. Você deve estar apoiando seu peso corporal nos dedos dos pés e antebraços, mantendo seu tronco reto. Seus antebraços devem estar separados pela largura do ombro. Esta será sua posição inicial.",
+    "Pressionando as palmas das mãos firmemente no chão, estenda-se através dos cotovelos para levantar seu corpo do chão. Mantenha seu tronco rígido enquanto realiza o movimento.",
+    "Abaixe lentamente os antebraços de volta ao chão, permitindo que os cotovelos se flexionem.",
+    "Repito."
+  ],
+  "category": "strength",
+  "images": [
+    "Body-Up/0.jpg",
+    "Body-Up/1.jpg"
+  ],
+  "id": "Body-Up"
+}

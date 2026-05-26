@@ -1,0 +1,24 @@
+{
+  "name": "Extenso alcance One-Arm Kettlebell Floor Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão e posicione um kettlebell para um braço pressionar. O kettlebell deve ser segurado pela alça. A perna do mesmo lado que você está pressionando deve ser dobrada, com o joelho cruzando sobre a linha média do corpo.",
+    "Pressione o kettlebell estendendo o cotovelo e aduzindo o braço, pressionando-o acima do seu corpo. Volte para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Extended_Range_One-Arm_Kettlebell_Floor_Press/0.jpg",
+    "Extended_Range_One-Arm_Kettlebell_Floor_Press/1.jpg"
+  ],
+  "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lunge traseiro elevado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Posicione uma barra em um rack na altura do ombro carregada com um peso apropriado. Coloque uma plataforma curta e elevada atrás de você.",
+    "Prenda a barra na parte superior das costas, mantendo as costas arqueadas e apertadas. Entre na plataforma levantada com os dois pés. Esta será sua posição inicial.",
+    "Comece dando um passo para trás com uma perna. Desça flexionando os quadris e joelhos até que o joelho toque o chão.",
+    "Pausa, e estender através dos quadris e joelhos para se levantar, retornando todo o caminho para a posição inicial antes de alternar."
+  ],
+  "category": "strength",
+  "images": [
+    "Elevated_Back_Lunge/0.jpg",
+    "Elevated_Back_Lunge/1.jpg"
+  ],
+  "id": "Elevated_Back_Lunge"
+}

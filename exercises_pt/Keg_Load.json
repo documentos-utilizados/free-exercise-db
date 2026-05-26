@@ -1,0 +1,34 @@
+{
+  "name": "Carga de Keg",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "costas (meio)",
+    "quadríceps",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Para carregar barris, coloque o número desejado a uma distância da plataforma de carregamento, normalmente 30-50 pés.",
+    "Comece agarrando a alça próxima do primeiro barril, inclinando-o para o lado para agarrar a borda oposta da parte inferior do barril. Levante o barril até o peito.",
+    "Quanto mais alto você pode colocar o barril, mais rápido você deve ser capaz de se mover para a plataforma. Shouldering geralmente não é permitido. Certifique-se de manter um firme segurar o barril. Mova-se o mais rápido possível para a plataforma e carregue-o, estendendo-se através de seus quadris, joelhos e tornozelos para obtê-lo o mais alto possível.",
+    "Volte para a posição inicial para recuperar o próximo barril e repita até que o evento seja concluído."
+  ],
+  "category": "strongman",
+  "images": [
+    "Keg_Load/0.jpg",
+    "Keg_Load/1.jpg"
+  ],
+  "id": "Keg_Load"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Limpar dos blocos",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com uma barra em caixas ou estandes da altura desejada, pegue um aperto overhand ou gancho apenas fora das pernas. Abaixe seus quadris com o peso focado nos calcanhares, costas retas, cabeça virada para a frente, peito para cima, com os ombros apenas na frente da barra. Esta será a sua posição inicial.",
+    "Comece a primeira atração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos com os cotovelos apontados.",
+    "medida que a extensão total é alcançada, a transição para a posição de recepção, encolhendo e flexionando agressivamente os braços com os cotovelos para cima e para fora. Agressivamente, puxe-se para baixo, girando os cotovelos sob a barra enquanto você faz isso. Receba a barra em uma posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira tração. A barra deve ser montada nos ombros prolongados, tocando levemente a garganta com as mãos relaxadas.",
+    "Recupere-se imediatamente dirigindo através dos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até que você tenha subido a uma posição de pé. Devolva o peso para as caixas para o próximo representante."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Clean_from_Blocks/0.jpg",
+    "Clean_from_Blocks/1.jpg"
+  ],
+  "id": "Clean_from_Blocks"
+}

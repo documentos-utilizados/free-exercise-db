@@ -1,0 +1,31 @@
+{
+  "name": "Lado a lado Chins",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue a barra pull-up com as palmas voltadas para a frente usando uma grande aderência.",
+    "Como você tem ambos os braços estendidos na frente de você segurando a barra em uma grande aderência, traga seu tronco de volta em torno de 30 graus ou mais, criando uma curvatura em sua parte inferior das costas e colocando o peito para fora. Esta é a sua posição inicial.",
+    "Puxe o tronco para cima enquanto se inclina para o lado esquerdo até que a barra quase toque o peito superior, puxando os ombros e os braços para baixo e para trás. Expire enquanto você executa essa parte do movimento. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição contratada completa. O tronco superior deve permanecer estacionário à medida que se move pelo espaço (sem balanço) e apenas os braços devem se mover. Os antebraços devem fazer outra barra.",
+    "Depois de um segundo de contração, inale enquanto você volta para a posição inicial.",
+    "Agora, puxe o tronco para cima enquanto se inclina para o lado direito até que a barra quase toque o peito superior, puxando os ombros e os braços para baixo e para trás. Expire enquanto você executa essa parte do movimento. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição contratada completa. O tronco superior deve permanecer estacionário à medida que se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho.",
+    "Depois de um segundo de contração, inale enquanto você volta para a posição inicial.",
+    "Repita os passos 3-6 até que você tenha realizado a quantidade prescrita de repetições para cada lado."
+  ],
+  "category": "strength",
+  "images": [
+    "Side_To_Side_Chins/0.jpg",
+    "Side_To_Side_Chins/1.jpg"
+  ],
+  "id": "Side_To_Side_Chins"
+}

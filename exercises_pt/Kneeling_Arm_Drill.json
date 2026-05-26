@@ -1,0 +1,25 @@
+{
+  "name": "Broca de braço ajoelhado",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais"
+  ],
+  "instructions": [
+    "Esta broca ajuda a aumentar a eficiência do braço durante a corrida. Comece a ajoelhar-se, pé esquerdo na frente, joelho direito para baixo. Aplique pressão através do calcanhar dianteiro para manter seus glúteos e isquiotibiais ativados.",
+    "Comece bloqueando os braços em balanços longos e pêndulos. Feche o ângulo do braço, bloqueando com os braços como você faria ao correr, progredindo para uma corrida e, finalmente, um sprint.",
+    "Assim que suas mãos passarem pelo quadril, acelere-as para frente durante o movimento de corrida para movê-las o mais rápido possível.",
+    "Troque os joelhos e repita."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Kneeling_Arm_Drill/0.jpg",
+    "Kneeling_Arm_Drill/1.jpg"
+  ],
+  "id": "Kneeling_Arm_Drill"
+}

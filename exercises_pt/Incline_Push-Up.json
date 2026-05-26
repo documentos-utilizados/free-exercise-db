@@ -1,0 +1,25 @@
+{
+  "name": "Incline Push-Up",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique de frente para o banco ou plataforma elevada resistente. Coloque as mãos na borda do banco ou plataforma, um pouco mais larga do que a largura do ombro.",
+    "Posicione o antepé para trás do banco ou plataforma com braços e corpo retos. Os braços devem ser perpendiculares ao corpo. Mantendo o corpo reto, peito inferior à borda da caixa ou plataforma, dobrando os braços.",
+    "Empurre o corpo para cima até que os braços sejam estendidos. Repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Push-Up/0.jpg",
+    "Incline_Push-Up/1.jpg"
+  ],
+  "id": "Incline_Push-Up"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Declínio Barbell Bench Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Prenda as pernas no final do banco declinante e deite-se lentamente no banco.",
+    "Usando uma aderência de largura média (uma aderência que cria um ângulo de 90 graus no meio do movimento entre os antebraços e os braços superiores), levante a barra do rack e segure-a diretamente sobre você com os braços fechados. Os braços devem ser perpendiculares ao chão. Esta será sua posição inicial. Dica: Para proteger seu manguito rotador, é melhor se você tiver um observador ajudá-lo a levantar a barra do rack.",
+    "medida que você respira, desça lentamente até sentir a barra no peito inferior.",
+    "Depois de uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Tranque os braços e esprema o peito na posição contraída, segure por um segundo e comece a descer lentamente novamente. Dica: Deve demorar pelo menos duas vezes mais tempo para descer do que para subir).",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Barbell_Bench_Press/0.jpg",
+    "Decline_Barbell_Bench_Press/1.jpg"
+  ],
+  "id": "Decline_Barbell_Bench_Press"
+}

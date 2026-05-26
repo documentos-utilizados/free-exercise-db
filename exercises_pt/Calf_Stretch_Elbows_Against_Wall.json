@@ -1,0 +1,22 @@
+{
+  "name": "Calf esticar cotovelos contra a parede",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de frente para uma parede a alguns metros de distância.",
+    "Incline-se contra a parede, colocando seu peso em seus antebraços.",
+    "Tente manter os calcanhares no chão. Segure por 10-20 segundos. Você pode se mover mais ou mais perto da parede, tornando-a mais ou menos difícil, respectivamente."
+  ],
+  "category": "stretching",
+  "images": [
+    "Calf_Stretch_Elbows_Against_Wall/0.jpg",
+    "Calf_Stretch_Elbows_Against_Wall/1.jpg"
+  ],
+  "id": "Calf_Stretch_Elbows_Against_Wall"
+}

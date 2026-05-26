@@ -1,0 +1,25 @@
+{
+  "name": "Declínio Oblique Crunch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda as pernas no final do banco declinante e deite-se lentamente no banco.",
+    "Levante a parte superior do corpo do banco até que seu tronco esteja entre 35 e 45 graus, se medido a partir do chão.",
+    "Coloque uma mão ao lado da cabeça e a outra na coxa. Esta será a sua posição inicial.",
+    "Levante a parte superior do corpo lentamente a partir da posição inicial enquanto vira o tronco para a esquerda. Continue a triturar enquanto expira até que o cotovelo direito toque o joelho esquerdo. Mantenha esta posição contraída por um segundo. Dica: Concentre-se em manter o abdômen apertado e manter o movimento lento e controlado.",
+    "Abaixe seu corpo para baixo lentamente para a posição inicial enquanto você inala.",
+    "Depois de completar um conjunto à direita para a quantidade recomendada de repetições, mude para o seu lado esquerdo. Dica: Concentre-se em realmente torcer seu tronco e sentir a contração quando você está na posição de cima."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Oblique_Crunch/0.jpg",
+    "Decline_Oblique_Crunch/1.jpg"
+  ],
+  "id": "Decline_Oblique_Crunch"
+}

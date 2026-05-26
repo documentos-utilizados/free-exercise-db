@@ -1,0 +1,23 @@
+{
+  "name": "Banda Sentada Hamstring Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Proteja uma banda perto do chão e coloque um banco a alguns metros de distância dele.",
+    "Sente-se no banco e prenda a banda atrás dos tornozelos, começando com as pernas retas. Esta será a sua posição inicial.",
+    "Flexione os joelhos, trazendo os pés para o banco. Você pode precisar se inclinar ligeiramente para evitar que os pés atinjam o chão.",
+    "Pausar na conclusão do movimento e, em seguida, retornar lentamente para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Band_Hamstring_Curl/0.jpg",
+    "Seated_Band_Hamstring_Curl/1.jpg"
+  ],
+  "id": "Seated_Band_Hamstring_Curl"
+}

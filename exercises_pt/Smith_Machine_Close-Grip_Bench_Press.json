@@ -1,0 +1,27 @@
+{
+  "name": "Máquina de Smith Close-Grip Bench Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um banco plano debaixo da máquina de ferreiro. Coloque a barra em uma altura que você pode alcançar quando deitado e seus braços estão quase totalmente estendidos. Uma vez que o peso que você precisa é selecionado, deite-se no banco plano. Usando um aperto próximo e pronado (palms voltados para a frente) que está em torno da largura do ombro, desbloqueie a barra do rack e segure-a diretamente sobre você com os braços fechados. Esta será sua posição inicial.",
+    "medida que você respira, desça lentamente até sentir a barra no peito médio. Dica: Certifique-se de que, ao contrário de um supino regular, você mantenha os cotovelos perto do tronco em todos os momentos, a fim de maximizar o envolvimento do tríceps.",
+    "Depois de uma segunda pausa, traga a barra de volta para a posição inicial à medida que você expira e empurre a barra usando os músculos do tríceps. Tranque os braços na posição contraída, segure por um segundo e comece a descer lentamente novamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, tranque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Close-Grip_Bench_Press/0.jpg",
+    "Smith_Machine_Close-Grip_Bench_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Close-Grip_Bench_Press"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Alternative Heel Touchers",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com os joelhos dobrados e os pés no chão em torno de 18-24 polegadas de distância. Seus braços devem ser estendidos ao seu lado. Esta será a sua posição inicial.",
+    "Cruze o seu tronco para frente e para cima cerca de 3-4 polegadas para o lado direito e toque o seu calcanhar direito como você segurar a contração por um segundo. Expire durante a realização deste movimento.",
+    "Agora volte lentamente para a posição inicial enquanto você inala.",
+    "Agora crunch sobre o seu tronco para a frente e para cima em torno de 3-4 polegadas para o lado esquerdo e toque o seu calcanhar esquerdo como você segurar a contração por um segundo. Expire durante a realização deste movimento e, em seguida, voltar para a posição inicial como você inalar. Agora que ambos os saltos foram tocados, isso é considerado 1 repetição.",
+    "Continue alternando os lados dessa maneira até que todas as repetições prescritas sejam feitas."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternate_Heel_Touchers/0.jpg",
+    "Alternate_Heel_Touchers/1.jpg"
+  ],
+  "id": "Alternate_Heel_Touchers"
+}

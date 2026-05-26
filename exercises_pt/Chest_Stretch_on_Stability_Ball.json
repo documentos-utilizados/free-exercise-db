@@ -1,0 +1,22 @@
+{
+  "name": "Esticar o peito na bola de estabilidade",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque as mãos e os joelhos ao lado de uma bola de exercício.",
+    "Coloque os cotovelos em cima da bola, mantendo o braço para o seu lado. Esta será a sua posição inicial.",
+    "Abaixe o tronco em direção ao chão, mantendo o cotovelo em cima da bola. Segure o estiramento por 20-30 segundos e repita com o outro braço."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chest_Stretch_on_Stability_Ball/0.jpg",
+    "Chest_Stretch_on_Stability_Ball/1.jpg"
+  ],
+  "id": "Chest_Stretch_on_Stability_Ball"
+}

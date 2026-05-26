@@ -1,0 +1,26 @@
+{
+  "name": "Empurre a imprensa - atrás do pescoço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé com o peso acumulado na parte de trás dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Vá para baixo apenas ligeiramente e reverta a direção o mais poderosamente possível. Dirija pelos calcanhares criar a maior velocidade e força possível, movendo a barra em um caminho vertical.",
+    "Usando o impulso gerado, terminar de pressionar a sobrecarga de peso estar se estendendo através dos braços.",
+    "Volte para a posição inicial, usando as pernas para absorver o impacto."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Push_Press_-_Behind_the_Neck/0.jpg",
+    "Push_Press_-_Behind_the_Neck/1.jpg"
+  ],
+  "id": "Push_Press_-_Behind_the_Neck"
+}

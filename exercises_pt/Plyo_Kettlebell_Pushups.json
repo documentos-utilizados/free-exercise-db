@@ -1,0 +1,25 @@
+{
+  "name": "Plyo Kettlebell Pushups",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell no chão. Coloque-se em uma posição de flexão, em seus dedos dos pés com uma mão no chão e uma mão segurando o kettlebell, com os cotovelos estendidos. Esta será a sua posição inicial.",
+    "Comece baixando-se o mais baixo que puder, mantendo as costas retas.",
+    "Rapidamente e forçosamente inverter a direção, empurrando-se para o outro lado do kettlebell, trocando de mãos enquanto você faz isso. Continue o movimento descendo e repetindo o movimento para trás e para frente."
+  ],
+  "category": "strength",
+  "images": [
+    "Plyo_Kettlebell_Pushups/0.jpg",
+    "Plyo_Kettlebell_Pushups/1.jpg"
+  ],
+  "id": "Plyo_Kettlebell_Pushups"
+}

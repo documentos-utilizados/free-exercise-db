@@ -1,0 +1,25 @@
+{
+  "name": "Curl de Concentração Permanente",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Tomando um haltere em sua mão de trabalho, incline-se para a frente. Permita que seu braço de trabalho pendure perpendicular ao chão com o cotovelo apontando para fora. Esta será sua posição inicial.",
+    "Flexione o cotovelo para enrolar o peso, mantendo o braço parado. No topo da repetição, flexione o bíceps e pause.",
+    "Baixe o haltere de volta para a posição inicial.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Concentration_Curl/0.jpg",
+    "Standing_Concentration_Curl/1.jpg"
+  ],
+  "id": "Standing_Concentration_Curl"
+}

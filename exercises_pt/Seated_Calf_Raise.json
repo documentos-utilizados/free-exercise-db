@@ -1,0 +1,25 @@
+{
+  "name": "Assento Calf Raise",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na máquina e coloque os dedos dos pés na parte inferior da plataforma fornecida com os calcanhares estendidos. Escolha o posicionamento do dedo do pé de sua escolha (para frente, dentro ou fora) de acordo com o início deste capítulo.",
+    "Coloque suas coxas inferiores sob a almofada da alavanca, que precisará ser ajustada de acordo com a altura de suas coxas. Agora coloque suas mãos em cima da almofada da alavanca, a fim de evitar que ela escorregue para a frente.",
+    "Levante a alavanca ligeiramente empurrando os calcanhares para cima e solte a barra de segurança. Esta será a sua posição inicial.",
+    "Abaixe lentamente os calcanhares dobrando-se nos tornozelos até que os bezerros estejam totalmente esticados. Inspire enquanto realiza esse movimento.",
+    "Levante os calcanhares, estendendo os tornozelos o mais alto possível como você contrair os bezerros e expirar. Segure a contração superior por um segundo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Calf_Raise/0.jpg",
+    "Seated_Calf_Raise/1.jpg"
+  ],
+  "id": "Seated_Calf_Raise"
+}

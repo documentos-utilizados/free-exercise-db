@@ -1,0 +1,26 @@
+{
+  "name": "Close-Grip EZ Bar Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical enquanto segura uma barra E-Z Curl na alça interna mais próxima. A palma das suas mãos deve estar virada para a frente e elas devem estar ligeiramente inclinadas para dentro devido à forma da barra. Os cotovelos devem estar perto do tronco. Esta será a sua posição inicial.",
+    "Enquanto segura os braços parados, enrole os pesos para a frente enquanto contrai o bíceps enquanto expira. Dica: Apenas os antebraços devem se mover.",
+    "Continue o movimento até que seu bíceps esteja totalmente contraído e a barra esteja no nível do ombro. Mantenha a posição contraída por um segundo e esprema o bíceps com força.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Close-Grip_EZ_Bar_Curl/0.jpg",
+    "Close-Grip_EZ_Bar_Curl/1.jpg"
+  ],
+  "id": "Close-Grip_EZ_Bar_Curl"
+}

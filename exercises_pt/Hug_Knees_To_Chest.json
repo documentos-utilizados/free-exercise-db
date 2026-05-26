@@ -1,0 +1,24 @@
+{
+  "name": "Abraçando os joelhos para o peito",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Deite-se de costas e puxe os dois joelhos para o peito.",
+    "Segure os braços sob os joelhos, não mais (que colocaria muita pressão sobre as articulações do joelho).",
+    "Lentamente puxe os joelhos em direção aos ombros. Isso também estica os músculos das nádegas."
+  ],
+  "category": "stretching",
+  "images": [
+    "Hug_Knees_To_Chest/0.jpg",
+    "Hug_Knees_To_Chest/1.jpg"
+  ],
+  "id": "Hug_Knees_To_Chest"
+}

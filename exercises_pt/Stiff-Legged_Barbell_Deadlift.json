@@ -1,0 +1,27 @@
+{
+  "name": "Stiff-Legged Barbell Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Segure uma barra usando um aperto de mão (palmas viradas para baixo). Você pode precisar de alguns envoltórios de pulso se usar uma quantidade significativa de peso.",
+    "Fique com o tronco reto e as pernas espaçadas usando uma largura do ombro ou uma postura mais estreita. Os joelhos devem ser ligeiramente dobrados. Esta é a sua posição inicial.",
+    "Mantendo os joelhos estacionários, abaixe a barra sobre o topo dos pés dobrando-se nos quadris enquanto mantém as costas retas. Continue avançando como se fosse escolher algo do chão até sentir um estiramento nos isquiotibiais. Inspire enquanto realiza esse movimento.",
+    "Comece a trazer seu tronco para cima em linha reta novamente, estendendo seus quadris até que você esteja de volta à posição inicial. Exale enquanto você executa esse movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Stiff-Legged_Barbell_Deadlift/0.jpg",
+    "Stiff-Legged_Barbell_Deadlift/1.jpg"
+  ],
+  "id": "Stiff-Legged_Barbell_Deadlift"
+}

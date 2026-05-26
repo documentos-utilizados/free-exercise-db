@@ -1,0 +1,23 @@
+{
+  "name": "Sit-Ups Pesados - Com Bandas",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece amarrando as bandas ao redor da base do banco declinante. Coloque as alças em direção ao interior do banco declinante para que, ao deitar-se, você possa alcançar ambas.",
+    "Posicione as pernas através da máquina de declínio até que elas estejam presas. Agora alcance as bandas de exercício com as duas mãos. Use um aperto pronado (palmas para frente) para agarrar as alças. Posicione-as perto do osso do colarinho e gire o pulso para um aperto neutro (palmas voltadas para o tronco). Nota: Seus braços devem permanecer estacionários durante todo o exercício. Esta é a posição inicial.",
+    "Mova o tronco para cima até que a parte superior do corpo esteja perpendicular ao chão enquanto expira. Segure a contração por um segundo e abaixe a parte superior do corpo de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Sit-Ups_-_With_Bands/0.jpg",
+    "Weighted_Sit-Ups_-_With_Bands/1.jpg"
+  ],
+  "id": "Weighted_Sit-Ups_-_With_Bands"
+}

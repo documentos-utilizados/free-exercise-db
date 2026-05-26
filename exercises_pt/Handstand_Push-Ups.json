@@ -1,0 +1,26 @@
+{
+  "name": "Handstand Push-Ups",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Com as costas para a parede dobre na cintura e coloque as duas mãos no chão na largura do ombro.",
+    "Chute-se contra a parede com os braços retos. Seu corpo deve estar de cabeça para baixo com os braços e pernas totalmente estendidos. Mantenha todo o seu corpo o mais reto possível. Dica: Se fizer isso pela primeira vez, tenha um observador para ajudá-lo. Além disso, certifique-se de continuar de frente para a parede com a cabeça, em vez de olhar para baixo.",
+    "Abaixe-se lentamente no chão enquanto inala até que sua cabeça quase toque o chão. Dica: É de extrema importância que você desça devagar para evitar lesões na cabeça.",
+    "Empurre-se de volta lentamente enquanto expira até que seus cotovelos estejam quase trancados.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Handstand_Push-Ups/0.jpg",
+    "Handstand_Push-Ups/1.jpg"
+  ],
+  "id": "Handstand_Push-Ups"
+}

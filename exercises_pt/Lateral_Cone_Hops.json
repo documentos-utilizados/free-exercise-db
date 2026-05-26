@@ -1,0 +1,29 @@
+{
+  "name": "Lateral Cone Hops",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Posicione um número de cones em uma fileira a vários metros de distância.",
+    "Fique ao lado do final dos cones, de frente para 90 graus para a direção da viagem. Esta será a sua posição inicial.",
+    "Comece o salto mergulhando com os joelhos para iniciar um reflexo de alongamento, e imediatamente inverter a direção para empurrar para fora do chão, pulando para cima e para os lados sobre o cone.",
+    "Use as pernas para absorver o impacto no pouso e rebote para o próximo salto, continuando na linha de cones."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Lateral_Cone_Hops/0.jpg",
+    "Lateral_Cone_Hops/1.jpg"
+  ],
+  "id": "Lateral_Cone_Hops"
+}

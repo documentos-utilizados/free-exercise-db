@@ -1,0 +1,26 @@
+{
+  "name": "Imprensa de piso com correntes",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Ajuste os j-hooks para que eles estejam na altura apropriada para montar a barra. Para este exercício, drapeie as correntes diretamente sobre a extremidade da barra, tentando manter as extremidades longe das placas.",
+    "Comece deitado no chão com a cabeça perto do final de um suporte de energia. Mantendo suas omoplatas puxadas juntas, puxe a barra dos ganchos.",
+    "Abaixe a barra em direção ao fundo do peito ou do estômago superior, apertando a barra e tentando separá-la enquanto faz isso. Certifique-se de dobrar os cotovelos durante todo o movimento. Abaixe a barra até que seu braço entre em contato com o chão e pause, evitando qualquer batida ou salto do peso.",
+    "Pressione a barra de volta para cima o mais rápido que puder, mantendo a barra, seus pulsos e cotovelos na linha como você faz isso."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Floor_Press_with_Chains/0.jpg",
+    "Floor_Press_with_Chains/1.jpg"
+  ],
+  "id": "Floor_Press_with_Chains"
+}

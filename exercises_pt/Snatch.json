@@ -1,0 +1,34 @@
+{
+  "name": "Snatch",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque os pés em uma posição de largura do ombro com a barra bem acima da conexão entre os dedos dos pés e o resto do pé.",
+    "Com as palmas voltadas para baixo, dobre os joelhos e mantenha a parte de trás plana pegue a barra usando uma aderência mais larga do que a largura do ombro. Traga os quadris para baixo e certifique-se de que seu corpo cai como se você fosse sentar em uma cadeira. Esta será a sua posição inicial.",
+    "Comece a empurrar o chão como se fosse uma plataforma móvel com os pés e, simultaneamente, comece a levantar a barra mantendo-a perto de suas pernas.",
+    "medida que a barra atinge o meio de suas coxas, empurre o chão com as pernas e levante seu corpo para uma extensão completa em um movimento explosivo.",
+    "Levante os ombros para trás em um movimento de encolher enquanto você levanta a barra enquanto levanta os cotovelos para o lado e os mantém acima da barra pelo maior tempo possível.",
+    "Agora, em um movimento muito rápido, mas poderoso, você tem que obter o seu corpo sob a barra quando ele atingiu um ponto alto o suficiente onde ele pode ser controlado e cair enquanto trava os braços e segurando a barra acima como você assumir uma posição de agachamento.",
+    "Finalize o movimento subindo para fora da posição de agachamento para terminar o elevador. No final do levantamento, ambos os pés devem estar em linha e os braços totalmente estendidos segurando a barra acima."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Snatch/0.jpg",
+    "Snatch/1.jpg"
+  ],
+  "id": "Snatch"
+}

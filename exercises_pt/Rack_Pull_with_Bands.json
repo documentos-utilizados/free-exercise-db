@@ -1,0 +1,28 @@
+{
+  "name": "Rack Puxar com Bandas",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Configure em um rack de energia com a barra nos pinos. Os pinos devem ser definidos para o ponto desejado; logo abaixo dos joelhos, logo acima ou na posição central da coxa. Anexe as bandas à base do rack ou prenda-as com halteres. Anexe a outra extremidade à barra. Você pode precisar sufocar as bandas para fornecer tensão.",
+    "Posicione-se contra a barra na posição correta de levantamento. Seus pés devem estar sob seus quadris, sua largura do ombro de aderência, arqueado nas costas e quadris para trás para envolver os isquiotibiais. Como o peso é tipicamente pesado, você pode usar um aperto misto, um gancho ou usar alças para ajudar a manter o peso.",
+    "Com a cabeça voltada para a frente, estenda-se pelos quadris e joelhos, puxando o peso para cima e para trás até o bloqueio. Certifique-se de puxar os ombros para trás enquanto completa o movimento. Volte o peso para os pinos e repita."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Rack_Pull_with_Bands/0.jpg",
+    "Rack_Pull_with_Bands/1.jpg"
+  ],
+  "id": "Rack_Pull_with_Bands"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Star Jump",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece em uma postura relaxada com a largura do ombro dos pés separados e segure os braços perto do corpo.",
+    "Para iniciar o movimento, agache-se no meio do caminho e exploda de volta o mais alto possível. Estenda totalmente todo o seu corpo, espalhando suas pernas e braços para longe do corpo.",
+    "medida que você aterrissa, traga seus membros de volta e absorva seu impacto através das pernas."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Star_Jump/0.jpg",
+    "Star_Jump/1.jpg"
+  ],
+  "id": "Star_Jump"
+}

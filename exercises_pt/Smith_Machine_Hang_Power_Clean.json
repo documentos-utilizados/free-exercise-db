@@ -1,0 +1,31 @@
+{
+  "name": "Smith Máquina Pendurar Poder Limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Posicione a barra na altura do joelho e carregue-a com um peso apropriado.",
+    "Tome uma preensão pronada na barra fora da largura do ombro e desenrole a barra da máquina. Seus braços devem ser totalmente estendidos com a cabeça e o peito para cima. Seus cotovelos devem ser apontados com os ombros para trás e para baixo. Seus quadris devem estar de volta, carregando a tensão nos isquiotibiais. Esta será sua posição inicial.",
+    "Inicie o movimento estendendo vigorosamente os quadris e joelhos, acelerando na barra. Certifique-se de manter os braços retos durante esta parte do movimento.",
+    "Após a extensão total, redobre os quadris e joelhos para diminuir sua posição de recepção.",
+    "Permita que os braços flexionem neste ponto, girando os cotovelos ao redor da barra para recebê-la em seus ombros.",
+    "Estenda-se através dos quadris e joelhos para chegar a uma posição de pé com a barra em seus ombros para completar o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Hang_Power_Clean/0.jpg",
+    "Smith_Machine_Hang_Power_Clean/1.jpg"
+  ],
+  "id": "Smith_Machine_Hang_Power_Clean"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cable Incline Pushdown",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em inclinar um banco voltado para longe de uma máquina de polia alta que tem um acessório de barra reta sobre ele.",
+    "Segure a barra reta de fixação acima com um pronated (overhand; palmas para baixo) punho largura do ombro e estender os braços na frente de você. A barra deve ser de cerca de 2 polegadas de distância de suas coxas superiores. Esta será a sua posição inicial.",
+    "Mantendo os braços superiores estacionários, levante os braços de volta em um semi círculo até que a barra esteja reta sobre sua cabeça. Respire durante esta parte do movimento.",
+    "Lentamente, volte para a posição inicial usando seus lats e segure a contração quando chegar à posição inicial. Respire durante a execução deste movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Incline_Pushdown/0.jpg",
+    "Cable_Incline_Pushdown/1.jpg"
+  ],
+  "id": "Cable_Incline_Pushdown"
+}

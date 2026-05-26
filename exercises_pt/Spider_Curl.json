@@ -1,0 +1,26 @@
+{
+  "name": "Spider Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece definindo a barra na parte do banco do pregador em que você normalmente se sentaria. Certifique-se de alinhar a barra corretamente para que ela esteja equilibrada e não caia.",
+    "Mova-se para o lado da frente do banco do pregador (a parte onde os braços geralmente estavam) e posicione-se para deitar a uma inclinação de 45 graus com seu tronco e estômago pressionados contra o lado da frente do banco do pregador.",
+    "Certifique-se de que seus pés (especialmente os dedos dos pés) estão bem posicionados no chão e coloque seus braços superiores em cima da almofada localizada na parte interna do banco do pregador.",
+    "Use os braços para agarrar a barra com um aperto supinado (palmas viradas para cima) em cerca de largura do ombro distante ou um pouco mais perto um do outro.",
+    "Lentamente começar a levantar a barra para cima e expirar. Segure a posição contratada por um segundo como você apertar o bíceps.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Spider_Curl/0.jpg",
+    "Spider_Curl/1.jpg"
+  ],
+  "id": "Spider_Curl"
+}

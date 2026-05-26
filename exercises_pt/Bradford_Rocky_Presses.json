@@ -1,0 +1,27 @@
+{
+  "name": "Bradford / Rocky Presses",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco de imprensa militar com uma barra no nível do ombro com um aperto pronado (palmas voltadas para a frente). Dica: Seu aperto deve ser mais largo do que a largura do ombro e deve criar um ângulo de 90 graus entre o antebraço e o braço superior à medida que a barra desce. Esta é a sua posição inicial.",
+    "Uma vez que você pegar a barra com o aperto correto, levante a barra acima de sua cabeça, travando os braços.",
+    "Agora abaixe a barra para baixo para a parte de trás da cabeça lentamente como você inalar.",
+    "Levante a barra de volta para a posição inicial enquanto expira.",
+    "Abaixe a barra para baixo até a posição inicial lentamente à medida que você inala. Esta é uma repetição.",
+    "Alterne desta maneira até completar a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bradford_Rocky_Presses/0.jpg",
+    "Bradford_Rocky_Presses/1.jpg"
+  ],
+  "id": "Bradford_Rocky_Presses"
+}

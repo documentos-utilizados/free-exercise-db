@@ -1,0 +1,23 @@
+{
+  "name": "Pull-In perna",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um tapete de exercícios com as pernas estendidas e suas mãos ou palmas viradas para baixo ao lado de você ou sob seus glúteos. Dica: Minha preferência é com as mãos ao meu lado. Esta será a sua posição inicial.",
+    "Dobre os joelhos e puxe as coxas superiores para a parte média enquanto expira. Continue o movimento até que os joelhos estejam ao redor do nível do peito. Contraia seus abdominais enquanto executa esse movimento e segure por um segundo no topo. Dica: Ao realizar o movimento, as pernas inferiores (bezerros) devem sempre permanecer paralelas ao chão.",
+    "Volte para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Leg_Pull-In/0.jpg",
+    "Leg_Pull-In/1.jpg"
+  ],
+  "id": "Leg_Pull-In"
+}

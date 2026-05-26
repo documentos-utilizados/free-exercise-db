@@ -1,0 +1,24 @@
+{
+  "name": "Scissor Kick",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se com as costas pressionadas contra o chão ou em um tapete de exercícios (opcional). Seus braços devem ser totalmente estendidos para os lados com as palmas das mãos voltadas para baixo. Nota: Os braços devem estar parados o tempo todo.",
+    "Com uma ligeira curva nos joelhos, levante as pernas para cima para que seus calcanhares estejam a cerca de 6 polegadas do chão. Esta é a posição inicial.",
+    "Agora levante a perna esquerda até cerca de um ângulo de 45 graus, enquanto a perna direita é abaixada até que o calcanhar esteja a cerca de 2-3 polegadas do chão.",
+    "Mude os movimentos levantando a perna direita para cima e baixando a perna esquerda. Lembre-se de respirar durante a realização deste exercício.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Scissor_Kick/0.jpg",
+    "Scissor_Kick/1.jpg"
+  ],
+  "id": "Scissor_Kick"
+}

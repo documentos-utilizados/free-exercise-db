@@ -1,0 +1,25 @@
+{
+  "name": "Barbell Inclinar Ombro Aumentar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado. Usando um aperto de largura média (um aperto que é ligeiramente mais largo do que a largura do ombro), levante a barra do rack e segure-a diretamente sobre você com os braços retos. Esta será sua posição inicial.",
+    "Enquanto mantém os braços retos, levante a barra puxando as omoplatas, levantando os ombros do banco enquanto você expira.",
+    "Traga a barra de volta para a posição inicial enquanto você respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Incline_Shoulder_Raise/0.jpg",
+    "Barbell_Incline_Shoulder_Raise/1.jpg"
+  ],
+  "id": "Barbell_Incline_Shoulder_Raise"
+}

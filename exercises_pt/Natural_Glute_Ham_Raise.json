@@ -1,0 +1,27 @@
+{
+  "name": "Natural Glute Ham Raise",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Usando a almofada de perna de uma máquina de puxar para baixo ou um banco de pregador, posicione-se de modo que seus tornozelos estejam sob as almofadas, joelhos no assento e você esteja voltado para longe da máquina. Você deve estar na posição vertical e manter uma boa postura.",
+    "Esta será a sua posição inicial. Abaixe-se sob controle até que seus joelhos estejam quase completamente retos.",
+    "Permanecendo no controle, levante-se de volta para a posição inicial.",
+    "Se você não conseguir completar um representante, use uma banda, um parceiro ou empurre uma caixa para ajudar a completar uma repetição."
+  ],
+  "category": "strength",
+  "images": [
+    "Natural_Glute_Ham_Raise/0.jpg",
+    "Natural_Glute_Ham_Raise/1.jpg"
+  ],
+  "id": "Natural_Glute_Ham_Raise"
+}

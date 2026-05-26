@@ -1,0 +1,27 @@
+{
+  "name": "Incline Push-Up Close-Grip",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Fique de frente para uma barra de máquinas Smith ou uma plataforma elevada e resistente a uma altura adequada.",
+    "Coloquem as mãos umas ao lado das outras no bar.",
+    "Posicione os pés para trás da barra com os braços e o corpo em linha reta. Esta será a sua posição inicial.",
+    "Mantendo seu corpo reto, abaixe o peito para a barra, dobrando os braços.",
+    "Volte para a posição inicial, estendendo os cotovelos, pressionando-se de volta para cima."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Push-Up_Close-Grip/0.jpg",
+    "Incline_Push-Up_Close-Grip/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Close-Grip"
+}

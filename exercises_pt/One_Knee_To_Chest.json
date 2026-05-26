@@ -1,0 +1,26 @@
+{
+  "name": "Um joelho para o peito",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece deitado no chão.",
+    "Estenda uma perna em linha reta e puxe o outro joelho para o peito. Segure sob a articulação do joelho para proteger a rótula.",
+    "Puxe suavemente o joelho em direção ao nariz.",
+    "Troque os lados. Isso estica as nádegas e a parte inferior das costas da perna dobrada e o flexor do quadril da perna reta."
+  ],
+  "category": "stretching",
+  "images": [
+    "One_Knee_To_Chest/0.jpg",
+    "One_Knee_To_Chest/1.jpg"
+  ],
+  "id": "One_Knee_To_Chest"
+}

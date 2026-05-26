@@ -1,0 +1,29 @@
+{
+  "name": "Rickshaw Carry",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Posicione o quadro no ponto de partida e carregue com o peso apropriado. De pé no centro do quadro, comece por segurar as alças e dirigir através dos calcanhares para levantar o quadro. Certifique-se de que seu peito e cabeça estão para cima e suas costas estão retas.",
+    "Comece imediatamente a andar rapidamente com passos rápidos e controlados. Mantenha o peito para cima e a cabeça para frente e certifique-se de continuar respirando. Traga o quadro para o chão depois de chegar ao ponto final."
+  ],
+  "category": "strongman",
+  "images": [
+    "Rickshaw_Carry/0.jpg",
+    "Rickshaw_Carry/1.jpg"
+  ],
+  "id": "Rickshaw_Carry"
+}

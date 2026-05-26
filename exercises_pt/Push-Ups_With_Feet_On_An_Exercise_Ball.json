@@ -1,0 +1,27 @@
+{
+  "name": "Push-ups com pés em uma bola de exercício",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão de frente para baixo e coloque as mãos a cerca de 36 polegadas de distância uma da outra, segurando o tronco no comprimento dos braços.",
+    "Coloque os dedos dos pés em cima de uma bola de exercício. Isso permitirá que seu corpo seja elevado.",
+    "Abaixe-se até que seu peito quase toque o chão enquanto você inala.",
+    "Usando seus músculos peitorais, pressione sua parte superior do corpo de volta para a posição inicial e esprema o peito. Respire enquanto você executa este passo.",
+    "Após uma segunda pausa na posição contraída, repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Push-Ups_With_Feet_On_An_Exercise_Ball/0.jpg",
+    "Push-Ups_With_Feet_On_An_Exercise_Ball/1.jpg"
+  ],
+  "id": "Push-Ups_With_Feet_On_An_Exercise_Ball"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Faixa de TI e Glute Stretch",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Loop um cinto, corda, ou banda em torno de um de seus pés, e balançar essa perna através de seu corpo para o lado oposto, mantendo a perna estendida como você estava no chão. Esta será a sua posição inicial.",
+    "Mantenha o pé fora do chão, puxe o cinto, usando a tensão para puxar os dedos dos pés para cima. Segure por 10-20 segundos e repita do outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "IT_Band_and_Glute_Stretch/0.jpg",
+    "IT_Band_and_Glute_Stretch/1.jpg"
+  ],
+  "id": "IT_Band_and_Glute_Stretch"
+}

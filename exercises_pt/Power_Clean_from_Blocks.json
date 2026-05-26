@@ -1,0 +1,26 @@
+{
+  "name": "Limpar o poder dos blocos",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "quadríceps"
+  ],
+  "instructions": [
+    "Com uma barra em caixas da altura desejada, agarre-se fora das pernas. Abaixe os quadris com o peso focado nos calcanhares, de volta em linha reta, de frente para a frente, peito para cima, com os ombros bem na frente da barra. Esta será a sua posição inicial.",
+    "Comece a primeira atração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos.  medida que a barra se aproxima da posição do meio da altura, comece a se estender pelos quadris.",
+    "Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente através dos braços para acelerar o peso. No final da segunda tração, o corpo deve ser totalmente estendido, inclinando-se ligeiramente para trás, com os braços ainda estendidos.",
+    "medida que a extensão total é alcançada, a transição para a terceira tração, encolhendo e flexionando agressivamente os braços com os cotovelos para cima e para fora. Na extensão de pico, puxe-se sob a barra o suficiente para que ela possa ser estancada nos ombros, girando os cotovelos sob a barra enquanto você faz isso. A barra deve ser estancada nos ombros prolongados, tocando levemente a garganta com as mãos relaxadas.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até que você tenha subido a uma posição de pé e complete a repetição retornando o peso para as caixas."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Power_Clean_from_Blocks/0.jpg",
+    "Power_Clean_from_Blocks/1.jpg"
+  ],
+  "id": "Power_Clean_from_Blocks"
+}

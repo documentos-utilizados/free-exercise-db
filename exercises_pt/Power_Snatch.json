@@ -1,0 +1,32 @@
+{
+  "name": "Power Snatch",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada no chão. A barra deve estar perto ou tocando as canelas, e uma grande aderência deve ser tomada na barra. Os pés devem estar diretamente abaixo dos quadris, com os pés virados conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça olhando para frente. Os ombros devem estar bem na frente da barra. Esta será a posição inicial.",
+    "Comece a primeira tração dirigindo pela frente dos calcanhares, levantando a barra do chão. O ângulo de trás deve permanecer o mesmo até que a barra passe pelos joelhos.",
+    "Transição para a segunda tração, estendendo-se através dos joelhos e tornozelos dos quadris, dirigindo a barra para cima o mais rápido possível. A barra deve estar perto do corpo. Na extensão de pico, encolher os ombros e permitir que os cotovelos se flexionem para o lado.",
+    "medida que você move os pés para a posição de recepção, uma posição ligeiramente mais larga, puxe-se abaixo da barra enquanto você eleva a barra acima. A barra deve ser recebida em um agachamento parcial. Continue elevando a barra para a posição acima, recebendo a barra bloqueada acima.",
+    "Volte para uma posição de pé com o peso sobre a cabeça."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Power_Snatch/0.jpg",
+    "Power_Snatch/1.jpg"
+  ],
+  "id": "Power_Snatch"
+}

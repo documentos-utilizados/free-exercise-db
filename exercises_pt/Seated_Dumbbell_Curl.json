@@ -1,0 +1,24 @@
+{
+  "name": "Sentada Dumbbell Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco.",
+    "Gire as palmas das mãos para que elas estejam voltadas para o seu tronco. Esta será a sua posição inicial.",
+    "Enquanto segura o braço parado, enrole os pesos e comece a torcer os pulsos uma vez que os halteres passem suas coxas para que as palmas das mãos fiquem voltadas para a frente no final do movimento. Certifique-se de contrair o bíceps enquanto expira e certifique-se de que apenas os antebraços se movam. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto você aperta os bíceps.",
+    "Lentamente começar a trazer os halteres de volta para a posição inicial como sua respiração e como você girar os pulsos de volta para um aperto neutro.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Dumbbell_Curl/0.jpg",
+    "Seated_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Seated_Dumbbell_Curl"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Entrega da cremalheira",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "trapézio"
+  ],
+  "instructions": [
+    "Esta broca ensina a entrega da barra para a posição do rack nos ombros. Comece segurando uma barra na posição do espantalho, com os braços superiores paralelos ao chão, e os antebraços pendurados. Use um gancho, com os dedos enrolados sobre os polegares.",
+    "Comece girando os cotovelos ao redor da barra, entregando a barra aos ombros.  medida que os cotovelos se aproximam, relaxe a aderência. Os ombros devem ser prolongados, fornecendo uma prateleira para a barra, que deve entrar em contato com a garganta.",
+    "É importante que a barra fique perto do corpo em todos os momentos, pois com uma carga mais pesada qualquer distância resultará em uma colisão indesejada.  medida que o movimento se torna mais suave, a velocidade e a carga podem ser aumentadas antes de progredir ainda mais."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Rack_Delivery/0.jpg",
+    "Rack_Delivery/1.jpg"
+  ],
+  "id": "Rack_Delivery"
+}

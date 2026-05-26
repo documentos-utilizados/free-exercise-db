@@ -1,0 +1,28 @@
+{
+  "name": "Kettlebell Turco Get-Up (estilo squat)",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "isquiotibiais",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se de costas no chão e pressione um kettlebell para a posição superior, estendendo o cotovelo. Dobre o joelho no mesmo lado do kettlebell.",
+    "Mantendo o kettlebell bloqueado em todos os momentos, pivô para o lado oposto e usar o seu braço não-trabalho para ajudá-lo a dirigir para a frente para a posição de lunge.",
+    "Usando sua mão livre, empurre-se para uma posição sentada, depois progredindo para os pés. Enquanto olha para o kettlebell, levante-se lentamente. Reverta o movimento de volta para a posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
+    "Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
+  ],
+  "id": "Kettlebell_Turkish_Get-Up_Squat_style"
+}

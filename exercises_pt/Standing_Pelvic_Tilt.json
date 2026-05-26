@@ -1,0 +1,24 @@
+{
+  "name": "De pé Pelvic Tilt",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Comece com os pés afastados.",
+    "Dobre os joelhos ligeiramente para mantê-los macios e elásticos.",
+    "Você pode querer mover sua pélvis para frente e para trás e para trás algumas vezes antes de segurar o cóccix para a frente neste trecho."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Pelvic_Tilt/0.jpg",
+    "Standing_Pelvic_Tilt/1.jpg"
+  ],
+  "id": "Standing_Pelvic_Tilt"
+}

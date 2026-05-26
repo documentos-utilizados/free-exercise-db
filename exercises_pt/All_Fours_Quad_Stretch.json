@@ -1,0 +1,24 @@
+{
+  "name": "Todos os Fours Quad Stretch",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece com as mãos e os joelhos, em seguida, levante a perna do chão e segure o pé com a mão.",
+    "Use a mão para segurar o pé ou tornozelo, mantendo o joelho totalmente flexionado, esticando o quadríceps e os flexores do quadril.",
+    "Concentre-se em estender seus quadris, empurrando-os para o chão. Segure por 10-20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "All_Fours_Quad_Stretch/0.jpg",
+    "All_Fours_Quad_Stretch/1.jpg"
+  ],
+  "id": "All_Fours_Quad_Stretch"
+}

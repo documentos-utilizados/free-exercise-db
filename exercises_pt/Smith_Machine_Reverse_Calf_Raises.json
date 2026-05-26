@@ -1,0 +1,25 @@
+{
+  "name": "Smith Machine Reverse Calf aumenta",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a barra na máquina de ferreiro para ajustar sua altura e alinhar uma plataforma levantada logo abaixo da barra.",
+    "Fique na plataforma com os calcanhares dos pés presos em cima dela com as bolas dos pés se estendendo. Posicione os dedos dos pés voltados para a frente com uma postura de largura do ombro.",
+    "Agora, coloque seus ombros sob a barra enquanto mantém o posicionamento do pé descrito e empurre a barra para cima, estendendo seus quadris e joelhos até que seu tronco esteja ereto. Os joelhos devem ser mantidos com uma ligeira curvatura; nunca bloqueado. Esta será sua posição inicial. Dica: A barra em suas costas é apenas para fins de equilíbrio.",
+    "Levante as bolas dos pés enquanto expira, estendendo os dedos dos pés o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho é mantido parado em todos os momentos. Não deve haver flexão a qualquer momento. Mantenha a posição contratada por um segundo antes de começar a voltar para baixo.",
+    "Lentamente, volte para a posição inicial à medida que você respira, baixando as bolas dos pés e dos pés.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Reverse_Calf_Raises/0.jpg",
+    "Smith_Machine_Reverse_Calf_Raises/1.jpg"
+  ],
+  "id": "Smith_Machine_Reverse_Calf_Raises"
+}

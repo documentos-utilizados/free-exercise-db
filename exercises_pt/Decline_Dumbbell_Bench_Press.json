@@ -1,0 +1,28 @@
+{
+  "name": "Declínio Dumbbell Bench Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Proteja as pernas no final do banco de declínio e deite-se com um haltere em cada mão em cima de suas coxas. As palmas da sua mão estarão viradas uma para a outra.",
+    "Uma vez que você está deitado, mova os halteres na sua frente na largura do ombro.",
+    "Uma vez na largura do ombro, gire os pulsos para a frente para que as palmas das mãos estejam voltadas para longe de você. Esta será sua posição inicial.",
+    "Traga os pesos lentamente para o seu lado enquanto expira. Mantenha o controle total dos halteres em todos os momentos. Dica: Durante todo o movimento, os antebraços devem sempre ser perpendiculares ao chão.",
+    "medida que você expira, empurre os halteres para cima usando seus músculos peitorais. Tranque os braços na posição contraída, esprema o peito, segure por um segundo e comece a descer lentamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir..",
+    "Repita o movimento para a quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Dumbbell_Bench_Press/0.jpg",
+    "Decline_Dumbbell_Bench_Press/1.jpg"
+  ],
+  "id": "Decline_Dumbbell_Bench_Press"
+}

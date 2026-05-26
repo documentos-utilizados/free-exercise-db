@@ -1,0 +1,25 @@
+{
+  "name": "Arraste de trenó - Arnês",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, carregue o trenó com o peso desejado e prenda a correia de tração. Você pode puxar com alças, usar um arnês ou anexar a correia de tração a uma correia de peso.",
+    "Seja puxando para frente ou para trás, incline-se na direção da viagem e do progresso, estendendo-se pelos quadris e joelhos."
+  ],
+  "category": "strongman",
+  "images": [
+    "Sled_Drag_-_Harness/0.jpg",
+    "Sled_Drag_-_Harness/1.jpg"
+  ],
+  "id": "Sled_Drag_-_Harness"
+}

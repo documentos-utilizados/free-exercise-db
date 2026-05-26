@@ -1,0 +1,24 @@
+{
+  "name": "Biceps em pé estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Feche as mãos atrás das costas com as palmas das mãos juntas, endireite os braços e, em seguida, gire-os para que as palmas das mãos fiquem voltadas para baixo.",
+    "Levante os braços e segure até sentir um estiramento no bíceps."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Biceps_Stretch/0.jpg",
+    "Standing_Biceps_Stretch/1.jpg"
+  ],
+  "id": "Standing_Biceps_Stretch"
+}

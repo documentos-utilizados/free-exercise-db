@@ -1,0 +1,28 @@
+{
+  "name": "Prowler Sprint",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "peitoral",
+    "glúteos",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque o trenó em uma superfície apropriada, carregada com um peso adequado. O trenó deve fornecer resistência suficiente para exigir esforço, mas não tão pesado que você seja significativamente retardado.",
+    "Você pode usar as alças verticais ou baixas para este exercício. Coloque as mãos nas alças com os braços estendidos, inclinando-se para o implemento.",
+    "Com boa postura, conduza pelo chão com passos alternados e curtos. Mova-se o mais rápido possível por uma curta distância."
+  ],
+  "category": "cardio",
+  "images": [
+    "Prowler_Sprint/0.jpg",
+    "Prowler_Sprint/1.jpg"
+  ],
+  "id": "Prowler_Sprint"
+}

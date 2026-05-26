@@ -1,0 +1,27 @@
+{
+  "name": "Ball Leg Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Comece no chão deitado de costas com os pés em cima da bola.",
+    "Posicione a bola de modo que, quando suas pernas estiverem estendidas, seus tornozelos estejam em cima da bola. Esta será sua posição inicial.",
+    "Levante os quadris do chão, mantendo seu peso nas omoplatas e nos pés.",
+    "Flexione os joelhos, puxando a bola o mais perto possível de você, contraindo os isquiotibiais.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Ball_Leg_Curl/0.jpg",
+    "Ball_Leg_Curl/1.jpg"
+  ],
+  "id": "Ball_Leg_Curl"
+}

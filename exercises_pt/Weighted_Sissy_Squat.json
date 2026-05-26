@@ -1,0 +1,27 @@
+{
+  "name": "Pesado Sissy Squat",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Em pé, com os pés na largura do ombro e os dedos dos pés levantados, use uma mão para segurar os feixes de um rack de agachamento e o braço oposto para segurar uma placa em cima do peito. Esta é a sua posição inicial.",
+    "medida que você usa um braço para se segurar, dobre os joelhos e abaixe lentamente o tronco em direção ao chão, trazendo sua pélvis e joelhos para a frente. Inspire enquanto desce e pare quando suas pernas superiores e inferiores quase criam um ângulo de 90 graus. Mantenha a posição de alongamento por um segundo.",
+    "Depois de um segundo de espera, use os músculos da coxa para trazer seu tronco de volta para a posição inicial. Expire enquanto você se move para cima.",
+    "Repita para a quantidade recomendada de vezes."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Sissy_Squat/0.jpg",
+    "Weighted_Sissy_Squat/1.jpg"
+  ],
+  "id": "Weighted_Sissy_Squat"
+}

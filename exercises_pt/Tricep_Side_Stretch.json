@@ -1,0 +1,22 @@
+{
+  "name": "Tricep lado estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Traga o braço direito através de seu corpo e sobre o ombro esquerdo, segurando o cotovelo com a mão esquerda, até sentir um alongamento em seu tríceps. Em seguida, repita para o outro braço."
+  ],
+  "category": "stretching",
+  "images": [
+    "Tricep_Side_Stretch/0.jpg",
+    "Tricep_Side_Stretch/1.jpg"
+  ],
+  "id": "Tricep_Side_Stretch"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Inclinação Dumbbell Flyes",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um haltere em cada mão e deite-se em um banco inclinado que é definido para um ângulo inclinado de não mais de 30 graus.",
+    "Estenda os braços acima de você com uma ligeira curvatura nos cotovelos.",
+    "Agora gire os pulsos para que as palmas das suas mãos estejam voltadas para você. Dica: Os dedos mindinhos devem estar próximos uns dos outros. Esta será sua posição inicial.",
+    "medida que você respira, comece a abaixar lentamente os braços para o lado, mantendo os braços estendidos e girando os pulsos até que as palmas da mão estejam voltadas umas para as outras. Dica: No final do movimento, os braços estarão ao seu lado com as palmas voltadas para o teto.",
+    "Como você expirar começar a trazer os halteres de volta para a posição inicial, invertendo o movimento e girando as mãos para que os dedos mindinhos estão ao lado um do outro novamente. Dica: Tenha em mente que o movimento só vai acontecer na articulação do ombro e no pulso. Não há movimento que acontece na articulação do cotovelo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Dumbbell_Flyes/0.jpg",
+    "Incline_Dumbbell_Flyes/1.jpg"
+  ],
+  "id": "Incline_Dumbbell_Flyes"
+}

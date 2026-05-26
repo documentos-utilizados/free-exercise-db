@@ -1,0 +1,24 @@
+{
+  "name": "Oblique Crunches - No chão",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitando-se do lado direito com as pernas em cima umas das outras. Certifique-se de que seus joelhos estão um pouco dobrados.",
+    "Coloque a mão esquerda atrás da cabeça.",
+    "Uma vez que você está nesta posição definida, comece movendo o cotovelo esquerdo para cima, pois você executaria uma crise normal, exceto que desta vez a ênfase principal está em seus oblíquos.",
+    "Crunch tão alto quanto você pode, segure a contração por um segundo e, em seguida, cair lentamente de volta para a posição inicial.",
+    "Lembre-se de respirar durante a parte excêntrica (redução) do exercício e de respirar durante a parte concêntrica (elevação) do exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Oblique_Crunches_-_On_The_Floor/0.jpg",
+    "Oblique_Crunches_-_On_The_Floor/1.jpg"
+  ],
+  "id": "Oblique_Crunches_-_On_The_Floor"
+}

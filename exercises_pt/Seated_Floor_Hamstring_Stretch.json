@@ -1,0 +1,23 @@
+{
+  "name": "Andar sentado Hamstring estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Sente-se em um tapete com a perna direita estendida na frente de você e sua perna esquerda dobrada com o pé contra a coxa interna direita.",
+    "Incline-se para a frente de seus quadris e alcance seu tornozelo até sentir um estiramento em seu isquiotibial. Segure por 15 segundos, em seguida, repita para o seu outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Seated_Floor_Hamstring_Stretch/0.jpg",
+    "Seated_Floor_Hamstring_Stretch/1.jpg"
+  ],
+  "id": "Seated_Floor_Hamstring_Stretch"
+}

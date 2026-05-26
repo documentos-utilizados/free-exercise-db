@@ -1,0 +1,25 @@
+{
+  "name": "Moving Claw Series",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Este movimento ajuda a preparar sua forma de corrida para ajudá-lo a se destacar na corrida.  medida que você corre, certifique-se de flexionar o joelho, com o objetivo de chutar seus glúteos à medida que o quadril se estende.",
+    "Recarregue o quad como a perna se move para trás para a frente, atacando o chão no próximo passo.",
+    "Certifique-se de que, à medida que você corre, você bloqueie com os braços, perfurando em um movimento rápido de 1-2."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Moving_Claw_Series/0.jpg",
+    "Moving_Claw_Series/1.jpg"
+  ],
+  "id": "Moving_Claw_Series"
+}

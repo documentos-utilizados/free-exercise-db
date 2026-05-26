@@ -1,0 +1,26 @@
+{
+  "name": "Stairmaster",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, entre na escadaria e selecione a opção desejada no menu. Você pode escolher uma configuração manual ou pode selecionar um programa para executar. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício.",
+    "Pump suas pernas para cima e para baixo em um ritmo estabelecido, dirigindo os pedais para baixo, mas não todo o caminho para o chão. Recomenda-se que você mantenha sua aderência nas alças para que você não caia. As alças podem ser usadas para monitorar sua freqência cardíaca para ajudá-lo a ficar em uma intensidade adequada.",
+    "Stairmasters oferecem conveniência, benefícios cardiovasculares e geralmente têm menos impacto do que correr fora. Eles são tipicamente muito mais difíceis do que outros equipamentos de cardio. Uma pessoa de 150 lb normalmente queimará mais de 300 calorias em 30 minutos, em comparação com cerca de 175 calorias andando."
+  ],
+  "category": "cardio",
+  "images": [
+    "Stairmaster/0.jpg",
+    "Stairmaster/1.jpg"
+  ],
+  "id": "Stairmaster"
+}

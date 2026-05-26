@@ -1,0 +1,27 @@
+{
+  "name": "Stiff-Legged Dumbbell Deadlift",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Agarre um par de halteres segurando-os ao seu lado no comprimento do braço.",
+    "Fique com o tronco reto e as pernas espaçadas usando uma largura do ombro ou uma postura mais estreita. Os joelhos devem ser ligeiramente dobrados. Esta é a sua posição inicial.",
+    "Mantendo os joelhos estacionários, abaixe os halteres para o topo dos pés, dobrando-se na cintura, mantendo as costas retas. Continue avançando como se fosse escolher algo do chão até sentir um estiramento nos isquiotibiais. Expire enquanto realiza esse movimento",
+    "Comece a trazer seu tronco para cima em linha reta novamente, estendendo seus quadris e cintura até que você esteja de volta à posição inicial. Inspire enquanto você executa esse movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+    "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+  ],
+  "id": "Stiff-Legged_Dumbbell_Deadlift"
+}

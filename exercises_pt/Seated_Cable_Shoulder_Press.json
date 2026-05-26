@@ -1,0 +1,25 @@
+{
+  "name": "Imprensa do ombro do cabo sentado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Ajuste o peso para uma quantidade adequada e sentar-se, segurando as alças. Seus braços superiores devem ser de cerca de 90 graus para o corpo, com a cabeça e o peito para cima. Os cotovelos também devem ser dobrados para cerca de 90 graus. Esta será a sua posição inicial.",
+    "Comece estendendo-se através do cotovelo, pressionando as alças acima da cabeça.",
+    "Depois de pausar na parte superior, devolva as alças à posição inicial. Certifique-se de manter a tensão nos cabos.",
+    "Você também pode executar este movimento com as costas fora da almofada e mãos alternadas."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Cable_Shoulder_Press/0.jpg",
+    "Seated_Cable_Shoulder_Press/1.jpg"
+  ],
+  "id": "Seated_Cable_Shoulder_Press"
+}

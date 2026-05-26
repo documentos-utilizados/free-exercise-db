@@ -1,0 +1,24 @@
+{
+  "name": "One-Arm Kettlebell Military Press Para o Lado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe um kettlebell no ombro. Limpe o kettlebell no ombro, estendendo-se pelas pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso enquanto faz isso, para que a palma da mão fique voltada para dentro. Esta será sua posição inicial.",
+    "Olhe para o kettlebell e pressione-o para cima e para fora até que ele esteja bloqueado acima da cabeça.",
+    "Abaixe o kettlebell de volta ao seu ombro sob controle e repita. Certifique-se de contrair seu traseiro, bunda e estômago com força para maior estabilidade e força."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
+    "One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Military_Press_To_The_Side"
+}

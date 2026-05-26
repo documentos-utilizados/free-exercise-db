@@ -1,0 +1,25 @@
+{
+  "name": "Barbell Side Bend",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar"
+  ],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura uma barra colocada na parte de trás dos ombros (ligeiramente abaixo do pescoço). Seus pés devem estar separados pela largura do ombro. Esta será sua posição inicial.",
+    "Enquanto mantém as costas retas e a cabeça para cima, dobre apenas na cintura para a direita, tanto quanto possível. Respire enquanto se dobra para o lado. Em seguida, segure por um segundo e volte para a posição inicial enquanto expira. Dica: Mantenha o resto do corpo estacionário.",
+    "Agora repita o movimento, mas dobrando para a esquerda em vez. Segure por um segundo e volte para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Side_Bend/0.jpg",
+    "Barbell_Side_Bend/1.jpg"
+  ],
+  "id": "Barbell_Side_Bend"
+}

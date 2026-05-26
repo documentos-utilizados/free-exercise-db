@@ -1,0 +1,33 @@
+{
+  "name": "Barbell Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "dorsais",
+    "costas (meio)",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Fique na frente de uma barra carregada.",
+    "Mantendo a parte de trás o mais reta possível, dobre os joelhos, dobre para a frente e segure a barra usando um meio (largura do ombro) overhand grip. Esta será a posição inicial do exercício. Dica: Se for difícil segurar a barra com este aperto, alterne sua aderência ou use pulseiras.",
+    "Enquanto segura a barra, inicie o elevador empurrando com as pernas enquanto simultaneamente leva seu tronco para a posição vertical enquanto você expira. Na posição vertical, coloque o peito para fora e contraia as costas trazendo as omoplatas de volta. Pense em como os soldados do exército olham quando estão em pé na atenção.",
+    "Volte para a posição inicial, dobrando-se nos joelhos, ao mesmo tempo inclinando o tronco para a frente na cintura, mantendo as costas retas. Quando os pesos na barra tocam o chão, você está de volta na posição inicial e pronto para realizar outra repetição.",
+    "Execute a quantidade de repetições prescritas no programa."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Deadlift/0.jpg",
+    "Barbell_Deadlift/1.jpg"
+  ],
+  "id": "Barbell_Deadlift"
+}

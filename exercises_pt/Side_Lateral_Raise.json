@@ -1,0 +1,23 @@
+{
+  "name": "Lateral Lateral Lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Escolha um par de halteres e ficar com um tronco reto e os halteres ao seu lado no comprimento dos braços com as palmas da mão voltadas para você. Esta será a sua posição inicial.",
+    "Enquanto mantém o tronco em uma posição estacionária (sem oscilação), levante os halteres para o seu lado com uma ligeira curva no cotovelo e as mãos ligeiramente inclinadas para a frente como se derramando água em um copo. Continue a subir até que os braços estejam paralelos ao chão. Expire enquanto executa este movimento e faça uma pausa por um segundo no topo.",
+    "Abaixe os halteres para baixo lentamente para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Side_Lateral_Raise/0.jpg",
+    "Side_Lateral_Raise/1.jpg"
+  ],
+  "id": "Side_Lateral_Raise"
+}

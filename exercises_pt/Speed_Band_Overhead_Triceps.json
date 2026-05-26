@@ -1,0 +1,23 @@
+{
+  "name": "Faixa de velocidade Overhead Triceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para este exercício ancorar uma banda para o chão. Usamos um banco inclinado e ancorou a banda para a base, em pé sobre o banco. Alternativamente, isso poderia ser realizado em pé na banda.",
+    "Para começar, puxe a banda para trás da cabeça, segurando-a com uma preensão pronada e os cotovelos para cima. Esta será a sua posição inicial.",
+    "Para realizar o movimento, estenda-se através do cotovelo para endireitar os braços, garantindo que você mantenha seu braço no lugar.",
+    "Pausa e, em seguida, volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Speed_Band_Overhead_Triceps/0.jpg",
+    "Speed_Band_Overhead_Triceps/1.jpg"
+  ],
+  "id": "Speed_Band_Overhead_Triceps"
+}

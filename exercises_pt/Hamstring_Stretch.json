@@ -1,0 +1,22 @@
+{
+  "name": "estiramento Hamstring",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com uma perna estendida acima de você, com o quadril a noventa graus. Mantenha a outra perna plana no chão.",
+    "Loop um cinto, banda, ou corda sobre a bola do seu pé. Esta será a sua posição inicial.",
+    "Puxe o cinto para criar tensão nos bezerros e isquiotibiais. Segure este trecho por 10-30 segundos e repita com a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Hamstring_Stretch/0.jpg",
+    "Hamstring_Stretch/1.jpg"
+  ],
+  "id": "Hamstring_Stretch"
+}

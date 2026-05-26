@@ -1,0 +1,28 @@
+{
+  "name": "Cross Over - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Proteja uma banda de exercícios em torno de um poste estacionário.",
+    "Ao se afastar do post, pegue as alças em ambas as extremidades da banda e dê um passo à frente o suficiente para criar tensão na banda.",
+    "Levante os braços para os lados, paralelo ao chão, perpendicular ao seu tronco (seu tronco e os braços devem se assemelhar à letra \"T\") e com as palmas voltadas para a frente. Tenha-as estendidas com uma ligeira curvatura nos cotovelos. Esta será sua posição inicial.",
+    "Enquanto mantém os braços retos, leve-os através do peito em um movimento semicircular para a frente enquanto expira e flexiona seus peitos. Segure a contração por um segundo.",
+    "Retorne lentamente à posição inicial à medida que você inala.",
+    "Executar para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cross_Over_-_With_Bands/0.jpg",
+    "Cross_Over_-_With_Bands/1.jpg"
+  ],
+  "id": "Cross_Over_-_With_Bands"
+}

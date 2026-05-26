@@ -1,0 +1,25 @@
+{
+  "name": "Leg-Over Floor Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão com um kettlebell no lugar em seu peito, segurando-o pelo punho. Estenda a perna no lado de trabalho sobre a perna no lado não de trabalho. Seu braço livre pode ser estendido para o seu lado para apoio.",
+    "Pressione o kettlebll em uma posição bloqueada.",
+    "Abaixe o peso até que o cotovelo toque o chão, mantendo o kettlebell acima do cotovelo. Repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Leg-Over_Floor_Press/0.jpg",
+    "Leg-Over_Floor_Press/1.jpg"
+  ],
+  "id": "Leg-Over_Floor_Press"
+}

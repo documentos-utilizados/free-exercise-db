@@ -1,0 +1,27 @@
+{
+  "name": "Swing Vertical",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Permita que o haltere pendure no comprimento dos braços entre as pernas, segurando-o com as duas mãos. Mantenha as costas retas e a cabeça erguida.",
+    "Balance o haltere entre as pernas, flexionando nos quadris e dobrando os joelhos ligeiramente.",
+    "Reverta poderosamente o movimento, estendendo-se nos quadris, joelhos e tornozelos para impulsionar-se para cima, balançando o dumblell sobre sua cabeça.",
+    "medida que você aterrissa, absorva o impacto através de suas pernas e desenhe o haltere para o seu tronco antes da próxima repetição."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Vertical_Swing/0.jpg",
+    "Vertical_Swing/1.jpg"
+  ],
+  "id": "Vertical_Swing"
+}

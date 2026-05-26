@@ -1,0 +1,24 @@
+{
+  "name": "One-Arm Kettlebell Floor Press",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão segurando um kettlebell com uma mão, com o braço apoiado pelo chão. A palma da mão deve estar virada para dentro.",
+    "Pressione o kettlebell para cima em direção ao teto, girando o pulso.",
+    "Abaixe o kettlebell de volta para a posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Floor_Press/0.jpg",
+    "One-Arm_Kettlebell_Floor_Press/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Floor_Press"
+}

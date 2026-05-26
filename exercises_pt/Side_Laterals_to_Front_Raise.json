@@ -1,0 +1,27 @@
+{
+  "name": "Laterais laterais para aumentar a frente",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Em uma posição de pé, segure um par de halteres ao seu lado. Esta será a sua posição inicial.",
+    "Mantendo os cotovelos ligeiramente dobrados, eleve os pesos diretamente na sua frente para a altura do ombro, evitando qualquer balanço ou trapaça.",
+    "No topo do exercício mover os pesos para fora na frente de você, mantendo os braços estendidos.",
+    "Abaixe os pesos com um movimento controlado.",
+    "Na próxima repetição, eleve os pesos à sua frente para a altura do ombro antes de mover os pesos lateralmente para os lados.",
+    "Abaixe os pesos para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Side_Laterals_to_Front_Raise/0.jpg",
+    "Side_Laterals_to_Front_Raise/1.jpg"
+  ],
+  "id": "Side_Laterals_to_Front_Raise"
+}

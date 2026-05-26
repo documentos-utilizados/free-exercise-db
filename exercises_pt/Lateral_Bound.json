@@ -1,0 +1,30 @@
+{
+  "name": "Lateral Bound",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma posição de meia agachamento de frente para 90 graus de sua direção de viagem. Esta será a sua posição inicial.",
+    "Permita que sua perna de chumbo faça um contra-movimento para dentro à medida que você muda seu peso para a perna externa.",
+    "Imediatamente empurre e estenda, tentando amarrar para o lado, tanto quanto possível.",
+    "Ao pousar, empurre imediatamente na direção oposta, retornando à sua posição inicial original.",
+    "Continue para frente e para trás para várias repetições."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Lateral_Bound/0.jpg",
+    "Lateral_Bound/1.jpg"
+  ],
+  "id": "Lateral_Bound"
+}

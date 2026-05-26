@@ -1,0 +1,24 @@
+{
+  "name": "Sentado Close-Grip Concentração Barbell Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com uma barra ou barra E-Z na frente de você entre as pernas. Suas pernas devem ser espalhadas com os joelhos dobrados e os pés no chão.",
+    "Use os braços para pegar a barra para cima e coloque a parte de trás de seus braços em cima de suas coxas internas (cerca de três polegadas e meia de distância da frente do joelho). Uma aderência supinada mais perto do que a largura do ombro é necessária para realizar este exercício. Dica: Seu braço deve ser estendido no comprimento dos braços e a barra deve estar acima do chão. Esta será a sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos para a frente enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto respira. Dica: Evite movimentos de balanço a qualquer momento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Close-Grip_Concentration_Barbell_Curl/0.jpg",
+    "Seated_Close-Grip_Concentration_Barbell_Curl/1.jpg"
+  ],
+  "id": "Seated_Close-Grip_Concentration_Barbell_Curl"
+}

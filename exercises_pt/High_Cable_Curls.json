@@ -1,0 +1,23 @@
+{
+  "name": "Curls de cabo alto",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique entre um par de polias altas e pegue uma alça em cada braço. Posicione seus braços superiores de uma forma que eles são paralelos ao chão com as palmas das mãos voltadas para você. Esta será sua posição inicial.",
+    "Curl as alças em direção a você até que estejam ao lado de suas orelhas. Certifique-se de que, ao fazê-lo, você flexione o bíceps e expire. Os braços superiores devem permanecer estacionários e apenas os antebraços devem se mover. Segure por um segundo na posição contratada enquanto aperta o bíceps.",
+    "Lentamente trazer de volta os braços para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "High_Cable_Curls/0.jpg",
+    "High_Cable_Curls/1.jpg"
+  ],
+  "id": "High_Cable_Curls"
+}

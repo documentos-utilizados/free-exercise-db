@@ -1,0 +1,30 @@
+{
+  "name": "Bent mais de um braço longo Bar Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque o peso em uma das extremidades de uma barra olímpica. Certifique-se de colocar a outra extremidade da barra no canto de duas paredes; ou coloque um objeto pesado no chão para que a barra não possa deslizar para trás.",
+    "Dobre-se para a frente até que seu tronco esteja o mais próximo possível do chão e mantenha os joelhos ligeiramente dobrados.",
+    "Agora pegue a barra com um braço logo atrás das placas do lado onde o peso foi colocado e coloque sua outra mão no joelho. Esta será sua posição inicial.",
+    "Puxe a barra para cima com o cotovelo (para maximizar a estimulação das costas) até que as placas toquem o peito inferior. Aperte os músculos das costas enquanto levanta o peso e segure por um segundo na parte superior do movimento. Respire enquanto levanta o peso. Dica: Não permita nenhum balanço do tronco. Apenas o braço deve se mover.",
+    "Lentamente abaixe a barra para a posição inicial obtendo um trecho agradável nos lats. Dica: Não deixe as placas tocarem o chão. Para garantir a melhor amplitude de movimento, recomendo o uso de placas pequenas (25 libras) em oposição a placas maiores (como 35-45 libras).",
+    "Repita para a quantidade recomendada de repetições e troque os braços."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Over_One-Arm_Long_Bar_Row/0.jpg",
+    "Bent_Over_One-Arm_Long_Bar_Row/1.jpg"
+  ],
+  "id": "Bent_Over_One-Arm_Long_Bar_Row"
+}

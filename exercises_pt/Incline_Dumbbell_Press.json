@@ -1,0 +1,29 @@
+{
+  "name": "Incline Dumbbell Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado com um haltere em cada mão em cima de suas coxas. As palmas das suas mãos estarão viradas uma para a outra.",
+    "Em seguida, usando suas coxas para ajudar a empurrar os halteres para cima, levante os halteres um de cada vez para que você possa segurá-los na largura do ombro.",
+    "Uma vez que você tenha os halteres levantados para a largura do ombro, gire seus pulsos para a frente para que as palmas das suas mãos estejam voltadas para longe de você. Esta será sua posição inicial.",
+    "Certifique-se de manter o controle total dos halteres em todos os momentos. Em seguida, expire e empurre os halteres com o peito.",
+    "Tranque os braços no topo, segure por um segundo e, em seguida, comece a abaixar lentamente o peso. Dica Idealmente, a redução dos pesos deve levar cerca de duas vezes mais tempo do que elevá-los.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque os halteres de volta em suas coxas e, em seguida, no chão. Esta é a maneira mais segura de liberar os halteres."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Dumbbell_Press/0.jpg",
+    "Incline_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Incline_Dumbbell_Press"
+}

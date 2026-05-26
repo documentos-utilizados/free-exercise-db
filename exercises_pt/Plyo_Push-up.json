@@ -1,0 +1,28 @@
+{
+  "name": "Plyo Push-up",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Mova-se para uma posição propensa no chão, apoiando seu peso em suas mãos e dedos dos pés.",
+    "Seus braços devem ser totalmente estendidos com as mãos ao redor da largura do ombro. Mantenha seu corpo reto durante todo o movimento. Esta será sua posição inicial.",
+    "Desça flexionando-se no cotovelo, baixando o peito em direção ao chão.",
+    "Na parte inferior, reverta o movimento empurrando-se para cima através da extensão do cotovelo o mais rápido possível. Tente empurrar sua parte superior do corpo até que suas mãos saiam do chão.",
+    "Volte para a posição inicial e repita o exercício.",
+    "Para maior dificuldade, adicione palmas no movimento enquanto estiver com ar."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Plyo_Push-up/0.jpg",
+    "Plyo_Push-up/1.jpg"
+  ],
+  "id": "Plyo_Push-up"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Latissimus Dorsi-SMR",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto estiver deitado no chão, coloque um rolo de espuma sob as costas e para um lado, logo atrás do poço do braço. Esta será a sua posição inicial.",
+    "Mantenha o braço do lado sendo esticado para trás e para o lado de você enquanto você desloca seu peso para seus traseiros, mantendo sua parte superior do corpo fora do chão. Segure por 10-30 segundos e mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Latissimus_Dorsi-SMR/0.jpg",
+    "Latissimus_Dorsi-SMR/1.jpg"
+  ],
+  "id": "Latissimus_Dorsi-SMR"
+}

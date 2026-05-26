@@ -1,0 +1,25 @@
+{
+  "name": "Dumbbell Floor Press",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão segurando halteres em suas mãos. Seus joelhos podem ser dobrados. Comece com os pesos totalmente estendidos acima de você.",
+    "Abaixe os pesos até que seu braço entre em contato com o chão. Você pode dobrar os cotovelos para enfatizar o tamanho e a força do tríceps ou se concentrar no ângulo do peito para o lado.",
+    "Pausa na parte inferior e, em seguida, juntar o peso no topo, estendendo-se através dos cotovelos."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Dumbbell_Floor_Press/0.jpg",
+    "Dumbbell_Floor_Press/1.jpg"
+  ],
+  "id": "Dumbbell_Floor_Press"
+}

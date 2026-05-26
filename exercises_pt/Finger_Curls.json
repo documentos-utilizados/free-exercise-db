@@ -1,0 +1,23 @@
+{
+  "name": "Dedo Curls",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma barra com as duas mãos e as palmas das mãos viradas para cima; as mãos espaçadas sobre a largura do ombro.",
+    "Coloque os pés no chão, a uma distância ligeiramente mais larga do que a largura do ombro. Esta será a sua posição inicial.",
+    "Abaixe a barra, tanto quanto possível, estendendo os dedos. Permitindo que a barra role para baixo as mãos, pegue a barra com a junta final nos dedos.",
+    "Agora enrole a barra o mais alto possível fechando as mãos enquanto expira. Segure a contração no topo."
+  ],
+  "category": "strength",
+  "images": [
+    "Finger_Curls/0.jpg",
+    "Finger_Curls/1.jpg"
+  ],
+  "id": "Finger_Curls"
+}

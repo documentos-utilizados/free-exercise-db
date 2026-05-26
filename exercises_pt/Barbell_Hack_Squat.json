@@ -1,0 +1,27 @@
+{
+  "name": "Barbell Hack Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura uma barra atrás de você no comprimento dos braços e seus pés na largura do ombro. Dica: Um aperto de largura do ombro é melhor com as palmas das mãos voltadas para trás. Você pode usar envoltórios de pulso para este exercício para uma melhor aderência. Esta será a sua posição inicial.",
+    "Enquanto mantém a cabeça e os olhos para cima e para trás em linha reta, agache até que suas coxas superiores estejam paralelas ao chão. Respire enquanto você lentamente desce.",
+    "Pressionando principalmente com o calcanhar do pé e apertando as coxas, volte para cima enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Hack_Squat/0.jpg",
+    "Barbell_Hack_Squat/1.jpg"
+  ],
+  "id": "Barbell_Hack_Squat"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Declínio Crunch",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Proteja as pernas no final do banco declinante e deite-se.",
+    "Agora coloque as mãos levemente em ambos os lados da cabeça mantendo os cotovelos. Dica: Não tranque os dedos atrás da cabeça.",
+    "Enquanto empurra o pequeno de suas costas para baixo no banco para melhor isolar seus músculos abdominais, começar a rolar os ombros fora dele.",
+    "Continue a empurrar para baixo o máximo que puder com a parte inferior das costas enquanto contrai seus abdominais e expira. Seus ombros devem subir do banco apenas cerca de quatro polegadas, e sua parte inferior das costas deve permanecer no banco. No topo do movimento, contraia seus abdominais com força e mantenha a contração por um segundo. Dica: Concentre-se em movimento lento e controlado - não se engane usando o impulso.",
+    "Após a contração de um segundo, comece a descer lentamente novamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Crunch/0.jpg",
+    "Decline_Crunch/1.jpg"
+  ],
+  "id": "Decline_Crunch"
+}

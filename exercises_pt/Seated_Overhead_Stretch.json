@@ -1,0 +1,23 @@
+{
+  "name": "Assento Overhead Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em linha reta em um tapete de exercício.",
+    "Toque as solas de seus pés junto com seus pés de seis a oito polegadas na frente de seus quadris.",
+    "Coloque uma mão no chão ao lado de você e sua outra mão atrás de sua cabeça.",
+    "Levante o cotovelo para o teto enquanto inclina o tronco para o outro lado. Segure por 10 a 20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Seated_Overhead_Stretch/0.jpg",
+    "Seated_Overhead_Stretch/1.jpg"
+  ],
+  "id": "Seated_Overhead_Stretch"
+}

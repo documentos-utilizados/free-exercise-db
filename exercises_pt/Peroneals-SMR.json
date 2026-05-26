@@ -1,0 +1,21 @@
+{
+  "name": "Peroneais-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado, apoiando seu peso no antebraço e em um rolo de espuma colocado na parte externa da perna. Sua perna superior pode estar em cima da perna, ou você pode cruzá-la na frente de você. Esta será sua posição inicial.",
+    "Levante os quadris do chão e comece a rolar de baixo do joelho para acima do tornozelo na lateral da perna, pausando em pontos de tensão por 10-30 segundos. Repita na outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Peroneals-SMR/0.jpg",
+    "Peroneals-SMR/1.jpg"
+  ],
+  "id": "Peroneals-SMR"
+}

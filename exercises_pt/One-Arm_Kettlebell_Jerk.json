@@ -1,0 +1,27 @@
+{
+  "name": "Um braço Kettlebell Jerk",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure um kettlebell pela alça. Limpe o kettlebell para o ombro, estendendo-se pelas pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso enquanto faz isso, para que a palma da mão fique voltada para a frente. Esta será sua posição inicial.",
+    "Mergulhe seu corpo dobrando os joelhos, mantendo seu tronco ereto.",
+    "Imediatamente inverter a direção, dirigindo através dos calcanhares, em essência, saltando para criar impulso. Como você faz isso, pressione a sobrecarga kettlebell para bloquear, estendendo os braços, usando o impulso do seu corpo para mover o peso. Receba o peso acima, retornando a uma posição de agachamento sob o peso. Mantendo o peso acima, volte a uma posição de pé.",
+    "Reduza o peso para realizar a próxima repetição."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Jerk/0.jpg",
+    "One-Arm_Kettlebell_Jerk/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Jerk"
+}

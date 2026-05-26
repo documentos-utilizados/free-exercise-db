@@ -1,0 +1,25 @@
+{
+  "name": "Deitado Cabo Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue uma barra reta ou um acessório de barra E-Z que esteja conectado à polia baixa com as duas mãos, usando um aperto de largura do ombro (palmas voltadas para cima).",
+    "Deite-se de costas em cima de uma esteira de exercícios na frente da pilha de peso com os pés contra o quadro da máquina de polia e as pernas retas.",
+    "Com os braços estendidos e os cotovelos próximos ao corpo, dobre ligeiramente os braços. Esta será a sua posição inicial.",
+    "Enquanto mantém os braços parados e os cotovelos perto do corpo, enrole a barra lentamente em direção ao peito enquanto expira e aperta o bíceps.",
+    "Depois de um segundo aperto na parte superior do movimento, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Cable_Curl/0.jpg",
+    "Lying_Cable_Curl/1.jpg"
+  ],
+  "id": "Lying_Cable_Curl"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kettlebell de um braço limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés. Enquanto você se curva para pegar o kettlebell, empurre sua bunda para trás e mantenha seus olhos olhando para a frente.",
+    "Limpe o kettlebell para os ombros, estendendo-se pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você faz isso.",
+    "Retorne o peso para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Clean/0.jpg",
+    "One-Arm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Clean"
+}

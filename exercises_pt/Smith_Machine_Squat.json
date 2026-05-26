@@ -1,0 +1,30 @@
+{
+  "name": "Smith Máquina Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Para começar, primeiro defina a barra na altura que melhor corresponde à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando ambos os braços em cada lado (palmas viradas para a frente), desbloqueie-o e levante-o do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando seu tronco.",
+    "Posicione as pernas usando uma postura média de largura do ombro com os dedos ligeiramente apontados. Mantenha a cabeça erguida o tempo todo e também mantenha as costas retas. Esta será sua posição inicial. (Nota: Para os fins desta discussão, usaremos a postura média que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posições discutidas na seção de posturas dos pés).",
+    "Comece a abaixar lentamente a barra dobrando os joelhos enquanto você mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e os bezerros se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo paralelamente ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos do pé que são perpendiculares.",
+    "Comece a levantar a barra enquanto você expira, empurrando o chão com o calcanhar do pé enquanto você endireita as pernas novamente e volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Squat/0.jpg",
+    "Smith_Machine_Squat/1.jpg"
+  ],
+  "id": "Smith_Machine_Squat"
+}

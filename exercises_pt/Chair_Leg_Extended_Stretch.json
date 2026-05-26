@@ -1,0 +1,25 @@
+{
+  "name": "Perna da cadeira estiramento estendido",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Sente-se ereto em uma cadeira e segure o assento nas laterais.",
+    "Levante uma perna, estendendo o joelho, flexionando o tornozelo enquanto faz isso.",
+    "Lentamente mova essa perna para fora o mais longe que puder, e depois de volta para o centro e para baixo.",
+    "Repita para a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chair_Leg_Extended_Stretch/0.jpg",
+    "Chair_Leg_Extended_Stretch/1.jpg"
+  ],
+  "id": "Chair_Leg_Extended_Stretch"
+}

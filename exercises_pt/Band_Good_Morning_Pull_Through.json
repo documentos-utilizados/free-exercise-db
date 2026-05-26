@@ -1,0 +1,25 @@
+{
+  "name": "Banda Bom Dia (Pull Through)",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Loop a banda em torno de um post. De pé um pouco de distância, loop a extremidade oposta ao redor do pescoço. Suas mãos podem ajudar a manter a banda na posição.",
+    "Comece dobrando-se nos quadris, obtendo o seu bumbum de volta o mais longe possível. Mantenha as costas planas e dobre para a frente a cerca de 90 graus. Seus joelhos devem ser apenas ligeiramente dobrados.",
+    "Regresse à posição de partida com os quadris para voltar a uma posição de pé."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Band_Good_Morning_Pull_Through/0.jpg",
+    "Band_Good_Morning_Pull_Through/1.jpg"
+  ],
+  "id": "Band_Good_Morning_Pull_Through"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Extensão de um braço pronated Dumbbell Triceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco enquanto segura um haltere no comprimento dos braços. Seu braço deve ser perpendicular ao seu corpo. A palma da sua mão deve estar voltada para seus pés, pois é necessária uma preensão pronada para realizar este exercício.",
+    "Coloque sua mão sem levantar em seu bíceps para apoio.",
+    "Lentamente, comece a baixar o haltere enquanto você respira.",
+    "Em seguida, comece a levantar o haltere para cima enquanto contrai o tríceps. Lembre-se de respirar durante o concêntrico (parte de levantamento do exercício).",
+    "Repita até que você tenha realizado suas repetições definidas.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Arm_Pronated_Dumbbell_Triceps_Extension/0.jpg",
+    "One_Arm_Pronated_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension"
+}

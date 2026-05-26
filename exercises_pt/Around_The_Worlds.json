@@ -1,0 +1,24 @@
+{
+  "name": "Ao redor dos mundos",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano segurando um haltere em cada mão com as palmas das mãos voltadas para o teto. Dica: Seus braços devem ser paralelos ao chão e ao lado de suas coxas. Para evitar lesões, certifique-se de manter os cotovelos ligeiramente dobrados. Esta será sua posição inicial.",
+    "Agora mova os halteres criando um semicírculo enquanto você os desloca da posição inicial para a cabeça. Todo o movimento deve acontecer com os braços paralelos ao chão em todos os momentos. Respire enquanto executa essa parte do movimento.",
+    "Inverta o movimento para retornar o peso para a posição inicial enquanto expira."
+  ],
+  "category": "strength",
+  "images": [
+    "Around_The_Worlds/0.jpg",
+    "Around_The_Worlds/1.jpg"
+  ],
+  "id": "Around_The_Worlds"
+}

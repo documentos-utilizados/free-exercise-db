@@ -1,0 +1,28 @@
+{
+  "name": "Limpar Kettlebell de dois braços",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells entre os pés. Para entrar na posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe os kettlebells para os ombros, estendendo-se através das pernas e quadris enquanto levanta os kettlebells em direção aos ombros. Gire seus pulsos enquanto faz isso.",
+    "Abaixe os kettlebells de volta para a posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Two-Arm_Kettlebell_Clean/0.jpg",
+    "Two-Arm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "Two-Arm_Kettlebell_Clean"
+}

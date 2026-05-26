@@ -1,0 +1,23 @@
+{
+  "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extensão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Com um haltere em cada mão e as palmas das mãos voltadas para o tronco, dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Certifique-se de manter a cabeça erguida. Os braços superiores devem estar próximos ao tronco e paralelos ao chão, enquanto os antebraços estão apontando para o chão enquanto as mãos seguram os pesos. Dica: Deve haver uma posição inicial de 90 graus.",
+    "Mantendo os braços superiores estacionários, use o tríceps para levantar os pesos enquanto expira até que os antebraços estejam paralelos ao chão e os braços inteiros sejam estendidos. Como muitos outros exercícios de braço, apenas o antebraço se move.",
+    "Depois de uma segunda contração no topo, abaixe lentamente os halteres de volta à sua posição inicial à medida que você inala.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension"
+}

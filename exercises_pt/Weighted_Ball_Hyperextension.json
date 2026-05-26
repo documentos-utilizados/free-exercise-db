@@ -1,0 +1,27 @@
+{
+  "name": "Hiperextensão de Bola Ponderada",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Para começar, deite-se em uma bola de exercício com o tronco pressionando contra a bola e paralelo ao chão. A bola de seus pés deve ser pressionada contra o chão para ajudar a mantê-lo equilibrado. Coloque uma placa ponderada sob o queixo ou atrás do pescoço. Esta é a posição inicial.",
+    "Levante lentamente o tronco dobrando-se na cintura e na parte inferior das costas. Lembre-se de expirar durante este movimento.",
+    "Segure a contração na parte inferior das costas por um segundo e abaixe o tronco de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Ball_Hyperextension/0.jpg",
+    "Weighted_Ball_Hyperextension/1.jpg"
+  ],
+  "id": "Weighted_Ball_Hyperextension"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Declínio Smith Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um banco de declínio sob a máquina Smith. Agora coloque a barra em uma altura que você pode alcançar quando deitado e seus braços estão quase totalmente estendidos. Usando um aperto pronado que é mais largo do que a largura do ombro, desbloqueie a barra do rack e segure-a diretamente sobre você com os braços estendidos. Esta será sua posição inicial.",
+    "medida que você inala, abaixe a barra sob controle, permitindo que os cotovelos se flexionem, entrando em contato com o tronco.",
+    "Depois de uma breve pausa, traga a barra de volta para a posição inicial, estendendo os cotovelos, expirando enquanto você faz isso.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando o conjunto estiver completo, bloqueie a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Smith_Press/0.jpg",
+    "Decline_Smith_Press/1.jpg"
+  ],
+  "id": "Decline_Smith_Press"
+}

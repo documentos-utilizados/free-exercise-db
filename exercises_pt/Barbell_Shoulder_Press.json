@@ -1,0 +1,27 @@
+{
+  "name": "Barbell Ombro Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco com apoio de volta em um rack de agachamento. Posicione uma barra em uma altura que está logo acima de sua cabeça. Pegue a barra com um aperto pronado (palmeiras voltadas para a frente).",
+    "Uma vez que você pegar a barra com a largura de aderência correta, levante a barra acima de sua cabeça, travando os braços. Segure no nível do ombro e ligeiramente na frente de sua cabeça. Esta é a sua posição inicial.",
+    "Abaixe a barra até os ombros lentamente enquanto você inala.",
+    "Levante a barra de volta para a posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Shoulder_Press/0.jpg",
+    "Barbell_Shoulder_Press/1.jpg"
+  ],
+  "id": "Barbell_Shoulder_Press"
+}

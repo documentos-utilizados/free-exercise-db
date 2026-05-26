@@ -1,0 +1,26 @@
+{
+  "name": "Rodízio de Feitiço",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um haltere em cada mão com uma preensão pronada. Seus pés devem ser largos com seus quadris e joelhos estendidos. Esta será sua posição inicial.",
+    "Comece o movimento puxando os dois halteres para um lado ao lado do quadril, girando seu tronco.",
+    "Mantendo os braços retos e os halteres paralelos ao chão, gire o tronco para balançar os pesos para o lado oposto.",
+    "Continue alternando, girando de um lado para o outro até que o conjunto esteja completo."
+  ],
+  "category": "strength",
+  "images": [
+    "Spell_Caster/0.jpg",
+    "Spell_Caster/1.jpg"
+  ],
+  "id": "Spell_Caster"
+}

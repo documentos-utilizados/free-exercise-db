@@ -1,0 +1,27 @@
+{
+  "name": "Aperto dianteiro (aperto limpo)",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, primeiro defina a barra em um rack ligeiramente abaixo do nível do ombro. Descanse a barra em cima dos deltóides, empurrando para as clavículas e tocando levemente a garganta. Suas mãos devem estar em um aperto limpo, tocando a barra apenas com os dedos para ajudar a mantê-lo em posição.",
+    "Levante a barra do rack empurrando primeiro com as pernas e, ao mesmo tempo, endireitando o tronco. Afaste-se do rack e posicione as pernas usando uma posição média de largura do ombro com os dedos dos pés ligeiramente apontados. Mantenha sua cabeça e cotovelos para cima em todos os momentos. Esta será a sua posição inicial.",
+    "Dobre-se nos joelhos, sentando-se entre as pernas. Continue para baixo até que seus isquiotibiais estejam em suas panturrilhas. Mantenha seus joelhos alinhados com seus pés usando conscientemente seus abdutores para empurrar seus joelhos para fora enquanto você se agacha.",
+    "Comece a levantar a barra à medida que expira, empurrando o chão principalmente com o calcanhar ou o meio do pé, enquanto endireita as pernas novamente e retorna à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Squat_Clean_Grip/0.jpg",
+    "Front_Squat_Clean_Grip/1.jpg"
+  ],
+  "id": "Front_Squat_Clean_Grip"
+}

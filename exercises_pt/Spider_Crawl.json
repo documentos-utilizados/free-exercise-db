@@ -1,0 +1,26 @@
+{
+  "name": "Spider Crawl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma posição propensa no chão. Apoie seu peso em suas mãos e dedos dos pés, com seus pés juntos e seu corpo reto. Seus braços devem ser dobrados a 90 graus. Esta será sua posição inicial.",
+    "Inicie o movimento levantando um pé do chão. Gire externamente a perna e traga o joelho em direção ao cotovelo, o mais longe possível.",
+    "Volte esta perna para a posição inicial e repita no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Spider_Crawl/0.jpg",
+    "Spider_Crawl/1.jpg"
+  ],
+  "id": "Spider_Crawl"
+}

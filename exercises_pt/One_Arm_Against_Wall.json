@@ -1,0 +1,21 @@
+{
+  "name": "Um braço contra a parede",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "De uma posição de pé, coloque um braço dobrado contra uma parede ou porta.",
+    "Lentamente, incline-se em direção ao seu braço até sentir um estiramento em seus traseiros."
+  ],
+  "category": "stretching",
+  "images": [
+    "One_Arm_Against_Wall/0.jpg",
+    "One_Arm_Against_Wall/1.jpg"
+  ],
+  "id": "One_Arm_Against_Wall"
+}

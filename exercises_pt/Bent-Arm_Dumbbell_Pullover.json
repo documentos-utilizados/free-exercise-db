@@ -1,0 +1,29 @@
+{
+  "name": "Pulôver de dumbbell Bent-Arm",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um haltere em pé em um banco plano.",
+    "Garantir que o haltere permaneça firmemente colocado no topo do banco, fique perpendicular ao banco (torso através dele como na formação de uma cruz) com apenas os ombros deitados na superfície. Os quadris devem estar abaixo do banco e as pernas dobradas com os pés firmemente no chão. A cabeça também estará fora do banco.",
+    "Segure o haltere com as duas mãos e segure-o diretamente sobre o peito com uma curva em seus braços. Ambas as palmas das mãos devem estar pressionando contra a parte inferior de um dos lados do haltere. Esta será a sua posição inicial. Cuidado: Sempre certifique-se de que o haltere usado para este exercício é seguro. Usando um haltere com placas soltas pode resultar no haltere caindo e caindo em seu rosto.",
+    "Enquanto mantém os braços fechados na posição do braço dobrado, reduza o peso lentamente em um arco atrás da cabeça enquanto respira até sentir um alongamento no peito.",
+    "Nesse ponto, traga o haltere de volta para a posição inicial usando o arco através do qual o peso foi reduzido e expire enquanto você executa esse movimento.",
+    "Segure o peso na posição inicial por um segundo e repita o movimento para o número prescrito de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent-Arm_Dumbbell_Pullover/0.jpg",
+    "Bent-Arm_Dumbbell_Pullover/1.jpg"
+  ],
+  "id": "Bent-Arm_Dumbbell_Pullover"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Bola de medicina torção completa",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará de uma bola de remédios e um parceiro. Volte para trás com seu parceiro, espaçado a 2 a 3 metros de distância. Esta será sua posição inicial.",
+    "Segure a bola na frente do tronco. Abra os quadris e vire os ombros ao mesmo tempo que seu parceiro.",
+    "Para a rotação total, você e seu parceiro devem torcer na mesma direção, ou seja, no sentido anti-horário.",
+    "Passe a bola para o seu parceiro, e ambos agora podem torcer na direção oposta para repetir o procedimento."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Medicine_Ball_Full_Twist/0.jpg",
+    "Medicine_Ball_Full_Twist/1.jpg"
+  ],
+  "id": "Medicine_Ball_Full_Twist"
+}

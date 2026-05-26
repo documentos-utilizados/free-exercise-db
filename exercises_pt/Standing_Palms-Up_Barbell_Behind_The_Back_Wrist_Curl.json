@@ -1,0 +1,25 @@
+{
+  "name": "De pé Palms-Up Barbell atrás do punho traseiro Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece por ficar em linha reta e segurando uma barra atrás de seus glúteos no comprimento do braço, enquanto usando um aperto pronado (palmas estarão voltadas para trás longe dos glúteos) e tendo suas mãos largura do ombro para além um do outro.",
+    "Você deve estar olhando para a frente enquanto seus pés estão com a largura do ombro separada um do outro. Esta é a posição inicial.",
+    "Ao expirar, eleve lentamente a barra enrolando o pulso em um movimento semicircular em direção ao teto. Nota: Seu pulso deve ser a única parte do corpo que se move para este exercício.",
+    "Segure a contração por um segundo e abaixe a barra de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Quando terminar, abaixe a barra até o rack de agachamento ou o chão dobrando os joelhos. Dica: É mais fácil pegá-lo de um rack de agachamento ou ter um parceiro entregá-lo a você."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/0.jpg",
+    "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/1.jpg"
+  ],
+  "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl"
+}

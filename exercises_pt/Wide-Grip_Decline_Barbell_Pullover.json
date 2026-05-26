@@ -1,0 +1,28 @@
+{
+  "name": "Pulôver de Barbell de Declínio de Grande Preenchimento",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco de declínio com ambas as pernas firmemente trancadas na posição. Alcance a barra atrás da cabeça usando um aperto pronado (palmas viradas para fora). Certifique-se de agarrar a barra mais larga do que a largura do ombro para este exercício. Lentamente levante a barra do chão usando os braços.",
+    "Quando posicionado corretamente, seus braços devem ser totalmente estendidos e perpendiculares ao chão. Esta é a posição inicial.",
+    "Comece movendo a barra de volta para baixo em um movimento semicircular como se você fosse colocá-lo no chão, mas, em vez disso, pare quando os braços estiverem paralelos ao chão. Dica: Mantenha os braços totalmente estendidos em todos os momentos. O movimento só deve acontecer na articulação do ombro. Inale enquanto você executa essa parte do movimento.",
+    "Agora traga a barra para cima enquanto expira até que você esteja de volta na posição inicial. Lembre-se de manter o controle total da barra em todos os momentos.",
+    "Repita o movimento para a quantidade prescrita de repetições do seu programa de treinamento.",
+    "Quando terminar com o conjunto, abaixe lentamente a barra de volta para baixo até que esteja nivelada com a cabeça e solte-a."
+  ],
+  "category": "strength",
+  "images": [
+    "Wide-Grip_Decline_Barbell_Pullover/0.jpg",
+    "Wide-Grip_Decline_Barbell_Pullover/1.jpg"
+  ],
+  "id": "Wide-Grip_Decline_Barbell_Pullover"
+}

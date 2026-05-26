@@ -1,0 +1,22 @@
+{
+  "name": "Rotações de pulso com barra reta",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma barra com as duas mãos e as palmas das mãos viradas para baixo; as mãos espaçadas sobre a largura do ombro. Esta será a sua posição inicial.",
+    "Alternando entre cada uma de suas mãos, realize o movimento estendendo o pulso como se estivesse rolando um jornal. Continue alternando para frente e para trás até o fracasso.",
+    "Inverta o movimento flexionando o pulso, rolando na direção oposta. Continue o movimento alternado até a falha."
+  ],
+  "category": "strength",
+  "images": [
+    "Wrist_Rotations_with_Straight_Bar/0.jpg",
+    "Wrist_Rotations_with_Straight_Bar/1.jpg"
+  ],
+  "id": "Wrist_Rotations_with_Straight_Bar"
+}

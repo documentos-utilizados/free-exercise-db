@@ -1,0 +1,24 @@
+{
+  "name": "Grab superior Back-Leg",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Enquanto estiver sentado, dobre para a frente para abraçar suas coxas de baixo com ambos os braços.",
+    "Mantenha os joelhos juntos e as pernas estendidas enquanto você baixa o peito até os joelhos. Você também pode esticar as costas do meio puxando as costas para longe de seus joelhos enquanto os abraça."
+  ],
+  "category": "stretching",
+  "images": [
+    "Upper_Back-Leg_Grab/0.jpg",
+    "Upper_Back-Leg_Grab/1.jpg"
+  ],
+  "id": "Upper_Back-Leg_Grab"
+}

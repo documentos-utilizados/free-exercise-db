@@ -1,0 +1,24 @@
+{
+  "name": "Trunchas Pesadas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés no chão ou descansando em um banco com os joelhos dobrados em um ângulo de 90 graus.",
+    "Segure um peso no peito, ou você pode segurá-lo estendido acima do seu tronco. Esta será a sua posição inicial.",
+    "Agora, expire e comece lentamente a rolar os ombros do chão. Seus ombros devem subir do chão cerca de 4 polegadas enquanto sua parte inferior das costas permanece no chão.",
+    "No topo do movimento, flexione os abdominais e segure por uma breve pausa.",
+    "Em seguida, inale e abaixe-se lentamente de volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Crunches/0.jpg",
+    "Weighted_Crunches/1.jpg"
+  ],
+  "id": "Weighted_Crunches"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Supina de dois braços Overhead Throw",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão de costas com os joelhos dobrados.",
+    "Segure a bola com as duas mãos, estendendo os braços completamente atrás de sua cabeça. Esta será a sua posição inicial.",
+    "Inicie o movimento no ombro, jogando a bola diretamente para a frente de você enquanto você se senta, tentando ir para a distância máxima.",
+    "A bola pode ser jogada para um parceiro ou saltada de uma parede."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Supine_Two-Arm_Overhead_Throw/0.jpg",
+    "Supine_Two-Arm_Overhead_Throw/1.jpg"
+  ],
+  "id": "Supine_Two-Arm_Overhead_Throw"
+}

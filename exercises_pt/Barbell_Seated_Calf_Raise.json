@@ -1,0 +1,25 @@
+{
+  "name": "Barbell Assento Calf Raise",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um bloco cerca de 12 polegadas na frente de um banco plano.",
+    "Sente-se no banco e coloque a bola dos seus pés no bloco.",
+    "Peça a alguém que coloque uma barra sobre suas coxas superiores cerca de 3 polegadas acima dos joelhos e segure-a lá. Esta será sua posição inicial.",
+    "Levante-se sobre os dedos dos pés o mais alto possível como você apertar os bezerros e como você respirar.",
+    "Depois de uma segunda contração, volte lentamente para a posição inicial. Dica: Para obter o máximo benefício estique seus bezerros o mais longe possível.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Seated_Calf_Raise/0.jpg",
+    "Barbell_Seated_Calf_Raise/1.jpg"
+  ],
+  "id": "Barbell_Seated_Calf_Raise"
+}

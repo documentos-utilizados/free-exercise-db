@@ -1,0 +1,24 @@
+{
+  "name": "Assento Palms-Abaixo Barbell Wrist Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma barra com as duas mãos e as palmas das mãos voltadas para baixo; as mãos espaçadas sobre a largura do ombro.",
+    "Coloque os pés no chão, a uma distância ligeiramente maior do que a largura do ombro.",
+    "Incline-se para a frente e coloque os antebraços em cima das coxas superiores com as palmas das mãos para baixo. Dica: Certifique-se de que a parte de trás dos pulsos esteja sobre os joelhos. Esta será a sua posição inicial.",
+    "Abaixe a barra o máximo possível enquanto inala e mantém um aperto apertado.",
+    "Agora enrole a barra o mais alto possível enquanto flexiona os antebraços e expira. Segure a contração no topo por um segundo e Dica: Apenas o pulso deve se mover."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Palms-Down_Barbell_Wrist_Curl/0.jpg",
+    "Seated_Palms-Down_Barbell_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_Palms-Down_Barbell_Wrist_Curl"
+}

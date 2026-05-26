@@ -1,0 +1,25 @@
+{
+  "name": "Passo a passo com aumento de joelho",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique de frente para uma caixa ou banco de altura apropriada com os pés juntos. Esta será a sua posição inicial.",
+    "Comece o movimento pisando, colocando o pé esquerdo no topo do banco. Estenda-se pelo quadril e joelho da perna dianteira para ficar de pé na caixa. Enquanto você fica na caixa com a perna esquerda, flexione o joelho direito e o quadril, trazendo o joelho o mais alto possível.",
+    "Inverta este movimento para descer da caixa e, em seguida, repita a sequência na perna oposta."
+  ],
+  "category": "strength",
+  "images": [
+    "Step-up_with_Knee_Raise/0.jpg",
+    "Step-up_with_Knee_Raise/1.jpg"
+  ],
+  "id": "Step-up_with_Knee_Raise"
+}

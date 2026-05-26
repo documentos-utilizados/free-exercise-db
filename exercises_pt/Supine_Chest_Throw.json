@@ -1,0 +1,26 @@
+{
+  "name": "Supino Peito Throw",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Esta broca é ótima para passagens no peito quando você não tem um parceiro ou uma parede de força suficiente. Deite-se no chão de costas com os joelhos dobrados.",
+    "Comece com a bola no peito, realizada com as duas mãos no fundo.",
+    "Explodir, estendendo-se através do cotovelo para jogar a bola diretamente acima de você o mais alto possível.",
+    "Pegue a bola com as duas mãos enquanto ela desce."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Supine_Chest_Throw/0.jpg",
+    "Supine_Chest_Throw/1.jpg"
+  ],
+  "id": "Supine_Chest_Throw"
+}

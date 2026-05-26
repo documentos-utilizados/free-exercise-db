@@ -1,0 +1,21 @@
+{
+  "name": "Empurre a imprensa",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [],
+  "category": "olympic weightlifting",
+  "images": [
+    "Push_Press/0.jpg",
+    "Push_Press/1.jpg"
+  ],
+  "id": "Push_Press"
+}

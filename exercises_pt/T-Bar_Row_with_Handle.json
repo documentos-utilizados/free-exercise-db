@@ -1,0 +1,27 @@
+{
+  "name": "T-Bar Row com alça",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Posicione uma barra em uma mina terrestre ou em um canto para evitar que ela se mova. Carregue um peso apropriado na ponta.",
+    "Fique sobre a barra e posicione uma alça de linha D dupla ao redor da barra ao lado do colarinho. Usando seus quadris e pernas, suba para uma posição de pé.",
+    "Assuma uma postura ampla com os quadris para trás e o peito para cima. Seus braços devem ser estendidos. Esta será sua posição inicial.",
+    "Puxe o peso para o abdômen superior, retraindo as omoplatas e flexionando os cotovelos. Não empurre o peso ou trapaceie durante o movimento.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "T-Bar_Row_with_Handle/0.jpg",
+    "T-Bar_Row_with_Handle/1.jpg"
+  ],
+  "id": "T-Bar_Row_with_Handle"
+}

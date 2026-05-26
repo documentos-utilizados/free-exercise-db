@@ -1,0 +1,27 @@
+{
+  "name": "Deadlift Romeno do Déficit",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece de pé enquanto segura uma barra no comprimento do braço na frente de você. Você pode ficar em uma plataforma elevada para aumentar a amplitude de movimento.",
+    "Comece flexionando ligeiramente os joelhos e, em seguida, flexione no quadril, movendo o bumbum para trás o mais longe possível, diminuindo o tronco até onde a flexibilidade permite. As costas devem permanecer em extensão absoluta em todos os momentos e a barra deve permanecer em contato com as pernas. Se feito corretamente, deve haver forte tensão sentida nos isquiotibiais.",
+    "Inverta o movimento para retornar à posição inicial."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Romanian_Deadlift_from_Deficit/0.jpg",
+    "Romanian_Deadlift_from_Deficit/1.jpg"
+  ],
+  "id": "Romanian_Deadlift_from_Deficit"
+}

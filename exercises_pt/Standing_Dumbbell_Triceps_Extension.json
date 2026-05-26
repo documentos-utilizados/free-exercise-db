@@ -1,0 +1,24 @@
+{
+  "name": "Extensão Dumbbell Triceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, levante-se com um haltere segurado por ambas as mãos. Seus pés devem ser sobre a largura do ombro distante um do outro. Use lentamente ambas as mãos para agarrar o haltere e levantá-lo sobre sua cabeça até que ambos os braços estejam totalmente estendidos.",
+    "A resistência deve estar descansando nas palmas das mãos com os polegares ao redor. A palma das mãos deve estar voltada para o teto. Esta será sua posição inicial.",
+    "Mantendo os braços superiores próximos à cabeça com os cotovelos e perpendiculares ao chão, reduza a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem seu bíceps. Dica: Os braços superiores devem permanecer estacionários e apenas os antebraços devem se mover. Respire enquanto você executa este passo.",
+    "Volte para a posição inicial usando o tríceps para levantar o haltere. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Triceps_Extension"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Máquina mentirosa Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Ajuste a máquina da perna a uma altura que lhe permitirá entrar nela com os joelhos dobrados e as coxas ligeiramente abaixo do paralelo.",
+    "Depois de selecionar o peso, posicione-se dentro da máquina de rosto para cima com os joelhos dobrados e coxas ligeiramente abaixo paralelo à plataforma. Certifique-se de que os joelhos não passar os dedos dos pés. O ângulo criado entre os isquiotibiais e os bezerros deve ser aquele que é ligeiramente inferior a 90 graus (uma vez que a sua posição inicial exige que você comece ligeiramente abaixo do paralelo). Suas costas e sua cabeça devem estar descansando na máquina enquanto seus ombros são pressionados sob as almofadas.",
+    "Coloque as mãos pelas alças e posicione os pés ligeiramente apontando para uma posição de largura do ombro. Esta será a sua posição inicial.",
+    "Enquanto pressiona com as bolas dos pés enquanto expira, erga todo o seu corpo enquanto aperta os quadris. Mantenha a posição contraída por um segundo. Dica: Uma vez que você está começando abaixo do paralelo, você pode optar por usar suas mãos para ajudá-lo pressionando suas coxas apenas na primeira repetição.",
+    "Lentamente agachamento para baixo como você inalar, mas em vez de ir todo o caminho até a posição inicial, basta parar uma vez que suas coxas são paralelas à plataforma. O ângulo entre seus isquiotibiais e bezerros deve ser um ângulo de 90 graus.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Machine_Squat/0.jpg",
+    "Lying_Machine_Squat/1.jpg"
+  ],
+  "id": "Lying_Machine_Squat"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Máquina Preacher Curls",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na Preacher Curl Machine e selecione o peso.",
+    "Coloque a parte de trás de seus braços superiores (seu tríceps) na almofada do pregador fornecida e pegue as alças usando um aperto de mão (palmas viradas para cima). Dica: Certifique-se de que, quando você colocar os braços na almofada, mantenha os cotovelos. Esta será sua posição inicial.",
+    "Agora levante as alças enquanto expira e contrai o bíceps. No topo da posição, certifique-se de manter a contração por um segundo. Dica: Apenas os antebraços devem se mover. Os braços superiores devem permanecer estacionários e na almofada em todos os momentos.",
+    "Abaixe as alças lentamente de volta à posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Machine_Preacher_Curls/0.jpg",
+    "Machine_Preacher_Curls/1.jpg"
+  ],
+  "id": "Machine_Preacher_Curls"
+}

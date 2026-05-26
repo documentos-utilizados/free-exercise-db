@@ -1,0 +1,25 @@
+{
+  "name": "Reverter Barbell Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical enquanto segura uma barra na largura do ombro com os cotovelos perto do tronco. A palma das suas mãos deve estar voltada para baixo (aperto pronado). Esta será a sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e a barra esteja no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o músculo.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Barbell_Curl/0.jpg",
+    "Reverse_Barbell_Curl/1.jpg"
+  ],
+  "id": "Reverse_Barbell_Curl"
+}

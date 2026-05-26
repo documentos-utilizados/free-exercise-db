@@ -1,0 +1,25 @@
+{
+  "name": "Trilha Running/Walking",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Correr ou caminhar em trilhas fará com que o sangue bombeie e o coração bata quase imediatamente. Certifique-se de ter bons sapatos. Enquanto você usa os músculos em suas panturrilhas e nádegas para se puxar até uma colina, os joelhos, articulações e tornozelos absorvem a maior parte da batida voltando para baixo. Dê passos menores enquanto caminha para baixo, mantenha os joelhos dobrados para reduzir o impacto e diminua para evitar cair.",
+    "Uma pessoa de 150 lb pode queimar mais de 200 calorias por 30 minutos caminhando para cima, em comparação com 175 em uma superfície plana. Se correr a trilha, uma pessoa de 150 lb pode queimar bem mais de 500 calorias em 30 minutos."
+  ],
+  "category": "cardio",
+  "images": [
+    "Trail_Running_Walking/0.jpg",
+    "Trail_Running_Walking/1.jpg"
+  ],
+  "id": "Trail_Running_Walking"
+}

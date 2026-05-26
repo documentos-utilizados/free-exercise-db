@@ -1,0 +1,24 @@
+{
+  "name": "Calf em pé levanta",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca acolchoada da máquina de elevação da panturrilha para se ajustar à sua altura.",
+    "Coloque os ombros sob as almofadas fornecidas e posicione os dedos dos pés voltados para a frente (ou usando qualquer uma das duas outras posições descritas no início do capítulo). As bolas dos pés devem ser fixadas em cima do bloco da panturrilha com os calcanhares estendidos. Empurre a alavanca para cima estendendo os quadris e os joelhos até que seu tronco esteja ereto. Os joelhos devem ser mantidos com uma ligeira curvatura; nunca bloqueados. Os dedos devem estar voltados para a frente, para fora ou para dentro.",
+    "Levante os calcanhares enquanto expira, estendendo os tornozelos o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho é mantido parado em todos os momentos. Não deve haver flexão a qualquer momento. Mantenha a posição contraída por um segundo antes de começar a voltar para baixo.",
+    "Volte lentamente para a posição inicial enquanto respira, baixando os calcanhares enquanto dobra os tornozelos até que os bezerros sejam esticados.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Calf_Raises/0.jpg",
+    "Standing_Calf_Raises/1.jpg"
+  ],
+  "id": "Standing_Calf_Raises"
+}

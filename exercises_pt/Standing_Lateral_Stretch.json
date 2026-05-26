@@ -1,0 +1,23 @@
+{
+  "name": "Esticamento lateral em pé",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Tome uma posição ligeiramente mais larga do que a distância do quadril com os joelhos ligeiramente dobrados.",
+    "Coloque a mão direita no quadril direito para apoiar a coluna vertebral.",
+    "Levante o braço esquerdo em uma linha vertical e coloque a mão esquerda atrás da cabeça. Mantenha-o lá enquanto inclina o tronco para a direita.",
+    "Mantenha seu peso uniformemente distribuído entre as duas pernas (não se incline para o quadril esquerdo)."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Lateral_Stretch/0.jpg",
+    "Standing_Lateral_Stretch/1.jpg"
+  ],
+  "id": "Standing_Lateral_Stretch"
+}

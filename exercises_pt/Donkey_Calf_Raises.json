@@ -1,0 +1,24 @@
+{
+  "name": "Donkey Calf levanta",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para este exercício, você precisará de acesso a uma máquina de aumento de bezerro de burro. Comece posicionando sua parte inferior das costas e quadris sob a alavanca acolchoada fornecida. A área do tailbone deve ser a que faz contato com a almofada.",
+    "Coloque os dois braços nas alças laterais e coloque as bolas dos pés no bloco da panturrilha com os calcanhares estendidos. Alinhe os dedos dos pés para a frente, para dentro ou para fora, dependendo da área que você deseja atingir, e endireite os joelhos sem bloqueá-los. Esta será sua posição inicial.",
+    "Levante os calcanhares enquanto expira, estendendo os tornozelos o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho é mantido parado em todos os momentos. Não deve haver flexão a qualquer momento. Mantenha a posição contraída por um segundo antes de começar a voltar para baixo.",
+    "Volte lentamente para a posição inicial enquanto respira, baixando os calcanhares enquanto dobra os tornozelos até que os bezerros sejam esticados.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Donkey_Calf_Raises/0.jpg",
+    "Donkey_Calf_Raises/1.jpg"
+  ],
+  "id": "Donkey_Calf_Raises"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Yoke Walk",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "O jugo é geralmente feito com um aparelho de jugo, mas às vezes é visto com refrigeradores ou outros objetos pesados.",
+    "Comece por empilhar o aparelho na parte de trás dos ombros. Com a cabeça voltada para a frente e para trás arqueada, levante o jugo dirigindo pelos calcanhares.",
+    "Comece a andar o mais rápido possível usando passos curtos e rápidos. Você pode segurar os postes laterais do jugo para ajudar a estabilizá-lo e mantê-lo em posição. Continue para a distância dada o mais rápido possível, geralmente 75-100 pés."
+  ],
+  "category": "strongman",
+  "images": [
+    "Yoke_Walk/0.jpg",
+    "Yoke_Walk/1.jpg"
+  ],
+  "id": "Yoke_Walk"
+}

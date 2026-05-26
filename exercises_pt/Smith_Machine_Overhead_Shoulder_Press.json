@@ -1,0 +1,26 @@
+{
+  "name": "Smith Máquina Overhead Ombro Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Para começar, coloque um banco plano (ou de preferência um com suporte para trás) sob uma máquina de ferreiro. Posicione a barra em uma altura de modo que, quando sentado no banco plano, os braços devem ser quase totalmente estendidos para alcançar a barra.",
+    "Depois de ter a altura correta, sente-se ligeiramente atrás da barra para que haja uma linha reta imaginária da ponta do nariz para a barra. Seus pés devem estar estacionários. Pegue a barra com as palmas voltadas para a frente, desbloqueie-a e levante-a para que seus braços estejam totalmente estendidos. Esta é a posição inicial.",
+    "Lentamente, comece a abaixar a barra até que ela esteja nivelada com o queixo enquanto inala.",
+    "Em seguida, levante a barra de volta para a posição inicial usando os ombros enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Overhead_Shoulder_Press/0.jpg",
+    "Smith_Machine_Overhead_Shoulder_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Overhead_Shoulder_Press"
+}

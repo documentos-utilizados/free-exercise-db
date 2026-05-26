@@ -1,0 +1,27 @@
+{
+  "name": "Prensa de bancada com correntes",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Ajuste a corrente líder, encurtando-a para o comprimento desejado. Coloque as correntes nas mangas da barra.",
+    "Deitado no banco, coloque a cabeça para além da barra, se possível. Coloque os pés debaixo de você e arqueie as costas. Usando a barra para ajudar a suportar o seu peso, levante o ombro do banco e retraia-os, apertando as omoplatas juntas. Use os pés para conduzir suas armadilhas para o banco. Mantenha esta posição do corpo apertado durante todo o movimento. No entanto, largura de sua aderência, ele deve cobrir o anel na barra.",
+    "Puxe a barra para fora do rack sem puxar os ombros. Concentre-se em apertar a barra e tentar separá-la. Abaixe a barra no peito inferior ou no estômago superior. A barra, o pulso e o cotovelo devem permanecer na linha o tempo todo.",
+    "Pausa quando a barra toca seu tronco e, em seguida, conduza a barra para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Bench_Press_with_Chains/0.jpg",
+    "Bench_Press_with_Chains/1.jpg"
+  ],
+  "id": "Bench_Press_with_Chains"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Pendurar limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece com uma largura do ombro, punho de mão ou gancho duplo, com a barra pendurada na posição central da coxa. Suas costas devem estar retas e inclinadas ligeiramente para a frente.",
+    "Comece estendendo-se agressivamente através dos quadris, joelhos e tornozelos, dirigindo o peso para cima. Ao fazê-lo, encolher os ombros em direção às orelhas.",
+    "Recupere-se imediatamente dirigindo através dos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até que você tenha subido a uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Hang_Clean/0.jpg",
+    "Hang_Clean/1.jpg"
+  ],
+  "id": "Hang_Clean"
+}

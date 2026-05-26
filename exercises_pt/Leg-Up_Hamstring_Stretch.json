@@ -1,0 +1,22 @@
+{
+  "name": "Perna-Up Hamstring estiramento",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas, dobre um joelho e coloque o pé no chão para estabilizar a coluna.",
+    "Estenda a outra perna no ar. Se você estiver apertado, você não será capaz de endireitá-lo. Tudo bem. Estenda o joelho para que a sola do pé levantado fique voltada para o teto (ou o mais perto que puder).",
+    "Lentamente endireitar as pernas, tanto quanto possível e, em seguida, puxar a perna em direção ao nariz."
+  ],
+  "category": "stretching",
+  "images": [
+    "Leg-Up_Hamstring_Stretch/0.jpg",
+    "Leg-Up_Hamstring_Stretch/1.jpg"
+  ],
+  "id": "Leg-Up_Hamstring_Stretch"
+}

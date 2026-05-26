@@ -1,0 +1,26 @@
+{
+  "name": "Suspensão de Push-Up",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Ancorar suas correias de suspensão firmemente para o topo de um rack ou outro objeto.",
+    "Inclinando-se para as alças, pegue uma alça em cada mão e mova-se para uma posição de prancha push-up. Você deve estar tão perto de paralelo ao chão quanto você pode gerenciar com os braços totalmente estendidos, mantendo uma boa postura.",
+    "Mantendo um torso reto e rígido, desça lentamente, permitindo que os cotovelos se flexionem.",
+    "Continue até que seus cotovelos quebrem 90 graus, pausando antes de se estender para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Suspended_Push-Up/0.jpg",
+    "Suspended_Push-Up/1.jpg"
+  ],
+  "id": "Suspended_Push-Up"
+}

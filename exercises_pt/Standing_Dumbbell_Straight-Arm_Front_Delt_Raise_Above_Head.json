@@ -1,0 +1,24 @@
+{
+  "name": "De pé Dumbbell Straight-Arm Front Delt levantar acima da cabeça",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure os halteres na frente de suas coxas, palmas viradas para suas coxas.",
+    "Mantenha os braços retos com uma ligeira curvatura nos cotovelos, mas mantenha-os trancados. Esta será a sua posição inicial.",
+    "Levante os halteres em um movimento semicircular para o comprimento do braço acima enquanto você expira.",
+    "Volte lentamente para a posição inicial usando o mesmo caminho que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/0.jpg",
+    "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head"
+}

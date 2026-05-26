@@ -1,0 +1,28 @@
+{
+  "name": "Split Jump",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Assuma uma posição de postura com um pé para frente com o joelho dobrado, e o joelho traseiro quase tocando o chão.",
+    "Certifique-se de que o joelho da frente esteja acima da linha média do pé.",
+    "Estendendo-se através de ambas as pernas, pule o mais alto possível, balançando os braços para ganhar sustentação.",
+    "Ao pular, junte os pés e mova-os de volta para suas posições iniciais enquanto aterrissa.",
+    "Absorva o impacto revertendo para a posição inicial."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Split_Jump/0.jpg",
+    "Split_Jump/1.jpg"
+  ],
+  "id": "Split_Jump"
+}

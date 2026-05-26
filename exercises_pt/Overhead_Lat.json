@@ -1,0 +1,24 @@
+{
+  "name": "Overhead Lat",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão com seu parceiro atrás de você. Levante um braço para cima e flexione o cotovelo, tentando tocar sua mão nas costas. Seu parner deve segurar seu tríceps e pulso. Esta será sua posição inicial.",
+    "Tente puxar o braço para o seu lado, pois seu parceiro impede que você faça isso.",
+    "Depois de 10-20 segundos, relaxe o braço e permita que seu parceiro estique ainda mais o lat aplicando uma pressão suave ao tríceps. Segure por 10-20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Overhead_Lat/0.jpg",
+    "Overhead_Lat/1.jpg"
+  ],
+  "id": "Overhead_Lat"
+}

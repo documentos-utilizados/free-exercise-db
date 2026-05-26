@@ -1,0 +1,28 @@
+{
+  "name": "Agachamento ponderado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece posicionando dois bancos planos largura do ombro para além um do outro. Fique em cima deles e enrole o cinto ponderado em torno de sua cintura com a quantidade de peso que você se sente confortável com. Certifique-se de que seus dedos estão voltados para fora.",
+    "Uma vez que você está em pé com o peso pendurado entre as pernas, posicione os braços para que eles sejam totalmente estendidos para o lado do seu corpo. Esta é a posição inicial.",
+    "Comece dobrando os joelhos enquanto você mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e os bezerros se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo paralelas ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos dos pés que são perpendiculares ao exercício frontal.",
+    "Comece a mover o corpo de volta para cima, empurrando o chão do banco plano com a bola do seu pé, principalmente como você endireitar as pernas novamente e voltar para a posição inicial. Expire como você executar esta parte do exercício.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Squat/0.jpg",
+    "Weighted_Squat/1.jpg"
+  ],
+  "id": "Weighted_Squat"
+}

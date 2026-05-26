@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell One-Arm Ombro Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue um haltere e sentar-se em um banco de imprensa militar ou um banco de utilitário que tem um apoio de volta sobre ele como você colocar os halteres em cima de suas coxas ou ficar em pé em linha reta.",
+    "Limpe o haltere para cima para levá-lo à altura do ombro. A outra mão pode ser mantida totalmente estendida para o lado, pela cintura ou agarrando uma superfície fixa.",
+    "Gire o pulso para que a palma da sua mão esteja voltada para a frente. Esta é a sua posição inicial.",
+    "Ao expirar, empurre o haltere até que seu braço esteja totalmente estendido.",
+    "Depois de uma segunda pausa, desça lentamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições e, em seguida, troque os braços."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_One-Arm_Shoulder_Press/0.jpg",
+    "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
+  ],
+  "id": "Dumbbell_One-Arm_Shoulder_Press"
+}

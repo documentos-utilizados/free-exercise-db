@@ -1,0 +1,25 @@
+{
+  "name": "Esticamento médio das costas",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "dorsais",
+    "lombar"
+  ],
+  "instructions": [
+    "Fique de pé para que seus pés estejam separados pela largura do ombro e suas mãos estejam em seus quadris.",
+    "Torça na cintura até sentir um estiramento. Segure por 10 a 15 segundos e, em seguida, torça para o outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Middle_Back_Stretch/0.jpg",
+    "Middle_Back_Stretch/1.jpg"
+  ],
+  "id": "Middle_Back_Stretch"
+}

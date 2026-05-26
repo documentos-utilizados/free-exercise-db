@@ -1,0 +1,27 @@
+{
+  "name": "Prensa pescoço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano. Usando um aperto de largura média (uma aderência que cria um ângulo de 90 graus no meio do movimento entre os antebraços e os braços superiores), levante a barra do rack e segure-a diretamente sobre o pescoço com os braços bloqueados. Esta será sua posição inicial.",
+    "medida que você respira, desça lentamente até sentir a barra no pescoço.",
+    "Depois de uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Tranque os braços e esprema o peito na posição contraída, segure por um segundo e comece a descer lentamente novamente. Dica: Deve demorar pelo menos duas vezes mais tempo para descer do que para subir).",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Neck_Press/0.jpg",
+    "Neck_Press/1.jpg"
+  ],
+  "id": "Neck_Press"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Balance Board",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Coloque um tabuleiro de equilíbrio na sua frente.",
+    "Levante-se e tente equilibrar-se.",
+    "Mantenha o equilíbrio pelo tempo que desejar."
+  ],
+  "category": "strength",
+  "images": [
+    "Balance_Board/0.jpg",
+    "Balance_Board/1.jpg"
+  ],
+  "id": "Balance_Board"
+}

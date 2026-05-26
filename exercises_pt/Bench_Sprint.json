@@ -1,0 +1,27 @@
+{
+  "name": "Bench Sprint",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique no chão com um pé descansando em um banco ou caixa com o calcanhar perto da borda.",
+    "Empurre com o pé em cima do banco, estendendo-se através do quadril e do joelho.",
+    "Aterre com o pé oposto em cima da caixa, retornando seu outro pé de volta para a posição inicial.",
+    "Continue alternando de um pé para outro para completar o conjunto."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Bench_Sprint/0.jpg",
+    "Bench_Sprint/1.jpg"
+  ],
+  "id": "Bench_Sprint"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Barbell Traseira Delt Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura uma barra usando um punho largo (mais alto do que a largura do ombro) e overhand (palms de frente para o seu corpo).",
+    "Dobre os joelhos ligeiramente e dobre-se enquanto mantém o arco natural das costas. Deixe os braços pendurados à sua frente enquanto seguram a barra. Uma vez que o seu tronco esteja paralelo ao chão, acenda os cotovelos para fora e para longe do seu corpo. Dica: O seu tronco e os seus braços devem assemelhar-se à letra \"T\". Agora você está pronto para começar o exercício.",
+    "Enquanto mantém os braços superiores perpendiculares ao tronco, puxe a barra para cima em direção ao peito superior enquanto aperta os delts traseiros e expira. Dica: Quando realizado corretamente, este exercício deve se assemelhar a um supino ao contrário. Além disso, evite usar seu bíceps para fazer o trabalho. Concentre-se em mirar os delts traseiros; os braços só devem agir como ganchos.",
+    "Lentamente, volte para a posição inicial à medida que você respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Rear_Delt_Row/0.jpg",
+    "Barbell_Rear_Delt_Row/1.jpg"
+  ],
+  "id": "Barbell_Rear_Delt_Row"
+}

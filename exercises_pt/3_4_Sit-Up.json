@@ -1,0 +1,24 @@
+{
+  "name": "3/4 Sit-Up",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão e prenda os pés. Suas pernas devem ser dobradas nos joelhos.",
+    "Coloque as mãos atrás ou para o lado da cabeça. Você começará com as costas no chão. Esta será sua posição inicial.",
+    "Flexione os quadris e a coluna para levantar o tronco em direção aos joelhos.",
+    "Na parte superior da contração, o tronco deve ser perpendicular ao solo. Reverta o movimento, indo apenas 34 do caminho para baixo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "3_4_Sit-Up/0.jpg",
+    "3_4_Sit-Up/1.jpg"
+  ],
+  "id": "3_4_Sit-Up"
+}

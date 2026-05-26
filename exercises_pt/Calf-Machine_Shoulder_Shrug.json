@@ -1,0 +1,23 @@
+{
+  "name": "Calf-Machine Shoulder Shrug",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione-se na máquina de panturrilha para que as ombreiras estejam acima dos ombros. Seu tronco deve estar reto com os braços estendidos normalmente ao seu lado. Esta será sua posição inicial.",
+    "Levante os ombros para cima em direção aos ouvidos enquanto expira e segure a contração por um segundo completo.",
+    "Retorne lentamente à posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Calf-Machine_Shoulder_Shrug/0.jpg",
+    "Calf-Machine_Shoulder_Shrug/1.jpg"
+  ],
+  "id": "Calf-Machine_Shoulder_Shrug"
+}

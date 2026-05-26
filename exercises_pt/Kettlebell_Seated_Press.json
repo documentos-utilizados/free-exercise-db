@@ -1,0 +1,24 @@
+{
+  "name": "Kettlebell Assento Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se no chão e espalhe as pernas confortavelmente.",
+    "Limpe um kettlebell para o seu ombro.",
+    "Pressione o kettlebell para cima e para fora até que ele esteja bloqueado acima da cabeça. Volte para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Seated_Press/0.jpg",
+    "Kettlebell_Seated_Press/1.jpg"
+  ],
+  "id": "Kettlebell_Seated_Press"
+}

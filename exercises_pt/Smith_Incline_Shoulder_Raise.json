@@ -1,0 +1,27 @@
+{
+  "name": "Smith Incline aumenta ombro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral"
+  ],
+  "instructions": [
+    "Coloque um banco inclinado sob a máquina de ferreiro. Coloque a barra em uma altura que você pode alcançar quando deitado e seus braços estão quase totalmente estendidos. Uma vez que o peso que você precisa é selecionado, deite-se no banco inclinado e certifique-se de que seus ombros estejam alinhados logo abaixo da barra.",
+    "Usando um aperto pronated da largura do ombro (palms para a frente), levante a barra do rack e segure-a em linha reta sobre você com uma ligeira curvatura nos cotovelos. Esta será sua posição inicial.",
+    "Ao expirar, levante a barra até que seus braços estejam totalmente estendidos. Nota: A contração deve ser sentida ao redor dos ombros.",
+    "Depois de uma segunda pausa, traga a barra de volta para a posição inicial enquanto você respira.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Incline_Shoulder_Raise/0.jpg",
+    "Smith_Incline_Shoulder_Raise/1.jpg"
+  ],
+  "id": "Smith_Incline_Shoulder_Raise"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Frente Squats com dois Kettlebells",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells para os ombros. Limpe os kettlebells para os ombros, estendendo-se através das pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire seus pulsos enquanto faz isso.",
+    "Olhando para a frente em todos os momentos, agachamento tão baixo quanto você pode e pausar na parte inferior. Como você agachamento, empurrar os joelhos para fora. Você deve agachamento entre as pernas, mantendo um tronco vertical, com a cabeça e o peito para cima.",
+    "Levante-se dirigindo pelos calcanhares e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Squats_With_Two_Kettlebells/0.jpg",
+    "Front_Squats_With_Two_Kettlebells/1.jpg"
+  ],
+  "id": "Front_Squats_With_Two_Kettlebells"
+}

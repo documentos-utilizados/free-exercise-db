@@ -1,0 +1,30 @@
+{
+  "name": "Box Skip",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Você vai precisar de várias caixas alinhadas cerca de 8 metros de distância.",
+    "Comece de frente para a primeira caixa com uma perna ligeiramente atrás da outra.",
+    "Saia da perna traseira, tentando ganhar o máximo de altura com os quadris quanto possível.",
+    "Imediatamente após o pouso na caixa, dirija a outra perna para frente e para cima para ganhar altura e distância, saltando da caixa. Aterre entre as duas primeiras caixas com a mesma perna que pousou na primeira caixa.",
+    "Em seguida, vá para a próxima caixa e repita."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Box_Skip/0.jpg",
+    "Box_Skip/1.jpg"
+  ],
+  "id": "Box_Skip"
+}

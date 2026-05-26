@@ -1,0 +1,23 @@
+{
+  "name": "Flexor ajoelhe-se do quadril",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "quadríceps"
+  ],
+  "instructions": [
+    "Ajoelhe-se em um tapete e traga seu joelho direito para cima para que o fundo do seu pé esteja no chão e estenda sua perna esquerda para trás para que o topo do seu pé esteja no chão.",
+    "Mude seu peso para a frente até sentir um estiramento no quadril. Segure por 15 segundos e repita para o outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Kneeling_Hip_Flexor/0.jpg",
+    "Kneeling_Hip_Flexor/1.jpg"
+  ],
+  "id": "Kneeling_Hip_Flexor"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Extensão da cabeça do tríceps com corda",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe uma corda a uma polia baixa. Depois de selecionar um peso apropriado, agarre a corda com as duas mãos e fique longe do cabo.",
+    "Posicione as mãos atrás da cabeça com os cotovelos apontados para cima. Seus cotovelos devem começar flexionados, e você pode cambalear sua posição e se inclinar suavemente para longe da máquina para criar maior estabilidade. Esta será sua posição inicial.",
+    "Para realizar o movimento, estenda-se através do cotovelo, mantendo a parte superior do braço em posição, levantando as mãos acima da cabeça.",
+    "Aperte o tríceps no topo do movimento e diminua lentamente o peso de volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Triceps_Overhead_Extension_with_Rope/0.jpg",
+    "Triceps_Overhead_Extension_with_Rope/1.jpg"
+  ],
+  "id": "Triceps_Overhead_Extension_with_Rope"
+}

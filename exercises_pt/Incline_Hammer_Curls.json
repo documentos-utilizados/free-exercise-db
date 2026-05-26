@@ -1,0 +1,22 @@
+{
+  "name": "Incline Hammer Curls",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco inclinado com um haltere em cada mão. Você deve pressionar firmemente contra ele de volta com os pés juntos. Permita que os halteres pendurem diretamente ao seu lado, segurando-os com um aperto neutro. Esta será sua posição inicial.",
+    "Inicie o movimento flexionando-se no cotovelo, tentando manter a parte superior do braço estacionária.",
+    "Continue até o topo do movimento e pause, em seguida, retorne lentamente para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Hammer_Curls/0.jpg",
+    "Incline_Hammer_Curls/1.jpg"
+  ],
+  "id": "Incline_Hammer_Curls"
+}

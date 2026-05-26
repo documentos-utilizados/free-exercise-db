@@ -1,0 +1,25 @@
+{
+  "name": "Plataforma Hamstring Slides",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Para este movimento é necessário um piso de madeira ou similar. Deite-se de costas com as pernas estendidas. Coloque uma toalha de ginástica ou um peso leve sob o calcanhar. Esta será sua posição inicial.",
+    "Comece o movimento flexionando o joelho, mantendo sua outra perna reta.",
+    "Continue trazendo o calcanhar mais perto de você, deslizando-o no chão.",
+    "Na flexão total do joelho, reverta o movimento para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Platform_Hamstring_Slides/0.jpg",
+    "Platform_Hamstring_Slides/1.jpg"
+  ],
+  "id": "Platform_Hamstring_Slides"
+}

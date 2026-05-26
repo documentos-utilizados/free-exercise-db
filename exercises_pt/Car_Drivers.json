@@ -1,0 +1,25 @@
+{
+  "name": "Motoristas de carro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Enquanto estiver de pé, segure uma placa de barra em ambas as mãos nas posições de 3 e 9 horas. Suas palmas das mãos devem estar voltadas umas para as outras e seus braços devem ser estendidos diretamente na frente de você. Esta será sua posição inicial.",
+    "Inicie o movimento girando a placa o mais longe possível para um lado. Use o mesmo tipo de movimento que você usaria para girar um volante para um lado.",
+    "Inverta o movimento, virando-o para o lado oposto.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Car_Drivers/0.jpg",
+    "Car_Drivers/1.jpg"
+  ],
+  "id": "Car_Drivers"
+}

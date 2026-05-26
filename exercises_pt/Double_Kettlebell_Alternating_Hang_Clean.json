@@ -1,0 +1,30 @@
+{
+  "name": "Duplo Kettlebell Alternating Hang Limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells entre os pés. Para entrar na posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe um kettlebell no ombro e segure o outro kettlebell.",
+    "Com um movimento fluido, abaixe o kettlebell superior enquanto dirige o kettlebell inferior para cima."
+  ],
+  "category": "strength",
+  "images": [
+    "Double_Kettlebell_Alternating_Hang_Clean/0.jpg",
+    "Double_Kettlebell_Alternating_Hang_Clean/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Alternating_Hang_Clean"
+}

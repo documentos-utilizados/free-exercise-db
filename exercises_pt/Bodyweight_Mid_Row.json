@@ -1,0 +1,25 @@
+{
+  "name": "Bodyweight Mid Row",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Comece tomando um aperto médio a largo em um aparelho pull-up com as palmas das mãos voltadas para longe de você. De uma posição suspensa, prenda os joelhos ao peito, inclinando-se para trás e colocando as pernas sobre o lado do aparelho pull-up. Esta será sua posição inicial.",
+    "Começando com os braços retos, flexione os cotovelos e retraia as omoplatas para levantar o corpo até que as pernas entrem em contato com o aparelho de puxar.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Bodyweight_Mid_Row/0.jpg",
+    "Bodyweight_Mid_Row/1.jpg"
+  ],
+  "id": "Bodyweight_Mid_Row"
+}

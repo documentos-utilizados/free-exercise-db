@@ -1,0 +1,30 @@
+{
+  "name": "Um braço Chin-Up",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsais"
+  ],
+  "instructions": [
+    "Para este exercício, comece colocando uma toalha em torno de uma barra de queixo para cima.",
+    "Pegue a barra chin-up com a palma da mão virada para você. Uma mão estará agarrando a barra chin-up e a outra estará agarrando a toalha.",
+    "Traga o seu tronco de volta em torno de 30 graus ou mais, enquanto cria uma curvatura na parte inferior das costas e colocando o peito para fora. Esta é a sua posição inicial.v",
+    "Puxe o tronco para cima até que a barra toque a parte superior do peito, puxando os ombros e os braços para baixo e para trás. Expire enquanto você executa essa parte do movimento. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição contratada completa. O tronco superior deve permanecer estacionário à medida que se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo na posição contraída, comece a inalar e abaixe lentamente o tronco de volta para a posição inicial quando seus braços estiverem totalmente estendidos e os braços estiverem totalmente esticados.",
+    "Repita este movimento para a quantidade prescrita de repetições.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Arm_Chin-Up/0.jpg",
+    "One_Arm_Chin-Up/1.jpg"
+  ],
+  "id": "One_Arm_Chin-Up"
+}

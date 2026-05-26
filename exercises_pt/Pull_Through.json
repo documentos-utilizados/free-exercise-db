@@ -1,0 +1,24 @@
+{
+  "name": "Puxar através",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece a ficar alguns pés na frente de uma polia baixa com uma corda ou alça presa. Rosto longe da máquina, abrangendo o cabo, com os pés bem separados.",
+    "Comece o movimento estendendo-se através das pernas o máximo possível, dobrando-se nos quadris. Mantenha os joelhos ligeiramente dobrados. Mantenha os braços retos, estenda-se através do quadril para ficar em linha reta. Evite puxar para cima através dos ombros; todo o movimento deve se originar através dos quadris."
+  ],
+  "category": "strength",
+  "images": [
+    "Pull_Through/0.jpg",
+    "Pull_Through/1.jpg"
+  ],
+  "id": "Pull_Through"
+}

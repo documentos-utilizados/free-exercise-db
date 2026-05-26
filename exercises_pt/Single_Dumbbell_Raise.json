@@ -1,0 +1,25 @@
+{
+  "name": "nico Dumbbell Raise",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com uma posição ampla, segure um dumblell com as duas mãos, segurando a cabeça do haltere em vez da alça. Seus braços devem ser estendidos e pendurados na cintura. Esta será sua posição inicial.",
+    "Eleve o peso até que esteja acima do nível do ombro, mantendo os braços estendidos. Seu tronco e quadris devem permanecer estacionários durante todo o movimento.",
+    "Volte para a posição inicial e repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Single_Dumbbell_Raise/0.jpg",
+    "Single_Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Single_Dumbbell_Raise"
+}

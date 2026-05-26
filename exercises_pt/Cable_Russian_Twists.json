@@ -1,0 +1,26 @@
+{
+  "name": "Cabo russo Twists",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte um acessório de alça padrão e posicione o cabo em uma posição de polia do meio.",
+    "Deite-se em uma bola de estabilidade perpendicular ao cabo e pegue a alça com uma mão. Você deve estar aproximadamente o comprimento do braço longe da polia, com a tensão do peso no cabo.",
+    "Segure a alça com as duas mãos e estenda totalmente os braços acima do peito. Suas mãos devem estar diretamente em linha com a polia. Caso contrário, ajuste a polia para cima ou para baixo até que estejam.",
+    "Mantenha seus quadris elevados e abs envolvidos. Gire seu tronco longe da polia para uma rotação de quarto inteiro. Seu corpo deve estar plano da cabeça aos joelhos.",
+    "Pausar por um momento e de forma lenta e controlada redefinir para a posição inicial. Você ainda deve ter tensão lateral no cabo na posição de descanso.",
+    "Repita o mesmo movimento para o fracasso.",
+    "Em seguida, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Russian_Twists/0.jpg",
+    "Cable_Russian_Twists/1.jpg"
+  ],
+  "id": "Cable_Russian_Twists"
+}

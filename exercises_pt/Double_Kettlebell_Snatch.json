@@ -1,0 +1,26 @@
+{
+  "name": "Duplo Kettlebell Snatch",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells atrás dos pés. Dobre os joelhos e sente-se para pegar os kettlebells.",
+    "Balance os kettlebells entre as pernas com força e reverta a direção.",
+    "Dirija com seus quadris e tranque os kettlebells acima em um movimento ininterrupto."
+  ],
+  "category": "strength",
+  "images": [
+    "Double_Kettlebell_Snatch/0.jpg",
+    "Double_Kettlebell_Snatch/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Snatch"
+}

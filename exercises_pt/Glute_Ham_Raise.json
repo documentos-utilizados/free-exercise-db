@@ -1,0 +1,25 @@
+{
+  "name": "Glute Ham Raise",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Comece ajustando o equipamento para caber seu corpo. Coloque seus pés contra a placa de pé entre os rolos enquanto você se deita de frente para baixo. Seus joelhos devem estar logo atrás da almofada.",
+    "Comece a partir da parte inferior do movimento. Mantenha as costas arqueadas enquanto você começa o movimento flexionando os joelhos. Dirija os dedos dos pés para a placa do pé enquanto faz isso. Mantenha sua parte superior do corpo reta e continue até que seu corpo esteja ereto.",
+    "Volte para a posição inicial, mantendo sua descida sob controle."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Glute_Ham_Raise/0.jpg",
+    "Glute_Ham_Raise/1.jpg"
+  ],
+  "id": "Glute_Ham_Raise"
+}

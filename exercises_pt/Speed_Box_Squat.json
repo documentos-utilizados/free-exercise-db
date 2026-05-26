@@ -1,0 +1,28 @@
+{
+  "name": "Caixa de velocidade Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Anexe as bandas à barra que estão firmemente ancoradas perto do chão. Você pode precisar sufocar as bandas para obter tensão adequada.",
+    "Use uma caixa de altura apropriada para este exercício. Carregue a barra em um peso que ainda requer esforço, mas não é tão pesado que a velocidade seja comprometida. Normalmente, isso será entre 50-70% do seu um rep max.",
+    "Posicione a barra na parte superior das costas, as omoplatas retraídas, as costas arqueadas e tudo apertado da cabeça aos pés. Esta será a posição inicial.",
+    "Desfaça a barra e posicione-se na frente da caixa. Sente-se com os quadris até que você esteja sentado na caixa, garantindo que você desça sob controle e não caia na superfície.",
+    "Pausar brevemente, e explodir fora da caixa, estendendo-se através dos quadris e joelhos."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Speed_Box_Squat/0.jpg",
+    "Speed_Box_Squat/1.jpg"
+  ],
+  "id": "Speed_Box_Squat"
+}

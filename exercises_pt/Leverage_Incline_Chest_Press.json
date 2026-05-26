@@ -1,0 +1,25 @@
+{
+  "name": "Alavancagem Incline Chest Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Carregue um peso apropriado nos pinos e ajuste o assento para a sua altura. As alças devem estar perto do topo dos peitorais no início do movimento. Seu peito e cabeça devem estar para cima e suas omoplatas retraídas. Esta será sua posição inicial.",
+    "Pressione as alças para a frente, estendendo-se através do cotovelo.",
+    "Depois de uma breve pausa no topo, retorne o peso logo acima da posição inicial, mantendo a tensão nos músculos, não retornando o peso para as paradas até que o conjunto esteja completo."
+  ],
+  "category": "strength",
+  "images": [
+    "Leverage_Incline_Chest_Press/0.jpg",
+    "Leverage_Incline_Chest_Press/1.jpg"
+  ],
+  "id": "Leverage_Incline_Chest_Press"
+}

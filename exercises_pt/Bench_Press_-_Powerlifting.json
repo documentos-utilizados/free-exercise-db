@@ -1,0 +1,28 @@
+{
+  "name": "Prensa de Banco - Powerlifting",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece deitando-se no banco, ficando com a cabeça além da barra, se possível. Coloque os pés debaixo de você e arqueie as costas. Use a barra para ajudar a suportar seu peso, levante o ombro do banco e retraia-os, apertando as omoplatas juntas. Use os pés para conduzir suas armadilhas para o banco. Mantenha essa posição apertada do corpo durante todo o movimento.",
+    "Por maior que seja o seu aperto, ele deve cobrir o anel na barra. Puxe a barra para fora do rack sem puxar os ombros. Concentre-se em apertar a barra e tentar separá-la.",
+    "Abaixe a barra para o peito inferior ou o estômago superior. A barra, o pulso e o cotovelo devem permanecer na linha o tempo todo.",
+    "Pausa quando a barra toca seu tronco e, em seguida, conduza a barra para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Bench_Press_-_Powerlifting/0.jpg",
+    "Bench_Press_-_Powerlifting/1.jpg"
+  ],
+  "id": "Bench_Press_-_Powerlifting"
+}

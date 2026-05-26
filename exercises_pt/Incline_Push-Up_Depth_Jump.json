@@ -1,0 +1,26 @@
+{
+  "name": "Inclinar Push-Up Profundidade Jump",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Para esta broca você vai precisar de uma caixa de cerca de 12 polegadas de altura, e dois tapetes grossos ou passos de aeróbica.",
+    "Coloque os degraus apenas fora de seus ombros, e coloque os pés em cima da caixa para que você esteja em uma posição de flexão inclinada, suas mãos apenas dentro dos degraus. Esta será a sua posição inicial.",
+    "Comece dobrando-se nos cotovelos para abaixar seu corpo, invertendo rapidamente a posição para empurrar seu corpo para fora do chão.  medida que você sai do chão, mova as mãos para os degraus, dobrando os cotovelos para absorver o impacto.",
+    "Repita o movimento para retornar à posição inicial."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Incline_Push-Up_Depth_Jump/0.jpg",
+    "Incline_Push-Up_Depth_Jump/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Depth_Jump"
+}

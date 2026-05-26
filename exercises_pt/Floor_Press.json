@@ -1,0 +1,25 @@
+{
+  "name": "Imprensa do assoalho",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Ajuste os j-hooks para que eles estejam na altura apropriada para montar a barra. Comece deitado no chão com a cabeça perto da extremidade de um rack de energia. Mantendo suas omoplatas puxadas juntas; puxe a barra dos ganchos.",
+    "Abaixe a barra em direção ao fundo do peito ou do estômago superior, apertando a barra e tentando separá-la enquanto faz isso. Certifique-se de dobrar os cotovelos durante todo o movimento. Abaixe a barra até que seu braço entre em contato com o chão e pause, evitando qualquer batida ou salto do peso.",
+    "Pressione a barra de volta para cima o mais rápido que puder, mantendo a barra, seus pulsos e cotovelos na linha como você faz isso."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Floor_Press/0.jpg",
+    "Floor_Press/1.jpg"
+  ],
+  "id": "Floor_Press"
+}

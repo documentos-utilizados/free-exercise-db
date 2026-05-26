@@ -1,0 +1,25 @@
+{
+  "name": "Volta ao mundo ombro estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "peitoral"
+  ],
+  "instructions": [
+    "Levante-se em linha reta com as pernas juntas, segurando uma barra de corpo ou vassoura.",
+    "Segure o poste atrás de seus quadris com uma aderência mais larga do que a largura do ombro. Suas palmas das mãos devem estar para baixo e seus polegares voltados para fora.",
+    "Lentamente levante os braços atrás da cabeça. Não force se ficar difícil levantar mais."
+  ],
+  "category": "stretching",
+  "images": [
+    "Round_The_World_Shoulder_Stretch/0.jpg",
+    "Round_The_World_Shoulder_Stretch/1.jpg"
+  ],
+  "id": "Round_The_World_Shoulder_Stretch"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Saltos de Cone Frontais (ou saltos de obstáculos)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Configure uma fileira de cones ou outras pequenas barreiras, colocando-as a alguns metros de distância.",
+    "Fique na frente do primeiro cone com a largura do ombro dos pés separados. Esta será a sua posição inicial.",
+    "Comece pulando com os dois pés sobre o primeiro cone, balançando os dois braços enquanto você salta.",
+    "Absorva o impacto do pouso dobrando os joelhos, recuperando-se do primeiro salto saltando sobre o próximo cone.",
+    "Continue até que você tenha pulado sobre todos os cones."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Front_Cone_Hops_or_hurdle_hops/0.jpg",
+    "Front_Cone_Hops_or_hurdle_hops/1.jpg"
+  ],
+  "id": "Front_Cone_Hops_or_hurdle_hops"
+}

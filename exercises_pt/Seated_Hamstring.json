@@ -1,0 +1,24 @@
+{
+  "name": "Hamstring sentado",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Em uma posição sentada com as pernas estendidas, faça com que seu parceiro fique atrás de você. Agora, incline-se para a frente enquanto seu parceiro levanta os ombros com as mãos. Esta será sua posição inicial.",
+    "Tente empurrar o seu tronco para trás por 10-20 segundos, como o seu parceiro impede qualquer movimento real do seu tronco.",
+    "Agora relaxe seus músculos à medida que seu parceiro aumenta o alongamento, empurrando suavemente seu tronco para a frente por 10-20 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Seated_Hamstring/0.jpg",
+    "Seated_Hamstring/1.jpg"
+  ],
+  "id": "Seated_Hamstring"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Baixo Back-SMR",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Em uma posição sentada, coloque um rolo de espuma sob a parte inferior das costas. Cruze os braços à sua frente e puxe os ombros. Esta será sua posição inicial.",
+    "Levante os quadris do chão e incline-se para trás, mantendo seu peso na parte inferior das costas. Agora mude seu peso ligeiramente para um lado, mantendo seu peso fora da coluna vertebral e nos músculos para o lado dele. Role sobre sua parte inferior das costas, mantendo pontos de tensão por 10-30 segundos. Repita do outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lower_Back-SMR/0.jpg",
+    "Lower_Back-SMR/1.jpg"
+  ],
+  "id": "Lower_Back-SMR"
+}

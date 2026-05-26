@@ -1,0 +1,26 @@
+{
+  "name": "Ajoelhando-se Single-Arm High Pulley Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Anexe uma única alça a uma polia alta e faça sua seleção de peso.",
+    "Ajoelhe-se na frente da torre do cabo, levando o cabo com uma mão com o braço estendido. Esta será a sua posição inicial.",
+    "Começando com a palma voltada para a frente, puxe o peso para baixo até o tronco flexionando o cotovelo e retraia a omoplata. Ao fazer isso, gire o pulso para que, na conclusão do movimento, sua palma esteja agora voltada para você.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Kneeling_Single-Arm_High_Pulley_Row/0.jpg",
+    "Kneeling_Single-Arm_High_Pulley_Row/1.jpg"
+  ],
+  "id": "Kneeling_Single-Arm_High_Pulley_Row"
+}

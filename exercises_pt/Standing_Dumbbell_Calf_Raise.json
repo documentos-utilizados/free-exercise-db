@@ -1,0 +1,23 @@
+{
+  "name": "De pé Dumbbell Calf Raise",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique com o tronco na posição vertical segurando dois halteres em suas mãos ao lado. Coloque a bola do pé em uma placa de madeira resistente e estável (que tem cerca de 2-3 polegadas de altura), enquanto seus calcanhares se estendem e tocam o chão. Esta será sua posição inicial.",
+    "Com os dedos dos pés apontando em linha reta (para acertar todas as partes igualmente), para dentro (para ênfase na cabeça externa) ou para fora (para ênfase na cabeça interna), levante os calcanhares do chão enquanto expira, contraindo os bezerros. Segure a contração superior por um segundo.",
+    "medida que você inala, volte para a posição inicial baixando lentamente os calcanhares.",
+    "Repita para a quantidade recomendada de vezes."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Dumbbell_Calf_Raise/0.jpg",
+    "Standing_Dumbbell_Calf_Raise/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Calf_Raise"
+}

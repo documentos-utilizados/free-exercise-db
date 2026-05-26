@@ -1,0 +1,26 @@
+{
+  "name": "Moinhos de vento",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Deite-se de costas com os braços estendidos para os lados e as pernas retas. Esta será a sua posição inicial.",
+    "Levante uma perna e cruze-a rapidamente sobre seu corpo, tentando tocar o chão perto da mão oposta.",
+    "Volte para a posição inicial e repita com a perna oposta. Continue alternando por 10-20 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Windmills/0.jpg",
+    "Windmills/1.jpg"
+  ],
+  "id": "Windmills"
+}

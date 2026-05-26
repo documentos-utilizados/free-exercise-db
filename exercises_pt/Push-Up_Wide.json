@@ -1,0 +1,27 @@
+{
+  "name": "Push-Up largo",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Com as mãos bem afastadas, apoie seu corpo nos dedos dos pés e mãos em uma posição de prancha. Seus cotovelos devem ser estendidos e seu corpo reto. Não permita que seus quadris caiam. Esta será sua posição inicial.",
+    "Para começar, permita que os cotovelos se flexionem, baixando o peito para o chão enquanto você inala.",
+    "Usando seus músculos peitorais, pressione sua parte superior do corpo de volta para a posição inicial, estendendo os cotovelos. Expire enquanto você executa este passo.",
+    "Depois de pausar na posição contraída, repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Push-Up_Wide/0.jpg",
+    "Push-Up_Wide/1.jpg"
+  ],
+  "id": "Push-Up_Wide"
+}

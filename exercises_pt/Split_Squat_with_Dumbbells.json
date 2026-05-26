@@ -1,0 +1,26 @@
+{
+  "name": "Dividir o agachamento com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Posicione-se em uma posição escalonada com o pé traseiro elevado e o pé dianteiro para frente.",
+    "Segure um haltere em cada mão, deixando-os pendurados nas laterais. Esta será a sua posição inicial.",
+    "Comece descendo, flexionando o joelho e o quadril para abaixar o corpo. Mantenha uma boa postura througout o movimento. Mantenha o joelho dianteiro em linha com o pé enquanto você realiza o exercício.",
+    "Na parte inferior do movimento, atravesse o calcanhar para estender o joelho e o quadril para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Split_Squat_with_Dumbbells/0.jpg",
+    "Split_Squat_with_Dumbbells/1.jpg"
+  ],
+  "id": "Split_Squat_with_Dumbbells"
+}

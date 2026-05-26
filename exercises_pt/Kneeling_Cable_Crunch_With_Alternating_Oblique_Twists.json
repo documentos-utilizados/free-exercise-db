@@ -1,0 +1,28 @@
+{
+  "name": "Ajoelhe-se o crunch do cabo com torções oblíquas alternadas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte um acessório de corda a um cabo de polia alto e posicione um tapete no chão na frente dele.",
+    "Pegue a corda com as duas mãos e ajoelhe-se a cerca de dois metros da torre.",
+    "Posicione a corda atrás da cabeça com as mãos pelas orelhas.",
+    "Mantenha as mãos no mesmo lugar, contraia o abdômen e puxe para baixo na corda em um movimento de trituração até que seus cotovelos atinjam seus joelhos.",
+    "Pausar brevemente na parte inferior e levantar-se de forma lenta e controlada até chegar à posição inicial.",
+    "Repita o mesmo movimento para baixo até que você esteja a meio caminho, momento em que você começará a girar um dos cotovelos para o joelho oposto.",
+    "Mais uma vez, pare brevemente na parte inferior e levante-se de maneira lenta e controlada até chegar à posição inicial.",
+    "Repita o mesmo movimento que antes, mas alterne o outro cotovelo para o joelho oposto.",
+    "Continue esta série de movimentos para o fracasso."
+  ],
+  "category": "strength",
+  "images": [
+    "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
+    "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
+  ],
+  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Borboleta",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na máquina com as costas planas na almofada.",
+    "Segure as alças. Dica: Seus braços superiores devem ser posicionados paralelamente ao chão; ajuste a máquina de acordo. Esta será sua posição inicial.",
+    "Empurre as alças lentamente enquanto aperta o peito no meio. Respire durante esta parte do movimento e segure a contração por um segundo.",
+    "Volte para a posição inicial lentamente enquanto você inala até que os músculos do peito estejam totalmente esticados.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Butterfly/0.jpg",
+    "Butterfly/1.jpg"
+  ],
+  "id": "Butterfly"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Reverse Barbell Preacher Curls",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Pegue uma barra EZ usando uma largura de ombro e palmas para baixo (pronated) aperto.",
+    "Agora coloque a parte superior de ambos os braços em cima do banco do pregador e tenha seus braços estendidos. Esta será a sua posição inicial.",
+    "Ao expirar, use o bíceps para enrolar o peso até que o bíceps esteja totalmente contraído e a barra esteja na altura do ombro. Aperte o bíceps com força por um segundo na posição contratada.",
+    "medida que você respira, abaixe lentamente a barra até que seus braços superiores estejam estendidos e o bíceps esteja totalmente esticado.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Barbell_Preacher_Curls/0.jpg",
+    "Reverse_Barbell_Preacher_Curls/1.jpg"
+  ],
+  "id": "Reverse_Barbell_Preacher_Curls"
+}

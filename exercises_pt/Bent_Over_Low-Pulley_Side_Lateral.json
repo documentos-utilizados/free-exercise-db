@@ -1,0 +1,28 @@
+{
+  "name": "Bent Over Low-Pulley Lateral lateral",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "costas (meio)",
+    "trapézio"
+  ],
+  "instructions": [
+    "Selecione um peso e segure a alça da polia baixa com a mão direita.",
+    "Dobre na cintura até que seu tronco esteja quase paralelo ao chão. Suas pernas devem ser ligeiramente dobradas com a mão esquerda colocada na coxa esquerda inferior. Seu braço direito deve estar pendurado do ombro à sua frente e com uma ligeira curvatura no cotovelo. Esta será sua posição inicial.",
+    "Levante o braço direito, cotovelo ligeiramente dobrado, para o lado até que o braço esteja paralelo ao chão e em linha com a orelha direita. Respire enquanto realiza este passo.",
+    "Reduza lentamente o peso de volta para a posição inicial à medida que você respira.",
+    "Repita a quantidade recomendada de repetições e repita o movimento com o outro braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Over_Low-Pulley_Side_Lateral/0.jpg",
+    "Bent_Over_Low-Pulley_Side_Lateral/1.jpg"
+  ],
+  "id": "Bent_Over_Low-Pulley_Side_Lateral"
+}

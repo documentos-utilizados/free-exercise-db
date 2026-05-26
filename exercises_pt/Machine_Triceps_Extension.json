@@ -1,0 +1,23 @@
+{
+  "name": "Extensão do Triceps da máquina",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o assento à altura apropriada e faça sua seleção de peso. Coloque seus braços superiores contra as almofadas e segure as alças. Esta será sua posição inicial.",
+    "Execute o movimento estendendo o cotovelo, puxando o braço inferior para longe do braço superior.",
+    "Pausar na conclusão do movimento e, em seguida, retornar lentamente o peso para a posição inicial.",
+    "Evite devolver o peso até as paradas até que o conjunto esteja completo para manter a tensão sobre os músculos que estão sendo trabalhados."
+  ],
+  "category": "strength",
+  "images": [
+    "Machine_Triceps_Extension/0.jpg",
+    "Machine_Triceps_Extension/1.jpg"
+  ],
+  "id": "Machine_Triceps_Extension"
+}

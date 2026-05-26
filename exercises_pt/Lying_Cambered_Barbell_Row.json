@@ -1,0 +1,27 @@
+{
+  "name": "Deitado Cambered Barbell Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque uma barra de camurça debaixo de um banco de exercícios.",
+    "Deite-se de frente para baixo no banco de exercícios e pegue a barra usando as palmas das mãos para baixo (aperto pronado) que é mais largo do que a largura do ombro. Esta será a sua posição inicial.",
+    "medida que você expira, rema a barra para cima, enquanto mantém os cotovelos perto do corpo para o peito, a fim de atingir a parte superior do meio das costas, ou para o estômago, se o alvo é o seu objetivo.",
+    "Depois de uma segunda espera no topo, abaixe-se para baixo para a posição inicial lentamente à medida que você inala."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Cambered_Barbell_Row/0.jpg",
+    "Lying_Cambered_Barbell_Row/1.jpg"
+  ],
+  "id": "Lying_Cambered_Barbell_Row"
+}

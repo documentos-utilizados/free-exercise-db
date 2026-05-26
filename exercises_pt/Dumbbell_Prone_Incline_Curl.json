@@ -1,0 +1,25 @@
+{
+  "name": "Dumbbell Prone Incline Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue um haltere em cada mão e deite-se de frente para baixo em um banco inclinado com os ombros perto do topo da inclinação. Seus joelhos podem descansar no assento ou suas pernas podem ser amarradas para os lados (minha maneira preferida).",
+    "Deixe que seus braços se estendam e pendurem naturalmente na sua frente, de modo que sejam perpendiculares ao chão.",
+    "Agora mantenha seus cotovelos ao seu lado e enfrente as palmas das mãos para a frente. Esta será a sua posição inicial.",
+    "Levante os halteres contraindo o bíceps até que seus braços estejam totalmente flexionados. Expire enquanto realiza essa parte do movimento e garanta que apenas os antebraços se movam. Os braços superiores devem permanecer estacionários o tempo todo.",
+    "Abaixe os halteres até que seus braços estejam totalmente estendidos.",
+    "Repita para a quantidade recomendada de vezes."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Prone_Incline_Curl/0.jpg",
+    "Dumbbell_Prone_Incline_Curl/1.jpg"
+  ],
+  "id": "Dumbbell_Prone_Incline_Curl"
+}

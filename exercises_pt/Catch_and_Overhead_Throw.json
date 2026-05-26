@@ -1,0 +1,26 @@
+{
+  "name": "Catch e Overhead Throw",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece de pé enquanto estiver de frente para uma parede ou um parceiro.",
+    "Usando ambas as mãos, posicione a bola atrás de sua cabeça, esticando o máximo possível e atirando a bola para a frente com força.",
+    "Certifique-se de que você siga seu lance, estando preparado para receber seu rebote do seu arremesso. Se você estiver jogando contra a parede, certifique-se de ficar perto o suficiente da parede para receber o rebote e aponte um pouco mais alto do que você faria com um parceiro."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Catch_and_Overhead_Throw/0.jpg",
+    "Catch_and_Overhead_Throw/1.jpg"
+  ],
+  "id": "Catch_and_Overhead_Throw"
+}

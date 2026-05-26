@@ -1,0 +1,26 @@
+{
+  "name": "Duplo Kettlebell Push Press",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells em seus ombros.",
+    "Agache alguns centímetros e reverta o movimento rapidamente. Use o impulso das pernas para dirigir os kettlebells acima.",
+    "Uma vez que os kettlebells estão bloqueados, abaixe os kettlebells para os ombros e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Double_Kettlebell_Push_Press/0.jpg",
+    "Double_Kettlebell_Push_Press/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Push_Press"
+}

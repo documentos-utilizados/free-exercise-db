@@ -1,0 +1,25 @@
+{
+  "name": "Crunch reverso do cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte um acessório de cinta de tornozelo a um cabo de polia baixo e posicione um tapete no chão na frente dele.",
+    "Sente-se com os pés em direção à polia e prenda o cabo aos tornozelos.",
+    "Deite-se, eleve as pernas e dobre os joelhos em um ângulo de 90 graus. Suas pernas e o cabo devem estar alinhados. Se não, ajuste a polia para cima ou para baixo até que estejam.",
+    "Com as mãos atrás da cabeça, traga os joelhos para dentro do tronco e eleve os quadris do chão.",
+    "Pausar por um momento e de forma lenta e controlada deixar cair os quadris e trazer as pernas de volta para o ângulo de 90 graus de partida. Você ainda deve ter tensão em seu abdômen na posição de descanso.",
+    "Repita o mesmo movimento para o fracasso."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Reverse_Crunch/0.jpg",
+    "Cable_Reverse_Crunch/1.jpg"
+  ],
+  "id": "Cable_Reverse_Crunch"
+}

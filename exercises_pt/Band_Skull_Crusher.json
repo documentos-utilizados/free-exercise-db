@@ -1,0 +1,22 @@
+{
+  "name": "Britador de crânio banda",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma banda à base de um rack ou do banco. Deite-se no banco para que a banda esteja alinhada com sua cabeça.",
+    "Segure a banda, levantando os cotovelos para que o braço seja perpendicular ao chão. Com o cotovelo flexionado, a banda deve estar acima da sua cabeça. Esta será a sua posição inicial.",
+    "Estenda-se através do cotovelo para endireitar o braço, mantendo o braço no lugar. Pausar na parte superior do movimento e retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Band_Skull_Crusher/0.jpg",
+    "Band_Skull_Crusher/1.jpg"
+  ],
+  "id": "Band_Skull_Crusher"
+}

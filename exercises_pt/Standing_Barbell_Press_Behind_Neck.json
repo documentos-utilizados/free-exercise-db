@@ -1,0 +1,27 @@
+{
+  "name": "Standing Barbell Pressione atrás do pescoço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para facilitar a retirada da barra. Para começar, primeiro defina a barra em um rack que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando os dois braços de cada lado e levante-a do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma posição média de largura do ombro com os dedos dos pés ligeiramente apontados. Suas costas devem ser mantidas retas durante a realização deste exercício. Esta será sua posição inicial.",
+    "Eleve a barra acima, estendendo totalmente os braços enquanto respira.",
+    "Segure a contração por um segundo e abaixe a barra de volta para a posição inicial inalando.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Barbell_Press_Behind_Neck/0.jpg",
+    "Standing_Barbell_Press_Behind_Neck/1.jpg"
+  ],
+  "id": "Standing_Barbell_Press_Behind_Neck"
+}

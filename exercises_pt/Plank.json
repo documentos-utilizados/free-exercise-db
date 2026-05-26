@@ -1,0 +1,21 @@
+{
+  "name": "Plank",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Entre em uma posição propensa no chão, apoiando seu peso em seus dedos dos pés e antebraços. Seus braços estão dobrados e diretamente abaixo do ombro.",
+    "Mantenha seu corpo reto em todos os momentos e mantenha essa posição o maior tempo possível. Para aumentar a dificuldade, um braço ou perna pode ser levantado."
+  ],
+  "category": "strength",
+  "images": [
+    "Plank/0.jpg",
+    "Plank/1.jpg"
+  ],
+  "id": "Plank"
+}

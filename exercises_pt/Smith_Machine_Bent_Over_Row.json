@@ -1,0 +1,29 @@
+{
+  "name": "Smith Máquina Bent Over Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Defina a barra anexada à máquina de ferreiro a uma altura que é de cerca de 2 polegadas abaixo de seus joelhos.",
+    "Dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Dica: Certifique-se de manter a cabeça erguida.",
+    "Agora agarre a barra usando um aperto overhand (pronated) e desbloqueá-lo a partir do rack da máquina de ferreiro. Em seguida, deixá-lo pendurado diretamente na frente de você como seus braços pendurados perpendicular ao chão e seu tronco. Esta é a sua posição inicial.",
+    "Enquanto mantém o tronco estacionário, levante a barra enquanto expira, mantendo os cotovelos perto do corpo e não fazendo nenhuma força com o antebraço além de segurar os pesos. Na posição superior contraída, esprema os músculos das costas e segure por um segundo.",
+    "Reduza lentamente o peso novamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Bent_Over_Row/0.jpg",
+    "Smith_Machine_Bent_Over_Row/1.jpg"
+  ],
+  "id": "Smith_Machine_Bent_Over_Row"
+}

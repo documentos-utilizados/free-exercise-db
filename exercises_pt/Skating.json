@@ -1,0 +1,27 @@
+{
+  "name": "Patinação",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "A patinação em rolos é uma atividade divertida que pode ser eficaz na melhoria da aptidão cardiorrespiratória e resistência muscular. Requer equilíbrio e coordenação relativamente bons. É necessário aprender os fundamentos da patinação, incluindo girar e parar e usar equipamentos de proteção para evitar possíveis lesões.",
+    "Você pode patinar em um ritmo confortável por 30 minutos em linha reta. Se você quiser um desafio de cardio, faça patinação intervalada - patinação de velocidade de dois minutos a cada cinco minutos, usando os três minutos restantes para se recuperar. Uma pessoa de 150 lb normalmente queima cerca de 175 calorias em 30 minutos patinando em um ritmo confortável, semelhante à caminhada rápida."
+  ],
+  "category": "cardio",
+  "images": [
+    "Skating/0.jpg",
+    "Skating/1.jpg"
+  ],
+  "id": "Skating"
+}

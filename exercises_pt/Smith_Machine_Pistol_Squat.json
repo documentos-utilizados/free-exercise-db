@@ -1,0 +1,28 @@
+{
+  "name": "Smith Máquina Pistol Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, primeiro defina a barra para uma posição que melhor corresponda à sua altura. Passo abaixo dela e posicione a barra na parte de trás de seus ombros.",
+    "Pegue a barra com as mãos voltadas para a frente, desbloqueie-a e levante-a do rack, estendendo as pernas. 3",
+    "Mova um pé para a frente cerca de 12 polegadas na frente da barra. Estenda a outra perna para fora na frente de você, segurando-a do chão. Olhe para a frente em todos os momentos e mantenha uma coluna neutra ou ligeiramente arqueada. Esta será a sua posição inicial.",
+    "Mantendo uma boa postura, abaixe-se flexionando o joelho e o quadril, descendo o máximo que a flexibilidade permitir.",
+    "Pausar brevemente na parte inferior e, em seguida, voltar para a posição inicial, dirigindo através do calcanhar do seu pé, estendendo o joelho e quadril."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Pistol_Squat/0.jpg",
+    "Smith_Machine_Pistol_Squat/1.jpg"
+  ],
+  "id": "Smith_Machine_Pistol_Squat"
+}

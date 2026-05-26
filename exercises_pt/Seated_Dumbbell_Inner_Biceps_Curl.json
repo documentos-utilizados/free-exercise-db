@@ -1,0 +1,25 @@
+{
+  "name": "Sentada Dumbbell Inner Biceps Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se no final de um banco plano com um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco.",
+    "Gire as palmas das mãos para que elas estejam voltadas para dentro em uma posição neutra. Esta será sua posição inicial.",
+    "Enquanto segura os braços parados, enrole os halteres para fora e para cima, virando as palmas das mãos para fora enquanto você levanta e mantendo seus antebraços alinhados com seus deltóides externos.",
+    "Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente começar a trazer os halteres de volta para a posição inicial como sua respiração. Lembre-se de girar os braços como você abaixar os halteres para que você possa voltar para uma aderência neutra.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Dumbbell_Inner_Biceps_Curl/0.jpg",
+    "Seated_Dumbbell_Inner_Biceps_Curl/1.jpg"
+  ],
+  "id": "Seated_Dumbbell_Inner_Biceps_Curl"
+}

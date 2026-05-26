@@ -1,0 +1,25 @@
+{
+  "name": "Cat Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)",
+    "trapézio"
+  ],
+  "instructions": [
+    "Posicione-se no chão com as mãos e os joelhos.",
+    "Puxe a barriga para dentro e ao redor da coluna, parte inferior das costas, ombros e pescoço, deixando sua cabeça cair.",
+    "Espere 15 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Cat_Stretch/0.jpg",
+    "Cat_Stretch/1.jpg"
+  ],
+  "id": "Cat_Stretch"
+}

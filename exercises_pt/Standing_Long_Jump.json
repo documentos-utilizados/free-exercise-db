@@ -1,0 +1,27 @@
+{
+  "name": "Standing Salto Longo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Esta broca é melhor feita em areia ou outra superfície de pouso suave. Certifique-se de que você é capaz de medir a distância. Fique em uma posição de agachamento parcial com pés de largura do ombro separados.",
+    "Usando um grande balanço do braço e um contra-movimento das pernas, saltar para a frente, tanto quanto você pode.",
+    "Tente pousar com os pés na frente, alcançando o máximo possível com as pernas.",
+    "Meça a distância do seu ponto de pouso até o ponto de partida e acompanhe os resultados."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Standing_Long_Jump/0.jpg",
+    "Standing_Long_Jump/1.jpg"
+  ],
+  "id": "Standing_Long_Jump"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "One-Arm Open Palm Kettlebell Limpar",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés.",
+    "Pegue a alça com uma mão e levante o kettlebell rapidamente, deixe-o girar para que a bola do kettlebell pousa na palma da sua mão.",
+    "Jogue o kettlebell na frente de você e pegue o cabo com uma mão.",
+    "Leve o kettlebell para o chão e repita. Certifique-se de trabalhar os dois braços."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Open_Palm_Kettlebell_Clean/0.jpg",
+    "One-Arm_Open_Palm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "One-Arm_Open_Palm_Kettlebell_Clean"
+}

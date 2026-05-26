@@ -1,0 +1,29 @@
+{
+  "name": "Deadlift com bandas",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "costas (meio)",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Para deadlift com bandas curtas, basta loop-los sobre a barra antes de começar, e entrar neles para configurar. Para bandas longas, eles precisarão ser ancorados a uma base segura, como halteres pesados ou um rack.",
+    "Com os pés e o aperto ajustado, respire fundo e abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra. Olhe para a frente com a cabeça, mantenha o peito para cima e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima. Depois que a barra passar os joelhos, puxe agressivamente a barra para trás, puxando as omoplatas juntas enquanto você dirige seus quadris para a frente na barra.",
+    "Abaixe a barra dobrando-se nos quadris e guiando-a até o chão."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Deadlift_with_Bands/0.jpg",
+    "Deadlift_with_Bands/1.jpg"
+  ],
+  "id": "Deadlift_with_Bands"
+}

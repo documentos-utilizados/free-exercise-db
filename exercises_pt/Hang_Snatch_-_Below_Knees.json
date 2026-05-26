@@ -1,0 +1,32 @@
+{
+  "name": "Pendurar Snatch - abaixo dos joelhos",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece com uma grande aderência na barra, com uma mão ou gancho. Os pés devem estar diretamente abaixo dos quadris com os pés virados para fora. Seus joelhos devem ser ligeiramente dobrados e o tronco inclinado para a frente. A coluna deve ser totalmente estendida e a cabeça virada para frente. A barra deve estar logo abaixo dos joelhos. Esta será sua posição inicial.",
+    "Agressivamente estender através das pernas e quadris. No pico de extensão, encolher os ombros e permitir que os cotovelos para flexionar para o lado.",
+    "medida que você move seus pés para a posição de recepção, puxe-se vigorosamente abaixo da barra enquanto você eleva a barra acima. Receba a barra com seu corpo o mais baixo possível e os braços totalmente estendidos acima.",
+    "Volte para uma posição de pé com o peso acima e, em seguida, retorne o peso para o chão sob controle."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Hang_Snatch_-_Below_Knees/0.jpg",
+    "Hang_Snatch_-_Below_Knees/1.jpg"
+  ],
+  "id": "Hang_Snatch_-_Below_Knees"
+}

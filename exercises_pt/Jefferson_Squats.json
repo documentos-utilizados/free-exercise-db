@@ -1,0 +1,32 @@
+{
+  "name": "Jefferson Squats",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque uma barra no chão.",
+    "Fique no meio do comprimento da barra sábio.",
+    "Dobre-se dobrando os joelhos e mantendo as costas retas e segure a frente da barra com a mão direita. Sua palma da mão deve estar em (aperto neutro) de frente para o lado esquerdo.",
+    "Segure a parte traseira da barra com a mão esquerda. A palma da sua mão deve estar em alinhamento de aderência neutro (palmas viradas para o lado direito). Dica: Certifique-se de que sua aderência esteja mesmo na barra. Seu tronco deve estar posicionado no meio da barra e a distância entre seu tronco e sua mão direita (que deve estar na frente) deve ser a mesma que a distância entre seu tronco e sua mão esquerda (que deve ser).",
+    "Agora levante-se com o peso. Dica: Seus pés devem estar separados pela largura do ombro e seus dedos dos pés ligeiramente apontados.",
+    "Agache-se dobrando-se nos joelhos e mantendo as costas retas até que as coxas superiores estejam paralelas ao chão. Dica: Mantenha as costas o mais vertical possível com o chão e a cabeça erguida. Lembre-se também de não deixar os joelhos passarem pelos dedos dos pés. Inspire durante esta parte do movimento.",
+    "Agora dirija-se de volta para a posição inicial, empurrando com os pés. Dica: Mantenha a barra pendurada no comprimento do braço e os cotovelos bloqueados com uma ligeira curvatura. Os braços servem apenas como ganchos. Evite fazer qualquer levantamento com eles. Faça o levantamento com as coxas; não seus braços."
+  ],
+  "category": "strength",
+  "images": [
+    "Jefferson_Squats/0.jpg",
+    "Jefferson_Squats/1.jpg"
+  ],
+  "id": "Jefferson_Squats"
+}

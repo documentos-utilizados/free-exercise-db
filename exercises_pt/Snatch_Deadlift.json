@@ -1,0 +1,29 @@
+{
+  "name": "Snatch Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "O deadlift arrebatador fortalece a primeira tração do arrebatamento. Comece com um aperto arrebatador largo com a barra colocada na plataforma. Os pés devem estar diretamente sob os quadris, com os pés virados para fora. Agache-se até a barra, mantendo as costas em extensão absoluta com a cabeça voltada para a frente.",
+    "Inicie o movimento dirigindo pelos calcanhares, levantando os quadris. O ângulo de trás deve permanecer o mesmo até que a barra passe pelos joelhos.",
+    "Nesse ponto, dirija seus quadris através da barra enquanto você descansa. Devolva a barra para a plataforma invertendo o movimento."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Snatch_Deadlift/0.jpg",
+    "Snatch_Deadlift/1.jpg"
+  ],
+  "id": "Snatch_Deadlift"
+}

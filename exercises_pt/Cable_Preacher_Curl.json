@@ -1,0 +1,28 @@
+{
+  "name": "Cable Preacher Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Coloque um banco pregador cerca de 2 pés na frente de uma máquina de polia.",
+    "Anexe uma barra reta à polia baixa.",
+    "Sente-se no banco do pregador com o cotovelo e os braços firmemente em cima do banco e peça a alguém que lhe entregue a barra da polia baixa.",
+    "Pegue a barra e estenda totalmente os braços em cima do banco do pregador. Esta será a sua posição inicial.",
+    "Agora comece a empilhar o peso em direção aos ombros e esprema os bíceps com força na parte superior do movimento. Exale enquanto executa este movimento. Além disso, segure por um segundo na parte superior.",
+    "Agora reduza lentamente o peso para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Preacher_Curl/0.jpg",
+    "Cable_Preacher_Curl/1.jpg"
+  ],
+  "id": "Cable_Preacher_Curl"
+}

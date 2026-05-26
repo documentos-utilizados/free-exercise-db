@@ -1,0 +1,30 @@
+{
+  "name": "Hack Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Coloque a parte de trás do seu tronco contra a parte de trás da máquina e prenda os ombros sob as ombreiras fornecidas.",
+    "Posicione as pernas na plataforma usando uma posição média de largura do ombro com os dedos dos pés ligeiramente apontados. Dica: Mantenha a cabeça erguida o tempo todo e também mantenha as costas na almofada o tempo todo.",
+    "Coloque os braços nas alças laterais da máquina e desconecte as barras de segurança (o que na maioria dos projetos é feito movendo as alças laterais de uma posição frontal para uma posição diagonal).",
+    "Agora endireitar as pernas sem bloquear os joelhos. Esta será a sua posição inicial. (Nota: Para os fins desta discussão, vamos usar a posição média descrita acima, que tem como alvo o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posições descritas na seção de posicionamento do pé).",
+    "Comece a abaixar lentamente a unidade dobrando os joelhos enquanto você mantém uma postura reta com a cabeça para cima (de volta para a almofada em todos os momentos). Continue para baixo até que o ângulo entre a perna superior e os bezerros se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo paralelas ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos é imaginária.",
+    "Comece a levantar a unidade à medida que expira, empurrando o chão principalmente com o calcanhar do pé enquanto endireita as pernas novamente e volte para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Hack_Squat/0.jpg",
+    "Hack_Squat/1.jpg"
+  ],
+  "id": "Hack_Squat"
+}

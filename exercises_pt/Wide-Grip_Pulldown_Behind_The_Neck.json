@@ -1,0 +1,29 @@
+{
+  "name": "Pulldown Wide-Grip atrás do pescoço",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina de puxar para baixo com uma barra larga anexada à polia superior. Certifique-se de ajustar a joelheira da máquina para se ajustar à sua altura. Essas almofadas impedirão que seu corpo seja levantado pela resistência anexada à barra.",
+    "Pegue a barra com as palmas voltadas para a frente usando o aperto prescrito. Nota sobre os apertos: Para um aperto largo, suas mãos precisam ser espaçadas a uma distância maior do que a largura do ombro. Para um aperto médio, suas mãos precisam ser espaçadas a uma distância igual à largura do ombro e para um aperto próximo a uma distância menor do que a largura do ombro.",
+    "Como você tem ambos os braços estendidos na frente de você segurando a barra na largura de aderência escolhida, traga seu tronco e siga em frente. Pense em uma linha imaginária do centro da barra até a parte de trás do pescoço. Esta é sua posição inicial.",
+    "medida que você expira, traga a barra para baixo até que ela toque a parte de trás do pescoço, puxando os ombros e os braços para baixo e para trás. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição contratada completa. O tronco superior deve permanecer estacionário e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho, exceto segurar a barra; portanto, não tente puxar a barra usando os antebraços.",
+    "Depois de um segundo na posição contraída apertando as omoplatas juntas, levante lentamente a barra de volta à posição inicial quando seus braços estiverem totalmente estendidos e os lats estiverem totalmente esticados. Inspire durante esta parte do movimento.",
+    "Repita este movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+    "Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+  ],
+  "id": "Wide-Grip_Pulldown_Behind_The_Neck"
+}

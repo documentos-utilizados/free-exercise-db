@@ -1,0 +1,24 @@
+{
+  "name": "Equilíbrio voltado para baixo",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Deite-se de cabeça para baixo em cima de uma bola de exercício.",
+    "Enquanto descansa sobre o estômago na bola, caminhe as mãos para a frente ao longo do chão e levante as pernas, estendendo os cotovelos e joelhos."
+  ],
+  "category": "strength",
+  "images": [
+    "Downward_Facing_Balance/0.jpg",
+    "Downward_Facing_Balance/1.jpg"
+  ],
+  "id": "Downward_Facing_Balance"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Banda Hip Adução",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ancorar uma banda em torno de um post sólido ou outro objeto.",
+    "Fique com o seu lado esquerdo para o poste, e coloque o pé direito através da banda, colocando-o ao redor do tornozelo.",
+    "Levante-se em linha reta e segure o post, se necessário. Esta será a sua posição inicial.",
+    "Mantendo o joelho reto, levante as pernas direitas para o lado o máximo que puder.",
+    "Volte para a posição inicial e repita para a contagem de repetições desejada.",
+    "Mudar de lado."
+  ],
+  "category": "strength",
+  "images": [
+    "Band_Hip_Adductions/0.jpg",
+    "Band_Hip_Adductions/1.jpg"
+  ],
+  "id": "Band_Hip_Adductions"
+}

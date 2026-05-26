@@ -1,0 +1,26 @@
+{
+  "name": "Dead Bug",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitado de costas com as mãos estendidas acima de você em direção ao teto.",
+    "Traga seus pés, joelhos e quadris até 90 graus.",
+    "Exale duro para trazer sua caixa torácica para baixo e achate suas costas no chão, girando sua pélvis para cima e apertando seus glúteos. Mantenha esta posição durante todo o movimento. Esta será sua posição inicial.",
+    "Inicie o exercício estendendo uma perna, endireitando o joelho e o quadril para trazer a perna logo acima do chão.",
+    "Mantenha a posição de sua lombar e pélvis enquanto você executa o movimento, pois suas costas vão querer arquear.",
+    "Mantenha-se firme e devolva a perna de trabalho para a posição inicial.",
+    "Repita no lado oposto, alternando até que o conjunto esteja completo."
+  ],
+  "category": "strength",
+  "images": [
+    "Dead_Bug/0.jpg",
+    "Dead_Bug/1.jpg"
+  ],
+  "id": "Dead_Bug"
+}

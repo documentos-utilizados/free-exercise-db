@@ -1,0 +1,25 @@
+{
+  "name": "Linha de cabo vertical",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um acessório de cabo de barra reta que é anexado a uma polia baixa com um aperto pronado (palmeiras voltadas para suas coxas) que é ligeiramente menor do que a largura do ombro. A barra deve estar descansando em cima de suas coxas. Seus braços devem ser estendidos com uma ligeira curvatura nos cotovelos e suas costas devem ser retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar a barra de cabo enquanto expira. A barra deve estar perto do corpo enquanto você o move. Continue a levantá-lo até que ele quase toque seu queixo. Dica: Seus cotovelos devem dirigir o movimento. Ao levantar a barra, seus cotovelos devem sempre ser mais altos do que seus antebraços. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe a barra para baixo lentamente para a posição inicial. Inspire enquanto você executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Upright_Cable_Row/0.jpg",
+    "Upright_Cable_Row/1.jpg"
+  ],
+  "id": "Upright_Cable_Row"
+}

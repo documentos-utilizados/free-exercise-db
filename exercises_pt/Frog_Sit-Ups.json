@@ -1,0 +1,26 @@
+{
+  "name": "Sapo Sit-Ups",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se com as costas no chão (ou esteira de exercício) e as pernas estendidas na frente de você.",
+    "Agora dobre os joelhos e coloque suas coxas externas pelo chão (ou esteira) enquanto você faz as solas de seus pés se tocarem.",
+    "Agora tente empurrar as duas solas e trazê-las o mais perto possível de você enquanto você mantém as coxas externas no chão (ou pelo menos quase tocá-lo). Dica: Nesta posição, suas pernas devem criar uma forma de diamante.",
+    "Agora, cruze os braços à sua frente tocando nos ombros opostos. Esta será a sua posição inicial.",
+    "medida que você expira, aplaina a parte inferior das costas para o chão enquanto enrola o tronco para cima. Dica: Isso será como executar o primeiro movimento de 1/4 de uma sessão. Mantenha-se na posição superior por um segundo.",
+    "medida que você inala, abaixe lentamente de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Frog_Sit-Ups/0.jpg",
+    "Frog_Sit-Ups/1.jpg"
+  ],
+  "id": "Frog_Sit-Ups"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Assento de dois braços Palms-Up Low-Pulley Wrist Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um banco na frente de uma máquina de polia baixa que tenha uma barra ou um acessório EZ Curl.",
+    "Mova o banco longe o suficiente para que quando você trazer a alça para o topo de sua tensão coxas é criado no cabo devido à pilha de peso a ser movido para cima.",
+    "Agora segure a alça com as duas mãos, palmas para cima, usando um aperto de largura do ombro.",
+    "Afaste-se e sente-se no banco com os pés sobre a largura do ombro, firmemente no chão.",
+    "Incline-se para a frente e coloque os antebraços em suas coxas com a parte de trás de seus pulsos sobre os joelhos. Esta será a sua posição inicial.",
+    "Abaixe a barra o máximo possível, enquanto inala e mantém uma aderência apertada.",
+    "Agora enrole a barra o mais alto possível ao contrair os antebraços. Dica: Apenas o pulso deve se mover; não os antebraços.",
+    "Depois de uma segunda contração no topo, volte para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/0.jpg",
+    "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl"
+}

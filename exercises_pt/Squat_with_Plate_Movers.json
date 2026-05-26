@@ -1,0 +1,33 @@
+{
+  "name": "Agachamento com Movers Placa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, primeiro defina a barra em um rack para logo abaixo do nível do ombro. Posicione uma placa de peso no chão a alguns metros de volta do rack. Uma vez que a barra é carregada, pise sob ela e coloque a parte de trás de seus ombros em cima dela.",
+    "Segure a barra com as duas mãos e levante-a do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitar o seu tronco.",
+    "Afaste-se do rack e adote uma posição ampla com os dedos ligeiramente apontados, com um pé na placa de peso. Mantenha a cabeça erguida o tempo todo. Esta será sua posição inicial.",
+    "Comece a abaixar lentamente a barra, dobrando os joelhos e quadris. Continue para baixo até que o ângulo entre a perna superior e os bezerros se torne ligeiramente inferior a 90 graus.",
+    "Levante a barra enquanto expira, empurrando o chão com os calcanhares dos pés enquanto estende os quadris e joelhos.",
+    "No topo do movimento, degrau lateral, trazendo os pés juntos no lado oposto da placa.",
+    "Usando o pé interno, empurre a placa de peso, deslizando-a pelo chão até onde você estava apenas de pé.",
+    "Coloque o pé interno na placa de peso, adotando uma postura ampla para a próxima repetição."
+  ],
+  "category": "strength",
+  "images": [
+    "Squat_with_Plate_Movers/0.jpg",
+    "Squat_with_Plate_Movers/1.jpg"
+  ],
+  "id": "Squat_with_Plate_Movers"
+}

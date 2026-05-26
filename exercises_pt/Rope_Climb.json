@@ -1,0 +1,29 @@
+{
+  "name": "Escalada de corda",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue a corda com as duas mãos acima da cabeça. Puxe a corda enquanto você dá um pequeno salto.",
+    "Enrole a corda em torno de uma perna, usando os pés para beliscar a corda. Alcance o mais alto possível com os braços, segurando a corda firmemente.",
+    "Solte a corda dos pés enquanto se levanta com os braços, trazendo os joelhos para o peito.",
+    "Resegurar os pés na corda e, em seguida, levantar-se para tomar outra posição elevada na corda. Continue até chegar ao topo da corda.",
+    "Para baixar a si mesmo, solte a aderência dos pés na corda enquanto desliza para baixo usando um movimento de mão sobre mão."
+  ],
+  "category": "strength",
+  "images": [
+    "Rope_Climb/0.jpg",
+    "Rope_Climb/1.jpg"
+  ],
+  "id": "Rope_Climb"
+}

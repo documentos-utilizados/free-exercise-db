@@ -1,0 +1,22 @@
+{
+  "name": "Face Pull",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Enfrentando uma polia alta com uma corda ou alças duplas presas, puxe o peso diretamente em direção ao seu rosto, separando as mãos enquanto faz isso. Mantenha seus braços superiores paralelos ao chão."
+  ],
+  "category": "strength",
+  "images": [
+    "Face_Pull/0.jpg",
+    "Face_Pull/1.jpg"
+  ],
+  "id": "Face_Pull"
+}

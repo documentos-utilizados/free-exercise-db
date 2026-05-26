@@ -1,0 +1,27 @@
+{
+  "name": "Equilíbrio Jerk",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Esta broca ajuda você a aprender a dirigir-se baixo o suficiente durante o empurrão e corrige aqueles que se movem para trás durante o movimento. Comece com a barra estante na posição do empurrão, com os ombros para a frente, o tronco na posição vertical e os pés ligeiramente separados.",
+    "Inicie o movimento como se fosse um idiota normal, mergulhando nos joelhos enquanto mantém o tronco vertical e dirigindo de volta com força, usando o impulso e não os braços para elevar o peso.",
+    "Mantenha o pé traseiro no lugar, usando-o para conduzir seu corpo para a frente em uma divisão completa como você sacudir o peso. Recupere levantando-se com o peso acima."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Jerk_Balance/0.jpg",
+    "Jerk_Balance/1.jpg"
+  ],
+  "id": "Jerk_Balance"
+}

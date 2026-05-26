@@ -1,0 +1,23 @@
+{
+  "name": "De pé Toe Touchs",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Fique com algum espaço na frente e atrás de você.",
+    "Dobre na cintura, mantendo as pernas retas, até que você possa relaxar e deixar sua parte superior do corpo pendurado na frente de você. Deixe seus braços e mãos pendurados naturalmente. Segure por 10 a 20 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Toe_Touches/0.jpg",
+    "Standing_Toe_Touches/1.jpg"
+  ],
+  "id": "Standing_Toe_Touches"
+}

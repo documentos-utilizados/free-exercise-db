@@ -1,0 +1,27 @@
+{
+  "name": "JM Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece o exercício da mesma forma que você faria um aperto de perto supino. Você vai deitar em um banco plano, enquanto segurando uma barra no comprimento dos braços (totalmente estendido) com os cotovelos. No entanto, em vez de ter os braços perpendiculares ao tronco, certifique-se de que a barra é definida em uma linha direta acima do peito superior. Esta será a sua posição inicial.",
+    "Agora, a partir de uma posição totalmente estendida, abaixe a barra para baixo como se estivesse realizando uma extensão do tríceps deitado. Inale à medida que você executa esse movimento. Quando você chegar ao ponto do meio caminho, deixe a barra rolar para trás cerca de uma polegada movendo os braços superiores em direção às pernas até que estejam perpendiculares ao tronco. Dica: Mantenha a curva nos cotovelos constante à medida que você traz os braços superiores para a frente.",
+    "Ao expirar, pressione a barra de volta usando o tríceps para executar um supino de aperto próximo.",
+    "Agora volte para a posição inicial e comece de novo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "JM_Press/0.jpg",
+    "JM_Press/1.jpg"
+  ],
+  "id": "JM_Press"
+}

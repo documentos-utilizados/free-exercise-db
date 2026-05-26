@@ -1,0 +1,29 @@
+{
+  "name": "Pulôver de Barbell Bent-Arm",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com uma barra usando uma largura de aperto do ombro.",
+    "Segure a barra diretamente sobre o peito com uma curva nos braços. Esta será a sua posição inicial.",
+    "Enquanto mantém os braços na posição do braço dobrado, abaixe o peso lentamente em um arco atrás da cabeça enquanto respira até sentir um estiramento no peito.",
+    "Nesse ponto, traga a barra de volta para a posição inicial usando o arco através do qual o peso foi reduzido e expire enquanto você executa esse movimento.",
+    "Segure o peso na posição inicial por um segundo e repita o movimento para o número prescrito de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent-Arm_Barbell_Pullover/0.jpg",
+    "Bent-Arm_Barbell_Pullover/1.jpg"
+  ],
+  "id": "Bent-Arm_Barbell_Pullover"
+}

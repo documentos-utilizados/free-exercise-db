@@ -1,0 +1,24 @@
+{
+  "name": "Declínio Dumbbell Triceps Extensão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Proteja as pernas no final do banco de declínio e deite-se com um haltere em cada mão em cima de suas coxas. As palmas da sua mão estarão viradas uma para a outra.",
+    "Uma vez que você está deitado, mova os halteres na frente de você na largura do ombro. As palmas das mãos devem estar voltadas umas para as outras e os braços devem ser perpendiculares ao chão e totalmente estendido. Esta será a sua posição inicial.",
+    "medida que você respira e mantém os braços superiores estacionários (e os cotovelos dentro), traga os halteres lentamente movendo seus antebraços em um movimento semicircular em direção a você até que seus polegares estejam ao lado de suas orelhas. Respire enquanto realiza essa parte do movimento.",
+    "Levante os halteres de volta para a posição inicial, contraindo o tríceps e expirando.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Dumbbell_Triceps_Extension/0.jpg",
+    "Decline_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Decline_Dumbbell_Triceps_Extension"
+}

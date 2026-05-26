@@ -1,0 +1,29 @@
+{
+  "name": "Elevador de cabo em pé",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão em uma torre e mova o cabo para a posição mais baixa da polia.",
+    "Com o seu lado para o cabo, pegue a alça com uma mão e afaste-se da torre. Você deve estar aproximadamente comprimento do braço longe da polia, com a tensão do peso no cabo. Seu braço estendido deve estar alinhado com o cabo.",
+    "Com os pés posicionados com a largura do ombro separada, agache-se e agarre a alça com as duas mãos. Seus braços ainda devem ser totalmente estendidos.",
+    "Em um movimento, puxe a alça para cima e através de seu corpo até que seus braços estejam em uma posição totalmente estendida acima de sua cabeça.",
+    "Mantenha as costas retas e os braços próximos ao corpo enquanto gira o pé traseiro e endireita as pernas para obter uma amplitude completa de movimento.",
+    "Retraia seus braços e, em seguida, seu corpo. Volte para a posição neutra de forma lenta e controlada.",
+    "Repita para o fracasso.",
+    "Em seguida, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Cable_Lift/0.jpg",
+    "Standing_Cable_Lift/1.jpg"
+  ],
+  "id": "Standing_Cable_Lift"
+}

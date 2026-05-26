@@ -1,0 +1,28 @@
+{
+  "name": "Pull-Up traseiro de grande aderência",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue a barra pull-up com as palmas voltadas para a frente usando uma grande aderência.",
+    "Como você tem ambos os braços estendidos na frente de você segurando a barra, traga seu tronco para a frente e cabeça para que haja uma linha imaginária da barra de puxar para a parte de trás do pescoço. Esta é a sua posição inicial.",
+    "Puxe o tronco para cima até que a barra esteja perto da parte de trás do pescoço. Para fazer isso, puxe os ombros e os braços para baixo e para trás enquanto se inclina ligeiramente para a frente. Expire enquanto você executa essa parte do movimento. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição completa contratada. O tronco superior deve permanecer estacionário à medida que se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho.",
+    "Depois de um segundo na posição contraída, comece a inalar e abaixe lentamente o tronco de volta para a posição inicial quando seus braços estiverem totalmente estendidos e os braços estiverem totalmente esticados.",
+    "Repita este movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Wide-Grip_Rear_Pull-Up/0.jpg",
+    "Wide-Grip_Rear_Pull-Up/1.jpg"
+  ],
+  "id": "Wide-Grip_Rear_Pull-Up"
+}

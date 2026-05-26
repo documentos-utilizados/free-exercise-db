@@ -1,0 +1,26 @@
+{
+  "name": "Bancada Dips",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará colocar um banco atrás das costas. Com o banco perpendicular ao seu corpo, e enquanto olha para longe dele, segure o banco em sua borda com as mãos totalmente estendidas, separadas na largura do ombro. As pernas serão estendidas para a frente, dobradas na cintura e perpendiculares ao seu tronco. Esta será sua posição inicial.",
+    "Abaixe lentamente o corpo enquanto você inala, dobrando-se nos cotovelos até que você se abaixe o suficiente para onde há um ângulo ligeiramente menor que 90 graus entre o braço e o antebraço. Dica: Mantenha os cotovelos o mais próximo possível durante todo o movimento. Os antebraços devem sempre estar apontando para baixo.",
+    "Usando seu tríceps para trazer seu tronco para cima novamente, levante-se de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bench_Dips/0.jpg",
+    "Bench_Dips/1.jpg"
+  ],
+  "id": "Bench_Dips"
+}

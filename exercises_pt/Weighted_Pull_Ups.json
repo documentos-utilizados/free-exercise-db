@@ -1,0 +1,26 @@
+{
+  "name": "Pull Ups ponderados",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Anexe um peso a um cinto de mergulho e prenda-o em torno de sua cintura. Pegue a barra de puxar com as palmas das mãos voltadas para a frente. Para um aperto médio, suas mãos devem ser espaçadas na largura do ombro. Ambos os braços devem ser estendidos na frente de você segurando a barra no aperto escolhido.",
+    "Você vai querer trazer o seu tronco de volta cerca de 30 graus, criando uma curvatura em sua parte inferior das costas e colocando o peito para fora. Esta será a sua posição inicial.",
+    "Agora, expire e puxe seu tronco para cima até que sua cabeça esteja acima de suas mãos. Concentre-se em apertar as lâminas do ombro para trás e para baixo enquanto atinge a posição superior contratada.",
+    "Depois de um breve momento na posição superior contraída, inale e abaixe lentamente o tronco de volta para a posição inicial com os braços estendidos e os lats totalmente esticados."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Pull_Ups/0.jpg",
+    "Weighted_Pull_Ups/1.jpg"
+  ],
+  "id": "Weighted_Pull_Ups"
+}

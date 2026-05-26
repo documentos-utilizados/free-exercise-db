@@ -1,0 +1,26 @@
+{
+  "name": "Barbell Shrug atrás das costas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Levante-se em linha reta com os pés na largura do ombro enquanto segura uma barra com as duas mãos atrás das costas usando um aperto pronado (palmeiras voltadas para trás). Dica: Suas mãos devem ser um pouco mais largas do que a largura do ombro. Você pode usar envoltórios de pulso para este exercício para uma melhor aderência. Esta será sua posição inicial.",
+    "Levante os ombros o mais longe que puder enquanto expira e segure a contração por um segundo. Dica: Abster-se de tentar levantar a barra usando seu bíceps. Os braços devem permanecer esticados o tempo todo.",
+    "Retorne lentamente à posição inicial enquanto você respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Shrug_Behind_The_Back/0.jpg",
+    "Barbell_Shrug_Behind_The_Back/1.jpg"
+  ],
+  "id": "Barbell_Shrug_Behind_The_Back"
+}

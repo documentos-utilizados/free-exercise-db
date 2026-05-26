@@ -1,0 +1,27 @@
+{
+  "name": "Barbell Guilhotina Banco Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Usando um aperto de largura média (uma aderência que cria um ângulo de 90 graus no meio do movimento entre os antebraços e os braços superiores), levante a barra do rack e segure-a diretamente sobre o pescoço com os braços bloqueados. Esta será a sua posição inicial.",
+    "medida que você respira, traga a barra para baixo lentamente até que esteja a cerca de 1 polegada do seu pescoço.",
+    "Depois de uma segunda pausa, traga a barra de volta para a posição inicial enquanto você expira e empurre a barra usando os músculos do peito. Tranque os braços e esprema o peito na posição contraída, segure por um segundo e comece a descer lentamente novamente. Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Guillotine_Bench_Press/0.jpg",
+    "Barbell_Guillotine_Bench_Press/1.jpg"
+  ],
+  "id": "Barbell_Guillotine_Bench_Press"
+}

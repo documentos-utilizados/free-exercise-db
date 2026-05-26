@@ -1,0 +1,26 @@
+{
+  "name": "Assento Dumbbell Palms-Abaixo Pulso Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece colocando dois halteres no chão na frente de um banco plano.",
+    "Sente-se na borda do banco plano com as pernas em cerca de largura do ombro separados. Certifique-se de manter os pés no chão.",
+    "Use os braços para agarrar os dois halteres e trazê-los para cima, de modo que seus antebraços estão descansando contra suas coxas com as palmas das mãos voltadas para baixo. Seus pulsos devem estar pendurados sobre a borda de suas coxas.",
+    "Comece enrolando o pulso para cima e expirando.",
+    "Abaixe lentamente os pulsos de volta para a posição inicial durante a inalação. Certifique-se de inalar durante esta parte do exercício. Dica: Seus antebraços devem estar estacionários, pois seu pulso é o único movimento necessário para realizar este exercício.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Quando terminar, simplesmente abaixe os halteres para o chão."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+    "Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cross-Body Crunch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas e dobre os joelhos cerca de 60 graus.",
+    "Mantenha os pés no chão e coloque as mãos frouxamente atrás da cabeça. Esta será a sua posição inicial.",
+    "Agora enrole-se e traga o cotovelo direito e o ombro em todo o corpo enquanto traz o joelho esquerdo em direção ao ombro esquerdo ao mesmo tempo. Alcance com o cotovelo e tente tocar o joelho. Expire enquanto você executa esse movimento. Dica: Tente trazer o ombro para cima em direção ao joelho em vez de apenas o cotovelo e lembre-se de que a chave é contrair o abdômen enquanto você executa o movimento; não apenas para mover o cotovelo.",
+    "Agora volte para a posição inicial enquanto você inala e repita com o cotovelo esquerdo e o joelho direito.",
+    "Continue alternando dessa maneira até que todas as repetições prescritas sejam feitas."
+  ],
+  "category": "strength",
+  "images": [
+    "Cross-Body_Crunch/0.jpg",
+    "Cross-Body_Crunch/1.jpg"
+  ],
+  "id": "Cross-Body_Crunch"
+}

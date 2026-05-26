@@ -1,0 +1,25 @@
+{
+  "name": "Alternando Kettlebell Row",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells na frente de seus pés. Dobre os joelhos ligeiramente e empurre sua bunda para fora, tanto quanto possível. Como você se curva para entrar na posição inicial agarrar ambos os kettlebells pelas alças.",
+    "Puxe um kettlebell para fora do chão enquanto se agarra ao outro kettlebell. Retraia a omoplata do lado de trabalho, enquanto você flexiona o cotovelo, puxando o kettlebell em direção ao seu estômago ou caixa torácica.",
+    "Abaixe o kettlebell no braço de trabalho e repita com o outro braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternating_Kettlebell_Row/0.jpg",
+    "Alternating_Kettlebell_Row/1.jpg"
+  ],
+  "id": "Alternating_Kettlebell_Row"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Assento Bent-Over Rear Delt Raise",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um par de halteres olhando para a frente na frente de um banco plano.",
+    "Sente-se no final do banco com as pernas juntas e os halteres atrás de seus bezerros.",
+    "Dobre-se na cintura, mantendo as costas retas, a fim de pegar os halteres. As palmas das suas mãos devem estar voltadas uma para a outra como você pegá-los. Esta será a sua posição inicial.",
+    "Mantendo o tronco para frente e parado, e os braços ligeiramente dobrados nos cotovelos, levante os halteres diretamente para o lado até que ambos os braços estejam paralelos ao chão. Expire enquanto você levanta os pesos. (Nota: evite balançar o tronco ou trazer os braços de volta em oposição ao lado.)",
+    "Depois de uma contração de um segundo na parte superior, abaixe lentamente os halteres de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
+    "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
+  ],
+  "id": "Seated_Bent-Over_Rear_Delt_Raise"
+}

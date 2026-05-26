@@ -1,0 +1,25 @@
+{
+  "name": "Banda Bom dia",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Usando uma faixa de 41 polegadas, fique em uma extremidade, espalhando os pés uma pequena quantidade. Dobre os quadris para loop o final da banda atrás do pescoço. Esta será a sua posição inicial.",
+    "Mantendo as pernas retas, estenda-se através dos quadris para chegar a uma posição quase vertical.",
+    "Assegure-se de que você não arredondar as costas como você ir para baixo de volta para a posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Band_Good_Morning/0.jpg",
+    "Band_Good_Morning/1.jpg"
+  ],
+  "id": "Band_Good_Morning"
+}

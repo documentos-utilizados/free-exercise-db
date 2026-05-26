@@ -1,0 +1,25 @@
+{
+  "name": "Air Bike",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com a parte inferior das costas pressionada no chão. Para este exercício, você precisará colocar as mãos ao lado da cabeça. Tenha cuidado, no entanto, para não se esforçar com o pescoço enquanto você o executa. Agora levante os ombros na posição crocante.",
+    "Traga os joelhos até onde eles são perpendiculares ao chão, com as pernas inferiores paralelas ao chão. Esta será a sua posição inicial.",
+    "Agora, simultaneamente, passe lentamente por um movimento de pedal de bicicleta chutando para a frente com a perna direita e trazendo o joelho da perna esquerda. Traga seu cotovelo direito perto do joelho esquerdo, triturando para o lado, enquanto você expira.",
+    "Volte para a posição inicial enquanto você respira.",
+    "Crunch para o lado oposto como você pedalar as pernas e trazer mais perto do cotovelo esquerdo para o joelho direito e expirar.",
+    "Continue alternando desta maneira até que todas as repetições recomendadas para cada lado tenham sido concluídas."
+  ],
+  "category": "strength",
+  "images": [
+    "Air_Bike/0.jpg",
+    "Air_Bike/1.jpg"
+  ],
+  "id": "Air_Bike"
+}

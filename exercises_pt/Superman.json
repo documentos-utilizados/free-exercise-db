@@ -1,0 +1,26 @@
+{
+  "name": "Super-Homem",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, deite-se em linha reta e de rosto para baixo no chão ou esteira de exercício. Seus braços devem ser totalmente estendidos na frente de você. Esta é a posição inicial.",
+    "Levante simultaneamente os braços, as pernas e o peito do chão e mantenha esta contração por 2 segundos. Dica: Aperte a parte inferior das costas para obter os melhores resultados deste exercício. Lembre-se de expirar durante este movimento. Nota: Ao manter a posição contraída, você deve parecer um super-homem quando ele estiver voando.",
+    "Lentamente, comece a abaixar os braços, pernas e peito de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "stretching",
+  "images": [
+    "Superman/0.jpg",
+    "Superman/1.jpg"
+  ],
+  "id": "Superman"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Squat Jerk",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé com o peso acumulado na frente dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Vá para baixo apenas ligeiramente e reverta a direção o mais poderosamente possível. Dirija pelos calcanhares crie a maior velocidade e força possível e não se esqueça de mover a cabeça para fora do caminho enquanto a barra sai dos ombros.",
+    "Neste momento, como os pés saem do chão, os pés devem ser colocados na posição de recepção o mais rápido possível. No breve momento os pés não estão dirigindo ativamente contra a plataforma, o esforço do atleta para empurrar a barra para cima irá levá-los para baixo. Os pés devem mover-se vigorosamente para fora dos quadris, acabou como necessário. Receba a barra com seu corpo em um agachamento completo e os braços totalmente estendidos acima.",
+    "Mantendo a barra alinhada sobre a frente dos calcanhares, a cabeça e o peito para cima, dirija através dos calcanhares dos pés para se mover para uma posição de pé."
+  ],
+  "category": "strength",
+  "images": [
+    "Squat_Jerk/0.jpg",
+    "Squat_Jerk/1.jpg"
+  ],
+  "id": "Squat_Jerk"
+}

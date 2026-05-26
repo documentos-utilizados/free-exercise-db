@@ -1,0 +1,23 @@
+{
+  "name": "Lateral Raise - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, fique em uma faixa de exercício para que a tensão comece no comprimento do braço. Segure as alças usando um aperto pronado (palmeiras voltadas para as coxas) que é ligeiramente menor do que a largura do ombro. As alças devem estar descansando nas laterais das coxas. Seus braços devem ser estendidos com uma ligeira curvatura nos cotovelos e suas costas devem ser retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar as alças para os lados enquanto expira. Continue a levantar as alças até que estejam ligeiramente acima do paralelo. Dica: Ao levantar as alças, incline ligeiramente a mão como se estivesse derramando água e mantenha os braços estendidos. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe as alças para baixo lentamente para a posição inicial. Inale enquanto você executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lateral_Raise_-_With_Bands/0.jpg",
+    "Lateral_Raise_-_With_Bands/1.jpg"
+  ],
+  "id": "Lateral_Raise_-_With_Bands"
+}

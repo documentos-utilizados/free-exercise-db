@@ -1,0 +1,26 @@
+{
+  "name": "Dips - Versão para o peito",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará ter acesso a barras paralelas. Para entrar na posição inicial, segure seu corpo no comprimento dos braços (braços bloqueados) acima das barras.",
+    "Enquanto respira, abaixe-se lentamente com o tronco inclinado para a frente em torno de 30 graus ou mais e seus cotovelos brilharam ligeiramente até que você sinta um leve estiramento no peito.",
+    "Depois de sentir o alongamento, use o peito para trazer seu corpo de volta à posição inicial enquanto você expira. Dica: Lembre-se de apertar o peito no topo do movimento por um segundo.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dips_-_Chest_Version/0.jpg",
+    "Dips_-_Chest_Version/1.jpg"
+  ],
+  "id": "Dips_-_Chest_Version"
+}

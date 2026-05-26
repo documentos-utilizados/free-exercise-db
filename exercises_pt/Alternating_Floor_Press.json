@@ -1,0 +1,27 @@
+{
+  "name": "Alternando a imprensa do assoalho",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão com dois kettlebells ao lado de seus ombros.",
+    "Posicione um no lugar em seu peito e depois o outro, segurando os kettlebells na alça com as palmas voltadas para a frente.",
+    "Estenda ambos os braços, para que os kettlebells estejam sendo mantidos acima do peito. Abaixe um kettlebell, trazendo-o para o peito e gire o pulso na direção do kettlebell bloqueado.",
+    "Levante o kettlebell e repita no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternating_Floor_Press/0.jpg",
+    "Alternating_Floor_Press/1.jpg"
+  ],
+  "id": "Alternating_Floor_Press"
+}

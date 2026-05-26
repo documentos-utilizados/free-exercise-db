@@ -1,0 +1,26 @@
+{
+  "name": "Bola de Medicina de Um Braço",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece em uma posição de pé com uma postura atlética escalonada. Segure uma bola de medicina em uma mão, no mesmo lado que sua perna traseira. Esta será sua posição inicial.",
+    "Comece por enrolar o braço, levantando a bola do medicamento acima de sua cabeça. Ao fazê-lo, estenda-se através dos quadris, joelhos e tornozelos para carregar para o slam.",
+    "Na extensão de pico, flexione os ombros, a coluna e os quadris para jogar a bola no chão diretamente na sua frente.",
+    "Pegue a bola no salto e continue para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Medicine_Ball_Slam/0.jpg",
+    "One-Arm_Medicine_Ball_Slam/1.jpg"
+  ],
+  "id": "One-Arm_Medicine_Ball_Slam"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Corpo Tricep Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione uma barra em um rack na altura do peito.",
+    "Em pé, segure a largura do ombro na barra e pise um quintal ou dois para trás, os pés juntos e os braços estendidos para que você esteja inclinado na barra. Esta será sua posição inicial.",
+    "Comece flexionando o cotovelo, baixando-se em direção à barra.",
+    "Pausar e, em seguida, inverter o movimento, estendendo os cotovelos.",
+    "Progresso do peso corporal, adicionando correntes sobre os ombros."
+  ],
+  "category": "strength",
+  "images": [
+    "Body_Tricep_Press/0.jpg",
+    "Body_Tricep_Press/1.jpg"
+  ],
+  "id": "Body_Tricep_Press"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Barbell Hip Thrust",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece sentado no chão com um banco diretamente atrás de você. Tenha uma barra carregada sobre as pernas. Usar uma barra gorda ou ter uma almofada na barra pode reduzir muito o desconforto causado por este exercício.",
+    "Role a barra de modo que ela esteja diretamente acima de seus quadris e incline-se contra o banco para que suas omoplatas estejam perto do topo dela.",
+    "Comece o movimento dirigindo através de seus pés, estendendo seus quadris verticalmente através da barra. Seu peso deve ser suportado por suas omoplatas e seus pés. Estenda o mais longe possível, em seguida, reverta o movimento para retornar à posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Barbell_Hip_Thrust/0.jpg",
+    "Barbell_Hip_Thrust/1.jpg"
+  ],
+  "id": "Barbell_Hip_Thrust"
+}

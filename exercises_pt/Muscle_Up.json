@@ -1,0 +1,31 @@
+{
+  "name": "Músculo para cima",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "antebraços",
+    "costas (meio)",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure os anéis usando um aperto falso, com a base das palmas das mãos em cima dos anéis. Inicie uma puxar para cima puxando os cotovelos para baixo para o seu lado, flexionando os cotovelos.",
+    "medida que você alcança a posição superior do pull-up, puxe os anéis para suas axilas enquanto você enrola os ombros para a frente, permitindo que seus cotovelos se movam para trás. Isso coloca você na posição adequada para continuar na porção de mergulho do movimento.",
+    "Mantendo o controle e a estabilidade, estenda-se através do cotovelo para completar o movimento.",
+    "Tenha cuidado ao se abaixar ao chão."
+  ],
+  "category": "strength",
+  "images": [
+    "Muscle_Up/0.jpg",
+    "Muscle_Up/1.jpg"
+  ],
+  "id": "Muscle_Up"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Smith Single-Leg Split Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, coloque um banco plano 2-3 pés atrás da máquina de ferreiro. Em seguida, defina a barra na altura que melhor corresponde à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando ambos os braços em cada lado (palmas viradas para a frente), desbloqueie-o e levante-o do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando seu tronco.",
+    "Posicione as pernas colocando um pé ligeiramente para a frente sob a barra e estendendo a outra perna para trás e coloque o topo do pé no banco. Esta será a sua posição inicial",
+    "Comece a abaixar lentamente a barra dobrando o joelho enquanto você mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e a panturrilha se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo do paralelo ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente do joelho deve fazer uma linha reta imaginária com os dedos que estão perpendiculares.",
+    "Comece a levantar a barra enquanto expira, empurrando o chão com o calcanhar do pé, principalmente quando você endireitar a perna novamente e voltar para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque as pernas e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Single-Leg_Split_Squat/0.jpg",
+    "Smith_Single-Leg_Split_Squat/1.jpg"
+  ],
+  "id": "Smith_Single-Leg_Split_Squat"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Deitado Close-Grip Barbell Triceps Extensão Atrás da Cabeça",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto segura uma barra ou barra EZ Curl com uma preensão pronada (palmas voltadas para a frente), deite-se de costas em um banco plano com a cabeça perto do final do banco. Dica: Se você estiver segurando uma barra, agarre-a usando uma alça de largura de ombro e se estiver usando uma barra E-Z, agarre-a nas alças internas.",
+    "Estenda os braços à sua frente e traga lentamente a barra de volta em um movimento semi circular (mantendo os braços estendidos) para uma posição sobre a cabeça. No final desta etapa, seus braços devem estar acima e paralelos ao chão. Esta será sua posição inicial. Dica: Mantenha seus cotovelos em todos os momentos.",
+    "medida que você inala, abaixe a barra dobrando-se nos cotovelos e mantendo o braço parado. Continue abaixando a barra até que seus antebraços estejam perpendiculares ao chão.",
+    "medida que você expira, traga a barra de volta para a posição inicial, empurrando a barra para cima em um movimento semicircular até que os braços inferiores também estejam paralelos ao chão. Contrate os tríceps com força na parte superior do movimento por um segundo. Dica: Mais uma vez, apenas os antebraços devem se mover. Os braços superiores devem permanecer estacionários em todos os momentos.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/0.jpg",
+    "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/1.jpg"
+  ],
+  "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head"
+}

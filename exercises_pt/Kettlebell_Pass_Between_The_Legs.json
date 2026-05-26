@@ -1,0 +1,25 @@
+{
+  "name": "Kettlebell passa entre as pernas",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre as pernas e tome uma posição confortável. Dobre-se empurrando a bunda para fora e mantendo as costas planas.",
+    "Pegue um kettlebell e passá-lo para a sua outra mão entre as pernas, na forma de um \"W\". Vá para frente e para trás para várias repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Pass_Between_The_Legs/0.jpg",
+    "Kettlebell_Pass_Between_The_Legs/1.jpg"
+  ],
+  "id": "Kettlebell_Pass_Between_The_Legs"
+}

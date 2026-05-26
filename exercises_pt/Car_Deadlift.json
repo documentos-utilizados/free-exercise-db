@@ -1,0 +1,29 @@
+{
+  "name": "Carro Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Este aparelho de evento normalmente tem pegas neutras, no entanto, alguns têm uma barra reta que você pode se aproximar como um deadlift normal. O aparelho pode ser carregado com um veículo ou outros objetos pesados, como pneus de trator ou barris.",
+    "Centre-se entre as alças se você é um agachador forte, ou para trás um par de polegadas se você é um deadlifter forte. Seus pés devem ser cerca de largura do quadril separados. Dobre no quadril para segurar as alças. Com seus pés e seu conjunto de aperto, tome uma grande respiração e, em seguida, abaixe seus quadris e flexione os joelhos.",
+    "Olhe para a frente com a cabeça, mantenha o peito para cima e as costas arqueadas, e comece a dirigir através dos calcanhares para mover o peso para cima.  medida que o peso sobe, puxe as omoplatas enquanto dirige os quadris para frente.",
+    "Abaixe o peso dobrando-se nos quadris e guiando-o até o chão."
+  ],
+  "category": "strongman",
+  "images": [
+    "Car_Deadlift/0.jpg",
+    "Car_Deadlift/1.jpg"
+  ],
+  "id": "Car_Deadlift"
+}

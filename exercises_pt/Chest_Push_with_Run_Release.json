@@ -1,0 +1,26 @@
+{
+  "name": "Empurre o peito com Run Release",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma postura atlética com os joelhos dobrados, quadris para trás e costas planas. Segure a bola de remédio perto de suas pernas. Esta será sua posição inicial.",
+    "Ao dar o seu primeiro passo, desenhe a bola de remédio em seu peito.",
+    "Como você dá o segundo passo, explosivamente empurrar a bola para a frente, correndo imediatamente para 10 jardas após o lançamento. Se você é realmente rápido, você pode pegar o seu próprio passe!"
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Chest_Push_with_Run_Release/0.jpg",
+    "Chest_Push_with_Run_Release/1.jpg"
+  ],
+  "id": "Chest_Push_with_Run_Release"
+}

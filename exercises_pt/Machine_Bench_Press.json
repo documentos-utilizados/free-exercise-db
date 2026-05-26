@@ -1,0 +1,29 @@
+{
+  "name": "Prensa do banco da máquina",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se na Máquina de Prensa de Peito e selecione o peso.",
+    "Passo na alavanca fornecida pela máquina, uma vez que irá ajudá-lo a trazer as alças para a frente para que você possa agarrar as alças e estender totalmente os braços.",
+    "Pegue as alças com um aperto palmas-down e levante os cotovelos para que seus braços superiores são paralelos ao chão para os lados do seu tronco. Dica: Seus antebraços estarão apontando para a frente, uma vez que você está agarrando as alças. Uma vez que você trazer as alças para a frente e estender os braços você estará na posição inicial.",
+    "Agora traga as alças de volta para você enquanto você respira.",
+    "Empurre as alças para longe de você enquanto flexiona seus peitorais e expira. Segure a contração por um segundo antes de voltar para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Quando terminar de pisar na alavanca novamente e lentamente obter as alças de volta ao seu lugar original."
+  ],
+  "category": "strength",
+  "images": [
+    "Machine_Bench_Press/0.jpg",
+    "Machine_Bench_Press/1.jpg"
+  ],
+  "id": "Machine_Bench_Press"
+}

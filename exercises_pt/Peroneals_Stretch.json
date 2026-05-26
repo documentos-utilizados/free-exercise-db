@@ -1,0 +1,21 @@
+{
+  "name": "Peroneais esticar",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Em uma posição sentada, faça um laço com um cinto, uma corda ou uma banda ao redor de um pé. Esta será sua posição inicial.",
+    "Com a perna estendida e o calcanhar fora do chão, puxe o cinto para que o pé seja invertido, com o interior do pé sendo puxado em sua direção. Segure por 10-20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Peroneals_Stretch/0.jpg",
+    "Peroneals_Stretch/1.jpg"
+  ],
+  "id": "Peroneals_Stretch"
+}

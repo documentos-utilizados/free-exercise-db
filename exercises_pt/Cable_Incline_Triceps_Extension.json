@@ -1,0 +1,24 @@
+{
+  "name": "Extensão do tríceps da inclinação do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em inclinar um banco voltado para longe de uma máquina de polia alta que tem um acessório de barra reta sobre ele.",
+    "Segure a barra reta de fixação acima com um pronated (overhand; palmas para baixo) aperto estreito (menos do que a largura do ombro) e manter os cotovelos dobrados em seus lados. Seus braços superiores devem criar em torno de um ângulo de 25 graus, quando medido a partir do chão.",
+    "Mantendo os braços parados, estenda os braços enquanto flexiona o tríceps. Respire durante esta parte do movimento e segure a contração por um segundo.",
+    "Lentamente, volte para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Incline_Triceps_Extension/0.jpg",
+    "Cable_Incline_Triceps_Extension/1.jpg"
+  ],
+  "id": "Cable_Incline_Triceps_Extension"
+}

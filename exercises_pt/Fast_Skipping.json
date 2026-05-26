@@ -1,0 +1,28 @@
+{
+  "name": "Salto rápido",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece em uma posição relaxada com uma perna ligeiramente para a frente. Esta será a sua posição inicial.",
+    "Pular executando um padrão de passo-hop do passo direito-direito para o passo esquerdo-esquerdo, e assim por diante, alternando para frente e para trás.",
+    "Execute saltos rápidos mantendo contato próximo com o solo e reduza o tempo de ar, movendo-se o mais rápido possível."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Fast_Skipping/0.jpg",
+    "Fast_Skipping/1.jpg"
+  ],
+  "id": "Fast_Skipping"
+}

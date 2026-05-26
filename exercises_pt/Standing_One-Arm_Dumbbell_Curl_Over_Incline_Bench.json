@@ -1,0 +1,25 @@
+{
+  "name": "Standing One-Arm Dumbbell Curl Over Incline Banco",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique na parte de trás de um banco inclinado como se você fosse ser um observador para alguém. Tenha um haltere em uma mão e descanse-o através do banco inclinado com um aperto supinated (palms up).",
+    "Posicione sua mão sem levantar no canto ou lado do banco inclinado. O peito deve ser pressionado contra a parte superior da inclinação e seus pés devem ser pressionados contra o chão em uma posição ampla. Esta é a posição inicial.",
+    "Enquanto segura o braço parado, enrole o haltere para cima enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e o haltere esteja no nível do ombro. Mantenha a posição contraída por um segundo.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque os braços durante a realização deste exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/0.jpg",
+    "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
+  ],
+  "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench"
+}

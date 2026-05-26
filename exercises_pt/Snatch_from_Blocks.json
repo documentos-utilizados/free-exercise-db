@@ -1,0 +1,33 @@
+{
+  "name": "Raspão de blocos",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada em caixas ou suportes da altura desejada. Um aperto largo deve ser tomado na barra. Os pés devem estar diretamente abaixo dos quadris, com os pés virados para fora conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça olhando para a frente. Os ombros devem estar apenas na frente da barra, com os cotovelos apontados. Esta será a posição inicial.",
+    "Comece a primeira atração dirigindo pela frente dos calcanhares, levantando a barra das caixas.",
+    "Transição para a segunda tração, estendendo-se através dos joelhos e tornozelos dos quadris, dirigindo a barra para cima o mais rápido possível. A barra deve estar perto do corpo. Na extensão de pico, encolher os ombros e permitir que os cotovelos se flexionem para o lado.",
+    "medida que você move os pés para a posição de recepção, puxe-se vigorosamente abaixo da barra enquanto você eleva a barra acima. Os pés devem se mover para fora dos quadris, conforme necessário. Receba a barra com o corpo o mais baixo possível e os braços totalmente estendidos acima.",
+    "Mantendo a barra alinhada sobre a frente dos calcanhares, a cabeça e o peito para cima, dirija através dos calcanhares dos pés para se mover para uma posição de pé. Com cuidado, retorne o peso para as caixas."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Snatch_from_Blocks/0.jpg",
+    "Snatch_from_Blocks/1.jpg"
+  ],
+  "id": "Snatch_from_Blocks"
+}

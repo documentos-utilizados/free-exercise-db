@@ -1,0 +1,21 @@
+{
+  "name": "Curl Inferior",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de barriga para baixo com os braços para os lados. Esta será a sua posição inicial.",
+    "Usando os músculos da parte inferior das costas, estenda a coluna levantando o peito do chão. Não use os braços para se empurrar para cima. Mantenha a cabeça erguida durante o movimento. Repita por 10-20 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lower_Back_Curl/0.jpg",
+    "Lower_Back_Curl/1.jpg"
+  ],
+  "id": "Lower_Back_Curl"
+}

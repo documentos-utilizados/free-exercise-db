@@ -1,0 +1,23 @@
+{
+  "name": "Máquina reversa voa",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste as alças para que estejam totalmente na parte traseira. Faça uma seleção de peso adequada e ajuste a altura do assento para que as alças estejam no nível do ombro. Segure as alças com as mãos voltadas para dentro. Esta será sua posição inicial.",
+    "Em um movimento semicircular, puxe as mãos para o seu lado e para trás, contraindo seus delts traseiros.",
+    "Mantenha os braços ligeiramente dobrados durante todo o movimento, com todo o movimento ocorrendo na articulação do ombro.",
+    "Pausa na parte de trás do movimento, e lentamente retornar o peso para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Machine_Flyes/0.jpg",
+    "Reverse_Machine_Flyes/1.jpg"
+  ],
+  "id": "Reverse_Machine_Flyes"
+}

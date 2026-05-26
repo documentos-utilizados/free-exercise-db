@@ -1,0 +1,25 @@
+{
+  "name": "Split Squats",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Estando em uma posição de pé. Salte em uma posição de perna dividida, com uma perna para frente e uma perna para trás, flexionando os joelhos e baixando ligeiramente os quadris enquanto você faz isso.",
+    "Ao descer, vire imediatamente a direção, de pé para cima e pule, invertendo a posição das pernas. Repita 5-10 vezes em cada perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Split_Squats/0.jpg",
+    "Split_Squats/1.jpg"
+  ],
+  "id": "Split_Squats"
+}

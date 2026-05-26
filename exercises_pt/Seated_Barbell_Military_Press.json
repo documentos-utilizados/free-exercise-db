@@ -1,0 +1,26 @@
+{
+  "name": "Sentaram Barbell Imprensa Militar",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco de imprensa militar com uma barra atrás de sua cabeça e ou ter um observador dar-lhe a barra (melhor no manguito rotador desta forma) ou pegá-lo com cuidado com um aperto pronado (palmas viradas para a frente). Dica: Seu aperto deve ser mais largo do que a largura do ombro e deve criar um ângulo de 90 graus entre o antebraço eo braço superior como a barra vai para baixo.",
+    "Uma vez que você pegar a barra com o comprimento de aderência correto, levante a barra acima de sua cabeça, travando os braços. Segure no nível do ombro e ligeiramente na frente de sua cabeça. Esta é a sua posição inicial.",
+    "Abaixe a barra até a clavícula lentamente enquanto você inala.",
+    "Levante a barra de volta para a posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Barbell_Military_Press/0.jpg",
+    "Seated_Barbell_Military_Press/1.jpg"
+  ],
+  "id": "Seated_Barbell_Military_Press"
+}

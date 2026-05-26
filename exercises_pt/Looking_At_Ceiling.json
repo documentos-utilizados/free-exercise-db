@@ -1,0 +1,21 @@
+{
+  "name": "Olhando para o teto",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajoelhe-se no chão, segurando os calcanhares com as duas mãos.",
+    "Levante as nádegas para cima e para a frente enquanto traz a cabeça para trás para olhar para o teto, para dar um arco nas costas."
+  ],
+  "category": "stretching",
+  "images": [
+    "Looking_At_Ceiling/0.jpg",
+    "Looking_At_Ceiling/1.jpg"
+  ],
+  "id": "Looking_At_Ceiling"
+}

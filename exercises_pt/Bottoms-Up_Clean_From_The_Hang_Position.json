@@ -1,0 +1,24 @@
+{
+  "name": "Bottoms-Up Limpar da posição de suspensão",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Inicie o exercício de pé com um kettlebell em uma mão.",
+    "Balance o kettlebell para trás com força e, em seguida, reverta o movimento com força. Esmague o cabo do kettlebell o mais difícil possível e levante o kettlebell para o seu ombro."
+  ],
+  "category": "strength",
+  "images": [
+    "Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
+    "Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
+  ],
+  "id": "Bottoms-Up_Clean_From_The_Hang_Position"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Passo rápido Carioca",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece com os pés a alguns centímetros de distância e seu braço esquerdo para cima em uma posição relaxada e atlética.",
+    "Com o pé direito, dê um passo rápido para trás e puxe o joelho para cima.",
+    "Atire os braços para trás quando puxar o joelho direito, certificando-se de que o joelho vai para cima e para baixo. Evite virar os pés enquanto se move e continue a olhar para a frente enquanto se move para o lado."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Carioca_Quick_Step/0.jpg",
+    "Carioca_Quick_Step/1.jpg"
+  ],
+  "id": "Carioca_Quick_Step"
+}

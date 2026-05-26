@@ -1,0 +1,21 @@
+{
+  "name": "Quadríceps-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque o rosto para baixo no chão com o seu peso apoiado por suas mãos ou antebraços. Coloque um rolo de espuma sob uma perna no quadríceps, e mantenha o pé fora do chão. Certifique-se de relaxar a perna, tanto quanto possível. Esta será a sua posição inicial.",
+    "Mudando tanto peso para a perna a ser esticada quanto tolerável, role a espuma acima do joelho para abaixo do quadril, mantendo pontos de tensão por 10-30 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Quadriceps-SMR/0.jpg",
+    "Quadriceps-SMR/1.jpg"
+  ],
+  "id": "Quadriceps-SMR"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Drop Push",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione caixas baixas ou outras plataformas a 2 a 3 metros de distância.",
+    "Mova-se para uma posição de flexão entre eles, apoiando-se colocando as mãos nas caixas.",
+    "Com boa postura, solte das plataformas pressionando para cima e movendo as mãos para a largura do ombro, amortecendo seu pouso absorvendo o impacto através do braço."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Drop_Push/0.jpg",
+    "Drop_Push/1.jpg"
+  ],
+  "id": "Drop_Push"
+}

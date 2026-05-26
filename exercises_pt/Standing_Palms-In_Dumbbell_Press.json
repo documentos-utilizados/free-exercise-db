@@ -1,0 +1,25 @@
+{
+  "name": "De pé Palms-In Dumbbell Press",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece por ter um haltere em cada mão com o braço totalmente estendido para o lado usando um aperto neutro. Seus pés devem ser largura do ombro separados um do outro. Agora levante lentamente os halteres até criar um ângulo de 90 graus com os braços. Nota: Seus antebraços devem ser perpendiculares ao chão. Esta é a posição inicial.",
+    "Continue a manter uma aderência neutra durante todo o exercício. Lentamente levante os halteres até que seus braços estejam totalmente estendidos.",
+    "Ao inalar, abaixe os pesos até que seu braço esteja em um ângulo de 90 graus novamente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Palms-In_Dumbbell_Press/0.jpg",
+    "Standing_Palms-In_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Standing_Palms-In_Dumbbell_Press"
+}

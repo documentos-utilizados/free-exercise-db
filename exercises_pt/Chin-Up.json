@@ -1,0 +1,28 @@
+{
+  "name": "Chin-Up",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Pegue a barra de puxar para cima com as palmas das mãos voltadas para o seu tronco e um aperto mais perto do que a largura do ombro.",
+    "Como você tem ambos os braços estendidos na frente de você segurando a barra na largura de aderência escolhida, mantenha seu tronco o mais reto possível enquanto cria uma curvatura na parte inferior das costas e coloca o peito para fora. Esta é a sua posição inicial. Dica: Manter o tronco o mais reto possível maximiza a estimulação do bíceps, minimizando o envolvimento nas costas.",
+    "medida que você expira, puxe o tronco para cima até que sua cabeça esteja ao redor do nível da barra pull-up. Concentre-se em usar os músculos do bíceps para realizar o movimento. Mantenha os cotovelos perto do seu corpo. Dica: O tronco superior deve permanecer estacionário à medida que se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo de apertar o bíceps na posição contraída, abaixe lentamente o tronco de volta à posição inicial; quando os braços estiverem totalmente estendidos. Respire enquanto realiza essa parte do movimento.",
+    "Repita este movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Chin-Up/0.jpg",
+    "Chin-Up/1.jpg"
+  ],
+  "id": "Chin-Up"
+}

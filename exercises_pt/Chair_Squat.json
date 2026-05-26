@@ -1,0 +1,29 @@
+{
+  "name": "Cadeira Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, primeiro defina a barra para uma posição que melhor corresponda à sua altura. Uma vez que a barra esteja carregada, coloque-a sob ela e posicione-a na parte de trás de seus ombros.",
+    "Pegue a barra com as mãos voltadas para a frente, desbloqueie-a e levante-a do rack, estendendo as pernas.",
+    "Mova os pés para a frente cerca de 18 polegadas na frente da barra. Posicione as pernas usando uma posição de largura do ombro com os dedos ligeiramente apontados. Olhe para a frente em todos os momentos e mantenha uma coluna neutra ou ligeiramente arqueada. Esta será a sua posição inicial.",
+    "Abaixe lentamente a barra dobrando os joelhos enquanto mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e inferior se quebre 90 graus.",
+    "Comece a levantar a barra enquanto expira, empurrando o chão com os calcanhares dos pés, estendendo os joelhos e retornando à posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Chair_Squat/0.jpg",
+    "Chair_Squat/1.jpg"
+  ],
+  "id": "Chair_Squat"
+}

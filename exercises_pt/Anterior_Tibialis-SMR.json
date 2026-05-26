@@ -1,0 +1,21 @@
+{
+  "name": "Tibialis-SMR anterior",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece sentado no chão com as pernas dobradas e os pés no chão.",
+    "Usando um rolo muscular ou um rolo rolante, aplique pressão nos músculos do lado de fora das canelas. Trabalhe de um pouco abaixo do joelho até acima do tornozelo, pausando em pontos de tensão por 10-30 segundos. Repita na outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Anterior_Tibialis-SMR/0.jpg",
+    "Anterior_Tibialis-SMR/1.jpg"
+  ],
+  "id": "Anterior_Tibialis-SMR"
+}

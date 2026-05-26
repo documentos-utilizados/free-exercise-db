@@ -1,0 +1,24 @@
+{
+  "name": "Lado deitado Groin estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece deitando-se do lado direito e dobre o joelho direito na sua frente para estabilizar o tronco.",
+    "Descanse a cabeça na mão direita ou no ombro. Levante a perna esquerda para cima e segure-a na parte de trás do joelho (mais fácil) ou no pé (mais duro).",
+    "Puxe o joelho esquerdo em direção ao ombro esquerdo e, simultaneamente, pressione o pé ou joelho até o chão. Para intensificar esse alongamento, endireite a perna esquerda."
+  ],
+  "category": "stretching",
+  "images": [
+    "Side_Lying_Groin_Stretch/0.jpg",
+    "Side_Lying_Groin_Stretch/1.jpg"
+  ],
+  "id": "Side_Lying_Groin_Stretch"
+}

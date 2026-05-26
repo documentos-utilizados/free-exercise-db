@@ -1,0 +1,25 @@
+{
+  "name": "Assento cabeça Harness pescoço resistência",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque uma cinta de pescoço no chão no final de um banco plano. Depois de selecionar os pesos, sente-se no final do banco plano com os pés mais largos do que a largura do ombro um do outro. Seus dedos dos pés devem ser apontados.",
+    "Lentamente mova seu tronco para a frente até que seja quase paralelo com o chão. Usando ambas as mãos, posicione com segurança a alça do pescoço em torno de sua cabeça. Dica: Certifique-se de que os pesos ainda estejam deitados no chão para evitar qualquer tensão no pescoço. Agora pegue o peso com as duas mãos enquanto eleva seu tronco para trás até que seja quase perpendicular ao chão. Nota: Sua cabeça e tronco precisam estar ligeiramente inclinados para a frente para realizar este exercício.",
+    "Agora coloque as duas mãos em cima dos joelhos. Esta é a posição inicial.",
+    "Abaixe lentamente o pescoço até que o queixo toque a parte superior do peito enquanto respira.",
+    "Ao expirar, traga o pescoço de volta à posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Head_Harness_Neck_Resistance/0.jpg",
+    "Seated_Head_Harness_Neck_Resistance/1.jpg"
+  ],
+  "id": "Seated_Head_Harness_Neck_Resistance"
+}

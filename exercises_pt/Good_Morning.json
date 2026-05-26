@@ -1,0 +1,26 @@
+{
+  "name": "Bom dia.",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra em um rack na altura do ombro. Rack a barra através da parte traseira de seus ombros como você faria um agachamento de energia, não em cima de seus ombros. Mantenha as costas apertadas, as omoplatas apertadas juntas e os joelhos ligeiramente dobrados. Afaste-se do rack.",
+    "Comece dobrando-se nos quadris, movendo-os para trás enquanto você se inclina para perto do paralelo. Mantenha suas costas arqueadas e sua coluna cervical em alinhamento adequado.",
+    "Reverta o movimento, estendendo-se através dos quadris com seus glúteos e isquiotibiais. Continue até que você tenha retornado à posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Good_Morning/0.jpg",
+    "Good_Morning/1.jpg"
+  ],
+  "id": "Good_Morning"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Barbell Squat Para Um Banco",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para fins de segurança. Para começar, primeiro coloque um banco plano ou uma caixa atrás de você. O banco plano é usado para ensinar você a colocar seus quadris para trás e atingir a profundidade.",
+    "",
+    "Em seguida, defina a barra em um rack que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando os dois braços de cada lado e levante-a do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média de largura do ombro com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o deixará desequilibrado e também manterá as costas retas. Esta será sua posição inicial. (Nota: Para os fins desta discussão, usaremos a postura média descrita acima, que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posturas discutidas na seção de posturas dos pés).",
+    "Comece a abaixar lentamente a barra dobrando os joelhos e sentando os quadris para trás enquanto mantém uma postura reta com a cabeça para cima. Continue para baixo até tocar levemente o banco atrás de você. Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos dos pés que é perpendicular à frente. Se seus joelhos estão além dessa linha imaginária (se eles estão colocando o estresse).",
+    "Comece a levantar a barra enquanto expira, empurrando o chão com o calcanhar do pé enquanto endireita as pernas e estende os quadris para voltar à posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Squat_To_A_Bench/0.jpg",
+    "Barbell_Squat_To_A_Bench/1.jpg"
+  ],
+  "id": "Barbell_Squat_To_A_Bench"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Triceps Pushdown - Anexo V-Bar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe uma barra V a uma polia alta e pegue com um aperto de mão (palmas viradas para baixo) na largura do ombro.",
+    "De pé com o tronco reto e uma inclinação muito pequena para a frente, aproxime os braços superiores do corpo e perpendicular ao chão. Os antebraços devem estar apontando para a polia enquanto seguram a barra. Os polegares devem ser mais altos do que o dedo pequeno. Esta é a sua posição inicial.",
+    "Usando o tríceps, traga a barra para baixo até que ela toque a frente de suas coxas e os braços estejam totalmente estendidos perpendicularmente ao chão. Os braços superiores devem sempre permanecer estacionários ao lado do tronco e apenas os antebraços devem se mover. Expire enquanto realiza esse movimento.",
+    "Depois de uma segunda espera na posição contratada, leve a barra V lentamente até o ponto de partida. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+    "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+  ],
+  "id": "Triceps_Pushdown_-_V-Bar_Attachment"
+}

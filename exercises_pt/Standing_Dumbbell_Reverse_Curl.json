@@ -1,0 +1,25 @@
+{
+  "name": "De pé Dumbbell Reverse Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Para começar, fique em linha reta com um haltere em cada mão usando um aperto pronado (palmas viradas para baixo). Seus braços devem ser totalmente estendidos enquanto seus pés estão com a largura do ombro separada um do outro. Esta é a posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o músculo.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Dumbbell_Reverse_Curl/0.jpg",
+    "Standing_Dumbbell_Reverse_Curl/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Reverse_Curl"
+}

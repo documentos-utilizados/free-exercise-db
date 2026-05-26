@@ -1,0 +1,25 @@
+{
+  "name": "Glute Kickback",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Ajoelhe-se no chão ou uma esteira de exercício e dobre-se na cintura com os braços estendidos na sua frente (perpendicular ao tronco) para entrar em uma posição de flexão ajoelhada, mas com os braços espaçados na largura do ombro. Sua cabeça deve estar olhando para a frente e a curvatura dos joelhos deve criar um ângulo de 90 graus entre os isquiotibiais e os bezerros. Esta será sua posição inicial.",
+    "Ao expirar, levante a perna direita até que os isquiotibiais estejam alinhados com as costas, mantendo a curva angular de 90 graus. Contrate os glúteos ao longo deste movimento e segure a contração no topo por um segundo. Dica: No final do movimento, a perna superior deve ser paralela ao chão, enquanto a panturrilha deve ser perpendicular a ela.",
+    "Volte para a posição inicial enquanto você inala e agora repita com a perna esquerda.",
+    "Continue a alternar as pernas até que todas as repetições recomendadas tenham sido realizadas."
+  ],
+  "category": "strength",
+  "images": [
+    "Glute_Kickback/0.jpg",
+    "Glute_Kickback/1.jpg"
+  ],
+  "id": "Glute_Kickback"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Círculos de Ombro",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Com os ombros relaxados e os braços descansando frouxamente em seus lados (ou em seu colo, se você estiver sentado), role suavemente os ombros para frente, para cima, para trás e para baixo.",
+    "Você pode fazer este exercício alternando ombros ou ambos ao mesmo tempo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Shoulder_Circles/0.jpg",
+    "Shoulder_Circles/1.jpg"
+  ],
+  "id": "Shoulder_Circles"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dumbbell Flyes",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em cada mão descansando em cima de suas coxas. As palmas da sua mão estarão viradas uma para a outra.",
+    "Em seguida, usando suas coxas para ajudar a levantar os halteres, levante os halteres um de cada vez para que você possa segurá-los na frente de você na largura do ombro com as palmas das mãos voltadas para o outro. Levante os halteres como se estivesse pressionando, mas pare e segure antes de trancar. Esta será sua posição inicial.",
+    "Com uma ligeira curvatura nos cotovelos para evitar o estresse no tendão do bíceps, abaixe os braços em ambos os lados em um arco largo até sentir um alongamento no peito. Respire enquanto realiza essa parte do movimento. Dica: Tenha em mente que durante todo o movimento, os braços devem permanecer estacionários; o movimento só deve ocorrer na articulação do ombro.",
+    "Volte os braços de volta para a posição inicial enquanto aperta os músculos do peito e expira. Dica: Certifique-se de usar o mesmo arco de movimento usado para diminuir os pesos.",
+    "Segure por um segundo na posição contraída e repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Flyes/0.jpg",
+    "Dumbbell_Flyes/1.jpg"
+  ],
+  "id": "Dumbbell_Flyes"
+}

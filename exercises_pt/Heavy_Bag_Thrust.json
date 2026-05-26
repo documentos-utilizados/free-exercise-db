@@ -1,0 +1,26 @@
+{
+  "name": "Saco pesado Thrust",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Utilize um saco pesado para este exercício. Assuma uma posição vertical ao lado do saco, com os pés escalonados, bastante afastados. Coloque a mão no saco a cerca de altura no peito. Esta será a sua posição inicial.",
+    "Comece torcendo na cintura, empurrando o saco para a frente o mais difícil possível. Execute este movimento rapidamente, empurrando o saco para longe de seu corpo.",
+    "Receba o saco enquanto ele balança de volta, invertendo estes passos."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Heavy_Bag_Thrust/0.jpg",
+    "Heavy_Bag_Thrust/1.jpg"
+  ],
+  "id": "Heavy_Bag_Thrust"
+}

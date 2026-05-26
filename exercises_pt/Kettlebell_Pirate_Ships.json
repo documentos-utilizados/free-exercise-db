@@ -1,0 +1,25 @@
+{
+  "name": "Navios Piratas Kettlebell",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais"
+  ],
+  "instructions": [
+    "Com uma posição ampla, segure um kettlebell com as duas mãos. Permita que ele pendure no nível da cintura com os braços estendidos. Esta será sua posição inicial.",
+    "Inicie o movimento virando-se para um lado, balançando o kettlebell para a altura da cabeça. Faça uma breve pausa no topo do movimento.",
+    "Permita que o sino caia enquanto você gira para o lado oposto, novamente elevando o kettlebell à altura da cabeça.",
+    "Repita para a quantidade desejada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Pirate_Ships/0.jpg",
+    "Kettlebell_Pirate_Ships/1.jpg"
+  ],
+  "id": "Kettlebell_Pirate_Ships"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cotovelos para trás",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Levanta-te em linha reta.",
+    "Coloque as duas mãos na parte inferior das costas, os dedos apontando para baixo e os cotovelos para fora.",
+    "Em seguida, puxe suavemente os cotovelos de volta com o objetivo de tocá-los juntos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Elbows_Back/0.jpg",
+    "Elbows_Back/1.jpg"
+  ],
+  "id": "Elbows_Back"
+}

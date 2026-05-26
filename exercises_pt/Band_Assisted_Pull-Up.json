@@ -1,0 +1,27 @@
+{
+  "name": "Banda Assistida Pull-Up",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "antebraços",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Agite a banda ao redor do centro da barra de pullup. Você pode usar bandas diferentes para fornecer níveis variados de assistência.",
+    "Puxe a extremidade da banda para baixo, e coloque um joelho dobrado no laço, garantindo que ele não escorregue para fora. Tome um aperto médio a largo na barra. Esta será a sua posição inicial.",
+    "Puxe-se para cima, contraindo os lats como você flexionar o cotovelo. O cotovelo deve ser conduzido para o seu lado. Puxe para a frente, tentando obter o queixo sobre a barra. Evite movimentos balançando ou sacudindo.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Band_Assisted_Pull-Up/0.jpg",
+    "Band_Assisted_Pull-Up/1.jpg"
+  ],
+  "id": "Band_Assisted_Pull-Up"
+}

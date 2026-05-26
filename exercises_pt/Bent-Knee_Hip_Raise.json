@@ -1,0 +1,24 @@
+{
+  "name": "Bent-Knee Hip Raise",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com os braços ao lado dos lados.",
+    "Agora dobre os joelhos em torno de um ângulo de 75 graus e levante os pés do chão por cerca de 2 polegadas.",
+    "Usando seus abdominais inferiores, traga seus joelhos em direção a você como você manter a curva de ângulo de 75 graus em suas pernas. Continue este movimento até que você levante os quadris fora do chão, rolando sua pélvis para trás. Respire para fora como você executar esta parte do movimento. Dica: No final do movimento seus joelhos estarão sobre o peito.",
+    "Aperte os abdominais no topo do movimento por um segundo e, em seguida, retorne à posição inicial lentamente à medida que você respira. Dica: Mantenha um movimento controlado em todos os momentos.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent-Knee_Hip_Raise/0.jpg",
+    "Bent-Knee_Hip_Raise/1.jpg"
+  ],
+  "id": "Bent-Knee_Hip_Raise"
+}

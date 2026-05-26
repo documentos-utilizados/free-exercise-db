@@ -1,0 +1,27 @@
+{
+  "name": "Prensa Dumbbell Close-Grip",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um haltere em pé em um banco plano.",
+    "Garantindo que o haltere permaneça firmemente colocado no topo do banco, fique perpendicular ao banco com apenas os ombros deitados na superfície. Os quadris devem estar abaixo do banco e as pernas dobradas com os pés firmemente no chão.",
+    "Segure o haltere com as duas mãos e segure-o diretamente sobre o peito no comprimento do braço. Ambas as palmas devem estar pressionando contra a parte inferior dos lados do haltere. Esta será a sua posição inicial.",
+    "Inicie o movimento baixando o haltere para o peito.",
+    "Volte para a posição inicial, estendendo os cotovelos."
+  ],
+  "category": "strength",
+  "images": [
+    "Close-Grip_Dumbbell_Press/0.jpg",
+    "Close-Grip_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Close-Grip_Dumbbell_Press"
+}

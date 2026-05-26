@@ -1,0 +1,25 @@
+{
+  "name": "Extensão de tríceps de dois braços com dobradiça",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se no final de um banco plano com um haltere em ambos os braços usando um aperto neutro (palmas da mão virada para você).",
+    "Dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Certifique-se de manter a cabeça erguida.",
+    "Os braços superiores com os halteres devem estar perto do tronco e alinhados com ele (levantados até ficarem paralelos ao chão enquanto os antebraços estão apontando para o chão enquanto as mãos seguram os pesos). Dica: Deve haver um ângulo de 90 graus entre os antebraços e a parte superior do braço. Esta é a sua posição inicial.",
+    "Mantendo os braços superiores estacionários, use o tríceps para levantar o peso enquanto expira até que os antebraços estejam paralelos ao chão e todo o braço seja estendido. Como muitos outros exercícios do braço, apenas o antebraço se move.",
+    "Depois de uma segunda contração no topo, abaixe lentamente os halteres de volta para a posição inicial à medida que você inala.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension"
+}

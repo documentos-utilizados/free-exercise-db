@@ -1,0 +1,26 @@
+{
+  "name": "Salto rápido",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Você vai precisar de uma caixa para este exercício.",
+    "Comece de frente para a caixa de pé 1-2 pés de sua borda.",
+    "Ao utilizar seus quadris, pule na caixa, pousando em ambas as pernas. Certifique-se de pousar com as pernas dobradas e os pés chatos.",
+    "Imediatamente após o pouso, estenda-se completamente por todo o corpo e balançar os braços acima para explodir fora da caixa. Use suas pernas para absorver o impacto do pouso."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Quick_Leap/0.jpg",
+    "Quick_Leap/1.jpg"
+  ],
+  "id": "Quick_Leap"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "V-Bar Pullup",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece colocando o meio da barra V no meio da barra pull-up (supondo que a estação pull-up que você está usando não tenha alças de aderência neutras). As alças V-Bar estarão voltadas para baixo para que você possa pendurar da barra pull-up através do uso das alças.",
+    "Depois de colocar com segurança a barra V, segure a barra de cada lado e pendure-a. Coloque o peito para fora e incline-se ligeiramente para trás, a fim de melhor envolver os traseiros. Esta será a sua posição inicial.",
+    "Usando seus lats, puxe o tronco para cima enquanto inclina a cabeça para trás ligeiramente para que você não se acerte com a barra de queixo para cima. Continue até que seu peito quase toque a barra V. Expire enquanto executa este movimento.",
+    "Depois de uma segunda retenção na posição contraída, abaixe lentamente o corpo de volta para a posição inicial à medida que você respira.",
+    "Repita para o número prescrito de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "V-Bar_Pullup/0.jpg",
+    "V-Bar_Pullup/1.jpg"
+  ],
+  "id": "V-Bar_Pullup"
+}

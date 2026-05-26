@@ -1,0 +1,27 @@
+{
+  "name": "Standing Bradford Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque uma barra carregada no nível do ombro em um rack. Com uma preensão pronada na largura do ombro, comece com a barra estanteada na frente de seus ombros. Esta é sua posição inicial.",
+    "Inicie o elevador, estendendo os cotovelos para pressionar a barra acima. Evite bloquear o cotovelo enquanto você move o peso atrás de sua cabeça.",
+    "Abaixe a barra até a parte de trás da cabeça até que o cotovelo forme um ângulo reto.",
+    "Levante a barra de volta sobre a cabeça, estendendo os cotovelos",
+    "Abaixe a barra até a posição inicial.",
+    "Alterne desta maneira até completar a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Bradford_Press/0.jpg",
+    "Standing_Bradford_Press/1.jpg"
+  ],
+  "id": "Standing_Bradford_Press"
+}

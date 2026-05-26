@@ -1,0 +1,26 @@
+{
+  "name": "Elevador de perna",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Enquanto está em pé com os dois pés ao lado um do outro em torno da largura do ombro, pegue uma superfície resistente, como os lados de um rack de agachamento ou o topo de uma cadeira para se preparar e manter o equilíbrio.",
+    "Com ou sem um peso no tornozelo, levante uma perna atrás de você como se estivesse fazendo uma curva na perna, mas de pé, mantendo a outra perna reta. Respire enquanto realiza esse movimento.",
+    "Lentamente, traga a perna levantada de volta ao chão enquanto você respira.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Repita o movimento com a perna oposta."
+  ],
+  "category": "strength",
+  "images": [
+    "Leg_Lift/0.jpg",
+    "Leg_Lift/1.jpg"
+  ],
+  "id": "Leg_Lift"
+}

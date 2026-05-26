@@ -1,0 +1,23 @@
+{
+  "name": "Frente Dumbbell Raise",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Escolha um par de halteres e ficar com um tronco reto e os halteres na frente de suas coxas no comprimento dos braços com as palmas da mão de frente para suas coxas. Esta será a sua posição inicial.",
+    "Enquanto mantém o tronco parado (sem oscilação), levante o haltere esquerdo para a frente com uma ligeira curva no cotovelo e as palmas das mãos sempre voltadas para baixo. Continue a subir até que o braço esteja ligeiramente acima do paralelo ao chão. Expire enquanto executa esta parte do movimento e faça uma pausa por um segundo no topo. Inspire após a segunda pausa.",
+    "Agora abaixe o haltere de volta lentamente para a posição inicial enquanto levanta simultaneamente o haltere direito.",
+    "Continue alternando desta forma até que todas as repetições recomendadas tenham sido realizadas para cada braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Dumbbell_Raise/0.jpg",
+    "Front_Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Front_Dumbbell_Raise"
+}

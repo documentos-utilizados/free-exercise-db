@@ -1,0 +1,23 @@
+{
+  "name": "Overhead Slam",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma bola de medina com as duas mãos e fique com os pés na largura do ombro. Esta será a sua posição inicial.",
+    "Inicie o contramovimento levantando a bola acima de sua cabeça e estendendo totalmente seu corpo.",
+    "Inverta o movimento, batendo a bola no chão diretamente na frente de você o mais forte que puder.",
+    "Receba a bola com as duas mãos no salto e repita o movimento."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Overhead_Slam/0.jpg",
+    "Overhead_Slam/1.jpg"
+  ],
+  "id": "Overhead_Slam"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Deitado Triceps Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com uma barra de e-z (minha preferência) ou uma barra reta colocada no chão atrás de sua cabeça e seus pés no chão.",
+    "Pegue a barra atrás de você, usando um aperto médio (pronatado) e levante a barra na frente de você no comprimento dos braços. Dica: Os braços devem ser perpendiculares ao tronco e ao chão. Os cotovelos devem ser dobrados. Esta é a posição inicial.",
+    "medida que você respira, diminua lentamente o peso até que a barra toque levemente sua testa, mantendo os braços e cotovelos parados.",
+    "Nesse ponto, use o tríceps para trazer o peso de volta para a posição inicial à medida que você expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Triceps_Press/0.jpg",
+    "Lying_Triceps_Press/1.jpg"
+  ],
+  "id": "Lying_Triceps_Press"
+}

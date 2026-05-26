@@ -1,0 +1,24 @@
+{
+  "name": "Pull pulso lateral",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "dorsais"
+  ],
+  "instructions": [
+    "Este alongamento funciona melhor em pé. Cruze seu braço esquerdo sobre a linha média do seu corpo e segure o pulso esquerdo em sua mão direita para baixo no nível de seus quadris. Comece o alongamento com um braço esquerdo dobrado.",
+    "Lentamente endireitar, puxar e levantá-lo até a altura do ombro, como retratado. Sinta este trecho originar em suas costas, não seus ombros, e não puxar muito duro sobre a articulação dos ombros."
+  ],
+  "category": "stretching",
+  "images": [
+    "Side_Wrist_Pull/0.jpg",
+    "Side_Wrist_Pull/1.jpg"
+  ],
+  "id": "Side_Wrist_Pull"
+}

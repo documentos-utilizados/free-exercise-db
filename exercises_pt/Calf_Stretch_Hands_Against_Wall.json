@@ -1,0 +1,22 @@
+{
+  "name": "Calf esticar as mãos contra a parede",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de frente para uma parede a vários metros de distância. Aperte sua posição, colocando um pé para a frente.",
+    "Incline-se para a frente e descanse as mãos na parede, mantendo o calcanhar, o quadril e a cabeça em linha reta.",
+    "Tente manter seu calcanhar no chão. Segure por 10-20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Calf_Stretch_Hands_Against_Wall/0.jpg",
+    "Calf_Stretch_Hands_Against_Wall/1.jpg"
+  ],
+  "id": "Calf_Stretch_Hands_Against_Wall"
+}

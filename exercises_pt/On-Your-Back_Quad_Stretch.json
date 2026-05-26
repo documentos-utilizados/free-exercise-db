@@ -1,0 +1,23 @@
+{
+  "name": "On-Your-Back Quad Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano ou degrau, e pendure uma perna e um braço sobre o lado.",
+    "Dobre o joelho e segure o topo do pé. Ao fazer isso, tenha cuidado para não arquear sua parte inferior das costas.",
+    "Puxe o umbigo para a coluna para ficar neutro. Pressione o pé para baixo e na mão. Para adicionar o estiramento do quadril, levante o quadril da perna que você está segurando em direção ao teto.",
+    "Mudar de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "On-Your-Back_Quad_Stretch/0.jpg",
+    "On-Your-Back_Quad_Stretch/1.jpg"
+  ],
+  "id": "On-Your-Back_Quad_Stretch"
+}

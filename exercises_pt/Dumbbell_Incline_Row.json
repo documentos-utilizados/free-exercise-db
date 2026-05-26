@@ -1,0 +1,28 @@
+{
+  "name": "Dumbbell Incline Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Usando um aperto neutro, incline-se em um banco inclinado.",
+    "Pegue um haltere em cada mão com um aperto neutro, começando com os braços retos. Esta será a sua posição inicial.",
+    "Retraia as omoplatas e flexione os cotovelos para remar os halteres para o seu lado.",
+    "Pausa na parte superior do movimento e, em seguida, voltar para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Incline_Row/0.jpg",
+    "Dumbbell_Incline_Row/1.jpg"
+  ],
+  "id": "Dumbbell_Incline_Row"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Foot-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Este exercício estende a fáscia dos músculos nos pés. Comece sentado com os sapatos removidos. Usando um rolo de pé ou um objeto semelhante, como uma pequena seção de tubo de pvc, coloque o pé contra o rolo através do arco do pé. Esta será a sua posição inicial.",
+    "Pressione para baixo firmemente, rolando através do arco do pé. Segure por 10-30 segundos e, em seguida, troque os pés."
+  ],
+  "category": "stretching",
+  "images": [
+    "Foot-SMR/0.jpg",
+    "Foot-SMR/1.jpg"
+  ],
+  "id": "Foot-SMR"
+}

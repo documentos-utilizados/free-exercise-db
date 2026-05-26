@@ -1,0 +1,24 @@
+{
+  "name": "Parciais de potência",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical e um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco.",
+    "As palmas das mãos devem estar voltadas para o tronco. Seus pés devem estar separados pela largura do ombro. Esta será sua posição inicial.",
+    "Mantendo os braços retos e o tronco parado, levante os pesos para os lados até que eles estejam sobre a altura do nível do ombro enquanto expira.",
+    "Sinta a contração por um segundo e comece a baixar os pesos de volta para a posição inicial ao inalar. Dica: Mantenha as palmas das mãos voltadas para baixo com o dedo mindinho um pouco mais alto ao levantar e abaixar os pesos, pois concentrará o estresse em seus ombros principalmente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Power_Partials/0.jpg",
+    "Power_Partials/1.jpg"
+  ],
+  "id": "Power_Partials"
+}

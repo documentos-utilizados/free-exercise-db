@@ -1,0 +1,27 @@
+{
+  "name": "Barbell Bench Press - Aperto médio",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano. Usando um aperto de largura média (uma aderência que cria um ângulo de 90 graus no meio do movimento entre os antebraços e os braços superiores), levante a barra do rack e segure-a diretamente sobre você com os braços fechados. Esta será sua posição inicial.",
+    "A partir da posição inicial, respire e comece a descer lentamente até que a barra toque seu peito médio.",
+    "Depois de uma breve pausa, empurre a barra de volta para a posição inicial enquanto expira. Concentre-se em empurrar a barra usando os músculos do peito. Tranque os braços e esprema o peito na posição contraída no topo do movimento, segure por um segundo e comece a descer lentamente novamente. Dica: Idealmente, diminuir o peso deve levar cerca de duas vezes mais tempo do que elevá-lo.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+    "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+  ],
+  "id": "Barbell_Bench_Press_-_Medium_Grip"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Prensa de bancada de barra larga",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com os pés firmes no chão. Usando um aperto largo, pronado (palmas para a frente) que está a cerca de 3 polegadas de distância da largura do ombro (para cada mão), levante a barra do rack e segure-a diretamente sobre você com os braços fechados. A barra será perpendicular ao tronco e ao chão. Esta será sua posição inicial.",
+    "medida que você respira, desça lentamente até sentir a barra no peito médio.",
+    "Depois de uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Tranque os braços e esprema o peito na posição contraída, segure por um segundo e comece a descer lentamente novamente. Dica: Deve demorar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Wide-Grip_Barbell_Bench_Press/0.jpg",
+    "Wide-Grip_Barbell_Bench_Press/1.jpg"
+  ],
+  "id": "Wide-Grip_Barbell_Bench_Press"
+}

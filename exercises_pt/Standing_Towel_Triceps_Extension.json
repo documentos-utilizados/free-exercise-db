@@ -1,0 +1,23 @@
+{
+  "name": "Extensão de Tríceps de Toalha Permanente",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, levante-se com ambos os braços totalmente estendidos acima da cabeça segurando uma extremidade de uma toalha com as duas mãos. Seus cotovelos devem estar dentro e os braços perpendiculares ao chão com as palmas das mãos voltadas para o outro, enquanto seus pés devem ser largura do ombro para além um do outro. Esta é a posição inicial.",
+    "Agora comunique-se com seu parceiro para que ele / ela possa segurar o outro lado da toalha para aplicar resistência. Mantendo seus braços superiores perto de sua cabeça (cotovelo) e perpendicular ao chão, diminua a resistência em um movimento semicircular atrás de sua cabeça até que seus antebraços toquem seu bíceps. Dica: Os braços superiores devem permanecer estacionários e apenas os antebraços devem se mover. Respire enquanto você executa este passo.",
+    "Volte para a posição inicial usando o tríceps para levantar a toalha. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Towel_Triceps_Extension/0.jpg",
+    "Standing_Towel_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Towel_Triceps_Extension"
+}

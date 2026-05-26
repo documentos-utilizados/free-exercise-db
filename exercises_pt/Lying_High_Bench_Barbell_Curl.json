@@ -1,0 +1,23 @@
+{
+  "name": "Deitado alto banco Barbell Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de frente em um banco alto e plano enquanto segura uma barra com um aperto supinado (palmas viradas para cima). Dica: Se você estiver segurando uma barra, agarre-a usando um aperto na largura do ombro e se estiver usando uma barra E-Z, agarre-a nas alças internas. Sua parte superior do corpo deve ser posicionada de uma maneira que o peito superior esteja sobre a extremidade do banco e a barra esteja pendurada na sua frente com os braços estendidos e perpendicular ao piso inicial.",
+    "Mantendo os cotovelos dentro e os braços superiores estacionários, enrole o peso em um movimento semicircular enquanto contrai o bíceps e expira. Segure no topo do movimento por um segundo.",
+    "medida que você inala, volte lentamente para a posição inicial. Dica: Mantenha o controle total do peso em todos os momentos e evite qualquer balanço. Lembre-se, apenas os antebraços devem se mover ao longo do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_High_Bench_Barbell_Curl/0.jpg",
+    "Lying_High_Bench_Barbell_Curl/1.jpg"
+  ],
+  "id": "Lying_High_Bench_Barbell_Curl"
+}

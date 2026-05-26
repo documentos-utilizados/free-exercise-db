@@ -1,0 +1,25 @@
+{
+  "name": "Alavancagem High Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Carregue um peso apropriado nos pinos e ajuste a altura do assento para que você possa apenas alcançar as alças acima de você. Ajuste a joelheira para ajudar a mantê-lo para baixo. Segure as alças com uma alça pronada. Esta será sua posição inicial.",
+    "Puxe as alças em direção ao seu tronco, retraindo as omoplatas enquanto flexiona o cotovelo.",
+    "Pausa na parte inferior do movimento e, em seguida, retornar lentamente as alças para a posição inicial.",
+    "Para várias repetições, evite devolver completamente o peso às paradas para manter a tensão nos músculos que estão sendo trabalhados."
+  ],
+  "category": "strength",
+  "images": [
+    "Leverage_High_Row/0.jpg",
+    "Leverage_High_Row/1.jpg"
+  ],
+  "id": "Leverage_High_Row"
+}

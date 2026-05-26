@@ -1,0 +1,27 @@
+{
+  "name": "Goblet Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Fique segurando um kettlebell leve pelos chifres perto do seu peito. Esta será a sua posição inicial.",
+    "Agache-se entre as pernas até que seus isquiotibiais estejam em suas panturrilhas. Mantenha o peito e a cabeça para cima e as costas retas.",
+    "Na posição inferior, pause e use os cotovelos para empurrar os joelhos para fora. Volte para a posição inicial e repita por 10-20 repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Goblet_Squat/0.jpg",
+    "Goblet_Squat/1.jpg"
+  ],
+  "id": "Goblet_Squat"
+}

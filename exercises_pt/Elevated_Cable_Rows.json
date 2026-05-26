@@ -1,0 +1,29 @@
+{
+  "name": "Linhas de cabo elevadas",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)",
+    "trapézio"
+  ],
+  "instructions": [
+    "Obter uma plataforma de algum tipo (pode ser uma aeróbica ou plataforma de aumento de panturrilha) que é cerca de 4-6 polegadas de altura.",
+    "Coloque-o no assento da máquina de linha de cabo.",
+    "Sente-se na máquina e coloque os pés na plataforma frontal ou barra transversal, desde que seus joelhos estejam ligeiramente dobrados e não bloqueados.",
+    "Incline-se enquanto mantém o alinhamento natural das costas e agarre as alças da barra em V.",
+    "Com os braços estendidos puxe para trás até que seu tronco esteja em um ângulo de 90 graus de suas pernas. Suas costas devem ser ligeiramente arqueadas e seu peito deve estar saindo. Você deve estar se sentindo um bom estiramento em seus traseiros enquanto segura a barra na frente de você. Esta é a posição inicial do exercício.",
+    "Mantendo o tronco parado, puxe as alças de volta em direção ao seu tronco, mantendo os braços perto dele até tocar os abdominais. Respire enquanto realiza esse movimento. Nesse ponto, você deve apertar os músculos das costas com força. Segure essa contração por um segundo e volte lentamente para a posição original enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Elevated_Cable_Rows/0.jpg",
+    "Elevated_Cable_Rows/1.jpg"
+  ],
+  "id": "Elevated_Cable_Rows"
+}

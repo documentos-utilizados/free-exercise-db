@@ -1,0 +1,29 @@
+{
+  "name": "Agachamento com correntes",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Para configurar as correntes, comece girando a corrente líder sobre as mangas da barra. A corrente pesada deve ser presa usando um gancho de pressão. Ajuste o comprimento da cadeia de chumbo para que alguns elos ainda estejam no chão no topo do movimento.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra pelos ombros. Remova a barra do rack, criando um arco apertado na parte inferior das costas e volte para a posição. Coloque os pés de largura para mais ênfase nas costas, glúteos, adutores e isquiotibiais. Mantenha a cabeça voltada para frente.",
+    "Com as costas, os ombros e o núcleo apertados, empurre os joelhos e a bunda para fora e você começa sua descida. Sente-se com os quadris o máximo possível. Idealmente, suas canelas devem ser perpendiculares ao chão. A posição inferior da barra requer um torso maior para manter a barra nos calcanhares. Continue até quebrar o paralelo, que é definido como o vinco do quadril em linha com o topo do joelho.",
+    "Manter o peso em seus calcanhares e empurrar os pés e joelhos para fora, dirigir para cima como você liderar o movimento com a cabeça. Continue para cima, mantendo a tensão cabeça aos pés, até que você tenha retornado à posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Squat_with_Chains/0.jpg",
+    "Squat_with_Chains/1.jpg"
+  ],
+  "id": "Squat_with_Chains"
+}

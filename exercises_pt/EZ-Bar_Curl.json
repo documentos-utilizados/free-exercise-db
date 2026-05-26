@@ -1,0 +1,24 @@
+{
+  "name": "EZ-Bar Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura uma barra de cachos EZ na larga alça externa. As palmas das suas mãos devem estar viradas para a frente e ligeiramente inclinadas para dentro devido à forma da barra. Mantenha os cotovelos perto do seu tronco. Esta será a sua posição inicial.",
+    "Agora, enquanto mantém seus braços parados, expire e enrole os pesos para a frente enquanto contrai o bíceps. Concentre-se apenas em mover seus antebraços.",
+    "Continue a aumentar o peso até que seu bíceps esteja totalmente contraído e a barra esteja no nível do ombro. Mantenha a posição superior contraída por um momento e esprema o bíceps.",
+    "Em seguida, inale e abaixe lentamente a barra de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "EZ-Bar_Curl/0.jpg",
+    "EZ-Bar_Curl/1.jpg"
+  ],
+  "id": "EZ-Bar_Curl"
+}

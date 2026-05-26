@@ -1,0 +1,26 @@
+{
+  "name": "Push-Ups - Fechar posição do tríceps",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão de frente para baixo e coloque as mãos mais perto do que a largura do ombro para uma posição de mão próxima. Certifique-se de que você está segurando seu tronco no comprimento dos braços.",
+    "Abaixe-se até que seu peito quase toque o chão enquanto você inala.",
+    "Usando seu tríceps e alguns de seus músculos peitorais, pressione sua parte superior do corpo de volta para a posição inicial e esprema o peito. Respire enquanto você executa este passo.",
+    "Após uma segunda pausa na posição contraída, repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Push-Ups_-_Close_Triceps_Position/0.jpg",
+    "Push-Ups_-_Close_Triceps_Position/1.jpg"
+  ],
+  "id": "Push-Ups_-_Close_Triceps_Position"
+}

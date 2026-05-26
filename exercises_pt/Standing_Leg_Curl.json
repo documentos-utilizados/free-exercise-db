@@ -1,0 +1,24 @@
+{
+  "name": "Perna em pé Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca da máquina para ajustar sua altura e deite-se com o tronco dobrado na cintura voltado para a frente em torno de 30-45 graus (uma vez que uma posição angular é mais favorável para o recrutamento de isquiotibiais) com a almofada da alavanca na parte de trás da perna direita (apenas alguns centímetros sob os bezerros) e a frente da perna direita em cima da almofada da máquina.",
+    "Mantendo o tronco dobrado para a frente, certifique-se de que sua perna esteja totalmente esticada e pegue as alças laterais da máquina. Posicione os dedos dos pés em linha reta. Esta será sua posição inicial.",
+    "Ao expirar, enrole a perna direita o mais longe possível sem levantar a perna superior da almofada. Depois de atingir a posição totalmente contraída, segure-a por um segundo.",
+    "Como você inalar, trazer as pernas de volta para a posição inicial. Repita para a quantidade recomendada de repetições.",
+    "Faça o mesmo exercício agora para a perna esquerda."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Leg_Curl/0.jpg",
+    "Standing_Leg_Curl/1.jpg"
+  ],
+  "id": "Standing_Leg_Curl"
+}

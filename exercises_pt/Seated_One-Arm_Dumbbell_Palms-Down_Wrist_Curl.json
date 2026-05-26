@@ -1,0 +1,25 @@
+{
+  "name": "Assento One-Arm Dumbbell Palms-Down Pulso Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com um haltere na mão direita.",
+    "Coloque os pés no chão, a uma distância ligeiramente maior do que a largura do ombro.",
+    "Incline-se para a frente e coloque o antebraço direito em cima da coxa superior direita com a palma da mão para baixo. Dica: Certifique-se de que a parte de trás do pulso esteja em cima dos joelhos. Esta será a sua posição inicial.",
+    "Abaixe o haltere, tanto quanto possível, como você manter um aperto apertado sobre o haltere. Inspire como você executar este movimento.",
+    "Agora enrole o haltere o mais alto possível enquanto contrai os antebraços e expira. Mantenha a contração por um segundo antes de abaixar novamente. Dica: O único movimento deve acontecer no pulso.",
+    "Execute para a quantidade recomendada de repetições, troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+    "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl"
+}

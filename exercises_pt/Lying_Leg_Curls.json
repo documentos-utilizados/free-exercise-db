@@ -1,0 +1,23 @@
+{
+  "name": "Curls de perna deitada",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca da máquina para ajustar sua altura e deite-se de frente para baixo na máquina de curva de perna com a almofada da alavanca na parte de trás de suas pernas (apenas alguns centímetros sob as panturrilhas). Dica: De preferência use uma máquina de curva de perna que é angulada em oposição ao plano, uma vez que uma posição angulada é mais favorável para o recrutamento de isquiotibiais.",
+    "Mantendo o tronco plano no banco, certifique-se de que suas pernas estejam totalmente esticadas e pegue as alças laterais da máquina. Posicione os dedos dos pés em linha reta (ou você também pode usar qualquer uma das outras duas posições descritas na seção de posicionamento do pé). Esta será sua posição inicial.",
+    "Ao expirar, enrole as pernas o mais longe possível sem levantar as pernas superiores da almofada. Depois de atingir a posição totalmente contraída, segure-a por um segundo.",
+    "Como você inalar, trazer as pernas de volta para a posição inicial. Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Leg_Curls/0.jpg",
+    "Lying_Leg_Curls/1.jpg"
+  ],
+  "id": "Lying_Leg_Curls"
+}

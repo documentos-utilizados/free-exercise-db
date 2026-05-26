@@ -1,0 +1,26 @@
+{
+  "name": "Flyes reversos com rotação externa",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se em um banco inclinado definido em um ângulo de 30 graus com o peito e o estômago pressionando contra a inclinação.",
+    "Tenha os halteres em cada mão com as palmas das mãos voltadas para o chão. Seus braços devem estar à sua frente para que sejam perpendiculares ao ângulo do banco. Dica: Seus cotovelos devem ter uma ligeira curvatura. As pernas devem estar estacionárias ao aplicar pressão com a bola dos dedos dos pés (seus calcanhares não devem tocar o chão). Esta é a posição inicial.",
+    "Mantendo a ligeira curvatura dos cotovelos, mova os pesos para fora e para longe um do outro em um movimento de arco enquanto expira.",
+    "medida que você levanta o peso, seu pulso deve girar externamente em 90 graus para que você vá de uma palma para baixo (pronated) aperto para uma palmas viradas para o outro (neutro) aperto. Dica: Tente apertar as omoplatas juntos para obter os melhores resultados deste exercício.",
+    "Os braços devem ser elevados até que estejam nivelados com a cabeça.",
+    "Sinta a contração e diminua lentamente os pesos de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Flyes_With_External_Rotation/0.jpg",
+    "Reverse_Flyes_With_External_Rotation/1.jpg"
+  ],
+  "id": "Reverse_Flyes_With_External_Rotation"
+}

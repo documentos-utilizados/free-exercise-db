@@ -1,0 +1,26 @@
+{
+  "name": "Imprensa do peito do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Ajuste o peso para uma quantidade adequada e sentar-se, segurando as alças. Seus braços superiores devem ser de cerca de 45 graus para o corpo, com a cabeça e o peito para cima. Os cotovelos devem ser dobrados para cerca de 90 graus. Esta será a sua posição inicial.",
+    "Comece estendendo-se através do cotovelo, pressionando os punhos juntos em linha reta na frente de você. Mantenha suas omoplatas retraídas enquanto executa o movimento.",
+    "Depois de pausar na extensão total, retorne à posição inicial, mantendo a tensão nos cabos.",
+    "Você também pode executar este movimento com as costas fora da almofada, em uma inclinação ou declínio, ou mãos alternadas."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Chest_Press/0.jpg",
+    "Cable_Chest_Press/1.jpg"
+  ],
+  "id": "Cable_Chest_Press"
+}

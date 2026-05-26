@@ -1,0 +1,21 @@
+{
+  "name": "Bezerras-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece sentado no chão. Coloque um rolo de espuma sob a perna. Sua outra perna pode ser cruzada sobre o oposto ou ser colocada no chão, apoiando parte do seu peso. Esta será sua posição inicial.",
+    "Coloque as mãos ao seu lado ou apenas atrás de você, e pressione para levantar os quadris do chão, colocando muito do seu peso contra o músculo da panturrilha. Role abaixo do joelho para acima do tornozelo, pausando em pontos de tensão por 10-30 segundos. Repita para a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Calves-SMR/0.jpg",
+    "Calves-SMR/1.jpg"
+  ],
+  "id": "Calves-SMR"
+}

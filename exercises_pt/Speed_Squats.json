@@ -1,0 +1,30 @@
+{
+  "name": "Agachamentos de velocidade",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para fins de segurança. Para começar, primeiro defina a barra em um rack que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando os dois braços de cada lado e levante-a do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média de largura do ombro com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o deixará desequilibrado e também manterá as costas retas. Esta será sua posição inicial. (Nota: Para os fins desta discussão, usaremos a postura média que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posturas discutidas na seção de posturas dos pés).",
+    "Comece a abaixar a barra dobrando os joelhos enquanto você mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e as panturrilhas se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo do paralelo ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos que são perpendiculares.",
+    "Comece a levantar a barra o mais rápido possível sem envolver o momento como você expira, empurrando o chão com o calcanhar do seu pé principalmente como você endireitar as pernas novamente e voltar para a posição inicial. Nota: Você deve realizar esses exercícios o mais rápido possível, mas sem quebrar a forma perfeita e sem envolver o momento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Speed_Squats/0.jpg",
+    "Speed_Squats/1.jpg"
+  ],
+  "id": "Speed_Squats"
+}

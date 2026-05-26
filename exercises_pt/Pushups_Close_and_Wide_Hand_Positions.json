@@ -1,0 +1,26 @@
+{
+  "name": "Pushups (Posições de mão estreita e larga)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão de frente para baixo e corpo em linha reta com os dedos dos pés no chão e as mãos mais largas do que a largura do ombro para uma posição de mão larga e mais perto do que a largura do ombro para uma posição de mão próxima. Certifique-se de que você está segurando seu tronco no comprimento dos braços.",
+    "Abaixe-se até que seu peito quase toque o chão enquanto você inala.",
+    "Usando seus músculos peitorais, pressione sua parte superior do corpo de volta para a posição inicial e esprema o peito. Respire enquanto você executa este passo.",
+    "Após uma segunda pausa na posição contraída, repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Pushups_Close_and_Wide_Hand_Positions/0.jpg",
+    "Pushups_Close_and_Wide_Hand_Positions/1.jpg"
+  ],
+  "id": "Pushups_Close_and_Wide_Hand_Positions"
+}

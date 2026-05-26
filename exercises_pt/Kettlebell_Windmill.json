@@ -1,0 +1,27 @@
+{
+  "name": "Moinho de vento Kettlebell",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell na frente do pé principal e limpe e pressione-o acima com o braço oposto. Limpe o kettlebell para o ombro, estendendo-se pelas pernas e quadris enquanto puxa o kettlebell em direção aos ombros. Gire o pulso enquanto faz isso, para que a palma da mão fique voltada para frente. Pressione-o acima, estendendo o cotovelo.",
+    "Mantendo o kettlebell trancado em todos os momentos, empurre sua bunda para fora na direção do kettlebell bloqueado. Vire seus pés para fora em um ângulo de quarenta e cinco graus do braço com o kettlebell bloqueado. Dobrando-se no quadril para um lado, furando sua bunda para fora, lentamente inclinar até que você possa tocar o chão com sua mão livre. Mantenha seus olhos no kettlebell que você segura sobre sua cabeça em todos os momentos.",
+    "Pausar por um segundo depois de chegar ao chão e reverter o movimento de volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Windmill/0.jpg",
+    "Kettlebell_Windmill/1.jpg"
+  ],
+  "id": "Kettlebell_Windmill"
+}

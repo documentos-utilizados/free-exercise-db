@@ -1,0 +1,23 @@
+{
+  "name": "Crucifixo",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "No crucifixo, você estaticamente mantém pesos para o lado por tempo. Enquanto o evento pode ser praticado usando halteres, é melhor praticar com um dos vários implementos usados, como machados e martelos, pois parece diferente.",
+    "Comece em pé e levante os braços para o lado segurando os implementos. Seus braços devem ser paralelos ao chão. Em competição, juízes ou sensores são usados para informá-lo quando você quebra paralelo. Segure o máximo que puder. Normalmente, os pesos devem ser pesados o suficiente para que você falhe em 30-60 segundos."
+  ],
+  "category": "strongman",
+  "images": [
+    "Crucifix/0.jpg",
+    "Crucifix/1.jpg"
+  ],
+  "id": "Crucifix"
+}

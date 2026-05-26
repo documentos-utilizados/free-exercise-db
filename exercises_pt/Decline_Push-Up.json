@@ -1,0 +1,26 @@
+{
+  "name": "Declínio Push-Up",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão de frente para baixo e coloque as mãos a cerca de 36 polegadas de distância, mantendo o tronco no comprimento dos braços. Mova os pés para uma caixa ou banco. Esta será a sua posição inicial.",
+    "Em seguida, abaixe-se para baixo até que seu peito quase toque o chão enquanto você inala.",
+    "Agora expire e pressione a parte superior do corpo de volta para a posição inicial enquanto aperta o peito.",
+    "Depois de uma breve pausa na posição superior contratada, você pode começar a baixar-se para baixo novamente para tantas repetições quantas forem necessárias."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Push-Up/0.jpg",
+    "Decline_Push-Up/1.jpg"
+  ],
+  "id": "Decline_Push-Up"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Bosu Ball Cable Crunch com dobras laterais",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte uma alça padrão a cada braço de uma máquina de cabo e posicione-os na posição mais descendente.",
+    "Pegue uma Bola de Bosu e posicione-a na frente e no centro da máquina de cabos.",
+    "Deite-se sobre a Bosu Ball com o pequeno de suas costas arqueadas ao redor da bola. Sua extremidade traseira deve estar perto do chão sem tocá-lo.",
+    "Com as duas mãos, volte e pegue o cabo de cada cabo.",
+    "Com os pés posicionados em uma posição ampla, estenda os braços diretamente na frente de você e entre os joelhos. Suas mãos devem estar no nível do joelho.",
+    "Mantenha os braços retos e em linha com o ângulo ascendente do cabo. Eleve o tronco em um movimento de trituração sem soltar ou dobrar os braços.",
+    "Mantenha a posição rígida com os braços. Desça lentamente de volta para a posição inicial com as costas arqueadas ao redor da Bosu Ball e seus abdominais alongados.",
+    "Repita a mesma série de movimentos para falhar.",
+    "Uma vez que você chegar ao fracasso, mantenha seus abdominais apertados e levante seu tronco na posição de prancha para que suas costas sejam elevadas da Bosu Ball.",
+    "Abaixe os braços para o seu lado; mantenha-os retos. Comece a fazer curvas laterais alternadas; alcance seus calcanhares! Este movimento de acabamento se concentrará em seus oblíquos."
+  ],
+  "category": "strength",
+  "images": [
+    "Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
+    "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
+  ],
+  "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends"
+}

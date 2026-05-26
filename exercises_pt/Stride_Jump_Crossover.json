@@ -1,0 +1,28 @@
+{
+  "name": "Stride Jump Crossover",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique ao lado de uma caixa com o pé interno em cima dela, perto da borda.",
+    "Comece balançando os braços para cima enquanto você empurra a perna superior, pulando para cima o mais alto possível. Tente dirigir o joelho oposto para cima.",
+    "Aterre na posição oposta que você começou, no lado oposto da caixa. O pé que estava inicialmente na caixa agora estará no chão, com o pé oposto agora na caixa.",
+    "Repita o movimento, cruzando de volta para o outro lado."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Stride_Jump_Crossover/0.jpg",
+    "Stride_Jump_Crossover/1.jpg"
+  ],
+  "id": "Stride_Jump_Crossover"
+}

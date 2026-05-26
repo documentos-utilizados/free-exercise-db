@@ -1,0 +1,27 @@
+{
+  "name": "Side Hop-Sprint",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique ao lado de um cone ou obstáculo.",
+    "Comece esta broca saltando de lado sobre o obstáculo, recuperando-se do seu pouso para saltar de volta para onde você começou.",
+    "Hop para um número prescrito ou repetições o mais rápido possível, e terminar este exercício, correndo uma curta distância ao pousar o último salto."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Side_Hop-Sprint/0.jpg",
+    "Side_Hop-Sprint/1.jpg"
+  ],
+  "id": "Side_Hop-Sprint"
+}

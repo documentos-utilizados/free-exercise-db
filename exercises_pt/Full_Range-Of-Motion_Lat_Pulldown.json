@@ -1,0 +1,25 @@
+{
+  "name": "Full Range-Of-Motion Lat Pulldown (em inglês)",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Em pé ou sentado em um banco alto, agarre dois cabos de estribo que estão presos às polias altas. Agarre com a mão oposta para que seus braços estejam cruzados em torno de você e suas palmas estejam voltadas para a frente.",
+    "Mantendo o peito para cima e mantendo um pequeno arco na parte inferior das costas, puxe as alças para baixo como se estivesse fazendo um pulldown regular. A amplitude de movimento será mais de um arco. Durante o movimento, gire as mãos para que na posição inferior suas palmas se enfrentem em vez de para frente. Volte lentamente para a posição inicial e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Full_Range-Of-Motion_Lat_Pulldown/0.jpg",
+    "Full_Range-Of-Motion_Lat_Pulldown/1.jpg"
+  ],
+  "id": "Full_Range-Of-Motion_Lat_Pulldown"
+}

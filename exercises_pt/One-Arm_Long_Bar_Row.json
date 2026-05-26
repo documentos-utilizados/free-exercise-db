@@ -1,0 +1,27 @@
+{
+  "name": "One-Arm Long Bar Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Posicione uma barra em uma mina terrestre ou em um canto para evitar que ela se mova. Carregue um peso apropriado na ponta.",
+    "Fique ao lado da barra, e tome um aperto com uma mão perto do colarinho. Usando seus quadris e pernas, suba a uma posição de pé.",
+    "Assuma uma postura curvada com os quadris para trás e o peito para cima. Seu braço deve ser estendido. Esta será sua posição inicial.",
+    "Puxe o peso para o seu lado, retraindo o ombro e flexionando o cotovelo. Não empurre o peso ou trapaceie durante o movimento.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Long_Bar_Row/0.jpg",
+    "One-Arm_Long_Bar_Row/1.jpg"
+  ],
+  "id": "One-Arm_Long_Bar_Row"
+}

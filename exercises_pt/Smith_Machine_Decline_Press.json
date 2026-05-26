@@ -1,0 +1,27 @@
+{
+  "name": "Smith Máquina Declínio Imprensa",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione um banco de declínio no rack para que a barra esteja acima do seu peito. Carregue um peso apropriado e tome seu lugar no banco.",
+    "Gire a barra para desenganhá-la do rack e estender totalmente os braços. Suas costas devem ser ligeiramente arqueadas e suas omoplatas retraídas. Esta será sua posição inicial.",
+    "Comece o movimento flexionando os braços, baixando a barra para o peito.",
+    "Pausar brevemente e, em seguida, estender os braços para empurrar o peso de volta para a posição inicial.",
+    "Depois de completar o número desejado de repetições, gire a barra para acumular o peso."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Decline_Press/0.jpg",
+    "Smith_Machine_Decline_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Decline_Press"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Corda reta-braço Pulldown",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe uma corda a uma polia alta e faça sua seleção de peso. Fique um par de pés para trás da polia com os pés cambaleados e pegue a corda com as duas mãos. Incline-se para a frente do quadril, mantendo as costas retas, com os braços estendidos na frente de você. Esta será sua posição inicial.",
+    "Mantendo os braços retos, estenda o ombro para puxar a corda até as coxas.",
+    "Pausa na parte inferior do movimento, apertando os seus traseiros.",
+    "Volte para a posição inicial sem permitir que o peso descanse totalmente na pilha."
+  ],
+  "category": "strength",
+  "images": [
+    "Rope_Straight-Arm_Pulldown/0.jpg",
+    "Rope_Straight-Arm_Pulldown/1.jpg"
+  ],
+  "id": "Rope_Straight-Arm_Pulldown"
+}

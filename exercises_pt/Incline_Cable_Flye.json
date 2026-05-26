@@ -1,0 +1,27 @@
+{
+  "name": "Inclinar o cabo Flye",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para entrar na posição inicial, defina as polias no nível do chão (nível mais baixo possível na máquina que está abaixo do seu tronco).",
+    "Coloque um banco inclinado (definido em 45 graus) entre as polias, selecione um peso em cada uma e pegue uma polia em cada mão.",
+    "Com um punho em cada mão, deite-se no banco inclinado e junte as mãos no comprimento dos braços na frente do seu rosto. Esta será a sua posição inicial.",
+    "Com uma ligeira curvatura dos cotovelos (a fim de evitar o estresse no tendão do bíceps), abaixe os braços em ambos os lados em um arco largo até sentir um alongamento no peito. Respire enquanto realiza essa parte do movimento. Dica: Tenha em mente que durante todo o movimento, os braços devem permanecer estacionários. O movimento só deve ocorrer na articulação do ombro.",
+    "Volte os braços de volta para a posição inicial enquanto aperta os músculos do peito e expira. Mantenha a posição contraída por um segundo. Dica: Certifique-se de usar o mesmo arco de movimento usado para diminuir os pesos.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Cable_Flye/0.jpg",
+    "Incline_Cable_Flye/1.jpg"
+  ],
+  "id": "Incline_Cable_Flye"
+}

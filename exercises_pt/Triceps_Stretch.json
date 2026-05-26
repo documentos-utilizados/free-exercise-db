@@ -1,0 +1,22 @@
+{
+  "name": "Triceps estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Alcance a mão atrás da cabeça, segure o cotovelo e puxe suavemente. Segure por 10 a 20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Triceps_Stretch/0.jpg",
+    "Triceps_Stretch/1.jpg"
+  ],
+  "id": "Triceps_Stretch"
+}

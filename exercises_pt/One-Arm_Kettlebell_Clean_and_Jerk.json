@@ -1,0 +1,25 @@
+{
+  "name": "One-Arm Kettlebell Limpar e Enganar",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure um kettlebell pelo cabo.",
+    "Limpe o kettlebell para o ombro, estendendo-se pelas pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso enquanto faz isso, para que a palma da mão fique voltada para frente.",
+    "Mergulhe seu corpo dobrando os joelhos, mantendo seu tronco ereto.",
+    "Imediatamente inverter a direção, dirigindo através dos calcanhares, em essência, saltando para criar impulso. Ao fazê-lo, pressione a sobrecarga kettlebell para bloquear, estendendo os braços, usando o impulso do seu corpo para mover o peso.",
+    "Receba o peso acima, retornando a uma posição de agachamento abaixo do peso.",
+    "Manter o peso acima, voltar a uma posição de pé. Abaixe o peso para o chão para realizar a próxima repetição."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
+    "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Clean_and_Jerk"
+}

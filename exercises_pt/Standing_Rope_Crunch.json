@@ -1,0 +1,23 @@
+{
+  "name": "Crunch corda de pé",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe uma corda a uma polia alta e selecione um peso apropriado.",
+    "Fique de costas para a torre do cabo. Pegue a corda com as duas mãos sobre os ombros, segurando-a no peito superior. Esta será sua posição inicial.",
+    "Execute o movimento flexionando a coluna, esmagando o peso o mais longe possível.",
+    "Segure a contração máxima por um momento antes de retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Rope_Crunch/0.jpg",
+    "Standing_Rope_Crunch/1.jpg"
+  ],
+  "id": "Standing_Rope_Crunch"
+}

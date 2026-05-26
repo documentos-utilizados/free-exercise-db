@@ -1,0 +1,29 @@
+{
+  "name": "Caminhada do Agricultor",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Existem vários implementos que podem ser usados para a caminhada dos agricultores. Estes também podem ser realizados com halteres pesados ou barras curtas se esses implementos não estiverem disponíveis. Comece por ficar entre os implementos.",
+    "Depois de segurar as alças, levante-as dirigindo pelos calcanhares, mantendo as costas retas e a cabeça erguida.",
+    "Caminhe dando passos curtos e rápidos, e não se esqueça de respirar. Mova-se para uma determinada distância, normalmente 50-100 pés, o mais rápido possível."
+  ],
+  "category": "strongman",
+  "images": [
+    "Farmers_Walk/0.jpg",
+    "Farmers_Walk/1.jpg"
+  ],
+  "id": "Farmers_Walk"
+}

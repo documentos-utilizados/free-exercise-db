@@ -1,0 +1,25 @@
+{
+  "name": "Cable Hammer Curls - Acoplamento de corda",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe um acessório de corda a uma polia baixa e fique de frente para a máquina a cerca de 12 polegadas de distância dela.",
+    "Segure a corda com um aperto neutro (palms-in) e fique em linha reta mantendo o arco natural das costas e seu tronco estacionário.",
+    "Coloque os cotovelos ao seu lado e mantenha-os parados durante todo o movimento. Dica: Apenas os antebraços devem se mover; não seus braços superiores. Esta será sua posição inicial.",
+    "Usando o bíceps, puxe os braços para cima enquanto expira até que o bíceps toque os antebraços. Dica: Lembre-se de manter os cotovelos e os braços parados.",
+    "Depois de uma contração de 1 segundo, onde você aperta o bíceps, lentamente começar a trazer o peso de volta para a posição original.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Hammer_Curls_-_Rope_Attachment/0.jpg",
+    "Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"
+  ],
+  "id": "Cable_Hammer_Curls_-_Rope_Attachment"
+}

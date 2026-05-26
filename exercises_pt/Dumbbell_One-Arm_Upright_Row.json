@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell One-Arm Upright Row",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Pegue um haltere e fique em pé com o braço estendido na sua frente com uma ligeira curva nos cotovelos e nas costas retas. Esta será a sua posição inicial. Dica: O haltere deve estar descansando em cima da coxa com a palma das mãos virada para as coxas.",
+    "Mantenha a outra mão pode ser mantido totalmente estendido para o lado, pela cintura ou agarrar uma superfície fixa. Esta será a sua posição inicial.",
+    "Use seus ombros laterais para levantar o haltere enquanto expira. O haltere deve estar perto do corpo enquanto você o move. Continue a levantá-lo até que o haltere esteja quase em linha com o queixo. Dica: Seus cotovelos devem dirigir o movimento. Ao levantar o haltere, seu cotovelo deve sempre ser maior do que seu antebraço. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe o haltere para baixo lentamente para a posição inicial. Inspire enquanto executa esta parte do movimento.",
+    "Repita para a quantidade recomendada de repetições e troque os braços."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_One-Arm_Upright_Row/0.jpg",
+    "Dumbbell_One-Arm_Upright_Row/1.jpg"
+  ],
+  "id": "Dumbbell_One-Arm_Upright_Row"
+}

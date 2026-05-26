@@ -1,0 +1,28 @@
+{
+  "name": "Bent Over Two-Arm Long Bar Row",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque o peso em uma das extremidades de uma barra olímpica. Certifique-se de colocar a outra extremidade da barra no canto de duas paredes; ou coloque um objeto pesado no chão para que a barra não possa deslizar para trás.",
+    "Dobre-se para a frente até que seu tronco esteja o mais próximo possível do chão e mantenha os joelhos ligeiramente dobrados.",
+    "Agora pegue a barra com os dois braços logo atrás das placas no lado onde o peso foi colocado e coloque a outra mão no joelho. Esta será a sua posição inicial.",
+    "Puxe a barra para cima com os cotovelos (para maximizar a estimulação das costas) até que as placas toquem seu peito inferior. Aperte os músculos das costas enquanto levanta o peso e segure por um segundo na parte superior do movimento. Respire enquanto levanta o peso. Dica: Use um estribo ou cabo de alça dupla anexando-o sob a extremidade da barra.",
+    "Lentamente abaixe a barra para a posição inicial obtendo um trecho agradável nos lats. Dica: Não deixe as placas tocarem o chão. Para garantir a melhor amplitude de movimento, recomendo o uso de placas pequenas (25 libras) em oposição a placas maiores (como 35-45 libras).",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Over_Two-Arm_Long_Bar_Row/0.jpg",
+    "Bent_Over_Two-Arm_Long_Bar_Row/1.jpg"
+  ],
+  "id": "Bent_Over_Two-Arm_Long_Bar_Row"
+}

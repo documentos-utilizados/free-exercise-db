@@ -1,0 +1,29 @@
+{
+  "name": "Bent Press",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe um kettlebell no ombro. Limpe o kettlebell nos ombros, estendendo-se pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você o faz. Esta será sua posição inicial.",
+    "Comece minha inclinação para o lado oposto ao kettlebell, continuando até que você seja capaz de tocar o chão com sua mão livre, mantendo seus olhos no kettlebell. Ao fazer isso, pressione o peso verticalmente através do cotovelo, mantendo seu braço perpendicular ao chão.",
+    "Volte para uma posição vertical, com o kettlebell acima de sua cabeça. Devolva o kettlebell ao ombro e repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Press/0.jpg",
+    "Bent_Press/1.jpg"
+  ],
+  "id": "Bent_Press"
+}

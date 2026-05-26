@@ -1,0 +1,25 @@
+{
+  "name": "Círculos de Joelho",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique de pé com as pernas juntas e as mãos pela cintura.",
+    "Agora mova os joelhos em um movimento circular enquanto você respira normalmente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Knee_Circles/0.jpg",
+    "Knee_Circles/1.jpg"
+  ],
+  "id": "Knee_Circles"
+}

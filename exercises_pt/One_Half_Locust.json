@@ -1,0 +1,27 @@
+{
+  "name": "Meia Locust",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "peitoral"
+  ],
+  "instructions": [
+    "Deita-te no chão.",
+    "Coloque a mão esquerda sob o osso do quadril esquerdo para encher o quadril e o osso púbico.",
+    "Dobre o joelho direito para que você possa segurar o pé na mão direita.",
+    "Levante o pé no ar e, simultaneamente, levante os ombros do chão. Isso também estica o flexor direito do quadril e o peito e os ombros. Troque de lado. Se não incomodar as costas, você pode experimentá-lo com os braços e as pernas ao mesmo tempo."
+  ],
+  "category": "stretching",
+  "images": [
+    "One_Half_Locust/0.jpg",
+    "One_Half_Locust/1.jpg"
+  ],
+  "id": "One_Half_Locust"
+}

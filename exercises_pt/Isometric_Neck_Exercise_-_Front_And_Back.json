@@ -1,0 +1,24 @@
+{
+  "name": "Exercício Isométrico do Pescoço - Frente e Costas",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Com a cabeça e o pescoço em uma posição neutra (posição normal com a cabeça ereta virada para a frente), coloque ambas as mãos na parte frontal da cabeça.",
+    "Agora empurre suavemente para a frente enquanto contrai os músculos do pescoço, mas resistindo a qualquer movimento de sua cabeça. Comece com tensão lenta e aumente lentamente. Continue respirando normalmente enquanto executa essa contração.",
+    "Segure o número recomendado de segundos.",
+    "Agora libere a tensão lentamente.",
+    "Descanse pela quantidade recomendada de tempo e repita com as mãos colocadas no lado de trás da cabeça."
+  ],
+  "category": "strength",
+  "images": [
+    "Isometric_Neck_Exercise_-_Front_And_Back/0.jpg",
+    "Isometric_Neck_Exercise_-_Front_And_Back/1.jpg"
+  ],
+  "id": "Isometric_Neck_Exercise_-_Front_And_Back"
+}

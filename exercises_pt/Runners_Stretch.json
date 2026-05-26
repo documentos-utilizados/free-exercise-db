@@ -1,0 +1,24 @@
+{
+  "name": "Runner's Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "É mais fácil entrar nesse trecho se você começar a se levantar, colocar uma perna atrás de você e abaixar lentamente o tronco até o chão.",
+    "Mantenha o calcanhar da frente no chão (se ele levantar, scoot sua outra perna mais para trás).",
+    "Coloque as mãos em ambos os lados da perna dianteira. Para tirar mais proveito desse alongamento, empurre a bunda para cima em direção ao teto e, em seguida, abaixe-a gradualmente em direção ao chão. Você esticará o flexor do quadril da perna traseira e os isquiotibiais e nádegas da frente."
+  ],
+  "category": "stretching",
+  "images": [
+    "Runners_Stretch/0.jpg",
+    "Runners_Stretch/1.jpg"
+  ],
+  "id": "Runners_Stretch"
+}

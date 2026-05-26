@@ -1,0 +1,27 @@
+{
+  "name": "Arrastar para trás",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Carregue um trenó com o peso desejado, anexando uma corda ou correias ao trenó que você pode segurar.",
+    "Comece o exercício movendo-se para trás para uma determinada distância. Inclinando-se para trás, estenda-se através das pernas para passos curtos para se mover o mais rápido possível."
+  ],
+  "category": "strongman",
+  "images": [
+    "Backward_Drag/0.jpg",
+    "Backward_Drag/1.jpg"
+  ],
+  "id": "Backward_Drag"
+}

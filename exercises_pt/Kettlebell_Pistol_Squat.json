@@ -1,0 +1,28 @@
+{
+  "name": "Kettlebell Pistol Squat",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue um kettlebell com as duas mãos e segure-o pelos chifres. Segure uma perna do chão e agache-se na outra.",
+    "Agache-se flexionando o joelho e sentando-se com os quadris, segurando o kettlebell na frente de você.",
+    "Mantenha a posição inferior por um segundo e, em seguida, reverta o movimento, dirigindo através do calcanhar e mantendo sua cabeça e peito para cima.",
+    "Abaixe-se novamente e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Pistol_Squat/0.jpg",
+    "Kettlebell_Pistol_Squat/1.jpg"
+  ],
+  "id": "Kettlebell_Pistol_Squat"
+}

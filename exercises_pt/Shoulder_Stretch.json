@@ -1,0 +1,20 @@
+{
+  "name": "Ombro estiramento",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Alcance o braço esquerdo em todo o corpo e mantenha-o reto."
+  ],
+  "category": "stretching",
+  "images": [
+    "Shoulder_Stretch/0.jpg",
+    "Shoulder_Stretch/1.jpg"
+  ],
+  "id": "Shoulder_Stretch"
+}

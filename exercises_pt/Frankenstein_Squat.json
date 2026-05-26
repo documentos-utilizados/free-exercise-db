@@ -1,0 +1,28 @@
+{
+  "name": "Frankenstein Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Esta broca ensina-lhe o posicionamento adequado da barra e do seu corpo durante o agachamento limpo e frontal.",
+    "Coloque a barra na frente dos ombros, liberando sua aderência e estendendo seus braços para fora na frente de você. Os ombros devem ser empurrados para a frente para criar uma prateleira, e a barra deve estar em contato com a garganta. Certifique-se de que você apenas mova suas omoplatas para a frente; não arredondar a coluna torácica.",
+    "Agache-se flexionando os joelhos e quadris, sentado entre as pernas. Mantenha o tronco ereto, os braços para cima e os ombros para frente, e a barra deve permanecer no lugar. Vá para o fundo do agachamento, até que seus isquiotibiais entrem em contato com seus bezerros.",
+    "Volte para a posição vertical dirigindo pela frente do calcanhar e estendendo os joelhos e quadris."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Frankenstein_Squat/0.jpg",
+    "Frankenstein_Squat/1.jpg"
+  ],
+  "id": "Frankenstein_Squat"
+}

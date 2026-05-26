@@ -1,0 +1,29 @@
+{
+  "name": "Equilíbrio Snatch",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com os pés na posição de puxar, a barra estancada na parte de trás dos ombros e as mãos colocadas em um grande aperto de arremesso.",
+    "Aperte a barra com um mergulho abrupto e acionamento dos joelhos, e dirija agressivamente sob a barra, fazendo a transição dos pés para a posição de recepção.",
+    "Receba a barra bloqueada acima perto da parte inferior do agachamento. O tronco deve permanecer vertical, baixando os quadris entre as pernas.",
+    "Continue a descer até a profundidade total e retorne a uma posição de pé. Abaixe cuidadosamente o peso."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Snatch_Balance/0.jpg",
+    "Snatch_Balance/1.jpg"
+  ],
+  "id": "Snatch_Balance"
+}

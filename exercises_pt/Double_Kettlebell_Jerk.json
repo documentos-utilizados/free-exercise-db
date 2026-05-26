@@ -1,0 +1,30 @@
+{
+  "name": "Duplo Kettlebell Jerk",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure um kettlebell pela alça em cada mão.",
+    "Limpe os kettlebells para os ombros, estendendo-se pelas pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire os pulsos enquanto faz isso, para que as palmas das mãos fiquem voltadas para a frente. Esta será a sua posição inicial.",
+    "Mergulhe seu corpo dobrando os joelhos, mantendo seu tronco ereto.",
+    "Imediatamente inverter a direção, dirigindo através dos calcanhares, em essência, pulando para criar impulso.",
+    "Ao fazer isso, pressione os kettlebells acima para bloquear, estendendo os braços, usando o impulso do seu corpo para mover os pesos.",
+    "Volte os pés para o chão de forma dividida, com um pé para a frente e um pé para trás.",
+    "Manter os pesos acima, voltar a uma posição de pé, trazendo os pés juntos. Abaixe os pesos para realizar a próxima repetição."
+  ],
+  "category": "strength",
+  "images": [
+    "Double_Kettlebell_Jerk/0.jpg",
+    "Double_Kettlebell_Jerk/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Jerk"
+}

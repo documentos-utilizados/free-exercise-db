@@ -1,0 +1,22 @@
+{
+  "name": "Cacau",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitado de costas no chão. Suas pernas devem estar retas e seus braços estendidos atrás de sua cabeça. Esta será sua posição inicial.",
+    "Para realizar o movimento, aperte os joelhos em direção ao peito, girando a pélvis para levantar os glúteos do chão. Ao fazê-lo, flexione a coluna vertebral, trazendo os braços de volta sobre a cabeça para realizar um movimento de trituração simultâneo.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Cocoons/0.jpg",
+    "Cocoons/1.jpg"
+  ],
+  "id": "Cocoons"
+}

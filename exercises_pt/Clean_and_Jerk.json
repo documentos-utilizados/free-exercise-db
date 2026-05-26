@@ -1,0 +1,35 @@
+{
+  "name": "Limpo e Jerk",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Com uma barra no chão perto das canelas, tomar um aperto overhand ou gancho apenas fora das pernas. Abaixe os quadris com o peso focado nos calcanhares, costas retas, cabeça virada para a frente, peito para cima, com os ombros apenas na frente da barra. Esta será a sua posição inicial.",
+    "Comece a primeira tração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos. Mova o peso com controle enquanto você continua acima dos joelhos.",
+    "Em seguida vem a segunda tração, a principal fonte de aceleração para o limpo.  medida que a barra se aproxima da posição média da altura, comece a se estender pelos quadris. Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente pelos braços para acelerar o peso; no final da segunda tração, o corpo deve ser totalmente estendido, inclinando-se ligeiramente para trás, com os braços ainda.",
+    "medida que a extensão completa é alcançada, a transição para a terceira tração, encolhendo e flexionando agressivamente os braços com os cotovelos para cima e para fora. Na extensão de pico, puxe-se agressivamente para baixo, girando os cotovelos sob a barra enquanto você faz isso. Continue a barra em uma posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira tração. A barra deve ser estagnada nos ombros prolongados, tocando levemente a garganta com as mãos.",
+    "Recupere-se imediatamente dirigindo através dos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até que você tenha subido a uma posição de pé.",
+    "A segunda fase é o empurrão, que levanta o peso acima da cabeça. De pé com o peso acumulado na frente dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Vá para baixo apenas ligeiramente e reverta a direção o mais poderosamente possível.",
+    "Dirija através dos calcanhares criar tanta velocidade e força quanto possível, e certifique-se de mover a cabeça para fora do caminho como a barra deixa os ombros.",
+    "Neste momento, como os pés saem do chão, os pés devem ser colocados na posição de recepção o mais rápido possível. No breve momento os pés não estão dirigindo ativamente contra a plataforma, o esforço dos atletas para empurrar a barra para cima irá levá-los para baixo. Os pés devem ser divididos, com um pé para a frente e um pé para trás. Receba a barra com os braços bloqueados acima. Volte para uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Clean_and_Jerk/0.jpg",
+    "Clean_and_Jerk/1.jpg"
+  ],
+  "id": "Clean_and_Jerk"
+}

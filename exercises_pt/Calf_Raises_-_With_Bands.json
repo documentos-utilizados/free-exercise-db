@@ -1,0 +1,24 @@
+{
+  "name": "Calf Raises - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue uma faixa de exercício e fique sobre ela com os dedos dos pés, certificando-se de que o comprimento da banda entre o pé e os braços é o mesmo para ambos os lados.",
+    "Ao segurar as alças da banda, levante os braços para o lado da cabeça como se estivesse se preparando para executar uma prensa de ombro. As palmas das mãos devem estar voltadas para a frente com os cotovelos dobrados e para os lados. Este movimento criará tensão na banda. Esta será sua posição inicial.",
+    "Mantendo as mãos pelo ombro, levante-se sobre os dedos dos pés enquanto expira e contraia os bezerros com força no topo do movimento.",
+    "Depois de uma contração de um segundo, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Calf_Raises_-_With_Bands/0.jpg",
+    "Calf_Raises_-_With_Bands/1.jpg"
+  ],
+  "id": "Calf_Raises_-_With_Bands"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Pernas de Stiff de Stance largo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada no chão. Adote uma postura ampla e, em seguida, dobre os quadris para agarrar a barra. Seus quadris devem estar o mais longe possível, e suas pernas quase retas. Mantenha as costas retas e sua cabeça e peito para cima. Esta será sua posição inicial.",
+    "Comece o movimento envolvendo os quadris, dirigindo-os para a frente enquanto você permite que os braços se pendurem em linha reta. Continue até que você esteja em pé e, em seguida, retorne lentamente o peso para a posição inicial. Para repetições sucessivas, o peso não precisa tocar o chão."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Wide_Stance_Stiff_Legs/0.jpg",
+    "Wide_Stance_Stiff_Legs/1.jpg"
+  ],
+  "id": "Wide_Stance_Stiff_Legs"
+}

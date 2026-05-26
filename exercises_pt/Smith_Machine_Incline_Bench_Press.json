@@ -1,0 +1,27 @@
+{
+  "name": "Smith Máquina Incline Bench Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um banco inclinado sob a máquina de ferreiro. Coloque a barra em uma altura que você pode alcançar quando deitado e seus braços estão quase totalmente estendidos. Uma vez que o peso que você precisa é selecionado, deite-se no banco inclinado e certifique-se de que seu peito superior está alinhado com a barra. Usando um aperto pronado (palmas voltadas para a frente) que é mais largo do que a largura do ombro, desbloqueie a barra do rack e segure-a direita sobre você com seus braços.",
+    "medida que você respira, desça lentamente até sentir a barra em seu peito superior.",
+    "Depois de uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Tranque os braços na posição contraída, segure por um segundo e comece a descer lentamente novamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Incline_Bench_Press/0.jpg",
+    "Smith_Machine_Incline_Bench_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Incline_Bench_Press"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Joelho Tuck Jump",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece em uma posição de pé confortável com os joelhos ligeiramente dobrados. Segure as mãos na frente de você, palmas das mãos para baixo com as pontas dos dedos juntas na altura do peito. Esta será a sua posição inicial.",
+    "Mergulhe rapidamente em um quarto de agachamento e exploda imediatamente para cima. Dirija os joelhos em direção ao peito, tentando tocá-los nas palmas das mãos.",
+    "Salte o mais alto que puder, levantando os joelhos para cima e, em seguida, certifique-se de que uma boa terra esteja re-estendendo suas pernas, absorvendo o impacto ao permitir que os joelhos se inclinem."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Knee_Tuck_Jump/0.jpg",
+    "Knee_Tuck_Jump/1.jpg"
+  ],
+  "id": "Knee_Tuck_Jump"
+}

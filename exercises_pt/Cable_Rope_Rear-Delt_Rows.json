@@ -1,0 +1,28 @@
+{
+  "name": "Corda de cabo Rear-Delt Rows",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Sente-se na mesma posição em uma estação de linha de polia baixa como você faria se estivesse fazendo linhas de cabo sentadas para as costas.",
+    "Anexe uma corda à polia e agarre-a com um aperto de mão. Seus braços devem ser estendidos e paralelos ao chão com os cotovelos abertos.",
+    "Mantenha a parte inferior das costas ereta e deslize os quadris para trás para que seus joelhos estejam ligeiramente dobrados. Esta será sua posição inicial.",
+    "Puxe a fixação do cabo em direção ao peito superior, logo abaixo do pescoço, enquanto mantém os cotovelos para cima e para fora para os lados. Continue este movimento enquanto expira até que os cotovelos se movam ligeiramente atrás das costas. Dica: Mantenha os braços superiores horizontais, perpendiculares ao tronco e paralelos ao chão durante todo o movimento.",
+    "Volte para a posição inicial onde os braços são estendidos e os ombros esticados para a frente. Inspire enquanto você executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Rope_Rear-Delt_Rows/0.jpg",
+    "Cable_Rope_Rear-Delt_Rows/1.jpg"
+  ],
+  "id": "Cable_Rope_Rear-Delt_Rows"
+}

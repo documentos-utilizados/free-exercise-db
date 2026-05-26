@@ -1,0 +1,27 @@
+{
+  "name": "Broca de parede de aceleração linear",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Incline-se em cerca de 45 graus contra uma parede. Seus pés devem estar juntos, glúteos contraídos.",
+    "Comece levantando o joelho direito rapidamente, pausando e, em seguida, dirigindo-o direto para o chão.",
+    "Troque as pernas, levantando o joelho oposto e, em seguida, atacando o chão diretamente para baixo.",
+    "Repita mais uma vez com a perna direita e, assim que o pé direito bater no chão, martele-os rapidamente, alternando esquerda e direita o mais rápido possível."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Linear_Acceleration_Wall_Drill/0.jpg",
+    "Linear_Acceleration_Wall_Drill/1.jpg"
+  ],
+  "id": "Linear_Acceleration_Wall_Drill"
+}

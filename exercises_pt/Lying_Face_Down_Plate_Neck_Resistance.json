@@ -1,0 +1,23 @@
+{
+  "name": "Deitado face para baixo placa pescoço resistência",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de frente para baixo com todo o seu corpo direito em um banco plano enquanto segura uma placa de peso atrás de sua cabeça. Dica: Você precisará se posicionar para que seus ombros estejam ligeiramente acima da extremidade de um banco plano para que o peito superior, pescoço e rosto estejam fora do banco. Esta será sua posição inicial.",
+    "Enquanto mantém a placa segura na parte de trás da cabeça, abaixe lentamente a cabeça (como em dizer \"sim\") à medida que você respira.",
+    "Levante a cabeça de volta para a posição inicial em um movimento semicircular enquanto expira. Segure a contração por um segundo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Face_Down_Plate_Neck_Resistance/0.jpg",
+    "Lying_Face_Down_Plate_Neck_Resistance/1.jpg"
+  ],
+  "id": "Lying_Face_Down_Plate_Neck_Resistance"
+}

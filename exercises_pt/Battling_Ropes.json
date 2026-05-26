@@ -1,0 +1,26 @@
+{
+  "name": "Cordas de Combate",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará de uma corda pesada ancorada em seu centro a 15-20 pés de distância. De pé na frente da corda, termine em cada mão com os braços estendidos ao seu lado. Esta será sua posição inicial.",
+    "Inicie o movimento levantando rapidamente um braço para o nível do ombro o mais rápido possível.",
+    "Ao deixar o braço cair para a posição inicial, levante o lado oposto.",
+    "Continue alternando seus braços esquerdo e direito, chicoteando as cordas para cima e para baixo o mais rápido possível."
+  ],
+  "category": "strength",
+  "images": [
+    "Battling_Ropes/0.jpg",
+    "Battling_Ropes/1.jpg"
+  ],
+  "id": "Battling_Ropes"
+}

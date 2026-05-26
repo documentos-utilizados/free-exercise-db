@@ -1,0 +1,23 @@
+{
+  "name": "Máquina ab crunch",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Selecione uma resistência à luz e sente-se na máquina ab colocando seus pés sob as almofadas fornecidas e agarrando as alças superiores. Seus braços devem ser dobrados em um ângulo de 90 graus enquanto você descansa os tríceps nas almofadas fornecidas. Esta será sua posição inicial.",
+    "Ao mesmo tempo, comece a levantar as pernas enquanto tritura o tronco superior. Respire enquanto realiza esse movimento. Dica: Certifique-se de usar um movimento lento e controlado. Concentre-se em usar seu abdômen para mover o peso enquanto relaxa as pernas e os pés.",
+    "Depois de uma segunda pausa, volte lentamente para a posição inicial enquanto respira.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Ab_Crunch_Machine/0.jpg",
+    "Ab_Crunch_Machine/1.jpg"
+  ],
+  "id": "Ab_Crunch_Machine"
+}

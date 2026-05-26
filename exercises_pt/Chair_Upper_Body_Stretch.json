@@ -1,0 +1,24 @@
+{
+  "name": "Cadeira de corpo superior estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "peitoral"
+  ],
+  "instructions": [
+    "Sente-se na borda de uma cadeira, segurando a parte de trás dela.",
+    "Endireitar os braços, manter as costas retas e puxar a parte superior do corpo para a frente para que você sinta um alongamento. Segure por 20-30 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chair_Upper_Body_Stretch/0.jpg",
+    "Chair_Upper_Body_Stretch/1.jpg"
+  ],
+  "id": "Chair_Upper_Body_Stretch"
+}

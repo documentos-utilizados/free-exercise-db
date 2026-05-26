@@ -1,0 +1,25 @@
+{
+  "name": "Ajoelhando-se High Pulley Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Selecione o peso apropriado usando uma polia que está acima de sua cabeça. Anexe uma corda ao cabo e ajoelhe-se a alguns metros de distância, segurando a corda na frente de você com os dois braços estendidos. Esta será sua posição inicial.",
+    "Inicie o movimento flexionando os cotovelos e retraindo completamente os ombros, puxando a corda em direção ao peito superior com os cotovelos para fora.",
+    "Depois de pausar brevemente, volte lentamente para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Kneeling_High_Pulley_Row/0.jpg",
+    "Kneeling_High_Pulley_Row/1.jpg"
+  ],
+  "id": "Kneeling_High_Pulley_Row"
+}

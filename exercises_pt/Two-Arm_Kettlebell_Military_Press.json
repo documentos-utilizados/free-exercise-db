@@ -1,0 +1,23 @@
+{
+  "name": "Imprensa militar Kettlebell de dois braços",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells para os ombros. Limpe os kettlebells para os ombros, estendendo-se através das pernas e quadris enquanto você balança os kettlebells em direção aos ombros. Gire seus pulsos enquanto você faz isso, para que as palmas das mãos fiquem voltadas para a frente.",
+    "Pressione os kettlebells para cima e para fora.  medida que os kettlebells passam por sua cabeça, incline-se nos pesos para que os kettlebells estejam presos atrás de sua cabeça. Certifique-se de contrair seus lats, bunda e estômago para maior estabilidade."
+  ],
+  "category": "strength",
+  "images": [
+    "Two-Arm_Kettlebell_Military_Press/0.jpg",
+    "Two-Arm_Kettlebell_Military_Press/1.jpg"
+  ],
+  "id": "Two-Arm_Kettlebell_Military_Press"
+}

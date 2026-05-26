@@ -1,0 +1,27 @@
+{
+  "name": "Barbell Incline Bench Press - Aperto médio",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado. Usando um aperto de largura média (uma aderência que cria um ângulo de 90 graus no meio do movimento entre os antebraços e os braços superiores), levante a barra do rack e segure-a diretamente sobre você com os braços fechados. Esta será sua posição inicial.",
+    "medida que você respira, desça lentamente até sentir a barra em seu peito superior.",
+    "Depois de uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Tranque os braços na posição contraída, esprema o peito, segure por um segundo e comece a descer lentamente novamente. Dica: deve demorar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+    "Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+  ],
+  "id": "Barbell_Incline_Bench_Press_-_Medium_Grip"
+}

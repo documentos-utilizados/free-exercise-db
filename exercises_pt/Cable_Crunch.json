@@ -1,0 +1,25 @@
+{
+  "name": "Crunch cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajoelhe-se abaixo de uma polia alta que contém um acessório de corda.",
+    "Agarre o acessório da corda do cabo e abaixe a corda até que suas mãos sejam colocadas ao lado de seu rosto.",
+    "Flexione ligeiramente os quadris e permita que o peso hiperestenda a parte inferior das costas. Esta será a sua posição inicial.",
+    "Com os quadris estacionários, flexione a cintura enquanto contrai os abdominais para que os cotovelos viajem para o meio das coxas. Exale enquanto executa essa parte do movimento e segure a contração por um segundo.",
+    "Volte lentamente à posição inicial enquanto inala. Dica: Certifique-se de manter a tensão constante nos abdominais durante todo o movimento. Além disso, não escolha um peso tão pesado que a parte inferior das costas lide com o peso do trabalho.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Crunch/0.jpg",
+    "Cable_Crunch/1.jpg"
+  ],
+  "id": "Cable_Crunch"
+}

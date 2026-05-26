@@ -1,0 +1,25 @@
+{
+  "name": "Alto Abductor",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Para começar, sente-se na máquina abdutora e selecione um peso com o qual você se sinta confortável. Quando suas pernas estiverem posicionadas corretamente, segure as alças de cada lado. Toda a parte superior do corpo (da cintura para cima) deve estar estacionária. Esta é a posição inicial.",
+    "Pressione lentamente contra a máquina com as pernas para movê-las umas das outras enquanto expira.",
+    "Sinta a contração por um segundo e comece a mover as pernas de volta para a posição inicial enquanto respira. Nota: Lembre-se de manter sua parte superior do corpo estacionária para evitar que quaisquer lesões ocorram.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Thigh_Abductor/0.jpg",
+    "Thigh_Abductor/1.jpg"
+  ],
+  "id": "Thigh_Abductor"
+}

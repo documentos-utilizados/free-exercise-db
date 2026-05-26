@@ -1,0 +1,26 @@
+{
+  "name": "Técnica de início linear de 3 partes",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Esta broca ajuda você a acelerar o mais rápido possível em um sprint de uma parada morta. Ele ajuda a usar uma linha para começar. Comece com dois pés na linha. Coloque o pé esquerdo com o dedo do pé ao lado do tornozelo direito. Coloque o pé direito 4-6 polegadas atrás da esquerda.",
+    "Coloque sua mão direita na linha, e a coisa traz seu nariz perto de seu joelho esquerdo.",
+    "Agache-se enquanto se inclina para a frente, sua cabeça sendo mais baixa do que seus quadris e seu peso carregado na perna esquerda. Esta será sua posição inicial.",
+    "Pegue sua mão esquerda para cima para que ela fique paralela ao chão, apontando atrás de você e exploda quando estiver pronta."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Linear_3-Part_Start_Technique/0.jpg",
+    "Linear_3-Part_Start_Technique/1.jpg"
+  ],
+  "id": "Linear_3-Part_Start_Technique"
+}

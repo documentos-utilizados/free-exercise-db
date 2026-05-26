@@ -1,0 +1,24 @@
+{
+  "name": "Pregador Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para realizar esse movimento, você precisará de um banco de pregadores e uma barra E-Z. Pegue a barra de cachos E-Z na alça interna próxima (ou tenha alguém lhe entregando a barra que é preferível ou pegue a barra do descanso da barra frontal fornecido pela maioria dos bancos de pregadores). A palma de suas mãos deve estar voltada para a frente e elas devem estar ligeiramente inclinadas para dentro devido à forma da barra.",
+    "Com os braços superiores posicionados contra o banco do pregador e o peito contra ele, segure o E-Z Curl Bar no comprimento do ombro. Esta será a sua posição inicial.",
+    "medida que você respira, abaixe lentamente a barra até que seu braço seja estendido e o bíceps esteja totalmente esticado.",
+    "Ao expirar, use o bíceps para enrolar o peso até que seu bíceps esteja totalmente contraído e a barra esteja na altura do ombro. Aperte o bíceps com força e mantenha essa posição por um segundo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Preacher_Curl/0.jpg",
+    "Preacher_Curl/1.jpg"
+  ],
+  "id": "Preacher_Curl"
+}

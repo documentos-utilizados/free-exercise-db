@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell Lunge Traseiro",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique com o seu tronco na posição vertical segurando dois halteres em suas mãos ao seu lado. Esta será a sua posição inicial.",
+    "Passo para trás com a perna direita em torno de dois pés ou mais a partir do pé esquerdo e abaixe a parte superior do corpo para baixo, enquanto mantém o tronco na posição vertical e manter o equilíbrio. Inalar como você vai para baixo. Dica: Como nos outros exercícios, não permita que seu joelho vá para a frente além de seus dedos do pé como você descer, pois isso vai colocar estresse indevido sobre a articulação do joelho. Certifique-se de que você mantenha sua canela na frente importante perpendicular ao chão. Mantenha o quadril",
+    "Empurre para cima e volte para a posição inicial enquanto expira. Dica: Use a bola de seus pés para empurrar, a fim de acentuar o quadríceps. Para se concentrar nos glúteos, pressione com os calcanhares.",
+    "Repita com a perna oposta."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Rear_Lunge/0.jpg",
+    "Dumbbell_Rear_Lunge/1.jpg"
+  ],
+  "id": "Dumbbell_Rear_Lunge"
+}

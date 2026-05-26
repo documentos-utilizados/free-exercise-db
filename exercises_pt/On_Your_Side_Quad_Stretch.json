@@ -1,0 +1,21 @@
+{
+  "name": "No seu lado Quad Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitando-se do lado direito, com o joelho direito dobrado em um ângulo de 90 graus descansando no chão à sua frente (isso estabiliza o tronco).",
+    "Dobre o joelho esquerdo atrás de você e segure o pé esquerdo com a mão esquerda. Para esticar o flexor do quadril, pressione o quadril esquerdo para a frente enquanto empurra o pé esquerdo de volta para a mão."
+  ],
+  "category": "stretching",
+  "images": [
+    "On_Your_Side_Quad_Stretch/0.jpg",
+    "On_Your_Side_Quad_Stretch/1.jpg"
+  ],
+  "id": "On_Your_Side_Quad_Stretch"
+}

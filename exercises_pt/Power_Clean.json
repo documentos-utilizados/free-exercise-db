@@ -1,0 +1,53 @@
+{
+  "name": "Poder Limpar",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "costas (meio)",
+    "quadríceps",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique com os pés ligeiramente mais largos do que a largura do ombro e os dedos dos pés apontando ligeiramente.",
+    "Agache-se e segure a barra com um aperto fechado e pronado. Suas mãos devem ser ligeiramente mais largas do que a largura do ombro, separando os joelhos externos com os cotovelos totalmente estendidos.",
+    "Coloque a barra cerca de 1 polegada na frente de suas canelas e sobre as bolas de seus pés.",
+    "Suas costas devem ser planas ou ligeiramente arqueadas, seu peito levantado e para fora e suas omoplatas devem ser retraídas.",
+    "Mantenha a cabeça em posição neutra (em linha com a coluna vertebral e não inclinada ou girada) com os olhos focados em frente. Inspire durante esta fase.",
+    "Levante a barra do chão estendendo vigorosamente os quadris e os joelhos enquanto expira. Dica: O tronco superior deve manter o mesmo ângulo. Não se curve na cintura ainda e não deixe que os quadris se elevem diante dos ombros (isso teria o efeito de empurrar os glúteos no ar e esticar os isquiotibiais.",
+    "Mantenha os cotovelos totalmente estendidos com a cabeça em uma posição neutra e os ombros sobre a barra.",
+    "medida que a barra sobe, mantenha-a o mais perto possível das canelas.",
+    "medida que a barra passa pelos joelhos, empurre os quadris para a frente e dobre ligeiramente os joelhos para evitar prendê-los. Dica: Neste ponto, suas coxas devem estar contra a barra.",
+    "Mantenha as costas planas ou ligeiramente arqueadas, os cotovelos totalmente estendidos e a cabeça neutra. Dica: Você vai prender a respiração até a próxima fase.",
+    "Inspire e, em seguida, fortaleça e rapidamente estenda seus quadris e joelhos e fique de pé sobre os dedos dos pés.",
+    "Mantenha a barra o mais próxima possível do seu corpo. Dica: Suas costas devem estar planas com os cotovelos apontados para os lados e sua cabeça em uma posição neutra. Além disso, mantenha seus ombros sobre a barra e os braços retos o maior tempo possível.",
+    "Quando suas articulações inferiores do corpo estão totalmente estendidas, dê de ombros para cima rapidamente sem deixar os cotovelos flexionar ainda. Exale durante esta parte do movimento.",
+    "medida que os ombros atingem sua elevação mais alta, flexione os cotovelos para começar a puxar seu corpo sob a barra.",
+    "Continue a puxar os braços o mais alto e o maior tempo possível. Dica: Devido à natureza explosiva desta fase, seu tronco estará ereto ou com uma parte traseira arqueada, sua cabeça será inclinada ligeiramente para trás e seus pés podem perder contato com o chão.",
+    "Depois que a parte inferior do corpo estiver totalmente estendida e a barra atingir a altura máxima, puxe seu corpo sob a barra e gire os braços ao redor e abaixo da barra.",
+    "Simultaneamente, flexione os quadris e joelhos em uma posição de agachamento de um quarto.",
+    "Uma vez que os braços estão sob a barra, inale e levante os cotovelos para posicionar os braços superiores paralelos ao chão. Rack a barra na frente de seus ossos do colarinho e músculos do ombro dianteiro.",
+    "Pegue a barra com um tronco ereto e apertado, uma posição de cabeça neutra e pés chatos. Exale durante este movimento.",
+    "Levante-se estendendo os quadris e joelhos para uma posição totalmente ereta.",
+    "Abaixe a barra reduzindo gradualmente a tensão muscular dos braços para permitir uma descida controlada da barra para as coxas. Inspire durante este movimento.",
+    "Flexione simultaneamente os quadris e joelhos para amortecer o impacto da barra nas coxas.",
+    "Agache-se com os cotovelos totalmente estendidos até que a barra toque o chão.",
+    "Comece de novo na Fase 1 e repita a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Power_Clean/0.jpg",
+    "Power_Clean/1.jpg"
+  ],
+  "id": "Power_Clean"
+}

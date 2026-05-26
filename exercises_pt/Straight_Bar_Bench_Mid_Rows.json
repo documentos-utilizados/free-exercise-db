@@ -1,0 +1,25 @@
+{
+  "name": "Barra reta Banco Mid Rows",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque uma barra carregada na extremidade de um banco. De pé no banco atrás da barra, pegue um aperto médio e pronado. Fique de pé com os quadris para trás e o peito para cima, mantendo uma coluna neutra. Esta será sua posição inicial.",
+    "Retire a barra para o tronco, retraindo as omoplatas e flexionando os cotovelos. Use um movimento controlado sem sacudir.",
+    "Depois de uma breve pausa, devolva lentamente a barra para a posição inicial, garantindo que você vá até o fim."
+  ],
+  "category": "strength",
+  "images": [
+    "Straight_Bar_Bench_Mid_Rows/0.jpg",
+    "Straight_Bar_Bench_Mid_Rows/1.jpg"
+  ],
+  "id": "Straight_Bar_Bench_Mid_Rows"
+}

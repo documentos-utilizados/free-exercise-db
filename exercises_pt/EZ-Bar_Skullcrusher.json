@@ -1,0 +1,25 @@
+{
+  "name": "EZ-Bar Skullcrusher",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Usando um aperto próximo, levante a barra de EZ e segure-a com os cotovelos enquanto você se deita no banco. Seus braços devem ser perpendiculares ao chão. Esta será sua posição inicial.",
+    "Mantendo os braços parados, abaixe a barra, permitindo que os cotovelos flexionem. Inspire enquanto realiza essa parte do movimento. Pausar uma vez que a barra esteja diretamente acima da testa.",
+    "Levante a barra de volta para a posição inicial, estendendo o cotovelo e expirando.",
+    "Repito."
+  ],
+  "category": "strength",
+  "images": [
+    "EZ-Bar_Skullcrusher/0.jpg",
+    "EZ-Bar_Skullcrusher/1.jpg"
+  ],
+  "id": "EZ-Bar_Skullcrusher"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Push no peito (resposta múltipla)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma posição ajoelhada de frente para uma parede ou utilize um parceiro. Segure a bola com as duas mãos apertadas no peito.",
+    "Execute o passe explodindo para frente e para fora com os quadris enquanto empurra a bola o mais forte possível.",
+    "Siga em frente, caindo para a frente, pegando-se com as mãos.",
+    "Volte imediatamente para uma posição vertical. Repita para o número desejado de repetições."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Chest_Push_multiple_response/0.jpg",
+    "Chest_Push_multiple_response/1.jpg"
+  ],
+  "id": "Chest_Push_multiple_response"
+}

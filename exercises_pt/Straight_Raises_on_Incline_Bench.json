@@ -1,0 +1,25 @@
+{
+  "name": "Straight Raises em Banco Inclinado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque um bar no chão atrás da cabeça de um banco inclinado.",
+    "Deite-se no banco de frente para baixo. Com um aperto pronado, pegue a barra do chão, mantendo os braços retos. Permita que a barra pendure em linha reta. Esta será sua posição inicial.",
+    "Para começar, levante a barra na frente de sua cabeça, mantendo os braços estendidos.",
+    "Volte para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Straight_Raises_on_Incline_Bench/0.jpg",
+    "Straight_Raises_on_Incline_Bench/1.jpg"
+  ],
+  "id": "Straight_Raises_on_Incline_Bench"
+}

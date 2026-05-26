@@ -1,0 +1,26 @@
+{
+  "name": "Anel Dips",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Agarre um anel em cada mão e, em seguida, dê um pequeno salto para ajudá-lo a entrar na posição inicial com os braços bloqueados.",
+    "Comece flexionando o cotovelo, baixando seu corpo até que seus braços se quebrem 90 graus. Evite balançar e mantenha uma boa postura durante toda a descida.",
+    "Inverta o movimento estendendo o cotovelo, empurrando-se de volta para a posição inicial.",
+    "Repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Ring_Dips/0.jpg",
+    "Ring_Dips/1.jpg"
+  ],
+  "id": "Ring_Dips"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Puxar Snatch",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com uma barra no chão perto das canelas, pegue um aperto de arremesso largo. Abaixe os quadris com o peso focado nos calcanhares, de volta em linha reta, com a cabeça virada para a frente, peito para cima, com os ombros bem na frente da barra. Esta será a sua posição inicial.",
+    "Comece a primeira tração dirigindo pelos calcanhares, estendendo os joelhos. Seu ângulo de volta deve permanecer o mesmo, e seus braços devem permanecer retos. Mova o peso com controle enquanto você continua acima dos joelhos.",
+    "Em seguida vem a segunda tração, a principal fonte de aceleração para a tração.  medida que a barra se aproxima da posição média-alta, comece a se estender pelos quadris. Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima.",
+    "Não deve haver necessidade de puxar ativamente os braços para acelerar o peso; no final da segunda tração, o corpo deve ser totalmente estendido, inclinando-se ligeiramente para trás. A extensão total deve ser violenta e abrupta e garantir que você não prolongue a extensão por mais tempo do que o necessário."
+  ],
+  "category": "strength",
+  "images": [
+    "Snatch_Pull/0.jpg",
+    "Snatch_Pull/1.jpg"
+  ],
+  "id": "Snatch_Pull"
+}

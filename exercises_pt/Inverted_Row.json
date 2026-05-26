@@ -1,0 +1,26 @@
+{
+  "name": "Linha invertida",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Posicione uma barra em um rack para cerca de altura da cintura. Você também pode usar uma máquina de ferreiro.",
+    "Tome um aperto mais largo do que a largura do ombro na barra e posicione-se pendurado sob a barra. Seu corpo deve ser reto com os calcanhares no chão com os braços totalmente estendidos. Esta será sua posição inicial.",
+    "Comece flexionando o cotovelo, puxando o peito em direção à barra. Retraia as omoplatas enquanto realiza o movimento.",
+    "Pausa no topo do movimento, e voltar-se para a posição inicial.",
+    "Repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Inverted_Row/0.jpg",
+    "Inverted_Row/1.jpg"
+  ],
+  "id": "Inverted_Row"
+}

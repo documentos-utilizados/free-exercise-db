@@ -1,0 +1,32 @@
+{
+  "name": "Deadlift lateral de um braço",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Fique ao lado de uma barra ao lado de seu centro. Dobre os joelhos e abaixe seu corpo até que você seja capaz de alcançar a barra.",
+    "Segure a barra como se estivesse agarrando uma pasta (palmas viradas para você, já que a barra está lateralmente). Você pode precisar de um envoltório de pulso se estiver usando uma quantidade significativa de peso. Esta é a sua posição inicial.",
+    "Use as pernas para ajudar a levantar a barra enquanto expira. Seus braços devem se estender completamente como trazer a barra até que você esteja em uma posição de pé.",
+    "Lentamente, traga a barra de volta para baixo enquanto inala. Dica: Certifique-se de dobrar os joelhos enquanto reduz o peso para evitar que qualquer lesão ocorra.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Side_Deadlift/0.jpg",
+    "One-Arm_Side_Deadlift/1.jpg"
+  ],
+  "id": "One-Arm_Side_Deadlift"
+}

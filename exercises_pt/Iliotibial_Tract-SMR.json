@@ -1,0 +1,22 @@
+{
+  "name": "Tracto Iliotibial-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado, com a perna inferior colocada em um rolo de espuma entre o quadril e o joelho. A outra perna pode ser cruzada na frente de você.",
+    "Coloque o máximo de seu peso que for tolerável em sua perna inferior; Não há necessidade de manter sua perna inferior em contato com o chão. Certifique-se de relaxar os músculos da perna que você está alongando.",
+    "Role a perna sobre a espuma de seu quadril para o joelho, pausando por 10-30 segundos em pontos de tensão. Repita com a perna oposta."
+  ],
+  "category": "stretching",
+  "images": [
+    "Iliotibial_Tract-SMR/0.jpg",
+    "Iliotibial_Tract-SMR/1.jpg"
+  ],
+  "id": "Iliotibial_Tract-SMR"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Empurrão de trenó",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "peitoral",
+    "glúteos",
+    "isquiotibiais",
+    "tríceps"
+  ],
+  "instructions": [
+    "Carregue seu trenó empurrando com o peso desejado.",
+    "Tome uma postura atlética, inclinando-se no trenó com os braços totalmente estendidos, agarrando as alças. Empurre o trenó o mais rápido possível, concentrando-se em estender seus quadris e joelhos para fortalecer sua cadeia posterior."
+  ],
+  "category": "strongman",
+  "images": [
+    "Sled_Push/0.jpg",
+    "Sled_Push/1.jpg"
+  ],
+  "id": "Sled_Push"
+}

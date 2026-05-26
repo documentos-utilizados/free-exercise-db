@@ -1,0 +1,24 @@
+{
+  "name": "Inchworm",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de pé com os pés juntos. Mantenha as pernas retas, estique-se e coloque as mãos no chão diretamente na sua frente. Esta será a sua posição inicial.",
+    "Comece andando com as mãos para a frente lentamente, alternando a esquerda e a direita. Ao fazê-lo, dobre-se apenas no quadril, mantendo as pernas retas.",
+    "Continue indo até que seu corpo esteja paralelo ao chão em uma posição de flexão.",
+    "Agora, mantenha as mãos no lugar e, lentamente, dê passos curtos com os pés, movendo-se apenas alguns centímetros de cada vez.",
+    "Continue andando até que seus pés estejam por horas de mãos, mantendo suas pernas retas enquanto você faz isso."
+  ],
+  "category": "stretching",
+  "images": [
+    "Inchworm/0.jpg",
+    "Inchworm/1.jpg"
+  ],
+  "id": "Inchworm"
+}

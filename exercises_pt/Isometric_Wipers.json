@@ -1,0 +1,27 @@
+{
+  "name": "Limpadores isométricos",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Assuma uma posição de flexão, apoiando seu peso em suas mãos e dedos dos pés, mantendo seu corpo reto. Suas mãos devem estar fora da largura do ombro. Esta será sua posição inicial.",
+    "Comece mudando seu peso corporal o mais longe possível para um lado, permitindo que o cotovelo desse lado flexione à medida que você baixa seu corpo.",
+    "Reverta o movimento, estendendo o braço flexionado, empurrando-se para cima e, em seguida, caindo para o outro lado.",
+    "Repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Isometric_Wipers/0.jpg",
+    "Isometric_Wipers/1.jpg"
+  ],
+  "id": "Isometric_Wipers"
+}

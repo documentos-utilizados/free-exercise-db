@@ -1,0 +1,21 @@
+{
+  "name": "Piriformis-SMR",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se com as nádegas em cima de um rolo de espuma. Dobre os joelhos e, em seguida, cruze uma perna para que o tornozelo esteja sobre o joelho. Esta será sua posição inicial.",
+    "Mude seu peso para o lado da perna cruzada, rolando sobre as nádegas até sentir tensão no glúteo superior. Você pode ajudar o alongamento usando uma mão para puxar o joelho dobrado em direção ao peito. Mantenha essa posição por 10-30 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Piriformis-SMR/0.jpg",
+    "Piriformis-SMR/1.jpg"
+  ],
+  "id": "Piriformis-SMR"
+}

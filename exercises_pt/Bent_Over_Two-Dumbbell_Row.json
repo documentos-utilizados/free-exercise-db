@@ -1,0 +1,27 @@
+{
+  "name": "Bent Over Two-Dumbbell Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Com um haltere em cada mão (palmas viradas para o tronco), dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura; à medida que você se dobra, certifique-se de manter as costas retas até que esteja quase paralela ao chão. Dica: Certifique-se de manter a cabeça erguida. Os pesos devem estar pendurados diretamente na sua frente enquanto seus braços estão perpendiculares ao chão e ao seu tronco. Esta é sua posição inicial.",
+    "Enquanto mantém o tronco parado, levante os halteres para o seu lado (à medida que você expira), mantendo os cotovelos perto do corpo (não exerça nenhuma força com o antebraço além de segurar os pesos). Na posição superior contraída, esprema os músculos das costas e segure por um segundo.",
+    "Reduza lentamente o peso novamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Over_Two-Dumbbell_Row/0.jpg",
+    "Bent_Over_Two-Dumbbell_Row/1.jpg"
+  ],
+  "id": "Bent_Over_Two-Dumbbell_Row"
+}

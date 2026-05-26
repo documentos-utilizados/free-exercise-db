@@ -1,0 +1,26 @@
+{
+  "name": "Rolo de pulso",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, levante-se em linha reta agarrando um rolo de pulso usando um aperto pronado (palmas viradas para baixo). Seus pés devem estar separados pela largura do ombro.",
+    "Lentamente levante os dois braços até que eles estejam totalmente estendidos e paralelos ao chão à sua frente. Nota: Certifique-se de que a corda não esteja enrolada ao redor do rolo. Todo o seu corpo deve estar estacionário, exceto os antebraços. Esta é a posição inicial.",
+    "Gire um pulso de cada vez em um movimento ascendente para trazer o peso até a barra, rolando a corda ao redor do rolo.",
+    "Uma vez que o peso atingiu a barra, lentamente começar a diminuir o peso de volta para baixo, girando o pulso em um movimento para baixo até que o peso atinge a posição inicial.",
+    "Repita para a quantidade prescrita de repetições em seu programa."
+  ],
+  "category": "strength",
+  "images": [
+    "Wrist_Roller/0.jpg",
+    "Wrist_Roller/1.jpg"
+  ],
+  "id": "Wrist_Roller"
+}

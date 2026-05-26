@@ -1,0 +1,26 @@
+{
+  "name": "Piso Glute-Ham Aumentar",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Você pode usar um parceiro para este exercício ou levantar os pés sob algo estável.",
+    "Comece de joelhos com as pernas superiores e o tronco na posição vertical. Se usar um parceiro, eles manterão firmemente os pés para mantê-lo em posição. Esta será sua posição inicial.",
+    "Abaixe-se estendendo-se no joelho, tomando cuidado para NO flexionar os quadris à medida que avança.",
+    "Coloque as mãos na frente de você quando chegar ao chão. Este movimento é muito difícil e você pode ser incapaz de fazê-lo sem ajuda. Use os braços para empurrar levemente para fora do chão para ajudar o seu retorno à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Floor_Glute-Ham_Raise/0.jpg",
+    "Floor_Glute-Ham_Raise/1.jpg"
+  ],
+  "id": "Floor_Glute-Ham_Raise"
+}

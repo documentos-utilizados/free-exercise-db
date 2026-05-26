@@ -1,0 +1,22 @@
+{
+  "name": "Groin e Back Stretch",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se no chão com os joelhos dobrados e os pés juntos.",
+    "Interrompa os dedos atrás da cabeça. Esta será a sua posição inicial.",
+    "Curl para baixo, trazendo seus cotovelos para o interior de suas coxas. Após uma breve pausa, volte para a posição inicial com a cabeça para cima e as costas retas. Repita por 10-20 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Groin_and_Back_Stretch/0.jpg",
+    "Groin_and_Back_Stretch/1.jpg"
+  ],
+  "id": "Groin_and_Back_Stretch"
+}

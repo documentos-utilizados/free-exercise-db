@@ -1,0 +1,29 @@
+{
+  "name": "Freehand Jump Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Cruze os braços sobre o peito.",
+    "Com a cabeça erguida e as costas retas, posicione os pés na largura do ombro.",
+    "Mantenha as costas retas e o peito para cima, agachando-se enquanto você inala até que suas coxas superiores estejam paralelas ou inferiores ao chão.",
+    "Agora, pressionando principalmente com a bola de seus pés, pule para cima no ar o mais alto possível, usando as coxas como molas. Expire durante esta parte do movimento.",
+    "Quando você tocar o chão novamente, agache-se imediatamente e salte novamente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Freehand_Jump_Squat/0.jpg",
+    "Freehand_Jump_Squat/1.jpg"
+  ],
+  "id": "Freehand_Jump_Squat"
+}

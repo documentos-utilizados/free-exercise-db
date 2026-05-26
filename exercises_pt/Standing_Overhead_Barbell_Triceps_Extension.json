@@ -1,0 +1,26 @@
+{
+  "name": "Extensão de Tríceps de Barbell Overhead Standing",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, levante-se segurando uma barra ou barra de e-z usando um aperto pronado (palmeiras voltadas para a frente) com as mãos mais próximas do que a largura do ombro separadas uma da outra. Seus pés devem estar separados pela largura do ombro.",
+    "Agora eleve a barra acima de sua cabeça até que seus braços estejam totalmente estendidos. Mantenha seus cotovelos dentro. Esta será sua posição inicial.",
+    "Mantendo os braços superiores perto da cabeça e cotovelos, perpendicular ao chão, reduza a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem seu bíceps. Dica: Os braços superiores devem permanecer estacionários e apenas os antebraços devem se mover. Respire enquanto você executa este passo.",
+    "Volte para a posição inicial usando o tríceps para levantar a barra. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Overhead_Barbell_Triceps_Extension/0.jpg",
+    "Standing_Overhead_Barbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Overhead_Barbell_Triceps_Extension"
+}

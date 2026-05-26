@@ -1,0 +1,25 @@
+{
+  "name": "Linha Suspendida",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Suspenda suas alças em torno da altura do peito. Pegue uma alça em cada mão e incline-se para trás. Mantenha seu corpo ereto e sua cabeça e peito para cima. Seus braços devem ser totalmente estendidos. Esta será sua posição inicial.",
+    "Comece flexionando o cotovelo para iniciar o movimento. Atraia as omoplatas enquanto faz isso.",
+    "Após a conclusão da pausa de movimento, e, em seguida, retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Suspended_Row/0.jpg",
+    "Suspended_Row/1.jpg"
+  ],
+  "id": "Suspended_Row"
+}

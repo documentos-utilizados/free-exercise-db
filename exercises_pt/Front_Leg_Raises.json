@@ -1,0 +1,21 @@
+{
+  "name": "Levantamento da perna dianteira",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique ao lado de uma cadeira ou outro suporte, segurando com uma mão.",
+    "Balance a perna para a frente, mantendo a perna em linha reta. Continue com um balanço para baixo, trazendo a perna tão para trás quanto sua flexibilidade permitir. Repita 5-10 vezes e, em seguida, troque as pernas."
+  ],
+  "category": "stretching",
+  "images": [
+    "Front_Leg_Raises/0.jpg",
+    "Front_Leg_Raises/1.jpg"
+  ],
+  "id": "Front_Leg_Raises"
+}

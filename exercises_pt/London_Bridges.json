@@ -1,0 +1,27 @@
+{
+  "name": "Pontes de Londres",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Anexe uma corda de escalada a um feixe alto ou membro cruzado. Abaixo dela, certifique-se de que a barra da máquina de ferreiro esteja trancada no lugar com os cofres e não possa se mover. Alternativamente, uma caixa segura também pode ser utilizada.",
+    "Fique na barra, usando a corda para equilibrar-se. Esta será a sua posição inicial.",
+    "Mantendo seu corpo reto, incline-se para trás e abaixe seu corpo, lentamente indo de mãos dadas com a corda. Continue até que você esteja perpendicular ao chão.",
+    "Mantendo seu corpo reto, reverta o movimento, passando a mão de volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "London_Bridges/0.jpg",
+    "London_Bridges/1.jpg"
+  ],
+  "id": "London_Bridges"
+}

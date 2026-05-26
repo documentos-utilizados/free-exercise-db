@@ -1,0 +1,24 @@
+{
+  "name": "Ombro Imprensa - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Para começar, fique em uma banda de exercícios para que a tensão comece no comprimento do braço. Segure as alças e levante-as para que as mãos estejam na altura do ombro de cada lado.",
+    "Gire os pulsos para que as palmas das mãos estejam voltadas para a frente. Seus cotovelos devem ser dobrados, com os braços e antebraços superiores alinhados ao tronco. Esta é sua posição inicial.",
+    "Ao expirar, levante as alças até que seus braços estejam totalmente estendidos."
+  ],
+  "category": "strength",
+  "images": [
+    "Shoulder_Press_-_With_Bands/0.jpg",
+    "Shoulder_Press_-_With_Bands/1.jpg"
+  ],
+  "id": "Shoulder_Press_-_With_Bands"
+}

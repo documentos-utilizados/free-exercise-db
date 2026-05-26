@@ -1,0 +1,28 @@
+{
+  "name": "Lunge Passe Através",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique com o tronco ereto segurando um kettlebell na mão direita. Esta será a sua posição inicial.",
+    "Avance com o pé esquerdo e abaixe a parte superior do corpo para baixo, flexionando o quadril e o joelho, mantendo o tronco na posição vertical. Abaixe o joelho traseiro até que ele quase toque o chão.",
+    "medida que você pula, passe o kettlebell sob sua perna dianteira para sua mão oposta.",
+    "Pressionando através do calcanhar do seu pé, volte para a posição inicial.",
+    "Repita o movimento para a quantidade recomendada de repetições, alternando as pernas."
+  ],
+  "category": "strength",
+  "images": [
+    "Lunge_Pass_Through/0.jpg",
+    "Lunge_Pass_Through/1.jpg"
+  ],
+  "id": "Lunge_Pass_Through"
+}

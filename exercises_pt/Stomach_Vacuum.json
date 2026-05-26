@@ -1,0 +1,24 @@
+{
+  "name": "Estômago Vácuo",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, fique em linha reta com a largura do ombro dos pés separados um do outro. Coloque as mãos nos quadris. Esta é a posição inicial.",
+    "Agora inspire lentamente o máximo de ar possível e, em seguida, comece a exalar o máximo possível, trazendo seu estômago o máximo possível e mantenha essa posição. Tente visualizar seu umbigo tocando sua espinha dorsal.",
+    "Uma contração isométrica é de cerca de 20 segundos. Durante a retenção de 20 segundos, tente respirar normalmente. Em seguida, inale e traga seu estômago de volta à posição inicial.",
+    "Depois de ter praticado este exercício, tente realizar este exercício por mais de 20 segundos. Dica: Você pode trabalhar o seu caminho até 40-60 segundos.",
+    "Repita para a quantidade recomendada de conjuntos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Stomach_Vacuum/0.jpg",
+    "Stomach_Vacuum/1.jpg"
+  ],
+  "id": "Stomach_Vacuum"
+}

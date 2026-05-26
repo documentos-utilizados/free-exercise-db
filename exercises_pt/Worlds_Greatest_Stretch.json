@@ -1,0 +1,26 @@
+{
+  "name": "Maior alongamento do mundo",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Este é um trecho de três partes. Comece pulando para a frente, com o pé da frente no chão e nos dedos das costas. Com os joelhos dobrados, agache-se até que o joelho esteja quase tocando o chão. Mantenha o tronco ereto e mantenha essa posição por 10-20 segundos.",
+    "Agora, coloque o braço no mesmo lado que sua perna dianteira no chão, com o cotovelo ao lado do pé. Sua outra mão deve ser colocada no chão, paralela à sua perna dianteira, para ajudar a apoiá-lo durante esta parte do alongamento.",
+    "Depois de 10-20 segundos, coloque as mãos em ambos os lados do pé da frente. Levante os dedos dos pés da frente do chão e endireitar a perna. Você pode precisar reposicionar a perna traseira para fazê-lo. Segure por 10-20 segundos e, em seguida, repita toda a sequência para o outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Worlds_Greatest_Stretch/0.jpg",
+    "Worlds_Greatest_Stretch/1.jpg"
+  ],
+  "id": "Worlds_Greatest_Stretch"
+}

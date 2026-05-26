@@ -1,0 +1,26 @@
+{
+  "name": "Sled Overhead Caminhada para trás",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "costas (meio)",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Anexe alças duplas a um trenó conectado por uma corda ou corrente. Carregue o trenó em um peso leve.",
+    "Encare o trenó, apoiando-se até que haja alguma tensão na linha. Segure as mãos diretamente acima da cabeça com os cotovelos estendidos. Esta será sua posição inicial.",
+    "Caminhe para trás, mantendo os braços levantados acima da cabeça. Evite movimentos bruscos."
+  ],
+  "category": "strength",
+  "images": [
+    "Sled_Overhead_Backward_Walk/0.jpg",
+    "Sled_Overhead_Backward_Walk/1.jpg"
+  ],
+  "id": "Sled_Overhead_Backward_Walk"
+}

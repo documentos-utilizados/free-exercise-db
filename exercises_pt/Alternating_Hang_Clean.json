@@ -1,0 +1,29 @@
+{
+  "name": "Alternating Hang Clean",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells entre os pés. Para entrar na posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe um kettlebell no ombro e segure o outro kettlebell em uma posição suspensa. Limpe o kettlebell no ombro, estendendo-se pelas pernas e quadris enquanto puxa o kettlebell em direção aos ombros. Gire o pulso enquanto faz isso.",
+    "Abaixe o kettlebell limpo para uma posição de suspensão e limpe o kettlebell alternativo. Repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternating_Hang_Clean/0.jpg",
+    "Alternating_Hang_Clean/1.jpg"
+  ],
+  "id": "Alternating_Hang_Clean"
+}

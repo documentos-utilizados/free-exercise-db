@@ -1,0 +1,28 @@
+{
+  "name": "Gironda Sternum Chins",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Segure a barra pull-up com um ombro largura underhand grip.",
+    "Agora pendure com os braços totalmente estendidos e coloque o peito para fora e incline-se para trás. Dica: Você estará inclinando-se para trás durante todo o movimento. Esta será a sua posição inicial.",
+    "Comece a puxar-se para a barra com a coluna arqueada ao longo do movimento e sua cabeça inclinada para trás o mais longe possível da barra. Exale enquanto você executa essa parte do movimento. Dica: Na extremidade superior do movimento, seus quadris e pernas estarão em um ângulo de cerca de 45 graus para o chão.",
+    "Continue puxando até que sua clavícula passe pela barra e sua área inferior do peito ou esterno toque nela. Segure essa contração por um segundo. Dica: No momento em que você completar essa parte do movimento; sua cabeça será paralela ao chão.",
+    "Lentamente, comece a voltar para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Gironda_Sternum_Chins/0.jpg",
+    "Gironda_Sternum_Chins/1.jpg"
+  ],
+  "id": "Gironda_Sternum_Chins"
+}

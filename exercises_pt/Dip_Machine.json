@@ -1,0 +1,27 @@
+{
+  "name": "Máquina de mergulho",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se com segurança em uma máquina de mergulho, selecione o peso e segure firmemente as alças.",
+    "Agora mantenha os cotovelos em seus lados, a fim de colocar ênfase no tríceps. Os cotovelos devem ser dobrados em um ângulo de 90 graus.",
+    "medida que você contrai o tríceps, estenda os braços para baixo enquanto expira. Dica: Na parte inferior do movimento, concentre-se em manter uma pequena curva em seus braços para manter a tensão no músculo do tríceps.",
+    "Agora, lentamente, deixe seus braços voltarem para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dip_Machine/0.jpg",
+    "Dip_Machine/1.jpg"
+  ],
+  "id": "Dip_Machine"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Esticamento do pescoço lateral",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece com os ombros relaxados, incline suavemente a cabeça em direção ao ombro.",
+    "Ajude a esticar com uma atração suave no lado da cabeça."
+  ],
+  "category": "stretching",
+  "images": [
+    "Side_Neck_Stretch/0.jpg",
+    "Side_Neck_Stretch/1.jpg"
+  ],
+  "id": "Side_Neck_Stretch"
+}

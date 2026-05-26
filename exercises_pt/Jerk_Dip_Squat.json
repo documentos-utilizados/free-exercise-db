@@ -1,0 +1,24 @@
+{
+  "name": "Jerk Dip Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Este movimento fortalece a porção de mergulho do empurrão. Comece com a barra estanteada na posição de empurrão, com os ombros para a frente para criar uma prateleira e a barra entrar em contato levemente com a garganta. Os pés devem estar diretamente sob os quadris, com os pés virados para fora como é confortável.",
+    "Mantendo o tronco vertical, mergulhe flexionando os joelhos, permitindo que eles viajem para a frente e sem mover os quadris para a parte traseira. O mergulho não deve ser excessivo. Volte o peso para a posição inicial dirigindo vigorosamente pelos pés."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Jerk_Dip_Squat/0.jpg",
+    "Jerk_Dip_Squat/1.jpg"
+  ],
+  "id": "Jerk_Dip_Squat"
+}

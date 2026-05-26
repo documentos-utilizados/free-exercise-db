@@ -1,0 +1,26 @@
+{
+  "name": "Palmas-Up Dumbbell Curl pulso sobre um banco",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece colocando dois halteres em um lado de um banco plano.",
+    "Ajoelhe-se em ambos os joelhos para que seu corpo esteja de frente para o banco plano.",
+    "Use os braços para agarrar os dois halteres com um aperto supinado (palmas para cima) e trazê-los para cima para que seus antebraços estão descansando contra o banco plano. Seus pulsos devem estar pendurados sobre a borda.",
+    "Comece enrolando o pulso para cima e expirando.",
+    "Abaixe lentamente os pulsos de volta para a posição inicial durante a inalação. Certifique-se de inalar durante esta parte do exercício.",
+    "Seus antebraços devem ser estacionários, pois seu pulso é o único movimento necessário para realizar este exercício.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/0.jpg",
+    "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/1.jpg"
+  ],
+  "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench"
+}

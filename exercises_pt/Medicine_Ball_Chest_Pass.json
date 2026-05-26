@@ -1,0 +1,27 @@
+{
+  "name": "Passe de peito de bola de medicina",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Você vai precisar de um parceiro para este exercício. Na falta de um, este movimento pode ser realizado contra uma parede.",
+    "Comece de frente para o seu parceiro segurando a bola de remédios no seu tronco com as duas mãos.",
+    "Puxe a bola para o peito e reverta o movimento, estendendo-se através dos cotovelos. Para aplicações esportivas, você pode dar um passo enquanto joga.",
+    "Seu parceiro deve pegar a bola e jogá-la de volta para você.",
+    "Receba o arremesso com as duas mãos na altura do peito."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Medicine_Ball_Chest_Pass/0.jpg",
+    "Medicine_Ball_Chest_Pass/1.jpg"
+  ],
+  "id": "Medicine_Ball_Chest_Pass"
+}

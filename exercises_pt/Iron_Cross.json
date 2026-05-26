@@ -1,0 +1,25 @@
+{
+  "name": "Cruz de Ferro",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [],
+  "category": "strength",
+  "images": [
+    "Iron_Cross/0.jpg",
+    "Iron_Cross/1.jpg"
+  ],
+  "id": "Iron_Cross"
+}

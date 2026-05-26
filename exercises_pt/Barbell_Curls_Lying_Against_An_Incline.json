@@ -1,0 +1,23 @@
+{
+  "name": "Barbell Curls mentindo contra uma inclinação",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se contra um banco inclinado, com os braços segurando uma barra e pendurados em uma linha horizontal. Esta será a sua posição inicial.",
+    "Enquanto mantém os braços superiores estacionários, enrole o peso o mais alto que puder enquanto aperta o bíceps. Respire enquanto executa esta parte do movimento. Dica: Apenas os antebraços devem se mover. Não balançar os braços.",
+    "Depois de uma segunda contração, volte lentamente para a posição inicial à medida que inala. Dica: Certifique-se de descer todo o caminho.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Curls_Lying_Against_An_Incline/0.jpg",
+    "Barbell_Curls_Lying_Against_An_Incline/1.jpg"
+  ],
+  "id": "Barbell_Curls_Lying_Against_An_Incline"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Intermediário Groin estiramento",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com as pernas estendidas. Loop um cinto, corda ou banda em torno de um de seus pés, e balançar essa perna o mais longe possível para o lado. Esta será a sua posição inicial.",
+    "Puxe suavemente no cinto para criar tensão na virilha e músculos isquiotibiais. Segure por 10-20 segundos e repita do outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Intermediate_Groin_Stretch/0.jpg",
+    "Intermediate_Groin_Stretch/1.jpg"
+  ],
+  "id": "Intermediate_Groin_Stretch"
+}

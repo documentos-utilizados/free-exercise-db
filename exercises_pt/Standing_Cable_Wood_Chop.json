@@ -1,0 +1,29 @@
+{
+  "name": "Chop de madeira de cabo de pé",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre e mova o cabo para a posição mais alta da polia.",
+    "Com o seu lado para o cabo, pegue a alça com uma mão e afaste-se da torre. Você deve estar aproximadamente comprimento do braço longe da polia, com a tensão do peso no cabo. Seu braço estendido deve estar alinhado com o cabo.",
+    "Com os pés posicionados com a largura do ombro à parte, alcance para cima com a outra mão e segure a alça com as duas mãos. Seus braços ainda devem ser totalmente estendidos.",
+    "Em um movimento, puxe a alça para baixo e através de seu corpo para o joelho dianteiro enquanto gira seu tronco.",
+    "Mantenha as costas e os braços retos e o núcleo apertados enquanto gira o pé traseiro e dobra os joelhos para obter uma gama completa de movimento.",
+    "Mantenha a postura e os braços retos. Volte para a posição neutra de forma lenta e controlada.",
+    "Repita para o fracasso.",
+    "Em seguida, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Cable_Wood_Chop/0.jpg",
+    "Standing_Cable_Wood_Chop/1.jpg"
+  ],
+  "id": "Standing_Cable_Wood_Chop"
+}

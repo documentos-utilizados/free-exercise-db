@@ -1,0 +1,25 @@
+{
+  "name": "Abraçando uma bola",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Sente-se no chão.",
+    "Passe uma bola de exercício entre as duas pernas e abaixe os quadris em direção ao chão.",
+    "Abrace os braços ao redor da bola para apoiar seu corpo. Ajuste suas pernas para que seus pés estejam planos no chão e seus joelhos se alinhem sobre seus tornozelos. Mantenha uma boa aderência na bola para que ela não role para longe de você e envie você de volta para suas nádegas."
+  ],
+  "category": "stretching",
+  "images": [
+    "Hug_A_Ball/0.jpg",
+    "Hug_A_Ball/1.jpg"
+  ],
+  "id": "Hug_A_Ball"
+}

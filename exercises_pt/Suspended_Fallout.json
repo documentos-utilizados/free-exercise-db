@@ -1,0 +1,28 @@
+{
+  "name": "Suspensão Fallout",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Ajuste as alças para que as alças estejam em uma altura apropriada, abaixo do nível da cintura.",
+    "Comece de pé e agarrando as alças. Incline-se nas alças, movendo-se para uma posição de flexão inclinada. Esta será a sua posição inicial.",
+    "Mantendo os braços retos, incline-se ainda mais nas alças de suspensão, aproximando seu corpo do chão, permitindo que seus ombros se estendam, levantando os braços para cima e sobre a cabeça.",
+    "Mantenha uma coluna neutra e mantenha o resto do corpo reto, sendo os ombros as únicas articulações permitidas para se mover.",
+    "Pausar durante a contração de pico e, em seguida, retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Suspended_Fallout/0.jpg",
+    "Suspended_Fallout/1.jpg"
+  ],
+  "id": "Suspended_Fallout"
+}

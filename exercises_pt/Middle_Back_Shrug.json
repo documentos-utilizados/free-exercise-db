@@ -1,0 +1,23 @@
+{
+  "name": "Meio de volta Shrug",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas em um banco inclinado enquanto segura um haltere em cada mão. Seus braços devem ser totalmente estendidos pendurados e apontando para o chão. As palmas das suas mãos devem estar voltadas uma para a outra. Esta será a sua posição inicial.",
+    "medida que você expira, esprema as omoplatas e segure a contração por um segundo completo. Dica: Este movimento é como a ação inversa de um abraço, ou tentando executar laterais traseiras como se você não tivesse braços.",
+    "Como você inalar voltar para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Middle_Back_Shrug/0.jpg",
+    "Middle_Back_Shrug/1.jpg"
+  ],
+  "id": "Middle_Back_Shrug"
+}

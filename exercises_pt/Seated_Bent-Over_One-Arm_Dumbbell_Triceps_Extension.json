@@ -1,0 +1,26 @@
+{
+  "name": "Bent-Over One-Arm Dumbbell Triceps Extensão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se no final de um banco plano com um haltere em um braço usando um aperto neutro (palmas da mão voltadas para você).",
+    "Dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Certifique-se de manter a cabeça erguida.",
+    "O braço superior com o haltere deve estar perto do tronco e alinhado com ele (levantado até que seja paralelo ao chão, enquanto os antebraços estão apontando para o chão, pois as mãos seguram os pesos). Dica: Deve haver um ângulo de 90 graus entre os antebraços e a parte superior do braço. Esta é a sua posição inicial.",
+    "Mantendo o braço parado, use o tríceps para levantar o peso enquanto expira até que o antebraço esteja paralelo ao chão e todo o braço seja estendido. Como muitos outros exercícios do braço, apenas o antebraço se move.",
+    "Depois de uma segunda contração no topo, abaixe lentamente o haltere de volta para a posição inicial à medida que você inala.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Troque os braços e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
+}

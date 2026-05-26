@@ -1,0 +1,26 @@
+{
+  "name": "Flutter Kicks",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Em um banco plano, deite-se de frente para baixo com os quadris na borda do banco, as pernas retas com os dedos dos pés altos do chão e com os braços no topo do banco segurando a borda da frente.",
+    "Aperte os glúteos e isquiotibiais e endireitar as pernas até que estejam niveladas com os quadris. Esta será a sua posição inicial.",
+    "Comece o movimento levantando a perna esquerda mais alto do que a perna direita.",
+    "Em seguida, abaixe a perna esquerda enquanto você levanta a perna direita.",
+    "Continue alternando desta maneira (como se você estivesse fazendo um chute na água) até que você tenha feito a quantidade recomendada de repetições para cada perna. Certifique-se de manter um movimento controlado em todos os momentos. Dica: Você respirará normalmente enquanto realiza esse movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "Flutter_Kicks/0.jpg",
+    "Flutter_Kicks/1.jpg"
+  ],
+  "id": "Flutter_Kicks"
+}

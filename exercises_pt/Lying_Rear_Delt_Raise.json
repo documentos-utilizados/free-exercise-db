@@ -1,0 +1,24 @@
+{
+  "name": "Deitado Voltar Delt Raise",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto segura um haltere em cada mão, deite-se com o peito em um banco plano.",
+    "Posicione as palmas das mãos de forma neutra (palmas viradas para o tronco) enquanto mantém os braços estendidos com os cotovelos ligeiramente dobrados. Esta será a sua posição inicial.",
+    "Agora levante os braços para o lado até que seus cotovelos estejam na altura do ombro e seus braços estejam aproximadamente paralelos ao chão à medida que você expira. Dica: Mantenha seus braços perpendiculares ao tronco, mantendo-os estendidos durante todo o movimento. Além disso, mantenha a contração no topo por um segundo.",
+    "Abaixe lentamente os halteres para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições e, em seguida, mude para o outro braço."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Rear_Delt_Raise/0.jpg",
+    "Lying_Rear_Delt_Raise/1.jpg"
+  ],
+  "id": "Lying_Rear_Delt_Raise"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Equilíbrio Snatch Heaving",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Esta broca ajuda você a aprender o arrebatamento. Comece segurando um peso leve na parte de trás dos ombros. Seus pés devem ser ligeiramente mais largos do que a largura do quadril, com os pés virados para fora, a mesma posição com a qual você executaria um agachamento.",
+    "Comece mergulhando com os joelhos ligeiramente, e aparecendo de volta para descarregar brevemente a barra. Dirija-se debaixo da barra, elevando-a acima à medida que você desce em um agachamento completo.",
+    "Regresse a uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Heaving_Snatch_Balance/0.jpg",
+    "Heaving_Snatch_Balance/1.jpg"
+  ],
+  "id": "Heaving_Snatch_Balance"
+}

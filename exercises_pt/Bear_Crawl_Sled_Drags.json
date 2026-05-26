@@ -1,0 +1,25 @@
+{
+  "name": "Arrastes de trenó Bear Crawl",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Usando um arnês ou um cinto de peso solto, prenda a corrente nas costas para que você esteja voltado para longe do trenó. Dobre-se para que suas mãos estejam no chão. Suas costas devem estar planas e os joelhos dobrados. Esta é a sua posição inicial.",
+    "Comece dirigindo com as pernas, alternando esquerda e direita. Use as mãos para manter o equilíbrio e ajudar a puxar. Tente manter as costas planas enquanto se move sobre uma determinada distância."
+  ],
+  "category": "strongman",
+  "images": [
+    "Bear_Crawl_Sled_Drags/0.jpg",
+    "Bear_Crawl_Sled_Drags/1.jpg"
+  ],
+  "id": "Bear_Crawl_Sled_Drags"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "De pé Hamstring e Calf estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sendo por looping um cinto, banda, ou corda em torno de um pé. Enquanto em pé, coloque esse pé para a frente.",
+    "Dobre a perna traseira, mantendo a dianteira em linha reta. Agora levante os dedos dos pés da frente do chão e incline-se para a frente.",
+    "Usando o cinto, puxe a parte superior do pé para aumentar o alongamento na panturrilha. Segure por 10-20 segundos e repita com o outro pé."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Hamstring_and_Calf_Stretch/0.jpg",
+    "Standing_Hamstring_and_Calf_Stretch/1.jpg"
+  ],
+  "id": "Standing_Hamstring_and_Calf_Stretch"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Arraste o Curl",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Pegue uma barra com um aperto supinado (palmas viradas para a frente) e ponha os cotovelos perto do tronco e das costas. Esta será a sua posição inicial.",
+    "Ao expirar, enrole a barra enquanto mantém os cotovelos na parte de trás enquanto \"arrasta\" a barra, mantendo-a em contato com o tronco. Dica: Como você pode ver, você não manterá os cotovelos fixados aos seus lados, mas em vez disso você os trará de volta. Além disso, não levante os ombros.",
+    "Lentamente, volte para a posição inicial enquanto mantém a barra em contato com o tronco em todos os momentos.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Drag_Curl/0.jpg",
+    "Drag_Curl/1.jpg"
+  ],
+  "id": "Drag_Curl"
+}

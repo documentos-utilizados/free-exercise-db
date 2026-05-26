@@ -1,0 +1,27 @@
+{
+  "name": "Imprensa Militar Permanente",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece colocando uma barra que é sobre o peito alto em um rack de agachamento. Depois de selecionar os pesos, pegue a barra usando um aperto pronado (palmas voltadas para a frente). Certifique-se de segurar a barra mais larga do que a largura do ombro.",
+    "Dobre ligeiramente os joelhos e coloque a barra em seu osso do colarinho. Levante a barra mantendo-a deitada em seu peito. Dê um passo para trás e posicione a largura do ombro dos pés um do outro.",
+    "Uma vez que você pegar a barra com o comprimento de aderência correto, levante a barra acima de sua cabeça, travando os braços. Segure no nível do ombro e ligeiramente na frente de sua cabeça. Esta é a sua posição inicial.",
+    "Abaixe a barra até a clavícula lentamente enquanto você inala.",
+    "Levante a barra de volta para a posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Military_Press/0.jpg",
+    "Standing_Military_Press/1.jpg"
+  ],
+  "id": "Standing_Military_Press"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Levantamento da perna traseira",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque-se sobre os joelhos das mãos em uma esteira de exercício. Sua cabeça deve estar olhando para a frente e a curvatura dos joelhos deve criar um ângulo de 90 graus entre os isquiotibiais e os bezerros. Esta será a sua posição inicial.",
+    "Estenda uma perna para cima e atrás de você. O joelho e o quadril devem se estender. Repita por 5-10 repetições e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Rear_Leg_Raises/0.jpg",
+    "Rear_Leg_Raises/1.jpg"
+  ],
+  "id": "Rear_Leg_Raises"
+}

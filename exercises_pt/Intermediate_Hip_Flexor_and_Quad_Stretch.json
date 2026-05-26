@@ -1,0 +1,21 @@
+{
+  "name": "Flexor de quadril intermediário e estiramento quádruplo",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de frente para baixo no chão, com uma corda, cinto, ou banda looped em torno de um pé.",
+    "Flexione o joelho e estenda o quadril da perna a ser esticado, usando ambas as mãos para puxar o cinto. Seu joelho e seu quadril devem sair do chão, criando tensão nos flexores e quadríceps do quadril. Segure o alongamento por 10-20 segundos e repita na outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Intermediate_Hip_Flexor_and_Quad_Stretch/0.jpg",
+    "Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
+  ],
+  "id": "Intermediate_Hip_Flexor_and_Quad_Stretch"
+}

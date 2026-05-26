@@ -1,0 +1,28 @@
+{
+  "name": "Alternando Renegado Row",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "peitoral",
+    "dorsais",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells no chão sobre a largura do ombro separados. Posicione-se em seus dedos dos pés e suas mãos como se estivesse fazendo uma flexão, com o corpo reto e estendido. Use as alças dos kettlebells para apoiar sua parte superior do corpo. Você pode precisar posicionar seus pés de largura para suporte.",
+    "Empurre um kettlebell no chão e remar o outro kettlebell, retraindo a omoplata do lado de trabalho como você flexionar o cotovelo, puxando-o para o seu lado.",
+    "Em seguida, abaixe o kettlebell para o chão e começar o kettlebell na mão oposta. Repita para várias repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternating_Renegade_Row/0.jpg",
+    "Alternating_Renegade_Row/1.jpg"
+  ],
+  "id": "Alternating_Renegade_Row"
+}

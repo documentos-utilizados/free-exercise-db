@@ -1,0 +1,32 @@
+{
+  "name": "Pneu Flip",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "peitoral",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece por agarrar a parte inferior do pneu na banda de rodagem e posicione os pés para trás um pouco. Seu peito deve estar dirigindo para o pneu.",
+    "Para levantar o pneu, estenda-se através dos quadris, joelhos e tornozelos, dirigindo para o pneu e para cima.",
+    "medida que o pneu atinge um ângulo de 45 graus, dê um passo à frente e conduza um joelho para dentro do pneu. Ao fazê-lo, ajuste a aderência à parte superior do pneu e empurre-o para a frente o mais difícil possível para completar a curva. Repita conforme necessário."
+  ],
+  "category": "strongman",
+  "images": [
+    "Tire_Flip/0.jpg",
+    "Tire_Flip/1.jpg"
+  ],
+  "id": "Tire_Flip"
+}

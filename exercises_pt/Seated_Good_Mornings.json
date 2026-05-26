@@ -1,0 +1,25 @@
+{
+  "name": "Boas manhãs sentadas",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Configure uma caixa em um rack de energia. Os pinos devem ser definidos em uma altura apropriada. Comece pisando sob a barra e colocando-a na parte de trás dos ombros, não em cima de suas armadilhas. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra em todos os ombros.",
+    "Remova a barra do rack, criando um arco apertado na parte inferior das costas. Mantenha a cabeça voltada para a frente. Com as costas, ombros e núcleo apertado, empurre os joelhos e a bunda para fora e você começa sua descida. Sente-se com os quadris até que você esteja sentado na caixa. Esta será sua posição inicial.",
+    "Mantendo a barra apertada, dobre para a frente nos quadris, tanto quanto possível. Se você definir os pinos para o que seria paralelo, você não só tem uma segurança se você falhar, mas sabe quando parar.",
+    "Pausar logo acima dos pinos e reverter o movimento até o seu tronco na vertical."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Seated_Good_Mornings/0.jpg",
+    "Seated_Good_Mornings/1.jpg"
+  ],
+  "id": "Seated_Good_Mornings"
+}

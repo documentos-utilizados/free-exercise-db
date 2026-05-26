@@ -1,0 +1,24 @@
+{
+  "name": "Exercício Ball Crunch",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em uma bola de exercício com sua curvatura lombar pressionada contra a superfície esférica da bola. Seus pés devem ser dobrados no joelho e pressionados firmemente contra o chão. O tronco superior deve estar pendurado no topo da bola. Os braços devem ser mantidos ao lado do corpo ou cruzados em cima do peito, pois essas posições evitam tensões no pescoço (em oposição às mãos atrás da posição da cabeça).",
+    "Abaixe o tronco em uma posição de alongamento mantendo o pescoço parado em todos os momentos. Esta será a sua posição inicial.",
+    "Com os quadris estacionários, flexione a cintura contraindo os abdominais e enrole os ombros e o tronco para cima até sentir uma boa contração em seus abdominais. Os braços devem simplesmente deslizar para o lado de suas pernas se você os tiver ao lado ou apenas ficar em cima do peito se você os cruzar. A parte inferior das costas deve sempre ficar em contato com a bola. Expire enquanto realiza esse movimento e segure a contração por um segundo.",
+    "Ao inalar, volte para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Exercise_Ball_Crunch/0.jpg",
+    "Exercise_Ball_Crunch/1.jpg"
+  ],
+  "id": "Exercise_Ball_Crunch"
+}

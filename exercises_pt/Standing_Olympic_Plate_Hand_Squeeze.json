@@ -1,0 +1,25 @@
+{
+  "name": "Aperto da mão da placa olímpica em pé",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "bíceps"
+  ],
+  "instructions": [
+    "Para começar, fique em linha reta enquanto segura uma placa de peso pelo cume no comprimento do braço em cada mão usando um aperto neutro (palmas voltadas para dentro). Seus pés devem ser largura do ombro separados um do outro. Esta será sua posição inicial.",
+    "Abaixe as placas até que os dedos estejam quase estendidos, mas ainda possam conter pesos. Inspire enquanto você baixa as placas.",
+    "Agora levante as placas de volta para a posição inicial enquanto expira, fechando as mãos.",
+    "Repita para a quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Olympic_Plate_Hand_Squeeze/0.jpg",
+    "Standing_Olympic_Plate_Hand_Squeeze/1.jpg"
+  ],
+  "id": "Standing_Olympic_Plate_Hand_Squeeze"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bent Sobre Barbell Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Segurando uma barra com uma preensão pronada (palmas viradas para baixo), dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Dica: Certifique-se de manter a cabeça erguida. A barra deve ficar pendurada diretamente na sua frente enquanto seus braços estão perpendiculares ao chão e ao seu tronco. Esta é sua posição inicial.",
+    "Agora, enquanto mantém o tronco estacionário, expire e levante a barra para você. Mantenha os cotovelos perto do corpo e use apenas os antebraços para segurar o peso. Na posição superior contraída, esprema os músculos das costas e segure para uma breve pausa.",
+    "Em seguida, inale e abaixe lentamente a barra de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Over_Barbell_Row/0.jpg",
+    "Bent_Over_Barbell_Row/1.jpg"
+  ],
+  "id": "Bent_Over_Barbell_Row"
+}

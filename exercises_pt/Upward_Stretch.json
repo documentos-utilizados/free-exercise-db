@@ -1,0 +1,24 @@
+{
+  "name": "Esticar para cima",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais"
+  ],
+  "instructions": [
+    "Estenda ambas as mãos diretamente acima de sua cabeça, palmas das mãos tocando.",
+    "Lentamente, empurre as mãos para cima e para trás, mantendo as costas retas."
+  ],
+  "category": "stretching",
+  "images": [
+    "Upward_Stretch/0.jpg",
+    "Upward_Stretch/1.jpg"
+  ],
+  "id": "Upward_Stretch"
+}

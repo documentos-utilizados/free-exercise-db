@@ -1,0 +1,25 @@
+{
+  "name": "Alternando a imprensa do ombro do cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Mova os cabos para o fundo da torre e selecione um peso apropriado.",
+    "Segure os cabos e segure-os na altura do ombro, palmas viradas para a frente. Esta será a sua posição inicial.",
+    "Mantendo a cabeça e o peito para cima, estenda-se através do cotovelo para pressionar um lado diretamente sobre a cabeça.",
+    "Depois de pausar no topo, retorne à posição inicial e repita no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Alternating_Cable_Shoulder_Press/0.jpg",
+    "Alternating_Cable_Shoulder_Press/1.jpg"
+  ],
+  "id": "Alternating_Cable_Shoulder_Press"
+}

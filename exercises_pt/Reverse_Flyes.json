@@ -1,0 +1,25 @@
+{
+  "name": "Inverter moscas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se em um banco inclinado com o peito e o estômago pressionando contra a inclinação. Tenha os halteres em cada mão com as palmas das mãos voltadas umas para as outras (aperto neutro).",
+    "Estenda os braços à sua frente para que sejam perpendiculares ao ângulo do banco. As pernas devem estar estacionárias ao aplicar pressão com a bola dos dedos dos pés. Esta é a posição inicial.",
+    "Mantendo a ligeira curvatura dos cotovelos, mova os pesos para fora e para longe um do outro (para o lado) em um movimento de arco enquanto expira. Dica: Tente espremer as omoplatas para obter os melhores resultados deste exercício.",
+    "Os braços devem ser elevados até que estejam paralelos ao chão.",
+    "Sinta a contração e diminua lentamente os pesos de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Flyes/0.jpg",
+    "Reverse_Flyes/1.jpg"
+  ],
+  "id": "Reverse_Flyes"
+}

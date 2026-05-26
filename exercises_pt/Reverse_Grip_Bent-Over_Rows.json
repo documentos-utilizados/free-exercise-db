@@ -1,0 +1,28 @@
+{
+  "name": "Reverse Grip Bent-Over Rows",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Mantenha-se ereto enquanto segura uma barra com um aperto supinado (palmas viradas para cima).",
+    "Dobre os joelhos ligeiramente e traga o seu tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Dica: Certifique-se de manter a cabeça erguida. A barra deve ficar pendurada diretamente na sua frente enquanto seus braços estão perpendiculares ao chão e ao seu tronco. Esta é a sua posição inicial.",
+    "Enquanto mantém o tronco estacionário, levante a barra enquanto expira, mantendo os cotovelos perto do corpo e não fazendo nenhuma força com o antebraço além de segurar os pesos. Na posição superior contraída, esprema os músculos das costas e segure por um segundo.",
+    "Reduza lentamente o peso novamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Grip_Bent-Over_Rows/0.jpg",
+    "Reverse_Grip_Bent-Over_Rows/1.jpg"
+  ],
+  "id": "Reverse_Grip_Bent-Over_Rows"
+}

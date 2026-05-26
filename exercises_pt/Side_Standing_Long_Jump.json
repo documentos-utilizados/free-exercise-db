@@ -1,0 +1,26 @@
+{
+  "name": "Lado Standing Salto Longo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece a ficar de pé com a largura do quadril dos pés separados em uma postura atlética. Sua cabeça e peito devem estar para cima, joelhos e quadris ligeiramente dobrados. Esta será sua posição inicial.",
+    "Inclinando-se para a direita, estenda-se através de seus quadris, joelhos e tornozelos para saltar para o ar. Bloqueie com os braços para liderar o movimento, pulando o mais à sua direita que puder.",
+    "Terreno voltado para a mesma direção com os pés separados pela largura do quadril, absorvendo o impacto através de sua parte inferior do corpo."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Side_Standing_Long_Jump/0.jpg",
+    "Side_Standing_Long_Jump/1.jpg"
+  ],
+  "id": "Side_Standing_Long_Jump"
+}

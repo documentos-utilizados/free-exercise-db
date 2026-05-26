@@ -1,0 +1,29 @@
+{
+  "name": "Salto de Salto de Profundidade",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para esta broca, você precisará de duas caixas ou bancos, um de 12 a 16 polegadas de altura e o outro de 22 a 26 polegadas de altura.",
+    "Fique em uma das duas caixas com os braços nas laterais; os pés devem estar juntos e ligeiramente fora da borda como no salto de profundidade. Coloque a outra caixa aproximadamente dois ou três pés na frente e de frente para o artista.",
+    "Comece deixando a caixa inicial, aterrissando e, simultaneamente, decolando com os dois pés.",
+    "Rebound dirigindo para cima e para fora o mais intensamente possível, usando os braços e extensão completa do corpo para saltar para a caixa superior. Mais uma vez, permitir que as pernas para absorver o impacto."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Depth_Jump_Leap/0.jpg",
+    "Depth_Jump_Leap/1.jpg"
+  ],
+  "id": "Depth_Jump_Leap"
+}

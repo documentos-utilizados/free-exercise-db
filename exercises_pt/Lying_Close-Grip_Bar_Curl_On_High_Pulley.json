@@ -1,0 +1,26 @@
+{
+  "name": "Deitado Close-Grip Bar Curl Em High Pulley",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um banco plano na frente de uma polia alta ou máquina de puxar para baixo.",
+    "Segure o acessório da barra reta usando um aperto de mão (palms up) que é sobre a largura do ombro.",
+    "Deite-se de costas com a cabeça sobre o final do banco.",
+    "Agora estenda os braços diretamente acima dos ombros. Seu tronco e seus braços devem fazer um ângulo de 90 graus e os cotovelos devem estar dentro. Esta será sua posição inicial.",
+    "Ao expirar, enrole a barra em um movimento semicircular até que ela toque seu queixo. Aperte o bíceps por um segundo na posição superior contratada. Dica: Ao executar esse movimento, apenas os antebraços devem se mover. Em nenhum momento os braços superiores devem estar se movendo. Eles devem permanecer perpendiculares ao longo do movimento.",
+    "Volte para a posição inicial lentamente.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Close-Grip_Bar_Curl_On_High_Pulley/0.jpg",
+    "Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
+  ],
+  "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley"
+}

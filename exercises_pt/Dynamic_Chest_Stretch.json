@@ -1,0 +1,23 @@
+{
+  "name": "Estiramento dinâmico do tórax",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Mantenha as mãos juntas, os braços estendidos diretamente na sua frente. Esta será a sua posição inicial.",
+    "Mantendo os braços retos, mova rapidamente os braços para trás o mais longe possível e volte novamente, semelhante a um movimento exagerado de palmas. Repita 5-10 vezes, aumentando a velocidade ao fazê-lo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Dynamic_Chest_Stretch/0.jpg",
+    "Dynamic_Chest_Stretch/1.jpg"
+  ],
+  "id": "Dynamic_Chest_Stretch"
+}

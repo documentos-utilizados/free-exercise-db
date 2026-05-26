@@ -1,0 +1,25 @@
+{
+  "name": "Curl de pulso de cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece colocando um banco plano na frente de um cabo de polia baixo que tem um acessório de barra reta.",
+    "Use os braços para agarrar a barra de cabo com um aperto supinado de largura estreita a ombro (palmas para cima) e trazê-los para cima para que seus antebraços estão descansando contra o topo de suas coxas. Seus pulsos devem estar pendurados logo além de seus joelhos.",
+    "Comece enrolando o pulso para cima e expirando. Mantenha a contração por um segundo.",
+    "Abaixe lentamente os pulsos de volta para a posição inicial enquanto inala.",
+    "Seus antebraços devem ser estacionários, pois seu pulso é o único movimento necessário para realizar este exercício.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Wrist_Curl/0.jpg",
+    "Cable_Wrist_Curl/1.jpg"
+  ],
+  "id": "Cable_Wrist_Curl"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bola de Medicina Colheita Lançar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma postura semi-ajustada com uma bola de remédio em suas mãos. Seus braços devem pendurar para que a bola esteja perto de seus pés.",
+    "Comece empurrando os quadris para a frente enquanto você se estende pelas pernas, pulando para cima.",
+    "Como você faz, balançar os braços para cima e sobre a cabeça, mantendo-os estendidos, liberando a bola no auge do seu movimento. O objetivo é jogar a bola a maior distância atrás de você."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Medicine_Ball_Scoop_Throw/0.jpg",
+    "Medicine_Ball_Scoop_Throw/1.jpg"
+  ],
+  "id": "Medicine_Ball_Scoop_Throw"
+}

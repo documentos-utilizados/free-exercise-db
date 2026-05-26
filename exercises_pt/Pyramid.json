@@ -1,0 +1,23 @@
+{
+  "name": "Pirâmide",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Comece rolando seu tronco para a frente na bola para que seus quadris descansem em cima da bola e se tornem o ponto mais alto do seu corpo.",
+    "Descanse as mãos e os pés no chão. Seus braços e pernas podem ser ligeiramente dobrados ou retos, dependendo do tamanho da bola, sua flexibilidade e o comprimento de seus membros. Isso também ajuda a desenvolver força estabilizadora no tronco e nos ombros."
+  ],
+  "category": "stretching",
+  "images": [
+    "Pyramid/0.jpg",
+    "Pyramid/1.jpg"
+  ],
+  "id": "Pyramid"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Preacher Hammer Dumbbell Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Coloque a parte superior de ambos os braços em cima do banco pregador como você segurar um haltere em cada mão com as palmas das mãos voltadas para o outro (aperto neutro).",
+    "medida que você respira, abaixe lentamente os halteres até que seu braço esteja estendido e o bíceps esteja totalmente esticado.",
+    "Ao expirar, use o bíceps para enrolar o peso até que o bíceps esteja totalmente contraído e os halteres estejam na altura do ombro.",
+    "Aperte o bíceps com força por um segundo na posição contraída e repita a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Preacher_Hammer_Dumbbell_Curl/0.jpg",
+    "Preacher_Hammer_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Preacher_Hammer_Dumbbell_Curl"
+}

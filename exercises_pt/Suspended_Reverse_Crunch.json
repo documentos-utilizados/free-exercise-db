@@ -1,0 +1,23 @@
+{
+  "name": "Crunch reverso suspenso",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Proteja um conjunto de alças de suspensão com as alças penduradas a cerca de um pé do chão. Mova-se para uma posição de prancha de flexão virada para longe do rack.",
+    "Coloque os pés nas alças. Você deve manter uma postura reta, não permitindo que os quadris caiam. Esta será sua posição inicial.",
+    "Comece o movimento flexionando os joelhos e quadris, puxando os joelhos para o tronco. Ao fazê-lo, incline anteriormente a pélvis, permitindo que a coluna flexione.",
+    "No topo do movimento controlado, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Suspended_Reverse_Crunch/0.jpg",
+    "Suspended_Reverse_Crunch/1.jpg"
+  ],
+  "id": "Suspended_Reverse_Crunch"
+}

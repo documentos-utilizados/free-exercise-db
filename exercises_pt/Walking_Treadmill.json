@@ -1,0 +1,25 @@
+{
+  "name": "Caminhada, esteira",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, entre na esteira e selecione a opção desejada no menu. A maioria das esteiras tem uma configuração manual, ou você pode selecionar um programa para correr. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício. A elevação pode ser ajustada para alterar a intensidade do treino.",
+    "As esteiras oferecem conveniência, benefícios cardiovasculares e geralmente têm menos impacto do que caminhar fora. Ao caminhar, você deve se mover em um ritmo moderado a rápido, não um de lazer. Sendo uma atividade de menor intensidade, caminhar não queima tantas calorias quanto algumas outras atividades, mas ainda fornece grande benefício. Uma pessoa de 150 lb queimará cerca de 175 calorias andando 4 milhas por hora por 30 minutos, em comparação com 450 calorias correndo duas vezes mais rápido. Mantenha a postura adequada ao caminhar, bastando a postura necessária ao caminhar."
+  ],
+  "category": "cardio",
+  "images": [
+    "Walking_Treadmill/0.jpg",
+    "Walking_Treadmill/1.jpg"
+  ],
+  "id": "Walking_Treadmill"
+}

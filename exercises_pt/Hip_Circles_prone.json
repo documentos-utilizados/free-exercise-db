@@ -1,0 +1,24 @@
+{
+  "name": "Círculos de quadril (propensos)",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Posicione-se em suas mãos e joelhos no chão. Mantendo uma boa postura, levante um joelho dobrado do chão. Esta será sua posição inicial.",
+    "Mantendo o joelho em uma posição dobrada, gire o fêmur em um arco, tentando fazer um grande círculo com o joelho.",
+    "Faça isso lentamente para várias repetições e repita do outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Hip_Circles_prone/0.jpg",
+    "Hip_Circles_prone/1.jpg"
+  ],
+  "id": "Hip_Circles_prone"
+}

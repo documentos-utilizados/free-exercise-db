@@ -1,0 +1,29 @@
+{
+  "name": "Deadlift limpo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "costas (meio)",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece de pé com uma barra perto de suas canelas. Seus pés devem estar diretamente sob seus quadris com os pés virados para fora ligeiramente. Segure a barra com um aperto de mão ou gancho duplo, sobre a largura do ombro distante. Agache-se até a barra. Sua coluna deve estar em extensão total, com um ângulo de volta que coloca seus ombros na frente da barra e suas costas o mais vertical possível.",
+    "Comece dirigindo pelo chão através da frente de seus calcanhares.  medida que a barra viaja para cima, mantenha um ângulo de volta constante. Flare seus joelhos para o lado para ajudar a mantê-los fora do caminho da barra.",
+    "Depois que a barra cruzar os joelhos, complete o elevador dirigindo os quadris para dentro da barra até que seus quadris e joelhos sejam estendidos."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Clean_Deadlift/0.jpg",
+    "Clean_Deadlift/1.jpg"
+  ],
+  "id": "Clean_Deadlift"
+}

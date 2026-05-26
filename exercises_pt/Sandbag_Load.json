@@ -1,0 +1,34 @@
+{
+  "name": "Sandbag Carga",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "costas (meio)",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Para carregar sacos de areia ou outros objetos, comece com os implementos colocados a uma distância da plataforma de carregamento, normalmente 50 pés.",
+    "Comece levantando o saco de areia. Os sacos de areia são extremamente estranhos, e a maneira de levantá-los pode variar dependendo do saco de areia específico usado. Alcance o mais longe possível, estendendo-se pelos quadris e joelhos para puxá-lo para cima. O ombro geralmente não é permitido.",
+    "Mova-se o mais rápido possível para a plataforma e carregue-a, estendendo-se através de seus quadris, joelhos e tornozelos para obtê-la o mais alto possível. Coloque-a na plataforma, garantindo que ela não caia.",
+    "Volte para a posição inicial para recuperar o próximo saco de areia e repita até que o evento seja concluído."
+  ],
+  "category": "strongman",
+  "images": [
+    "Sandbag_Load/0.jpg",
+    "Sandbag_Load/1.jpg"
+  ],
+  "id": "Sandbag_Load"
+}

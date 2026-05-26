@@ -1,0 +1,24 @@
+{
+  "name": "Dumbbell Scaption",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Este exercício corretivo fortalece os músculos que estabilizam sua omoplata. Segure um peso leve em cada mão, pendurado em seus lados. Seus polegares devem apontar para cima.",
+    "Comece o movimento levantando os braços na frente de você, cerca de 30 graus fora do centro. Seus braços devem ser totalmente estendidos à medida que você executa o movimento.",
+    "Continue até que seus braços estejam paralelos ao chão e, em seguida, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Scaption/0.jpg",
+    "Dumbbell_Scaption/1.jpg"
+  ],
+  "id": "Dumbbell_Scaption"
+}

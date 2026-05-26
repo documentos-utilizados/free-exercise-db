@@ -1,0 +1,32 @@
+{
+  "name": "Dumbbell Limpar",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio"
+  ],
+  "instructions": [
+    "Comece de pé com um haltere em cada mão com a largura do ombro dos pés separados.",
+    "Abaixe os pesos para o chão flexionando nos quadris e joelhos, empurrando os quadris para trás até que os halteres atinjam o chão. Esta será sua posição inicial.",
+    "Para iniciar o movimento, saltar violentamente para cima, estendendo os quadris, joelhos e tornozelos para acclerar os pesos para cima. Manter uma aderência neutra nos halteres, manter os braços retos até que a extensão total seja alcançada.",
+    "Após a extensão total, redobre os quadris e joelhos para receber o peso em uma posição de agachamento. Permita que os braços se dobrem, guiando os halteres para os ombros.",
+    "Ao receber o peso na posição de agachamento, estenda os quadris e joelhos para terminar em uma posição de pé com os pesos em seus ombros."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Clean/0.jpg",
+    "Dumbbell_Clean/1.jpg"
+  ],
+  "id": "Dumbbell_Clean"
+}

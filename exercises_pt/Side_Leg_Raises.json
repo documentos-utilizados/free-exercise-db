@@ -1,0 +1,22 @@
+{
+  "name": "Perna lateral levanta",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique ao lado de uma cadeira, que você pode segurar como um suporte. Fique em uma perna. Esta será a sua posição inicial.",
+    "Mantendo a perna reta, eleve-a o mais longe possível para o lado, e balançando-a de volta para baixo, permitindo que ela cruze a perna oposta.",
+    "Repita este movimento de oscilação 5-10 vezes, aumentando a amplitude de movimento como você faz isso."
+  ],
+  "category": "stretching",
+  "images": [
+    "Side_Leg_Raises/0.jpg",
+    "Side_Leg_Raises/1.jpg"
+  ],
+  "id": "Side_Leg_Raises"
+}

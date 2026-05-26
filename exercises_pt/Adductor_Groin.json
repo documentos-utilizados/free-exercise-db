@@ -1,0 +1,23 @@
+{
+  "name": "Addutor/Groin",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés levantados em direção ao teto.",
+    "Faça com que seu parceiro segure seus pés ou tornozelos. Abduza suas pernas o mais longe que puder. Esta será sua posição inicial.",
+    "Tente espremer as pernas por 10 ou mais segundos, enquanto seu parceiro impede que você faça isso.",
+    "Agora, relaxe os músculos das pernas enquanto seu parceiro afasta os pés, esticando o máximo que for confortável para você. Certifique-se de informar seu parceiro quando o alongamento for adequado para evitar o excesso de alongamento ou lesão."
+  ],
+  "category": "stretching",
+  "images": [
+    "Adductor_Groin/0.jpg",
+    "Adductor_Groin/1.jpg"
+  ],
+  "id": "Adductor_Groin"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Close-Grip Push-Up fora de um Dumbbell",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão e coloque as mãos em um haltere vertical. Apoiando seu peso em seus dedos dos pés e mãos, mantenha seu tronco rígido e seus cotovelos com os braços retos. Esta será sua posição inicial.",
+    "Abaixe o corpo, permitindo que os cotovelos se flexionem enquanto você inala. Mantenha seu corpo reto, não permitindo que seus quadris se levantem ou caiam.",
+    "Pressione-se de volta para a posição inicial, estendendo os cotovelos. Respire enquanto você executa este passo.",
+    "Após uma pausa na posição contraída, repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Close-Grip_Push-Up_off_of_a_Dumbbell/0.jpg",
+    "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
+  ],
+  "id": "Close-Grip_Push-Up_off_of_a_Dumbbell"
+}

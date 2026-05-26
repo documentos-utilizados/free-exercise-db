@@ -1,0 +1,25 @@
+{
+  "name": "Ab Roller",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Segure o Ab Roller com as duas mãos e ajoelhe-se no chão.",
+    "Agora coloque o rolo abdominal no chão à sua frente para que você esteja em todas as suas mãos e joelhos (como em uma posição de flexão de joelhos). Esta será a sua posição inicial.",
+    "Role lentamente o rolo do abdômen para a frente, esticando seu corpo em uma posição reta. Dica: Desça o mais longe que puder sem tocar o chão com seu corpo. Respire durante esta parte do movimento.",
+    "Depois de uma pausa na posição esticada, comece a puxar-se de volta para a posição inicial à medida que expira. Dica: Vá devagar e mantenha o abdômen apertado o tempo todo."
+  ],
+  "category": "strength",
+  "images": [
+    "Ab_Roller/0.jpg",
+    "Ab_Roller/1.jpg"
+  ],
+  "id": "Ab_Roller"
+}

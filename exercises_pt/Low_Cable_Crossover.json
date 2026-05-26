@@ -1,0 +1,25 @@
+{
+  "name": "Low Cable Crossover",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para mover para a posição inicial, coloque as polias na posição baixa, selecione a resistência a ser usada e segure uma alça em cada mão.",
+    "Dê um passo à frente, ganhando tensão nas polias. Suas palmas das mãos devem estar voltadas para a frente, as mãos abaixo da cintura e os braços retos. Esta será sua posição inicial.",
+    "Com uma ligeira curvatura em seus braços, desenhe as mãos para cima e para a linha média do seu corpo. Suas mãos devem se unir na frente do seu peito, palmas viradas para cima.",
+    "Retorne os braços de volta à posição inicial após uma breve pausa."
+  ],
+  "category": "strength",
+  "images": [
+    "Low_Cable_Crossover/0.jpg",
+    "Low_Cable_Crossover/1.jpg"
+  ],
+  "id": "Low_Cable_Crossover"
+}

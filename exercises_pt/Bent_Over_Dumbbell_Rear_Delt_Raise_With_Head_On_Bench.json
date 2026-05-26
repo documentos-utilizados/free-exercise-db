@@ -1,0 +1,24 @@
+{
+  "name": "Bent Sobre Dumbbell Rear Delt Levantar com cabeça no banco",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura um haltere em cada mão e com um banco inclinado na frente de você.",
+    "Mantendo as costas retas e mantendo o arco natural das costas, incline-se para a frente até que sua testa toque o banco à sua frente. Deixe os braços pendurados na sua frente perpendicular ao chão. As palmas das suas mãos devem estar voltadas umas para as outras e seu tronco deve estar paralelo ao chão. Esta será sua posição inicial.",
+    "Mantendo o tronco para a frente e parado, e os braços retos com uma ligeira curvatura nos cotovelos, levante os halteres diretamente para o lado até que ambos os braços estejam paralelos ao chão. Expire enquanto você levanta os pesos. Cuidado: evite balançar o tronco ou trazer os braços de volta em oposição ao lado.",
+    "Depois de uma contração de um segundo na parte superior, abaixe lentamente os halteres de volta para a posição inicial.",
+    "Repita a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
+  ],
+  "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"
+}

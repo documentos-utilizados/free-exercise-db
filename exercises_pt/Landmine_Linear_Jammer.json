@@ -1,0 +1,31 @@
+{
+  "name": "Landmine Linear Jammer",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "peitoral",
+    "isquiotibiais",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione uma barra em mina terrestre ou, sem uma, ancore-a com segurança em um canto. Carregue a barra com um peso apropriado e posicione o acessório da alça na barra.",
+    "Levante a barra do chão, levando as alças para os ombros. Esta será a sua posição inicial.",
+    "Em uma postura atlética, agache-se flexionando seus quadris e ajustando seus quadris para trás, mantendo seus braços flexionados.",
+    "Reverta o movimento estendendo-se poderosamente através dos quadris, joelhos e tornozelos, ao mesmo tempo que estende os cotovelos para endireitar os braços. Este movimento deve ser feito explosivamente, saindo do agachamento para a extensão completa o mais poderosamente possível.",
+    "Volte para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Landmine_Linear_Jammer/0.jpg",
+    "Landmine_Linear_Jammer/1.jpg"
+  ],
+  "id": "Landmine_Linear_Jammer"
+}

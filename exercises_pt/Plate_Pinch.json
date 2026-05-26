@@ -1,0 +1,24 @@
+{
+  "name": "Placa Pinch",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue duas placas de borda larga e coloque-as juntas com os lados lisos voltados para fora",
+    "Use os dedos para segurar a parte externa da placa e o polegar para o outro lado, mantendo ambas as placas juntas. Esta é a posição inicial.",
+    "Aperte o prato com os dedos e o polegar. Mantenha esta posição pelo tempo que puder.",
+    "Repita para a quantidade recomendada de conjuntos prescritos em seu programa.",
+    "Troque os braços e repita os movimentos."
+  ],
+  "category": "strength",
+  "images": [
+    "Plate_Pinch/0.jpg",
+    "Plate_Pinch/1.jpg"
+  ],
+  "id": "Plate_Pinch"
+}

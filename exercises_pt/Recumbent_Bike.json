@@ -1,0 +1,26 @@
+{
+  "name": "Recumbent Bike",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, sente-se na bicicleta e ajuste o assento à sua altura.",
+    "Selecione a opção desejada no menu. Você pode ter que começar a pedalar para ligá-lo. Você pode usar a configuração manual, ou você pode selecionar um programa para usar. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício. O nível de resistência pode ser alterado durante o treino. As alças podem ser usadas para monitorar sua frequência cardíaca para ajudá-lo a permanecer em uma intensidade adequada.",
+    "Bicicletas reclinadas oferecem conveniência, benefícios cardiovasculares e têm menos impacto do que outras atividades. Uma pessoa de 150 lb queimará cerca de 230 calorias andando de bicicleta a uma taxa moderada por 30 minutos, em comparação com 450 calorias ou mais correndo."
+  ],
+  "category": "cardio",
+  "images": [
+    "Recumbent_Bike/0.jpg",
+    "Recumbent_Bike/1.jpg"
+  ],
+  "id": "Recumbent_Bike"
+}

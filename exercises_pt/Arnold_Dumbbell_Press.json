@@ -1,0 +1,26 @@
+{
+  "name": "Arnold Dumbbell Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco de exercícios com suporte para as costas e segure dois halteres na frente de você no nível superior do peito com as palmas das mãos voltadas para o corpo e os cotovelos dobrados. Dica: Seus braços devem estar ao lado do seu tronco. A posição inicial deve parecer com a porção contratada de um cacho de haltere.",
+    "Agora, para realizar o movimento, levante os halteres enquanto você gira as palmas das mãos até que elas estejam voltadas para frente.",
+    "Continue levantando os halteres até que seus braços estejam estendidos acima de você em posição reta do braço. Respire enquanto realiza essa parte do movimento.",
+    "Depois de uma segunda pausa no topo, comece a abaixar os halteres para a posição original girando as palmas das mãos em direção a você. Dica: O braço esquerdo será girado no sentido contrário ao horário, enquanto o direito será girado no sentido horário. Respire enquanto executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Arnold_Dumbbell_Press/0.jpg",
+    "Arnold_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Arnold_Dumbbell_Press"
+}

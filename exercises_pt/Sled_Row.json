@@ -1,0 +1,26 @@
+{
+  "name": "Linha de trenó",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Anexe alças duplas a um trenó conectado por uma corda ou corrente. Carregue o trenó com um peso apropriado. Encare o trenó, apoiando-se até que haja alguma tensão na linha.",
+    "Com uma alça em cada mão, dobre os joelhos ligeiramente, mantenha a cabeça e o peito para cima e comece com os braços estendidos.",
+    "Para iniciar o movimento, flexione o cotovelo enquanto retrai as omoplatas, puxando o trenó em sua direção.",
+    "Dê um passo ou dois para trás para obter tensão na linha e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "Sled_Row/0.jpg",
+    "Sled_Row/1.jpg"
+  ],
+  "id": "Sled_Row"
+}

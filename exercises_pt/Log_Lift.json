@@ -1,0 +1,32 @@
+{
+  "name": "Log Lift",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "peitoral",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "costas (meio)",
+    "quadríceps",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece de pé com o tronco na frente de você. Segure as alças e comece a limpar o tronco. Como você está dobrado para começar a limpar, tente obter o tronco o mais alto possível, puxando-o para o peito. Estenda-se através dos quadris e joelhos para trazê-lo para completar a limpeza.",
+    "Empurre a cabeça para trás e olhe para cima, criando uma prateleira no peito para descansar o tronco. Comece a imprensa mergulhando, flexionando ligeiramente através dos joelhos e invertendo o movimento. Esta pressão gerará impulso para iniciar o tronco se movendo verticalmente. Continue estendendo-se através dos cotovelos para pressionar o tronco acima de sua cabeça. Não há regras rígidas na forma, então use as técnicas com as quais você é mais eficiente. Como o tronco é pressionado, certifique-se de empurrar sua cabeça através de repetição.",
+    "Repita o maior número de vezes possível. Tente controlar a descida do tronco quando ele for devolvido ao chão."
+  ],
+  "category": "strongman",
+  "images": [
+    "Log_Lift/0.jpg",
+    "Log_Lift/1.jpg"
+  ],
+  "id": "Log_Lift"
+}

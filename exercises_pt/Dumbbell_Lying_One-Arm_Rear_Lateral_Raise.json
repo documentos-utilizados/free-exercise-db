@@ -1,0 +1,26 @@
+{
+  "name": "Dumbbell Deitado Um Braço Traseiro Lateral Raise",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Enquanto segura um haltere em uma mão, deite-se com o peito para baixo em um banco ajustável ligeiramente inclinado (cerca de 15 graus, quando medido a partir do chão). A outra mão pode ser usada para segurar a perna do banco para estabilidade.",
+    "Posicione a palma da mão que está segurando o haltere de maneira neutra (palmas voltadas para o tronco) enquanto mantém o braço estendido com o cotovelo ligeiramente dobrado. Esta será sua posição inicial.",
+    "Agora levante o braço com o haltere para o lado até que seu cotovelo esteja na altura do ombro e seu braço esteja aproximadamente paralelo ao chão enquanto você expira. Dica: Mantenha seu braço perpendicular ao tronco enquanto mantém seu braço estendido durante todo o movimento. Além disso, mantenha a contração no topo por um segundo.",
+    "Abaixe lentamente o haltere para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg",
+    "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise"
+}

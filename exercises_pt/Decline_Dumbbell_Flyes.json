@@ -1,0 +1,24 @@
+{
+  "name": "Declínio Dumbbell Flyes",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Proteja as pernas no final do banco de declínio e deite-se com um haltere em cada mão em cima de suas coxas. As palmas da sua mão estarão viradas uma para a outra.",
+    "Uma vez que você está deitado, mova os halteres na frente de você na largura do ombro. As palmas das mãos devem estar voltadas umas para as outras e os braços devem ser perpendiculares ao chão e totalmente estendido. Esta será a sua posição inicial.",
+    "Com uma ligeira curvatura nos cotovelos para evitar o estresse no tendão do bíceps, abaixe os braços em ambos os lados em um arco largo até sentir um alongamento no peito. Respire enquanto realiza essa parte do movimento. Dica: Tenha em mente que durante todo o movimento, os braços devem permanecer estacionários; o movimento só deve ocorrer na articulação do ombro.",
+    "Volte os braços de volta para a posição inicial enquanto aperta os músculos do peito e expira. Dica: Certifique-se de usar o mesmo arco de movimento usado para diminuir os pesos.",
+    "Segure por um segundo na posição contraída e repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Decline_Dumbbell_Flyes/0.jpg",
+    "Decline_Dumbbell_Flyes/1.jpg"
+  ],
+  "id": "Decline_Dumbbell_Flyes"
+}

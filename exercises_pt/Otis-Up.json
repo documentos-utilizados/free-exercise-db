@@ -1,0 +1,27 @@
+{
+  "name": "Otis-Up",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Prenda os pés e deite-se no chão. Seus joelhos devem ser dobrados. Segure um peso com as duas mãos no peito. Esta será sua posição inicial.",
+    "Inicie o movimento flexionando os quadris e a coluna para levantar o tronco do chão.",
+    "medida que você se move para cima, pressione o peso para cima para que ele esteja acima da sua cabeça no topo do movimento.",
+    "Retorne o peso para o peito enquanto você inverte o movimento de sentar-se, garantindo não ir todo o caminho até o chão."
+  ],
+  "category": "strength",
+  "images": [
+    "Otis-Up/0.jpg",
+    "Otis-Up/1.jpg"
+  ],
+  "id": "Otis-Up"
+}

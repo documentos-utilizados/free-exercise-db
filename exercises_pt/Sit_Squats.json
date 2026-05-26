@@ -1,0 +1,26 @@
+{
+  "name": "Sit Squats",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique de pé com os pés afastados da largura do ombro. Esta será a sua posição inicial.",
+    "Comece o movimento flexionando os joelhos e quadris, sentando-se com os quadris.",
+    "Continue até que você tenha agachado uma parte do caminho para baixo, mas estão acima do paralelo, e rapidamente inverter o movimento até que você volte para a posição inicial. Repita por 5-10 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Sit_Squats/0.jpg",
+    "Sit_Squats/1.jpg"
+  ],
+  "id": "Sit_Squats"
+}

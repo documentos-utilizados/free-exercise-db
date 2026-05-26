@@ -1,0 +1,22 @@
+{
+  "name": "Prone Manual Hamstring",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Você vai precisar de um parceiro para este exercício. Deite a cara para baixo com as pernas retas. Seu assistente vai colocar a mão em seu calcanhar.",
+    "Para começar, flexione o joelho para enrolar a perna para cima. Seu parceiro deve fornecer resistência, iniciar a luz e aumentar a pressão à medida que o movimento for concluído. Comunique-se com seu parceiro para monitorar os níveis de resistência apropriados.",
+    "Pausa na parte superior, retornando a perna para a posição inicial como seu parceiro fornece resistência indo na outra direção."
+  ],
+  "category": "strength",
+  "images": [
+    "Prone_Manual_Hamstring/0.jpg",
+    "Prone_Manual_Hamstring/1.jpg"
+  ],
+  "id": "Prone_Manual_Hamstring"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Standing Biceps Cabo Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical enquanto segura uma barra de cachos de cabo que está presa a uma polia baixa. Pegue a barra de cabo na largura do ombro e mantenha os cotovelos perto do tronco. A palma das suas mãos deve estar virada para cima (supinada). Esta será a sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e a barra esteja no nível do ombro. Mantenha a posição contraída por um segundo enquanto aperta o músculo.",
+    "Lentamente, comece a trazer a barra de cachos de volta à posição inicial à medida que você respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Biceps_Cable_Curl/0.jpg",
+    "Standing_Biceps_Cable_Curl/1.jpg"
+  ],
+  "id": "Standing_Biceps_Cable_Curl"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Oblique Trunches",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com a parte inferior das costas pressionada no chão. Para este exercício, você precisará colocar uma mão ao lado da cabeça e a outra para o lado contra o chão.",
+    "Certifique-se de que seus pés estão elevados e descansando em uma superfície plana.",
+    "Agora levante o ombro em que sua mão está tocando sua cabeça.",
+    "Simplesmente eleve seu ombro e corpo para cima até que você toque o joelho. Por exemplo, se você tiver sua mão direita além de sua cabeça, então você quer elevar seu corpo para cima até que seu cotovelo direito toque seu joelho esquerdo. A mesma variação pode ser aplicada fazendo o inverso e usando seu cotovelo esquerdo para tocar seu joelho direito.",
+    "Depois que o joelho tocar o cotovelo, abaixe o corpo até chegar à posição inicial.",
+    "Lembre-se de respirar durante a parte excêntrica (redução) do exercício e de respirar durante a parte concêntrica (para cima) do exercício.",
+    "Continue alternando desta maneira até que todas as repetições recomendadas para cada lado tenham sido concluídas."
+  ],
+  "category": "strength",
+  "images": [
+    "Oblique_Crunches/0.jpg",
+    "Oblique_Crunches/1.jpg"
+  ],
+  "id": "Oblique_Crunches"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Ponderado Jump Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Posicione uma barra levemente carregada na parte de trás de seus ombros. Você também pode usar um colete ponderado, saco de areia ou outro tipo de resistência para este exercício.",
+    "O peso deve ser leve o suficiente para que não o atrase significativamente. Seus pés devem estar fora da largura do ombro com a cabeça e o peito para cima. Esta será sua posição inicial.",
+    "Usando um contra-movimento, agachamento parcialmente para baixo e imediatamente inverter a sua direção para explodir fora do chão, estendendo-se através de seus quadris, joelhos e tornozelos. Manter uma boa postura durante todo o salto.",
+    "Ao retornar ao chão, absorva o impacto através de suas pernas."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Jump_Squat/0.jpg",
+    "Weighted_Jump_Squat/1.jpg"
+  ],
+  "id": "Weighted_Jump_Squat"
+}

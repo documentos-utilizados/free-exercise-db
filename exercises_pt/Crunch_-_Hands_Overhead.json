@@ -1,0 +1,24 @@
+{
+  "name": "Crunch - Mãos sobre a cabeça",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com as costas planas e os joelhos dobrados com cerca de um ângulo de 60 graus entre os isquiotibiais e os bezerros.",
+    "Mantenha os pés no chão e estique os braços acima com as palmas das mãos cruzadas. Esta será a sua posição inicial.",
+    "Curl sua parte superior do corpo para a frente e trazer suas omoplatas apenas fora do chão. Em todos os momentos, manter os braços alinhados com a cabeça, pescoço e ombro. Não mova-os para a frente a partir dessa posição. Expire como você executar esta parte do movimento e segure a contração por um segundo.",
+    "Desça lentamente para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Crunch_-_Hands_Overhead/0.jpg",
+    "Crunch_-_Hands_Overhead/1.jpg"
+  ],
+  "id": "Crunch_-_Hands_Overhead"
+}

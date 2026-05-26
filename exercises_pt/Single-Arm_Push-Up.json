@@ -1,0 +1,26 @@
+{
+  "name": "Push-Up de braço único",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece a colocar-se propensa no chão. Mova-se para uma posição apoiando seu peso em seus dedos dos pés e um braço. Seu braço de trabalho deve ser colocado diretamente sob o ombro, totalmente estendido. Suas pernas devem ser estendidas, e para este movimento você pode precisar de uma base mais larga, colocando seus pés mais afastados do que em um empurrão normal.",
+    "Mantenha uma boa postura e coloque sua mão livre atrás das costas. Esta será sua posição inicial.",
+    "Abaixe-se, permitindo que o cotovelo flexione até tocar o chão.",
+    "Desça lentamente, e a direção inversa seja estender o braço para retornar à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Single-Arm_Push-Up/0.jpg",
+    "Single-Arm_Push-Up/1.jpg"
+  ],
+  "id": "Single-Arm_Push-Up"
+}

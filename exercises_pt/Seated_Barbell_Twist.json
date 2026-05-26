@@ -1,0 +1,25 @@
+{
+  "name": "Assento Barbell Twist",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece sentando-se no final de um banco plano com uma barra colocada em cima de suas coxas. Seus pés devem ser largura do ombro para além um do outro.",
+    "Segure a barra com as palmas das mãos viradas para baixo e certifique-se de que suas mãos estejam mais largas do que a largura do ombro, afastando-se umas das outras. Comece a levantar a barra sobre a cabeça até que seus braços estejam totalmente estendidos.",
+    "Agora abaixe a barra atrás de sua cabeça até que ela esteja descansando ao longo da base do seu pescoço. Esta é a posição inicial.",
+    "Enquanto mantém os pés e a cabeça estacionárias, mova a cintura de um lado para o outro para que os músculos oblíquos sintam a contração. Apenas mova-se de um lado para o outro até onde a cintura lhe permitirá ir. Alongar ou mover-se muito longe pode causar uma lesão. Dica: Use um movimento lento e controlado.",
+    "Lembre-se de respirar enquanto torce seu corpo para o lado e para dentro ao se mover de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Barbell_Twist/0.jpg",
+    "Seated_Barbell_Twist/1.jpg"
+  ],
+  "id": "Seated_Barbell_Twist"
+}

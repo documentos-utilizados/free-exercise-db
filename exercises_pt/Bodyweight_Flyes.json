@@ -1,0 +1,28 @@
+{
+  "name": "Moscas de peso corporal",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione duas barras EZ igualmente carregadas no chão ao lado uma da outra. Certifique-se de que elas sejam capazes de rolar.",
+    "Assuma uma posição de flexão sobre as barras, apoiando seu peso em seus dedos dos pés e mãos com os braços estendidos e corpo reto.",
+    "Coloque as mãos nas barras. Esta será a sua posição inicial.",
+    "Usando um movimento lento e controlado, mova as mãos para longe da linha média do seu corpo, rolando as barras separadas. Inspire durante esta parte do movimento.",
+    "Depois de mover as barras o mais longe possível, retorne à posição inicial puxando-as de volta. Exale enquanto realiza esse movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "Bodyweight_Flyes/0.jpg",
+    "Bodyweight_Flyes/1.jpg"
+  ],
+  "id": "Bodyweight_Flyes"
+}

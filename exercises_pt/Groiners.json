@@ -1,0 +1,22 @@
+{
+  "name": "Groiners",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece em uma posição de flexão no chão. Esta será a sua posição inicial.",
+    "Usando ambas as pernas, pule para a frente aterrissando com os pés ao lado de suas mãos. Mantenha a cabeça erguida enquanto faz isso.",
+    "Volte para a posição inicial e repita imediatamente o movimento, continuando por 10-20 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Groiners/0.jpg",
+    "Groiners/1.jpg"
+  ],
+  "id": "Groiners"
+}

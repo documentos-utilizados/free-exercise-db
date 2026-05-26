@@ -1,0 +1,28 @@
+{
+  "name": "Moinho de vento duplo Kettlebell",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell na frente do pé da frente e limpe e pressione um kettlebell acima com o braço oposto. Limpe o kettlebell no ombro, estendendo-se pelas pernas e quadris enquanto puxa o kettlebell em direção aos ombros. Gire o pulso enquanto faz isso, para que a palma da mão fique voltada para frente.",
+    "Mantendo o kettlebell bloqueado em todos os momentos, empurre sua bunda para fora na direção do kettlebell bloqueado. Vire seus pés para fora em um ângulo de quarenta e cinco graus do braço com o kettlebell bloqueado.",
+    "Dobrando-se no quadril para um lado, colocando sua bunda para fora, lentamente inclinar até que você possa recuperar o kettlebell do chão. Mantenha os olhos sobre o kettlebell que você segurar sobre sua cabeça em todos os momentos.",
+    "Pausar por um segundo depois de recuperar o kettlebell do chão e reverter o movimento de volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Double_Kettlebell_Windmill/0.jpg",
+    "Double_Kettlebell_Windmill/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Windmill"
+}

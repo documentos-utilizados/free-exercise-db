@@ -1,0 +1,32 @@
+{
+  "name": "Músculo de Kipping para cima",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "antebraços",
+    "costas (meio)",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure os anéis usando um aperto falso, com a base das palmas das mãos em cima dos anéis.",
+    "Comece com um movimento balançando ligeiramente as pernas para trás.",
+    "Contrarie esse movimento balançando as pernas para frente e para cima, empurrando o queixo e o peito para trás, puxando-se para cima com os dois braços enquanto você faz isso.  medida que você alcança a posição superior do pull-up, puxe os anéis para as axilas enquanto você enrola os ombros para frente, permitindo que seus cotovelos se movam para trás. Isso coloca você na posição adequada para continuar na porção de mergulho do movimento.",
+    "Mantendo o controle e a estabilidade, estenda-se através do cotovelo para completar o movimento.",
+    "Tenha cuidado ao se abaixar ao chão."
+  ],
+  "category": "strength",
+  "images": [
+    "Kipping_Muscle_Up/0.jpg",
+    "Kipping_Muscle_Up/1.jpg"
+  ],
+  "id": "Kipping_Muscle_Up"
+}

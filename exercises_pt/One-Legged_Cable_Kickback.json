@@ -1,0 +1,27 @@
+{
+  "name": "Kickback de cabo de uma perna",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Ligue um manguito de tornozelo de couro a uma polia de cabo baixa e, em seguida, prenda o manguito ao tornozelo.",
+    "Encare a pilha de peso a uma distância de cerca de dois pés, agarrando a estrutura de aço para suporte.",
+    "Enquanto mantém seus joelhos e quadris dobrados ligeiramente e seus abdominais apertados, contraia seus glúteos para \"chutar\" lentamente a perna de trabalho de volta em um arco semicircular tão alto quanto ele irá confortavelmente enquanto você expira. Dica: Na extensão total, esprema seus glúteos por um segundo, a fim de alcançar uma contração máxima.",
+    "Agora, lentamente, leve sua perna de trabalho para a frente, resistindo à tração do cabo até chegar à posição inicial.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque as pernas e repita o movimento para o outro lado."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Legged_Cable_Kickback/0.jpg",
+    "One-Legged_Cable_Kickback/1.jpg"
+  ],
+  "id": "One-Legged_Cable_Kickback"
+}

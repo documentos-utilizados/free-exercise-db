@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell Ombro Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Enquanto segura um haltere em cada mão, sente-se em um banco de imprensa militar ou banco de utilidade que tem apoio de volta. Coloque os halteres em cima de suas coxas.",
+    "Agora eleve os halteres à altura do ombro um de cada vez usando suas coxas para ajudar a impulsioná-los para a posição.",
+    "Certifique-se de girar os pulsos para que as palmas das mãos estejam voltadas para a frente. Esta é a sua posição inicial.",
+    "Agora, expire e empurre os halteres para cima até que eles toquem no topo.",
+    "Em seguida, após uma breve pausa na posição superior contraída, diminua lentamente os pesos de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Shoulder_Press/0.jpg",
+    "Dumbbell_Shoulder_Press/1.jpg"
+  ],
+  "id": "Dumbbell_Shoulder_Press"
+}

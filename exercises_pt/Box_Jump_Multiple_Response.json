@@ -1,0 +1,28 @@
+{
+  "name": "Box Jump (Múltipla resposta)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma postura relaxada de frente para a caixa ou plataforma aproximadamente o comprimento de um braço de distância. Os braços devem estar para baixo nas laterais e pernas ligeiramente dobrados.",
+    "Usando os braços para ajudar na explosão inicial, pule para cima e para frente, aterrissando com os pés simultaneamente em cima da caixa ou plataforma.",
+    "Imediatamente solte ou pule de volta para o local inicial original; em seguida, repita a sequência."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Box_Jump_Multiple_Response/0.jpg",
+    "Box_Jump_Multiple_Response/1.jpg"
+  ],
+  "id": "Box_Jump_Multiple_Response"
+}

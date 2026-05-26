@@ -1,0 +1,26 @@
+{
+  "name": "Push de peito a partir de 3 ponto de posição",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma posição de três pontos, agachado com as costas planas e uma mão no chão. Coloque a bola de medicina diretamente na frente de você.",
+    "Para começar, dê o seu primeiro passo enquanto puxa a bola para o peito, posicionando ambas as mãos para se preparar para o lançamento.",
+    "medida que você executa o segundo passo, solte explosivamente a bola para a frente o mais forte possível."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Chest_Push_from_3_point_stance/0.jpg",
+    "Chest_Push_from_3_point_stance/1.jpg"
+  ],
+  "id": "Chest_Push_from_3_point_stance"
+}

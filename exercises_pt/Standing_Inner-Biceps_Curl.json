@@ -1,0 +1,26 @@
+{
+  "name": "Curl de biceps internos em pé",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se com um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco. Suas pernas devem estar em cerca de largura do ombro para além um do outro.",
+    "Gire as palmas das mãos para que elas estejam voltadas para dentro em uma posição neutra. Esta será sua posição inicial.",
+    "Enquanto segura os braços parados, enrole os pesos enquanto contrai o bíceps à medida que expira. Seu pulso deve girar para que, quando os pesos estiverem totalmente elevados, você tenha aderência supinada (palmas viradas para cima).",
+    "Apenas os antebraços devem se mover. Continue o movimento até que seu bíceps esteja totalmente contraído e os halteres estejam no nível do ombro. Dica: Mantenha os antebraços alinhados com seus deltóides externos.",
+    "Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente começar a trazer os halteres de volta para a posição inicial como sua respiração. Lembre-se de girar os pulsos como você diminuir o peso, a fim de mudar de volta para uma aderência neutra.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Inner-Biceps_Curl/0.jpg",
+    "Standing_Inner-Biceps_Curl/1.jpg"
+  ],
+  "id": "Standing_Inner-Biceps_Curl"
+}

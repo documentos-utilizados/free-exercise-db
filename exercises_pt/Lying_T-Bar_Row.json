@@ -1,0 +1,28 @@
+{
+  "name": "Deitada T-Bar Row",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Carregue a máquina de linha T-bar com o peso desejado e ajuste a altura da perna para que seu peito superior esteja no topo da almofada. Dica: Em algumas máquinas, tudo o que você pode fazer é ficar na etapa apropriada que permite que você esteja em uma altura que tenha o peito superior na parte superior da almofada.",
+    "Deite o rosto na almofada e pegue as alças. Você pode usar as palmas das mãos para baixo, palmas das mãos para cima ou palmas das mãos na posição, dependendo de qual parte das costas você quer enfatizar.",
+    "Levante a barra do rack e estenda os braços à sua frente. Esta será a sua posição inicial.",
+    "medida que você expira lentamente, puxe o peso para cima e esprema as costas no topo do movimento. Dica: Mantenha os braços superiores o mais perto possível do tronco durante todo o movimento, a fim de melhor envolver os músculos das costas. Além disso, não levante seu corpo da almofada a qualquer momento e evite usar o bíceps para levantar o peso.",
+    "Depois de uma segunda contração no topo do movimento, à medida que você inala, volte lentamente para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_T-Bar_Row/0.jpg",
+    "Lying_T-Bar_Row/1.jpg"
+  ],
+  "id": "Lying_T-Bar_Row"
+}

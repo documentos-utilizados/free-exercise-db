@@ -1,0 +1,26 @@
+{
+  "name": "Dancer's Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "glúteos"
+  ],
+  "instructions": [
+    "Senta-te no chão.",
+    "Cruze a perna direita sobre a esquerda, mantendo o joelho dobrado. Sua perna esquerda é reta e para baixo no chão.",
+    "Coloque o braço esquerdo na perna direita e a mão direita no chão.",
+    "Gire a parte superior do corpo para a direita e segure por 10-20 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Dancers_Stretch/0.jpg",
+    "Dancers_Stretch/1.jpg"
+  ],
+  "id": "Dancers_Stretch"
+}

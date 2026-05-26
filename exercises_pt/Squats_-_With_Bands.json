@@ -1,0 +1,29 @@
+{
+  "name": "Squats - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Para começar, certifique-se de que a banda de exercício está em uma divisão uniforme entre o lado esquerdo e direito do corpo. Para fazer isso, use as mãos para agarrar os dois lados da banda e colocar os dois pés no meio da banda. Seus pés devem ser largura do ombro para além um do outro.",
+    "Ao segurar as bandas, elas devem ter a mesma altura de cada lado. Você deve estar usando um aperto pronado (palmeiras voltadas para a frente) e ter as alças das bandas ao lado do seu rosto para este exercício. Esta é a posição inicial.",
+    "Lentamente comece a dobrar os joelhos e abaixe as pernas para que suas coxas fiquem paralelas ao chão enquanto expira.",
+    "Use o calcanhar dos pés para empurrar seu corpo até a posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Squats_-_With_Bands/0.jpg",
+    "Squats_-_With_Bands/1.jpg"
+  ],
+  "id": "Squats_-_With_Bands"
+}

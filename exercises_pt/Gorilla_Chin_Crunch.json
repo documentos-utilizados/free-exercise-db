@@ -1,0 +1,27 @@
+{
+  "name": "Gorila Chin/Crunch",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Pendure a partir de uma barra chin-up usando um aperto de mão (palmas viradas para você) que é um pouco mais largo do que a largura do ombro.",
+    "Agora dobre os joelhos em um ângulo de 90 graus para que os bezerros sejam paralelos ao chão, enquanto as coxas permanecem perpendiculares a ele. Esta será a sua posição inicial.",
+    "medida que você expira, levante-se enquanto tritura os joelhos ao mesmo tempo até que seus joelhos estejam no nível do peito. Você vai parar de subir assim que seu nariz estiver no mesmo nível da barra. Dica: Quando você chegar a este ponto, você também deve estar terminando o crunch ao mesmo tempo.",
+    "Lentamente comece a inalar à medida que você retorna à posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Gorilla_Chin_Crunch/0.jpg",
+    "Gorilla_Chin_Crunch/1.jpg"
+  ],
+  "id": "Gorilla_Chin_Crunch"
+}

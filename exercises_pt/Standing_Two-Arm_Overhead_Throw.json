@@ -1,0 +1,25 @@
+{
+  "name": "De pé de dois braços Overhead Throw",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais"
+  ],
+  "instructions": [
+    "Fique de pé com a largura do ombro dos pés, segurando uma bola de remédio em ambas as mãos. Para começar, alcance a bola de remédio profundamente atrás de sua cabeça enquanto você dobra os joelhos ligeiramente e se inclina para trás.",
+    "Jogue violentamente a bola para a frente, flexionando no quadril e usando todo o seu corpo para completar o movimento.",
+    "A bola de remédio pode ser jogada para um parceiro ou para uma parede, recebendo-a à medida que se recupera."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Standing_Two-Arm_Overhead_Throw/0.jpg",
+    "Standing_Two-Arm_Overhead_Throw/1.jpg"
+  ],
+  "id": "Standing_Two-Arm_Overhead_Throw"
+}

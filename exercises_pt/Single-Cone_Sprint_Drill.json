@@ -1,0 +1,26 @@
+{
+  "name": "Broca de Sprint Single-Cone",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Esta broca ensina a ação rápida do pé. Você precisa de um único cone. Comece de pé ao lado do cone com um braço para trás e um braço para a frente.",
+    "Corte os pés o mais rápido possível, bloqueando com os braços. Circule o cone, mantenha os joelhos para cima, com ação violenta do pé.",
+    "Descanse depois de três viagens ao redor do cone."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Single-Cone_Sprint_Drill/0.jpg",
+    "Single-Cone_Sprint_Drill/1.jpg"
+  ],
+  "id": "Single-Cone_Sprint_Drill"
+}

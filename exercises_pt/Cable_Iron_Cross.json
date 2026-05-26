@@ -1,0 +1,24 @@
+{
+  "name": "Cruz de ferro de cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece movendo as polias para a posição alta, selecione a resistência a ser usada e pegue uma alça em cada mão.",
+    "Fique diretamente entre as duas polias com os braços estendidos para os lados. Sua cabeça e peito devem estar para cima enquanto seus braços formam um \"T\". Esta será sua posição inicial.",
+    "Mantendo os cotovelos estendidos, puxe os braços para os lados.",
+    "Retorne os braços de volta à posição inicial após uma pausa na contração máxima.",
+    "Continue o movimento para o número prescrito de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Iron_Cross/0.jpg",
+    "Cable_Iron_Cross/1.jpg"
+  ],
+  "id": "Cable_Iron_Cross"
+}

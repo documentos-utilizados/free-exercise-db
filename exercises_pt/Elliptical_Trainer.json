@@ -1,0 +1,25 @@
+{
+  "name": "Treinador Elíptico",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para começar, entre na elíptica e selecione a opção desejada no menu. A maioria das elípticas tem uma configuração manual, ou você pode selecionar um programa para executar. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício. A elevação pode ser ajustada para alterar a intensidade do treino.",
+    "As alças podem ser usadas para monitorar sua freqência cardíaca para ajudá-lo a permanecer em uma intensidade adequada."
+  ],
+  "category": "cardio",
+  "images": [
+    "Elliptical_Trainer/0.jpg",
+    "Elliptical_Trainer/1.jpg"
+  ],
+  "id": "Elliptical_Trainer"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Inclinação pélvica na ponte",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se com os pés no chão, os calcanhares diretamente sob os joelhos.",
+    "Levante apenas o cóccix até o teto para esticar a parte inferior das costas. (Não levante a coluna inteira ainda.) Puxe o estômago.",
+    "Para entrar em uma ponte, levante toda a coluna, exceto o pescoço."
+  ],
+  "category": "stretching",
+  "images": [
+    "Pelvic_Tilt_Into_Bridge/0.jpg",
+    "Pelvic_Tilt_Into_Bridge/1.jpg"
+  ],
+  "id": "Pelvic_Tilt_Into_Bridge"
+}

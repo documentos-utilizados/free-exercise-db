@@ -1,0 +1,23 @@
+{
+  "name": "Máquina de Smith Hip Raise",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione um banco no rack e carregue a barra com um peso adequado. Deite-se no banco, colocando a parte inferior dos pés contra a barra. Desbloqueie a barra e estenda as pernas. Você pode precisar usar as mãos para ajudá-lo. Para maior estabilidade, segure os lados da Smith Machine. Esta será sua posição inicial.",
+    "Inicie o movimento girando a pélvis, flexionando a coluna para levantar os quadris do banco. Mantenha uma ligeira curvatura nos joelhos durante todo o movimento.",
+    "Depois de uma breve pausa, devolva os quadris ao banco.",
+    "Repita para o número desejado de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Hip_Raise/0.jpg",
+    "Smith_Machine_Hip_Raise/1.jpg"
+  ],
+  "id": "Smith_Machine_Hip_Raise"
+}

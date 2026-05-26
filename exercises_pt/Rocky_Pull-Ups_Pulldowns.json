@@ -1,0 +1,29 @@
+{
+  "name": "Rocky Pull-Ups/Pulldowns",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue a barra pull-up com as palmas voltadas para a frente usando uma grande aderência.",
+    "Como você tem ambos os braços estendidos na frente de você segurando a barra na largura de aderência escolhida, traga seu tronco de volta em torno de 30 graus ou mais, criando uma curvatura na parte inferior das costas e colocando o peito para fora. Esta é a sua posição inicial.",
+    "Puxe o tronco para cima até que a barra toque a parte superior do peito, puxando os ombros e os braços para baixo e para trás. Expire enquanto você executa essa parte do movimento. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição contratada completa. O tronco superior deve permanecer estacionário à medida que se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo na posição contraída, comece a inalar e abaixe lentamente o tronco de volta para a posição inicial quando seus braços estiverem totalmente estendidos e os braços estiverem totalmente esticados.",
+    "Agora repita os mesmos movimentos descritos acima, exceto que desta vez seu tronco permanecerá reto enquanto você sobe e a barra tocará a parte de trás do pescoço em vez do peito superior. Dica: Use a cabeça para inclinar-se ligeiramente para a frente, pois ajudará você a executar adequadamente essa parte do exercício.",
+    "Depois de ter baixado de volta para a posição inicial, repita o exercício para a quantidade prescrita de repetições em seu programa."
+  ],
+  "category": "strength",
+  "images": [
+    "Rocky_Pull-Ups_Pulldowns/0.jpg",
+    "Rocky_Pull-Ups_Pulldowns/1.jpg"
+  ],
+  "id": "Rocky_Pull-Ups_Pulldowns"
+}

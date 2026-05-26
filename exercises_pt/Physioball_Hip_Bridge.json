@@ -1,0 +1,24 @@
+{
+  "name": "Ponte Fisioball Hip",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Deite-se em uma bola para que sua parte superior das costas esteja na bola com seus quadris sem suporte. Ambos os pés devem estar planos no chão, com largura de quadril separada ou mais larga. Esta será sua posição inicial.",
+    "Comece estendendo os quadris usando seus glúteos e isquiotibiais, levantando os quadris para cima enquanto você faz a ponte.",
+    "Pausa no topo do movimento e volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Physioball_Hip_Bridge/0.jpg",
+    "Physioball_Hip_Bridge/1.jpg"
+  ],
+  "id": "Physioball_Hip_Bridge"
+}

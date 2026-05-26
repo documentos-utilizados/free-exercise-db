@@ -1,0 +1,25 @@
+{
+  "name": "Dumbbell sentado One-Leg Calf aumentar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um bloco no chão a cerca de 12 polegadas de um banco plano.",
+    "Sente-se em um banco plano e coloque um haltere em sua coxa superior esquerda cerca de 3 polegadas acima do joelho.",
+    "Agora coloque a bola do seu pé esquerdo no bloco. Esta será a sua posição inicial.",
+    "Levante os dedos dos pés o mais alto possível enquanto expira e contrai o músculo da panturrilha. Segure a contração por um segundo.",
+    "Retorne lentamente à posição inicial, estendendo-se o mais para baixo possível.",
+    "Repita para o número prescrito de repetições e, em seguida, repita com a perna direita."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+    "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Seated_One-Leg_Calf_Raise"
+}

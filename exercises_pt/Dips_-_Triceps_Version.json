@@ -1,0 +1,26 @@
+{
+  "name": "Dips - Versão Triceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Para entrar na posição inicial, mantenha seu corpo no comprimento do braço com os braços quase trancados acima das barras.",
+    "Agora, inale e abaixe-se lentamente para baixo. Seu tronco deve permanecer na posição vertical e seus cotovelos devem ficar perto de seu corpo. Isso ajuda a se concentrar melhor no envolvimento do tríceps. Abaixe-se até que haja um ângulo de 90 graus formado entre o braço e o antebraço.",
+    "Em seguida, expire e empurre seu tronco de volta usando seu tríceps para trazer seu corpo de volta à posição inicial.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dips_-_Triceps_Version/0.jpg",
+    "Dips_-_Triceps_Version/1.jpg"
+  ],
+  "id": "Dips_-_Triceps_Version"
+}

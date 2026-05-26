@@ -1,0 +1,26 @@
+{
+  "name": "Chute de bumbum de perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece por ficar de pé em uma perna, com o joelho dobrado levantado. Esta será a sua posição inicial.",
+    "Usando um salto de contra-movimento, decole para cima, estendendo o quadril, o joelho e o tornozelo da perna aterrada.",
+    "Imediatamente flexione o joelho e tente tocar sua bunda com o calcanhar da perna de salto.",
+    "Retorne a perna para uma posição parcialmente dobrada sob os quadris e a terra. Sua perna oposta deve permanecer na mesma posição durante toda a broca."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Single_Leg_Butt_Kick/0.jpg",
+    "Single_Leg_Butt_Kick/1.jpg"
+  ],
+  "id": "Single_Leg_Butt_Kick"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Salto da caixa dianteira",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece com uma caixa de uma altura apropriada 1-2 pés na frente de você. Fique de pé com os pés devem separar a largura. Esta será a sua posição inicial.",
+    "Execute um agachamento curto em preparação para saltar, balançando os braços atrás de você.",
+    "Rebote para fora desta posição, estendendo-se através dos quadris, joelhos e tornozelos para saltar o mais alto possível. Balance os braços para a frente e para cima.",
+    "Aterre na caixa com os joelhos dobrados, absorvendo o impacto através das pernas. Você pode pular da caixa de volta ao chão, ou de preferência descer uma perna de cada vez."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Front_Box_Jump/0.jpg",
+    "Front_Box_Jump/1.jpg"
+  ],
+  "id": "Front_Box_Jump"
+}

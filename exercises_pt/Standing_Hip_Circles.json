@@ -1,0 +1,25 @@
+{
+  "name": "Círculos de quadril em pé",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Comece de pé em uma perna, segurando um suporte vertical.",
+    "Eleve o joelho não suportado para 90 graus. Esta será a sua posição inicial.",
+    "Abra o quadril o mais longe possível, tentando fazer um grande círculo com o joelho.",
+    "Execute este movimento lentamente para um número de repetições, e repita do outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Hip_Circles/0.jpg",
+    "Standing_Hip_Circles/1.jpg"
+  ],
+  "id": "Standing_Hip_Circles"
+}

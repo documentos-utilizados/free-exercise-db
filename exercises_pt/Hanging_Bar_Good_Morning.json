@@ -1,0 +1,27 @@
+{
+  "name": "Barra de suspensão Bom dia",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra em um rack com aproximadamente a mesma altura do seu estômago. Suspenda a barra usando correntes ou tiras de suspensão.",
+    "Dobre-se debaixo da barra e amarre a barra na parte traseira dos ombros como se fosse um agachamento de energia, não em cima de suas armadilhas. Na altura adequada, você deve estar quase paralelo ao chão quando dobrado. Mantenha as costas apertadas, as omoplatas apertadas juntas e os joelhos ligeiramente dobrados. Mantenha as costas arqueadas e a coluna cervical em alinhamento adequado.",
+    "Comece o movimento estendendo-se através dos quadris com seus glúteos e isquiotibiais, e você está de pé com o peso.",
+    "Reduza lentamente o peso de volta para a posição inicial, onde é suportado pelas correntes."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Hanging_Bar_Good_Morning/0.jpg",
+    "Hanging_Bar_Good_Morning/1.jpg"
+  ],
+  "id": "Hanging_Bar_Good_Morning"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bola Ponderada Side Bend",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se em uma bola de exercício com o seu lado esquerdo do tronco (cintura, quadris e ombro) pressionado contra a bola.",
+    "Seus pés devem estar no chão enquanto suas pernas estão cruzadas e penduradas na bola. Segure uma placa ponderada com a mão direita diretamente para o lado direito da cabeça. Dica: Certifique-se de que o lado liso da placa esteja descansando contra a cabeça.",
+    "Coloque o braço esquerdo no tronco para que a palma da mão esteja sobre os oblíquos. Deve haver um ângulo direito entre o antebraço esquerdo e o braço superior. Esta é a posição inicial.",
+    "Levante o lado do seu tronco flexionando lateralmente na cintura enquanto expira.",
+    "Segure a contração por um segundo e abaixe-se lentamente de volta para a posição inicial enquanto inala.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Alterne os lados e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Weighted_Ball_Side_Bend/0.jpg",
+    "Weighted_Ball_Side_Bend/1.jpg"
+  ],
+  "id": "Weighted_Ball_Side_Bend"
+}

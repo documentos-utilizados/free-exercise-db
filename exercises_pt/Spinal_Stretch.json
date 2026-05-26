@@ -1,0 +1,28 @@
+{
+  "name": "Espinhal estiramento",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "lombar",
+    "pescoço",
+    "trapézio"
+  ],
+  "instructions": [
+    "Sente-se em uma cadeira para que suas costas estejam retas e seus pés plantados no chão.",
+    "Entrelace os dedos atrás da cabeça, os cotovelos para fora e o queixo para baixo.",
+    "Torça a parte superior do corpo para um lado cerca de 3 vezes mais longe do que você pode. Em seguida, incline-se para a frente e torça o tronco para alcançar o cotovelo até o chão no interior do joelho.",
+    "Volte para a posição vertical e repita para o seu outro lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Spinal_Stretch/0.jpg",
+    "Spinal_Stretch/1.jpg"
+  ],
+  "id": "Spinal_Stretch"
+}

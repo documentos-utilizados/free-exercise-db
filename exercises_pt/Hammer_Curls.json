@@ -1,0 +1,24 @@
+{
+  "name": "Hammer Curls",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical e um haltere em cada mão sendo realizada no comprimento dos braços. Os cotovelos devem estar perto do tronco.",
+    "As palmas das mãos devem estar voltadas para o seu tronco. Esta será a sua posição inicial.",
+    "Agora, enquanto segura o braço parado, expire e enrole o peso para a frente enquanto contrai o bíceps. Continue a aumentar o peso até que o bíceps esteja totalmente contraído e o haltere esteja no nível do ombro. Mantenha a posição contraída por um breve momento enquanto aperta o bíceps. Dica: Concentre-se em manter o cotovelo estacionário e apenas mover o antebraço.",
+    "Após a breve pausa, inale e comece lentamente a descer os halteres de volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Hammer_Curls/0.jpg",
+    "Hammer_Curls/1.jpg"
+  ],
+  "id": "Hammer_Curls"
+}

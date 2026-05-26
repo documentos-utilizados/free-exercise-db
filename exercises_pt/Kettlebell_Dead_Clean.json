@@ -1,0 +1,28 @@
+{
+  "name": "Kettlebell morto limpo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Coloque o kettlebell entre os pés. Para entrar na posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe o kettlebell para o ombro. Limpe o kettlebell para os ombros, estendendo-se através das pernas e quadris enquanto você levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você faz isso.",
+    "Abaixe o kettlebell, mantendo os isquiotibiais carregados, mantendo as costas retas e a bunda para fora."
+  ],
+  "category": "strength",
+  "images": [
+    "Kettlebell_Dead_Clean/0.jpg",
+    "Kettlebell_Dead_Clean/1.jpg"
+  ],
+  "id": "Kettlebell_Dead_Clean"
+}

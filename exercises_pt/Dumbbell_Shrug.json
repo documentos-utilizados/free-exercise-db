@@ -1,0 +1,23 @@
+{
+  "name": "Dumbbell Shrug",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique ereto com um haltere em cada mão (palmas viradas para o seu tronco), braços estendidos nas laterais.",
+    "Levante os halteres elevando os ombros o mais alto possível enquanto você expira. Segure a contração no topo por um segundo. Dica: Os braços devem permanecer estendidos em todos os momentos. Abster-se de usar o bíceps para ajudar a levantar os halteres. Apenas os ombros devem estar se movendo para cima e para baixo.",
+    "Baixe os halteres de volta para a posição original.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Shrug/0.jpg",
+    "Dumbbell_Shrug/1.jpg"
+  ],
+  "id": "Dumbbell_Shrug"
+}

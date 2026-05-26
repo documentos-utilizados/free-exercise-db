@@ -1,0 +1,26 @@
+{
+  "name": "Imprensa do peito do cabo de pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione polias duplas na altura do peito e selecione um peso apropriado. Fique um pé ou dois na frente dos cabos, segurando uma em cada mão. Você pode escalonar sua posição para uma melhor estabilidade.",
+    "Posicione o braço superior em um ângulo de 90 graus com as omoplatas juntas. Esta será sua posição inicial.",
+    "Mantendo o resto do corpo parado, estenda-se através dos cotovelos para pressionar as alças para a frente, puxando-os juntos na frente de você.",
+    "Pausa na parte superior do movimento e volta para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Cable_Chest_Press/0.jpg",
+    "Standing_Cable_Chest_Press/1.jpg"
+  ],
+  "id": "Standing_Cable_Chest_Press"
+}

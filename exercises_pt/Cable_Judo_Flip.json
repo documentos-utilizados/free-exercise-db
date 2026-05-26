@@ -1,0 +1,24 @@
+{
+  "name": "Cable Judo Flip",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte um acessório de corda a uma torre e mova o cabo para a posição mais baixa da polia. Fique de lado com o cabo com uma posição ampla e pegue a corda com as duas mãos.",
+    "Torça seu corpo para longe da polia enquanto você traz a corda sobre o ombro como se estivesse fazendo um giro de judô.",
+    "Mude seu peso entre os pés à medida que você torcer e triturar para a frente, puxando o cabo para baixo.",
+    "Volte para a posição inicial e repita até falhar.",
+    "Em seguida, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Judo_Flip/0.jpg",
+    "Cable_Judo_Flip/1.jpg"
+  ],
+  "id": "Cable_Judo_Flip"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Push-ups com pés elevados",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão de frente para baixo e coloque as mãos a cerca de 36 polegadas de distância uma da outra, segurando o tronco no comprimento dos braços.",
+    "Coloque os dedos dos pés em cima de um banco plano. Isso permitirá que seu corpo seja elevado. Nota: Quanto maior a elevação do banco plano, maior a resistência do exercício.",
+    "Abaixe-se até que seu peito quase toque o chão enquanto você inala.",
+    "Usando seus músculos peitorais, pressione sua parte superior do corpo de volta para a posição inicial e esprema o peito. Respire enquanto você executa este passo.",
+    "Após uma segunda pausa na posição contraída, repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Push-Ups_With_Feet_Elevated/0.jpg",
+    "Push-Ups_With_Feet_Elevated/1.jpg"
+  ],
+  "id": "Push-Ups_With_Feet_Elevated"
+}

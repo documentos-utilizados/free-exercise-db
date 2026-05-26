@@ -1,0 +1,26 @@
+{
+  "name": "De pé Dumbbell Upright Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um haltere em cada mão com uma preensão pronada (palmas para a frente) que é ligeiramente menor do que a largura do ombro. Os halteres devem estar descansando em cima de suas coxas. Seus braços devem ser estendidos com uma ligeira curvatura nos cotovelos e suas costas devem ser retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar os halteres enquanto você expira. Os halteres devem estar perto do corpo à medida que você o move e os cotovelos devem dirigir o movimento. Continue a levantá-los até que eles quase toquem seu queixo. Dica: Seus cotovelos devem dirigir o movimento. Ao levantar os halteres, seus cotovelos devem sempre ser mais altos do que seus antebraços. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe os halteres para baixo lentamente para a posição inicial. Inspire enquanto executa esta parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Dumbbell_Upright_Row/0.jpg",
+    "Standing_Dumbbell_Upright_Row/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Upright_Row"
+}

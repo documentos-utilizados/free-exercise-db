@@ -1,0 +1,23 @@
+{
+  "name": "Rotação externa com cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o cabo na mesma altura do cotovelo. Fique com o lado esquerdo da banda a alguns metros de distância.",
+    "Segure a alça com a mão direita e mantenha o cotovelo pressionado firmemente para o seu lado. Recomendamos que você segure uma almofada ou rolo de espuma no lugar com o cotovelo para mantê-lo firmemente na posição.",
+    "Com o braço na posição, o cotovelo deve ser flexionado a 90 graus com a mão na frente do tronco. Esta será a sua posição inicial.",
+    "Execute o movimento girando o braço em um movimento traseiro, mantendo o cotovelo no lugar."
+  ],
+  "category": "strength",
+  "images": [
+    "External_Rotation_with_Cable/0.jpg",
+    "External_Rotation_with_Cable/1.jpg"
+  ],
+  "id": "External_Rotation_with_Cable"
+}

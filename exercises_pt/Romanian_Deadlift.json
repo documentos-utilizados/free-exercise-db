@@ -1,0 +1,28 @@
+{
+  "name": "Romeno Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Coloque uma barra na frente de você no chão e pegue-a usando um aperto pronado (palmas voltadas para baixo) que é um pouco mais largo do que a largura do ombro. Dica: Dependendo do peso usado, você pode precisar de envoltórios de pulso para realizar o exercício e também uma plataforma elevada para permitir uma melhor amplitude de movimento.",
+    "Dobre os joelhos ligeiramente e mantenha as canelas verticais, os quadris para trás e para trás em linha reta. Esta será a sua posição inicial.",
+    "Mantendo as costas e os braços completamente retos em todos os momentos, use os quadris para levantar a barra enquanto expira. Dica: O movimento não deve ser rápido, mas constante e sob controle.",
+    "Uma vez que você está de pé completamente para cima, abaixe a barra empurrando os quadris para trás, apenas ligeiramente dobrando os joelhos, ao contrário de quando agachamento. Dica: Tome uma respiração profunda no início do movimento e manter o peito para cima. Segure a respiração como você abaixar e exalar como você completar o movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Romanian_Deadlift/0.jpg",
+    "Romanian_Deadlift/1.jpg"
+  ],
+  "id": "Romanian_Deadlift"
+}

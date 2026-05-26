@@ -1,0 +1,26 @@
+{
+  "name": "Twist russo",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar"
+  ],
+  "instructions": [
+    "Deite-se no chão colocando os pés sob algo que não se moverá ou segurando um parceiro. Suas pernas devem ser dobradas nos joelhos.",
+    "Eleve sua parte superior do corpo para que ela crie uma forma V imaginária com suas coxas. Seus braços devem ser totalmente estendidos na frente de você perpendicular ao seu tronco e com as mãos apertadas. Esta é a posição inicial.",
+    "Torça o tronco para o lado direito até que seus braços estejam paralelos com o chão enquanto respira.",
+    "Segure a contração por um segundo e volte para a posição inicial enquanto respira. Agora mova para o lado oposto executando as mesmas técnicas que você aplicou para o lado direito.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Russian_Twist/0.jpg",
+    "Russian_Twist/1.jpg"
+  ],
+  "id": "Russian_Twist"
+}

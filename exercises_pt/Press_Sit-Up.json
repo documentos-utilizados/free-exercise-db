@@ -1,0 +1,27 @@
+{
+  "name": "Pressione Sit-Up",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Para começar, deite-se em um banco com uma barra apoiada em seu peito. Posicione suas pernas para que elas estejam seguras na extensão do banco abdominal. Esta é a posição inicial.",
+    "Ao inalar, aperte os abdominais e glúteos. Enrole simultaneamente o tronco como você faz ao realizar uma sessão e pressione a barra para uma posição acima enquanto expira. Dica: Use os braços para empurrar a barra para fora enquanto você realiza este exercício enquanto ainda se concentra nos músculos abdominais.",
+    "Abaixe a parte superior do corpo de volta para a posição inicial enquanto traz a barra de volta para o seu tronco. Lembre-se de respirar enquanto baixa o corpo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Press_Sit-Up/0.jpg",
+    "Press_Sit-Up/1.jpg"
+  ],
+  "id": "Press_Sit-Up"
+}

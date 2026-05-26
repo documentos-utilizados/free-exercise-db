@@ -1,0 +1,29 @@
+{
+  "name": "Pulldowns cabo de mão",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina pull-down com uma barra larga anexada à polia superior. Ajuste a almofada de joelho da máquina para caber sua altura. Essas almofadas impedirão que seu corpo seja levantado pela resistência anexada à barra.",
+    "Pegue a barra de puxar para baixo com as palmas das mãos voltadas para o seu tronco (um aperto supinado). Certifique-se de que as mãos são colocadas mais perto do que a largura do ombro.",
+    "Como você tem ambos os braços estendidos na frente de você segurando a barra na largura de aderência escolhida, traga seu tronco de volta em torno de 30 graus ou mais, criando uma curvatura na parte inferior das costas e colocando o peito para fora. Esta é a sua posição inicial.",
+    "Enquanto você expira, puxe a barra para baixo até que ela toque seu peito superior, puxando os ombros e os braços para baixo e para trás. Dica: Concentre-se em apertar os músculos das costas uma vez que você atinja a posição totalmente contraída e mantenha os cotovelos perto de seu corpo. O tronco superior deve permanecer estacionário enquanto você traz a barra para você e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo na posição contraída, enquanto respira, leve lentamente a barra de volta à posição inicial quando seus braços estiverem totalmente estendidos e os laços estiverem totalmente esticados.",
+    "Repita este movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Underhand_Cable_Pulldowns/0.jpg",
+    "Underhand_Cable_Pulldowns/1.jpg"
+  ],
+  "id": "Underhand_Cable_Pulldowns"
+}

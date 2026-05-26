@@ -1,0 +1,29 @@
+{
+  "name": "V-Bar Pulldown",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina de puxar para baixo com uma barra V presa à polia superior.",
+    "Ajuste a joelheira da máquina para se ajustar à sua altura. Essas almofadas impedirão que seu corpo seja levantado pela resistência ligada à barra.",
+    "Pegue a barra em V com as palmas das mãos voltadas umas para as outras (uma aderência neutra). Coloque o peito para fora e incline-se ligeiramente para trás (cerca de 30 graus), a fim de melhor envolver os traseiros. Esta será a sua posição inicial.",
+    "Usando seus lats, puxe a barra para baixo enquanto aperta as omoplatas. Continue até que seu peito quase toque a barra em V. Expire enquanto executa esse movimento. Dica: Mantenha o tronco estacionário durante todo o movimento.",
+    "Depois de uma segunda retenção na posição contraída, leve lentamente a barra de volta à posição inicial enquanto você respira.",
+    "Repita para o número prescrito de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "V-Bar_Pulldown/0.jpg",
+    "V-Bar_Pulldown/1.jpg"
+  ],
+  "id": "V-Bar_Pulldown"
+}

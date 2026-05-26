@@ -1,0 +1,26 @@
+{
+  "name": "Curls de placa reversa",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Comece por ficar em linha reta com uma placa ponderada mantida por ambas as mãos e braços totalmente estendidos. Use um aperto pronado (palmas viradas para baixo) e certifique-se de que seus dedos agarrem o lado áspero da placa enquanto seu polegar agarra o lado liso. Nota: Para os melhores resultados, pegue a placa ponderada em uma posição 11:00 e 1:00.",
+    "Seus pés devem ter a largura do ombro separada uns dos outros e a placa ponderada deve estar perto da área da virilha. Esta é a posição inicial.",
+    "Lentamente levante a placa enquanto mantém os cotovelos e os braços parados até que seus bíceps e antebraços toquem enquanto expiram. A placa deve estar uniformemente alinhada com seu tronco neste momento.",
+    "Sinta a contração por um segundo e comece a reduzir o peso de volta para a posição inicial ao inalar",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Plate_Curls/0.jpg",
+    "Reverse_Plate_Curls/1.jpg"
+  ],
+  "id": "Reverse_Plate_Curls"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell Lunges",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique com o seu tronco na posição vertical segurando dois halteres em suas mãos ao seu lado. Esta será a sua posição inicial.",
+    "Passo para a frente com a perna direita em torno de 2 pés ou mais a partir do pé sendo deixado para trás e abaixar a parte superior do corpo para baixo, mantendo o tronco ereto e mantendo o equilíbrio. Inspire como você vai para baixo. Nota: Como nos outros exercícios, não deixe seu joelho ir para a frente além de seus dedos do pé como você descer, pois isso vai colocar estresse indevido sobre a articulação do joelho. Certifique-se de manter sua canela dianteira perpendicular ao chão.",
+    "Usando principalmente o calcanhar do pé, empurre para cima e volte para a posição inicial enquanto expira.",
+    "Repita o movimento para a quantidade recomendada de repetições e, em seguida, execute com a perna esquerda."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Lunges/0.jpg",
+    "Dumbbell_Lunges/1.jpg"
+  ],
+  "id": "Dumbbell_Lunges"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Sapo Hops",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique com as mãos atrás da cabeça e agache-se mantendo o tronco ereto e a cabeça erguida. Esta será sua posição inicial.",
+    "Salte para a frente vários pés, evitando saltar desnecessariamente alto. Como seus pés entrar em contato com o chão, absorver o impacto através de suas pernas, e saltar novamente. Repita esta ação 5-10 vezes."
+  ],
+  "category": "stretching",
+  "images": [
+    "Frog_Hops/0.jpg",
+    "Frog_Hops/1.jpg"
+  ],
+  "id": "Frog_Hops"
+}

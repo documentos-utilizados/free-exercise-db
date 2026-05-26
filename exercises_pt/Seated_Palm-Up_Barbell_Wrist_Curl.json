@@ -1,0 +1,24 @@
+{
+  "name": "Assento Palm-Up Barbell Curl de pulso",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma barra com as duas mãos e as palmas das mãos viradas para cima; as mãos espaçadas sobre a largura do ombro.",
+    "Coloque os pés no chão, a uma distância ligeiramente maior do que a largura do ombro.",
+    "Incline-se para a frente e coloque os antebraços em cima das coxas superiores com as palmas das mãos para cima. Dica: Certifique-se de que a frente dos pulsos fique em cima dos joelhos. Esta será a sua posição inicial.",
+    "Abaixe a barra o máximo possível enquanto inala e mantém um aperto apertado.",
+    "Agora enrole a barra o mais alto possível enquanto flexiona os antebraços e expira. Segure a contração no topo por um segundo e Dica: Apenas o pulso deve se mover."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg",
+    "Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_Palm-Up_Barbell_Wrist_Curl"
+}

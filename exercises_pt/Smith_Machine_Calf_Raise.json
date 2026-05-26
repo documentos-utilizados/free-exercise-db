@@ -1,0 +1,24 @@
+{
+  "name": "Smith Máquina Calf Aumentar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um bloco ou placa de peso abaixo da barra na máquina Smith. Defina a barra para uma posição que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise nas placas com as bolas de seus pés e coloque a barra na parte de trás de seus ombros.",
+    "Pegue a barra com as duas mãos voltadas para a frente. Gire a barra para desmontá-la. Esta será a sua posição inicial.",
+    "Levante os calcanhares o mais alto possível, empurrando para fora das bolas de seus pés, flexionando sua panturrilha no topo da contração. Seus joelhos devem permanecer estendidos. Mantenha a posição contraída por um segundo antes de começar a voltar para baixo.",
+    "Volte lentamente para a posição inicial enquanto você respira enquanto baixa os calcanhares.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Calf_Raise/0.jpg",
+    "Smith_Machine_Calf_Raise/1.jpg"
+  ],
+  "id": "Smith_Machine_Calf_Raise"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Peso corporal Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique de pé com a largura do ombro dos pés separados. Você pode colocar as mãos atrás da cabeça. Esta será a sua posição inicial.",
+    "Comece o movimento flexionando os joelhos e quadris, sentando-se com os quadris.",
+    "Continue até a profundidade total, se você é capaz, e rapidamente inverter o movimento até que você volte para a posição inicial. Como você agachamento, manter a cabeça e o peito para cima e empurrar os joelhos para fora."
+  ],
+  "category": "strength",
+  "images": [
+    "Bodyweight_Squat/0.jpg",
+    "Bodyweight_Squat/1.jpg"
+  ],
+  "id": "Bodyweight_Squat"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Máquina de Smith One-Arm Upright Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "trapézio"
+  ],
+  "instructions": [
+    "Com a barra no nível da coxa, carregue um peso apropriado.",
+    "Tome uma grande aderência na barra e desenrole o peso, removendo sua mão fora da barra. Seu braço deve ser estendido enquanto você se levanta em linha reta com a cabeça e o peito para cima. Esta será sua posição inicial.",
+    "Comece o movimento flexionando o cotovelo, levantando o braço com o cotovelo apontado. Continue até que seu braço esteja paralelo ao chão.",
+    "Após uma breve pausa, retorne o peso para a posição inicial.",
+    "Repita para o número desejado de repetições antes de envolver os ganchos para acumular o peso."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_One-Arm_Upright_Row/0.jpg",
+    "Smith_Machine_One-Arm_Upright_Row/1.jpg"
+  ],
+  "id": "Smith_Machine_One-Arm_Upright_Row"
+}

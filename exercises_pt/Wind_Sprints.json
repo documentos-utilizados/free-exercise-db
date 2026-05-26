@@ -1,0 +1,23 @@
+{
+  "name": "Sprints de vento",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pendure de uma barra pull-up usando um aperto pronated. Seus braços e pernas devem ser estendidos. Esta será sua posição inicial.",
+    "Comece levantando rapidamente um joelho o mais alto que puder. Não balançar seu corpo ou suas pernas. 3",
+    "Inverta imediatamente o movimento, retornando a perna para a posição inicial. Levante simultaneamente o joelho oposto o mais alto possível.",
+    "Continue alternando entre as pernas até que o conjunto esteja completo."
+  ],
+  "category": "strength",
+  "images": [
+    "Wind_Sprints/0.jpg",
+    "Wind_Sprints/1.jpg"
+  ],
+  "id": "Wind_Sprints"
+}

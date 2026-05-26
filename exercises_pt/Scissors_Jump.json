@@ -1,0 +1,26 @@
+{
+  "name": "Scissors Saltar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Assuma uma posição de postura com um pé para frente com o joelho dobrado, e o joelho traseiro quase tocando o chão.",
+    "Certifique-se de que o joelho da frente está sobre a linha média do pé. Estendendo-se através de ambas as pernas, saltar o mais alto possível, balançando os braços para ganhar elevador.",
+    "Como você saltar o mais alto que puder, mudar a posição de suas pernas, movendo sua perna dianteira para trás e a perna traseira para a frente.",
+    "medida que você aterrissa, absorva o impacto através das pernas adotando a posição de lunge e repita."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Scissors_Jump/0.jpg",
+    "Scissors_Jump/1.jpg"
+  ],
+  "id": "Scissors_Jump"
+}

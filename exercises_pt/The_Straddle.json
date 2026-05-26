@@ -1,0 +1,24 @@
+{
+  "name": "O Straddle",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Comece em uma posição sentada e vertical. Comece estendendo as pernas na frente de você em um V.",
+    "Com as mãos no chão, incline-se para a frente o máximo possível. Segure por 10 a 20 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "The_Straddle/0.jpg",
+    "The_Straddle/1.jpg"
+  ],
+  "id": "The_Straddle"
+}

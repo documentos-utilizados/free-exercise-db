@@ -1,0 +1,24 @@
+{
+  "name": "Raise do cabo dianteiro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Selecione o peso em uma máquina de polia baixa e agarre o acessório de cabo de mão única que está ligado à polia baixa com a mão esquerda.",
+    "Encare-se longe da polia e coloque o braço para baixo com a fixação do cabo da mão na frente de suas coxas no comprimento dos braços com as palmas da mão voltadas para suas coxas. Esta será sua posição inicial.",
+    "Enquanto mantém o tronco estacionário (sem oscilação), levante o braço esquerdo para a frente com uma ligeira curvatura no cotovelo e as palmas das mãos sempre voltadas para baixo. Continue a subir até que o braço esteja ligeiramente acima do paralelo ao chão. Expire enquanto executa esta parte do movimento e faça uma pausa por um segundo no topo.",
+    "Agora, enquanto você inala, abaixe o braço para baixo lentamente para a posição inicial.",
+    "Uma vez que toda a quantidade recomendada de repetições tenha sido realizada para este braço, troque os braços e realize o exercício com o direito."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Cable_Raise/0.jpg",
+    "Front_Cable_Raise/1.jpg"
+  ],
+  "id": "Front_Cable_Raise"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "One-Arm Flat Bench Dumbbell Flye",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em uma mão descansando em cima de sua coxa. A palma da sua mão com o haltere nele deve estar em um aperto neutro.",
+    "Usando suas coxas para ajudá-lo a obter o haltere para cima, limpe o haltere para que você possa segurá-lo na frente de você com seu braço de elevação sendo totalmente estendido. Lembre-se de manter uma aderência neutra com este exercício. Sua mão sem levantar deve ser para o lado segurando o banco plano para melhor suporte. Esta será sua posição inicial.",
+    "Seu braço com o peso deve ter uma ligeira curvatura no cotovelo, a fim de evitar o estresse no tendão do bíceps. Comece baixando o braço com o peso em um arco largo até sentir um alongamento no peito. Respire enquanto realiza essa parte do movimento. Dica: Tenha em mente que durante todo o movimento, seu braço de elevação deve permanecer estacionário; o movimento só deve ocorrer na articulação do ombro.",
+    "Retorne seu braço de levantamento de volta à posição inicial enquanto aperta os músculos do peito e expira. Dica: Certifique-se de usar o mesmo arco de movimento usado para abaixar os pesos.",
+    "Segure por um segundo na posição contraída e repita o movimento para a quantidade prescrita de repetições.",
+    "Troque os braços e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Flat_Bench_Dumbbell_Flye/0.jpg",
+    "One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
+  ],
+  "id": "One-Arm_Flat_Bench_Dumbbell_Flye"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Alavancagem Iso Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Carregue um peso apropriado nos pinos e ajuste a altura do assento para que as alças estejam no nível do peito. Segure as alças com uma aderência neutra ou pronada. Esta será sua posição inicial.",
+    "Puxe as alças em direção ao seu tronco, retraindo as omoplatas enquanto flexiona o cotovelo.",
+    "Pausa na parte inferior do movimento e, em seguida, retornar lentamente as alças para a posição inicial. Para várias repetições, evite retornar completamente o peso para as paradas para manter a tensão sobre os músculos que estão sendo trabalhados."
+  ],
+  "category": "strength",
+  "images": [
+    "Leverage_Iso_Row/0.jpg",
+    "Leverage_Iso_Row/1.jpg"
+  ],
+  "id": "Leverage_Iso_Row"
+}

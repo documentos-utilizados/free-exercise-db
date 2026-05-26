@@ -1,0 +1,27 @@
+{
+  "name": "Incline Barbell Triceps Extensão",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Segure uma barra com um aperto overhand (palms down) que é um pouco mais perto juntos do que a largura do ombro.",
+    "Deite-se em um banco inclinado definido em qualquer ângulo entre 45-75 graus.",
+    "Traga a barra acima com os braços estendidos e os cotovelos. Os braços devem estar alinhados com o tronco acima da cabeça. Esta será sua posição inicial.",
+    "Agora abaixe a barra em um movimento semicircular atrás de sua cabeça até que seus antebraços toquem seu bíceps. Inspire enquanto você executa esse movimento. Dica: Mantenha seus braços parados e perto de sua cabeça em todos os momentos. Apenas os antebraços devem se mover.",
+    "Volte para a posição inicial enquanto expira e contrai o tríceps. Segure a contração por um segundo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Barbell_Triceps_Extension/0.jpg",
+    "Incline_Barbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Incline_Barbell_Triceps_Extension"
+}

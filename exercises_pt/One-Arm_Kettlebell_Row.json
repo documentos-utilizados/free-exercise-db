@@ -1,0 +1,23 @@
+{
+  "name": "One-Arm Kettlebell Row",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque um kettlebell na frente de seus pés. Dobre os joelhos ligeiramente e, em seguida, empurre a bunda para fora, tanto quanto possível, como você se curva para entrar na posição inicial. Pegue o kettlebell e puxe-o para o estômago, retraindo sua omoplata e flexionando o cotovelo. Mantenha as costas retas. Abaixe e repita."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Row/0.jpg",
+    "One-Arm_Kettlebell_Row/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Row"
+}

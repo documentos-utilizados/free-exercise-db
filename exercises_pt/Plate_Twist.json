@@ -1,0 +1,24 @@
+{
+  "name": "Placa Twist",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão ou uma esteira de exercícios com as pernas totalmente estendidas e sua parte superior do corpo ereto. Pegue a placa por seus lados com as duas mãos na frente de seus abdominais com os braços ligeiramente dobrados.",
+    "Atravesse lentamente as pernas perto dos tornozelos e levante-as do chão. Seus joelhos também devem ser dobrados ligeiramente. Nota: Mova sua parte superior do corpo ligeiramente para ajudar a mantê-lo equilibrado girando este exercício. Esta é a posição inicial.",
+    "Mova a placa para o lado esquerdo e toque no chão com ela. Respire enquanto realiza esse movimento.",
+    "Volte para a posição inicial enquanto você respira e repita o movimento, mas desta vez para o lado direito do corpo. Dica: Use um movimento lento controlado em todos os momentos. Movimentos de agitação podem ferir as costas.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Plate_Twist/0.jpg",
+    "Plate_Twist/1.jpg"
+  ],
+  "id": "Plate_Twist"
+}

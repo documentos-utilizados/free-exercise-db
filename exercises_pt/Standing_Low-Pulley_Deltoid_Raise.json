@@ -1,0 +1,27 @@
+{
+  "name": "Levantamento Deltoide de Baixo Pulley",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Comece por ficar no lado direito de uma linha de polia baixa. Use sua mão esquerda para atravessar o corpo e pegar uma única alça presa à polia baixa com um aperto pronado (palmas viradas para baixo). Descanse seu braço na frente de você. Sua mão direita deve agarrar a máquina para melhor suporte e equilíbrio.",
+    "Certifique-se de que suas costas estão eretas e seus pés estão com a largura do ombro separada um do outro. Esta é a posição inicial.",
+    "Comece a usar a mão esquerda e encontre seu corpo até que ele seja elevado à altura do ombro enquanto expira.",
+    "Sinta a contração no topo por um segundo e comece a abaixar lentamente a alça de volta para a posição inicial original enquanto inala.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque os braços e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Low-Pulley_Deltoid_Raise/0.jpg",
+    "Standing_Low-Pulley_Deltoid_Raise/1.jpg"
+  ],
+  "id": "Standing_Low-Pulley_Deltoid_Raise"
+}

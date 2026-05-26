@@ -1,0 +1,26 @@
+{
+  "name": "Imprensa Cubana",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézio"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada mão com uma preensão pronada em uma posição de pé. Levante os braços superiores para que eles fiquem paralelos ao chão, permitindo que seus braços inferiores pendurem na posição de \"assalto\". Esta será sua posição inicial.",
+    "Para iniciar o movimento, gire externamente os ombros para mover o braço superior 180 graus. Mantenha os braços superiores no lugar, girando os braços superiores até que os pulsos estejam diretamente acima dos cotovelos, os antebraços perpendiculares ao chão.",
+    "Agora pressione os halteres, estendendo-se nos cotovelos, endireitando os braços acima.",
+    "Volte para a posição inicial enquanto você respira, invertendo os passos.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cuban_Press/0.jpg",
+    "Cuban_Press/1.jpg"
+  ],
+  "id": "Cuban_Press"
+}

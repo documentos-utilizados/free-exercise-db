@@ -1,0 +1,21 @@
+{
+  "name": "Ajoelhado Forearm Stretch",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece ajoelhando-se em um tapete com as palmas das mãos planas e os dedos apontando para trás em direção aos joelhos.",
+    "Lentamente inclinar para trás mantendo as palmas das mãos planas no chão até que você sinta um estiramento em seus pulsos e antebraços. Segure por 20-30 segundos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Kneeling_Forearm_Stretch/0.jpg",
+    "Kneeling_Forearm_Stretch/1.jpg"
+  ],
+  "id": "Kneeling_Forearm_Stretch"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Incline Inner Biceps Curl",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure um haltere em cada mão e deite-se em um banco inclinado.",
+    "Os halteres devem estar no comprimento do braço pendurado em seus lados e suas palmas devem estar voltadas para fora. Esta será a sua posição inicial.",
+    "Agora, enquanto você expira, enrole o peso para fora e para cima, mantendo seus antebraços alinhados com seus deltóides laterais. Continue a enrolar até que os halteres estejam na altura do ombro e nos lados de seus deltóides. Dica: O final do movimento deve parecer semelhante a uma pose dupla de bíceps.",
+    "Depois de uma segunda contração no topo do movimento, comece a inalar e diminua lentamente os pesos de volta para a posição inicial usando o mesmo caminho usado para trazê-los para cima.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Inner_Biceps_Curl/0.jpg",
+    "Incline_Inner_Biceps_Curl/1.jpg"
+  ],
+  "id": "Incline_Inner_Biceps_Curl"
+}

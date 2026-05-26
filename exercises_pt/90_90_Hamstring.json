@@ -1,0 +1,25 @@
+{
+  "name": "90/90 Cordão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Deite-se de costas, com uma perna estendida para fora.",
+    "Com a outra perna, dobre o quadril e o joelho a 90 graus. Você pode levantar a perna com as mãos, se necessário. Esta será a sua posição inicial.",
+    "Estenda a perna diretamente para o ar, pausando brevemente no topo. Volte a perna para a posição inicial.",
+    "Repita por 10-20 repetições e, em seguida, mude para a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "90_90_Hamstring/0.jpg",
+    "90_90_Hamstring/1.jpg"
+  ],
+  "id": "90_90_Hamstring"
+}

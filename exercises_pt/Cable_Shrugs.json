@@ -1,0 +1,24 @@
+{
+  "name": "Tapetes de cabo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure um acessório de barra de cabo que está ligado a uma polia baixa com uma largura do ombro ou um aperto overhand ligeiramente mais largo (palms voltado para baixo).",
+    "Fique ereto perto da polia com os braços estendidos na frente de você segurando a barra. Esta será a sua posição inicial.",
+    "Levante a barra elevando os ombros o mais alto possível ao expirar. Segure a contração na parte superior por um segundo. Dica: Os braços devem permanecer estendidos em todos os momentos. Abster-se de usar o bíceps para ajudar a levantar a barra. Apenas os ombros devem estar se movendo para cima e para baixo.",
+    "Abaixe a barra de volta para a posição original.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Shrugs/0.jpg",
+    "Cable_Shrugs/1.jpg"
+  ],
+  "id": "Cable_Shrugs"
+}

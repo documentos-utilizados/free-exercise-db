@@ -1,0 +1,23 @@
+{
+  "name": "Dois Braços Dumbbell Preacher Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue um haltere com cada braço e coloque os braços superiores em cima do banco do pregador ou do banco inclinado. O haltere deve ser mantido no comprimento do ombro. Esta será sua posição inicial.",
+    "medida que você respira, abaixe lentamente os halteres até que seu braço esteja estendido e o bíceps esteja totalmente esticado.",
+    "Ao expirar, use o bíceps para enrolar os pesos até que o bíceps esteja totalmente contraído e os halteres estejam na altura do ombro.",
+    "Aperte o bíceps com força por um segundo na posição contraída e repita a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Two-Arm_Dumbbell_Preacher_Curl/0.jpg",
+    "Two-Arm_Dumbbell_Preacher_Curl/1.jpg"
+  ],
+  "id": "Two-Arm_Dumbbell_Preacher_Curl"
+}

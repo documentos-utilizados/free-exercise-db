@@ -1,0 +1,22 @@
+{
+  "name": "Deitado Bent Leg Groin",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os joelhos dobrados e as solas dos pés pressionadas juntas. Faça com que seu parceiro segure os joelhos. Esta será sua posição inicial.",
+    "Tente apertar os joelhos juntos, enquanto seu parceiro impede que qualquer movimento ocorra.",
+    "Após 10-20 segundos, relaxe os músculos enquanto seu parceiro empurra suavemente os joelhos em direção ao chão. Certifique-se de informar seu ajudante quando o alongamento for adequado para evitar lesões ou alongamento excessivo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lying_Bent_Leg_Groin/0.jpg",
+    "Lying_Bent_Leg_Groin/1.jpg"
+  ],
+  "id": "Lying_Bent_Leg_Groin"
+}

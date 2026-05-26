@@ -1,0 +1,30 @@
+{
+  "name": "Agachamentos estreitos",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para fins de segurança. Para começar, primeiro defina a barra em um rack que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando os dois braços de cada lado e levante-a do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura estreita menos do que a largura do ombro com os dedos dos pés ligeiramente apontados. Os pés devem estar em torno de 3-6 polegadas de distância. Mantenha a cabeça erguida o tempo todo (olhar para baixo irá tirá-lo do equilíbrio) e mantenha uma volta reta. Esta será sua posição inicial. (Nota: Para os propósitos desta discussão, usaremos a postura média descrita acima, que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três seções discutidas).",
+    "Comece a abaixar lentamente a barra dobrando os joelhos enquanto você mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e os bezerros se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo paralelamente ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos do pé que são perpendiculares.",
+    "Comece a levantar a barra enquanto expira, empurrando o chão com o calcanhar do pé, principalmente quando você endireitar as pernas novamente e voltar para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Narrow_Stance_Squats/0.jpg",
+    "Narrow_Stance_Squats/1.jpg"
+  ],
+  "id": "Narrow_Stance_Squats"
+}

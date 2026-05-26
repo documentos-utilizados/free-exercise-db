@@ -1,0 +1,24 @@
+{
+  "name": "Tríceps Superiores",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão com seu parceiro atrás de você. Levante um braço para cima e flexione o cotovelo, tentando tocar sua mão nas costas. Seu parner deve segurar seu cotovelo e pulso. Esta será sua posição inicial.",
+    "Tente estender o braço direto para o ar, pois seu parceiro impede que você faça isso.",
+    "Após 10-20 segundos, relaxe o braço e permita que seu parceiro estique ainda mais o tríceps aplicando uma pressão suave no pulso. Segure por 10-20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Overhead_Triceps/0.jpg",
+    "Overhead_Triceps/1.jpg"
+  ],
+  "id": "Overhead_Triceps"
+}

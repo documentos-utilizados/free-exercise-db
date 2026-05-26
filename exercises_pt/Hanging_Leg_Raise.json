@@ -1,0 +1,23 @@
+{
+  "name": "Perna de suspensão Levantar",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pendure a partir de uma barra chin-up com ambos os braços estendidos no comprimento dos braços em cima de você usando um aperto largo ou um aperto médio. As pernas devem ser retas para baixo com a pélvis ligeiramente virada para trás. Esta será a sua posição inicial.",
+    "Levante as pernas até que o tronco faça um ângulo de 90 graus com as pernas. Expire enquanto realiza esse movimento e segure a contração por um segundo ou mais.",
+    "Volte lentamente para a posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Hanging_Leg_Raise/0.jpg",
+    "Hanging_Leg_Raise/1.jpg"
+  ],
+  "id": "Hanging_Leg_Raise"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Rotação de Torso",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de pé segurando uma bola de exercício com as duas mãos. Estenda os braços para que a bola esteja em linha reta na frente de você. Esta será sua posição inicial.",
+    "Gire o tronco para um lado, mantendo os olhos na bola enquanto se move. Agora, gire de volta para a direção oposta. Repita por 10-20 repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Torso_Rotation/0.jpg",
+    "Torso_Rotation/1.jpg"
+  ],
+  "id": "Torso_Rotation"
+}

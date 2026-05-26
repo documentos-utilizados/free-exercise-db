@@ -1,0 +1,28 @@
+{
+  "name": "Relógio Push-Up",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Mova-se para uma posição propensa no chão, apoiando seu peso em suas mãos e dedos dos pés.",
+    "Seus braços devem ser totalmente estendidos com as mãos ao redor da largura do ombro. Mantenha seu corpo reto durante todo o movimento. Esta será sua posição inicial.",
+    "Desça flexionando-se no cotovelo, baixando o peito em direção ao chão.",
+    "Na parte inferior, reverta o movimento empurrando-se para cima através da extensão do cotovelo o mais rápido possível até que você seja transportado pelo ar. Aponte para \"pular\" 12-18 polegadas para um lado.",
+    "medida que você acelera, mova seu pé para fora de sua direção de viagem. Deixando o chão, mude seu corpo cerca de 30 graus para a próxima repetição.",
+    "Volte para a posição inicial e repita o exercício, trabalhando todo o caminho até que você esteja de volta onde você começou."
+  ],
+  "category": "strength",
+  "images": [
+    "Clock_Push-Up/0.jpg",
+    "Clock_Push-Up/1.jpg"
+  ],
+  "id": "Clock_Push-Up"
+}

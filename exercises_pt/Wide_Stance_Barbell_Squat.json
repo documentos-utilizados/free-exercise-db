@@ -1,0 +1,30 @@
+{
+  "name": "Barbell Squat",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para fins de segurança. Para começar, primeiro defina a barra em um rack que melhor corresponda à sua altura. Uma vez que a altura correta é escolhida e a barra é carregada, pise sob a barra e coloque a parte de trás de seus ombros (ligeiramente abaixo do pescoço) através dela.",
+    "Segure a barra usando os dois braços de cada lado e levante-a do rack, primeiro empurrando com as pernas e, ao mesmo tempo, endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura mais larga do que a largura do ombro com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o deixará desequilibrado e também manterá as costas retas. Esta será sua posição inicial.",
+    "Comece a abaixar lentamente a barra dobrando os joelhos enquanto você mantém uma postura reta com a cabeça para cima. Continue para baixo até que o ângulo entre a perna superior e os bezerros se torne ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo paralelamente ao chão). Inspire enquanto você executa essa parte do movimento. Dica: Se você realizou o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos do pé que são perpendiculares.",
+    "Comece a levantar a barra enquanto você expira, empurrando o chão com o calcanhar do pé enquanto você endireita as pernas novamente e volta para a posição inicial.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Wide_Stance_Barbell_Squat/0.jpg",
+    "Wide_Stance_Barbell_Squat/1.jpg"
+  ],
+  "id": "Wide_Stance_Barbell_Squat"
+}

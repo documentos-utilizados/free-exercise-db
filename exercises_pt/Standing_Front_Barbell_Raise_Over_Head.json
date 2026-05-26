@@ -1,0 +1,24 @@
+{
+  "name": "Barra dianteira de pé levanta-se sobre a cabeça",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, fique em linha reta com uma barra nas mãos. Você deve segurar a barra com as palmas voltadas para baixo e uma aderência mais próxima do que a largura do ombro.",
+    "Seus pés devem ser largura do ombro para além um do outro. Seus cotovelos devem ser ligeiramente dobrados. Esta é a posição inicial.",
+    "Levante a barra até que esteja diretamente sobre a cabeça enquanto expira. Certifique-se de manter os cotovelos ligeiramente dobrados ao realizar cada repetição.",
+    "Uma vez que você sentir a contração, comece a abaixar a barra de volta para a posição inicial à medida que você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Front_Barbell_Raise_Over_Head/0.jpg",
+    "Standing_Front_Barbell_Raise_Over_Head/1.jpg"
+  ],
+  "id": "Standing_Front_Barbell_Raise_Over_Head"
+}

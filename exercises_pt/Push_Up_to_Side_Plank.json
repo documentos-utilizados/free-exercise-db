@@ -1,0 +1,28 @@
+{
+  "name": "Empurre para cima para a prancha lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Entre em posição de flexão nos dedos dos pés com as mãos fora da largura do ombro.",
+    "Execute uma flexão, permitindo que os cotovelos flexionem.  medida que você desce, mantenha seu corpo reto.",
+    "Faça um push-up e, à medida que você sobe, mude seu peso no lado esquerdo do corpo, gire para o lado enquanto leva o braço direito para o teto em uma prancha lateral.",
+    "Abaixe o braço de volta para o chão para outra flexão e, em seguida, torça para o outro lado.",
+    "Repita a série, alternando cada lado, por 10 ou mais repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Push_Up_to_Side_Plank/0.jpg",
+    "Push_Up_to_Side_Plank/1.jpg"
+  ],
+  "id": "Push_Up_to_Side_Plank"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Split Snatch",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada no chão. A barra deve estar perto ou tocando as canelas, e uma grande aderência deve ser tomada na barra. Os pés devem estar diretamente abaixo dos quadris, com os pés virados conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça olhando para frente. Os ombros devem estar bem na frente da barra. Esta será a posição inicial.",
+    "Comece a primeira tração dirigindo pela frente dos calcanhares, levantando a barra do chão. O ângulo de trás deve permanecer o mesmo até que a barra passe pelos joelhos.",
+    "Transição para a segunda tração, estendendo-se através dos joelhos e tornozelos dos quadris, dirigindo a barra para cima o mais rápido possível. A barra deve estar perto do corpo. Na extensão de pico, encolher os ombros e permitir que os cotovelos se flexionem para o lado.",
+    "medida que você move os pés para a posição de recepção, puxe-se vigorosamente abaixo da barra enquanto você eleva a barra acima. Os pés devem mover-se vigorosamente para uma posição dividida, um pé para a frente um pé para trás. Receba a barra com o seu corpo o mais baixo possível e os braços totalmente estendidos acima.",
+    "Mantendo a barra alinhada sobre a frente dos calcanhares, sua cabeça e peito para cima, dirija através dos calcanhares dos pés para se mover para uma posição de pé, trazendo os pés juntos.",
+    "Devolva cuidadosamente o peso ao chão."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Split_Snatch/0.jpg",
+    "Split_Snatch/1.jpg"
+  ],
+  "id": "Split_Snatch"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Trap Bar Deadlift",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Para este exercício, carregue uma barra de armadilhas, também conhecida como barra hexagonal, com um peso apropriado no chão. Fique no centro do aparelho e segure ambas as alças.",
+    "Abaixe os quadris, olhe para a frente com a cabeça e mantenha o peito para cima.",
+    "Comece o movimento dirigindo pelos calcanhares e estenda os quadris e joelhos. Evite arredondar as costas o tempo todo.",
+    "Após a conclusão do movimento, abaixe o peso de volta ao chão sob controle."
+  ],
+  "category": "strength",
+  "images": [
+    "Trap_Bar_Deadlift/0.jpg",
+    "Trap_Bar_Deadlift/1.jpg"
+  ],
+  "id": "Trap_Bar_Deadlift"
+}

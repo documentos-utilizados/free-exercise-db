@@ -1,0 +1,23 @@
+{
+  "name": "Flye reverso de trenó",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe alças duplas a um trenó conectado por uma corda ou corrente. Carregue o trenó em um peso leve.",
+    "Enfrente o trenó, apoiando-se até que haja alguma tensão na linha. Pegue as duas alças no comprimento dos braços em torno do nível da cintura. Dobre os joelhos ligeiramente e mantenha o peito e a cabeça para cima. Esta será a sua posição inicial.",
+    "Sem flexionar o cotovelo, puxe as alças para cima e para baixo, realizando uma mosca reversa com alguma rotação externa. Suas palmas das mãos devem estar voltadas para a frente enquanto você faz isso.",
+    "Volte para a posição inicial, dando alguns passos para trás para tirar a folga da linha."
+  ],
+  "category": "strength",
+  "images": [
+    "Sled_Reverse_Flye/0.jpg",
+    "Sled_Reverse_Flye/1.jpg"
+  ],
+  "id": "Sled_Reverse_Flye"
+}

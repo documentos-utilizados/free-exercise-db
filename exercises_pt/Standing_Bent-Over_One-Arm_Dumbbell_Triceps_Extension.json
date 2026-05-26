@@ -1,0 +1,27 @@
+{
+  "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extensão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Com um haltere em uma mão e a palma da mão voltada para o tronco, dobre os joelhos ligeiramente e traga o tronco para a frente, dobrando-se na cintura, mantendo as costas retas até que esteja quase paralela ao chão. Certifique-se de manter a cabeça erguida.",
+    "A parte superior do braço deve estar próxima do tronco e paralela ao chão, enquanto o antebraço está apontando para o chão, pois a mão segura o peso. Dica: Deve haver um ângulo de 90 graus entre o antebraço e a parte superior do braço. Esta é a sua posição inicial.",
+    "Mantendo os braços superiores estacionários, use o tríceps para levantar os pesos enquanto expira até que os antebraços estejam paralelos ao chão e todo o braço seja estendido. Como muitos outros exercícios do braço, apenas o antebraço se move.",
+    "Depois de uma segunda contração no topo, abaixe lentamente o haltere de volta para a posição inicial à medida que você inala.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Troque os braços e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
+}

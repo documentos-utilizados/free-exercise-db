@@ -1,0 +1,24 @@
+{
+  "name": "Um braço Dumbbell Preacher Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue um haltere com o braço direito e coloque o braço superior em cima do banco do pregador ou do banco inclinado. O haltere deve ser mantido no comprimento do ombro. Esta será sua posição inicial.",
+    "medida que você respira, abaixe lentamente o haltere até que seu braço esteja estendido e o bíceps esteja totalmente esticado.",
+    "medida que você expira, use o bíceps para enrolar o peso até que seu bíceps esteja totalmente contraído e o haltere esteja na altura do ombro. Novamente, lembre-se de que, para garantir a contração total, você precisa trazer esse pequeno dedo mais alto do que o polegar.",
+    "Aperte o bíceps com força por um segundo na posição contraída e repita a quantidade recomendada de repetições.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Arm_Dumbbell_Preacher_Curl/0.jpg",
+    "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
+  ],
+  "id": "One_Arm_Dumbbell_Preacher_Curl"
+}

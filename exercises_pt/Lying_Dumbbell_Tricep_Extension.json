@@ -1,0 +1,26 @@
+{
+  "name": "Deitado Dumbbell Tricep Extensão",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano enquanto segura dois halteres diretamente na sua frente. Seus braços devem ser totalmente estendidos em um ângulo de 90 graus do seu tronco e do chão. As palmas das mãos devem estar viradas para dentro e os cotovelos devem estar dobrados. Esta é a posição inicial.",
+    "medida que você respira e mantém os braços parados com os cotovelos, diminua lentamente o peso até que os halteres estejam perto de suas orelhas.",
+    "Nesse ponto, mantendo os cotovelos e os braços parados, use o tríceps para trazer o peso de volta para a posição inicial à medida que você expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Dumbbell_Tricep_Extension/0.jpg",
+    "Lying_Dumbbell_Tricep_Extension/1.jpg"
+  ],
+  "id": "Lying_Dumbbell_Tricep_Extension"
+}

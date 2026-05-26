@@ -1,0 +1,24 @@
+{
+  "name": "Shrug limpo",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece com uma largura do ombro, punho de mão ou gancho duplo, com a barra pendurada na posição central da coxa. Suas costas devem estar retas e inclinadas ligeiramente para a frente.",
+    "Enrole os ombros em direção aos ouvidos. Enquanto este exercício geralmente pode ser carregado com peso mais pesado do que uma limpeza, evite sobrecarregar a ponto de a execução desacelerar."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Clean_Shrug/0.jpg",
+    "Clean_Shrug/1.jpg"
+  ],
+  "id": "Clean_Shrug"
+}

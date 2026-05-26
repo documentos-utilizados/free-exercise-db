@@ -1,0 +1,30 @@
+{
+  "name": "One-Arm Dumbbell Row",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Escolha um banco plano e coloque um haltere em cada lado dele.",
+    "Coloque a perna direita em cima da extremidade do banco, dobre o tronco para a frente da cintura até que sua parte superior do corpo esteja paralela ao chão e coloque a mão direita na outra extremidade do banco para apoio.",
+    "Use a mão esquerda para pegar o haltere no chão e segure o peso enquanto mantém sua parte inferior das costas reta. A palma da mão deve estar voltada para o seu tronco. Esta será sua posição inicial.",
+    "Puxe a resistência diretamente para o lado do peito, mantendo o braço superior perto de seu lado e mantendo o tronco parado. Respire para fora enquanto você executa este passo. Dica: Concentre-se em apertar os músculos das costas uma vez que você atingir a posição contratada completa. Além disso, certifique-se de que a força é realizada com os músculos das costas e não os braços. Finalmente, o tronco superior deve permanecer parado e apenas os braços devem se mover. Os antebraços não devem se mover.",
+    "Reduza a resistência diretamente para a posição inicial. Respire enquanto executa este passo.",
+    "Repita o movimento para a quantidade especificada de repetições.",
+    "Alterne os lados e repita novamente com o outro braço."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Dumbbell_Row/0.jpg",
+    "One-Arm_Dumbbell_Row/1.jpg"
+  ],
+  "id": "One-Arm_Dumbbell_Row"
+}

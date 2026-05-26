@@ -1,0 +1,28 @@
+{
+  "name": "Landmine 180's",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Posicione uma barra em uma mina terrestre ou ancore-a com segurança em um canto. Carregue a barra com um peso apropriado.",
+    "Levante a barra do chão, levando-a para a altura do ombro com as duas mãos com os braços estendidos na frente de você. Adote uma postura ampla. Esta será a sua posição inicial.",
+    "Execute o movimento girando o tronco e os quadris enquanto você balança o peso até um lado. Mantenha os braços estendidos durante todo o exercício.",
+    "Inverta o movimento para balançar o peso todo o caminho para o lado oposto.",
+    "Continue alternando o movimento até que o conjunto esteja completo."
+  ],
+  "category": "strength",
+  "images": [
+    "Landmine_180s/0.jpg",
+    "Landmine_180s/1.jpg"
+  ],
+  "id": "Landmine_180s"
+}

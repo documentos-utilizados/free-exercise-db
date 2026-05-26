@@ -1,0 +1,18 @@
+{
+  "name": "Lado Jackknife",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [],
+  "category": "strength",
+  "images": [
+    "Side_Jackknife/0.jpg",
+    "Side_Jackknife/1.jpg"
+  ],
+  "id": "Side_Jackknife"
+}

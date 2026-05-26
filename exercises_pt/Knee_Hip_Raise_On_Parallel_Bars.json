@@ -1,0 +1,24 @@
+{
+  "name": "Joelho / Hip Raise em barras paralelas",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione seu corpo no banco vertical de elevação da perna para que seus antebraços estejam descansando nas almofadas ao lado do tronco e segurando as alças. Seus braços serão dobrados em um ângulo de 90 graus.",
+    "O tronco deve ser reto com a parte inferior das costas pressionada contra a almofada da máquina e as pernas estendidas apontando para o chão. Esta será a sua posição inicial.",
+    "Agora, à medida que você expira, levante as pernas enquanto as mantém estendidas. Continue esse movimento até que suas pernas estejam aproximadamente paralelas ao chão e, em seguida, segure a contração por um segundo. Dica: Não use nenhum impulso ou balanço enquanto realiza este exercício.",
+    "Lentamente, volte para a posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
+    "Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
+  ],
+  "id": "Knee_Hip_Raise_On_Parallel_Bars"
+}

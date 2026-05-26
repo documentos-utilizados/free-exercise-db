@@ -1,0 +1,27 @@
+{
+  "name": "See-Saw Press (Imprensa lateral alternativa)",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue um haltere com cada mão e levante-se.",
+    "Limpe (eleva) os halteres para o nível do peito / ombro e, em seguida, gire os pulsos para que suas palmas estejam voltadas para você como se estivesse se preparando para realizar uma Arnold Press. Esta será sua posição inicial.",
+    "Agora comece a estender a cabeça do braço esquerdo enquanto você gira o pulso para que a palma da sua mão fique voltada para a frente enquanto você sobe. Seus cotovelos devem sair também enquanto você levanta o peso. Simultaneamente, você também estará se dobrando do quadril para o lado oposto. Dica: Se você realizar o exercício corretamente, deve olhar como se estivesse tentando alcançar algo no lado direito do seu corpo, mas com o braço esquerdo. Respire.",
+    "Depois de chegar à posição superior, inspire. Então, com o peso totalmente estendido acima e você se inclinou para o lado direito, comece o movimento para o lado esquerdo.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "See-Saw_Press_Alternating_Side_Press/0.jpg",
+    "See-Saw_Press_Alternating_Side_Press/1.jpg"
+  ],
+  "id": "See-Saw_Press_Alternating_Side_Press"
+}

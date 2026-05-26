@@ -1,0 +1,24 @@
+{
+  "name": "Pendurado Pike",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pendure a partir de uma barra chin-up com as pernas e os pés juntos usando um aperto de mão (palmas viradas para longe de você) que é ligeiramente mais largo do que a largura do ombro. Dica: Você pode usar envoltórios de pulso, a fim de facilitar a fixação na barra.",
+    "Agora dobre os joelhos em um ângulo de 90 graus e trazer as pernas para a frente para que os bezerros são perpendiculares ao chão, enquanto as coxas permanecem paralelas a ele. Esta será a sua posição inicial.",
+    "Puxe as pernas para cima enquanto expira até quase tocar as canelas com a barra acima de você. Dica: Tente endireitar as pernas o máximo possível enquanto estiver no topo.",
+    "Abaixe as pernas o mais lentamente possível até chegar à posição inicial. Dica: Evite balançar e usar o momento em todos os momentos.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Hanging_Pike/0.jpg",
+    "Hanging_Pike/1.jpg"
+  ],
+  "id": "Hanging_Pike"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Máquina Bicep Curl",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o assento à altura apropriada e faça sua seleção de peso. Coloque seus braços superiores contra as almofadas e segure as alças. Esta será sua posição inicial.",
+    "Execute o movimento flexionando o cotovelo, puxando o braço inferior em direção ao braço superior.",
+    "Pausa na parte superior do movimento e, em seguida, retornar lentamente o peso para a posição inicial.",
+    "Evite devolver o peso até as paradas até que o conjunto esteja completo para manter a tensão sobre os músculos que estão sendo trabalhados."
+  ],
+  "category": "strength",
+  "images": [
+    "Machine_Bicep_Curl/0.jpg",
+    "Machine_Bicep_Curl/1.jpg"
+  ],
+  "id": "Machine_Bicep_Curl"
+}

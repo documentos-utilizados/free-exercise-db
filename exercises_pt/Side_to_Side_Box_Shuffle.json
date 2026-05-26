@@ -1,0 +1,27 @@
+{
+  "name": "Lado a lado Box Shuffle",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Fique em um lado da caixa com o pé esquerdo no meio dela.",
+    "Para começar, pule para cima e para o outro lado da caixa, pousando com o pé direito em cima da caixa e o pé esquerdo no chão. Balançar os braços para ajudar o seu movimento.",
+    "Continue embaralhando para frente e para trás através da caixa."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Side_to_Side_Box_Shuffle/0.jpg",
+    "Side_to_Side_Box_Shuffle/1.jpg"
+  ],
+  "id": "Side_to_Side_Box_Shuffle"
+}

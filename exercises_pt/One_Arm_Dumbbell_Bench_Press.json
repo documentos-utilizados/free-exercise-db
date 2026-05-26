@@ -1,0 +1,29 @@
+{
+  "name": "Um braço Dumbbell Bench Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em uma mão em cima de sua coxa.",
+    "Usando sua coxa para ajudá-lo a obter o haltere para cima, limpe o haltere para que você possa segurá-lo na frente de você na largura do ombro. Use a mão que você não está levantando para ajudar a posicionar o haltere sobre você corretamente.",
+    "Uma vez na largura do ombro, gire o pulso para a frente para que a palma da sua mão esteja voltada para longe de você. Esta será sua posição inicial.",
+    "Traga os pesos lentamente para o seu lado enquanto você respira. Mantenha o controle total do haltere em todos os momentos. Dica: Use a mão com a qual você não está levantando para ajudar a manter o equilíbrio do haltere, pois você pode lutar um pouco no início. Use apenas sua mão não-levantadora, se for necessário. Caso contrário, mantenha-a descansando para o lado.",
+    "medida que você expira, empurre os halteres para cima usando seus músculos peitorais. Tranque os braços na posição contraída, esprema o peito, segure por um segundo e comece a descer lentamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições do seu programa de treinamento.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Arm_Dumbbell_Bench_Press/0.jpg",
+    "One_Arm_Dumbbell_Bench_Press/1.jpg"
+  ],
+  "id": "One_Arm_Dumbbell_Bench_Press"
+}

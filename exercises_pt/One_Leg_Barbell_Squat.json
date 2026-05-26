@@ -1,0 +1,30 @@
+{
+  "name": "Uma perna Barbell Squat",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Comece por ficar cerca de 2 a 3 pés na frente de um banco plano com as costas viradas para o banco. Tenha uma barra na frente de você no chão. Dica: Seus pés devem ser largura do ombro para além um do outro.",
+    "Dobre os joelhos e use um aperto pronado com as mãos sendo mais largas do que a largura do ombro para levantar a barra até que você possa descansar em seu peito.",
+    "Em seguida, levante a barra sobre a cabeça e descanse-a na base do pescoço. Mova um pé para trás para que o dedo do pé esteja descansando no banco plano. Seu outro pé deve estar parado na sua frente. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o deixará desequilibrado e também manterá as costas retas. Dica: Certifique-se de que suas costas estejam retas e o peito esteja fora durante a realização deste exercício.",
+    "medida que você inala, abaixe lentamente a perna até que sua coxa esteja paralela ao chão. Neste ponto, seu joelho deve estar sobre os dedos dos pés. Seu peito deve estar diretamente acima do meio da coxa.",
+    "Liderando com o peito e quadris e contraindo o quadríceps, eleve sua perna de volta à posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque as pernas e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Leg_Barbell_Squat/0.jpg",
+    "One_Leg_Barbell_Squat/1.jpg"
+  ],
+  "id": "One_Leg_Barbell_Squat"
+}

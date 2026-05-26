@@ -1,0 +1,24 @@
+{
+  "name": "Barbell Curl em pé de grande aderência",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Levante-se com o tronco na posição vertical enquanto segura uma barra na larga alça externa. A palma das suas mãos deve estar voltada para a frente. Os cotovelos devem estar perto do tronco. Esta será a sua posição inicial.",
+    "Enquanto segura os braços parados, enrole os pesos para a frente enquanto contrai o bíceps enquanto expira. Dica: Apenas os antebraços devem se mover.",
+    "Continue o movimento até que seu bíceps esteja totalmente contraído e a barra esteja no nível do ombro. Mantenha a posição contraída por um segundo e esprema o bíceps com força.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto respira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Wide-Grip_Standing_Barbell_Curl/0.jpg",
+    "Wide-Grip_Standing_Barbell_Curl/1.jpg"
+  ],
+  "id": "Wide-Grip_Standing_Barbell_Curl"
+}

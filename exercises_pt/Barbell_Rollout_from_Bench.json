@@ -1,0 +1,27 @@
+{
+  "name": "Barbell Rollout em Bench",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "isquiotibiais",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque uma barra carregada no chão, perto do final de um banco. Ajoelhe-se com as duas pernas no banco e tome um aperto médio a estreito na barra. Esta será sua posição inicial.",
+    "Para começar, estenda-se através dos quadris para rolar lentamente a barra para a frente. Ao rolar, flexione o ombro para rolar a barra acima da cabeça. Certifique-se de que seus braços permaneçam estendidos durante todo o movimento.",
+    "Quando a barra for movida o mais longe possível, retorne à posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Rollout_from_Bench/0.jpg",
+    "Barbell_Rollout_from_Bench/1.jpg"
+  ],
+  "id": "Barbell_Rollout_from_Bench"
+}

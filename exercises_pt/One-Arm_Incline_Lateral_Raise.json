@@ -1,0 +1,25 @@
+{
+  "name": "Aumento lateral de inclinação de um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado em um supino inclinado com um haltere na mão. Certifique-se de que o ombro esteja pressionando contra o supino inclinado e que o braço esteja deitado em todo o corpo com a palma ao redor do umbigo.",
+    "Segure um haltere em seu braço superior, mantendo-o estendido na frente de você paralelo ao chão. Esta é a sua posição inicial.",
+    "Enquanto mantém o haltere paralelo ao chão em todos os momentos, realize um aumento lateral. Seu braço deve viajar direto para cima até que esteja apontando para o teto. Dica: Exale enquanto realiza esse movimento. Segure o haltere na posição e sinta a contração nos ombros por um segundo.",
+    "Enquanto inalar diminuir o peso em todo o seu corpo de volta para a posição inicial.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Incline_Lateral_Raise/0.jpg",
+    "One-Arm_Incline_Lateral_Raise/1.jpg"
+  ],
+  "id": "One-Arm_Incline_Lateral_Raise"
+}

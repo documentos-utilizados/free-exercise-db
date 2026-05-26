@@ -1,0 +1,29 @@
+{
+  "name": "Bench Press - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Usando um banco plano, prenda uma faixa sob a perna do banco que está mais perto de sua cabeça.",
+    "Uma vez que a banda está segura, agarre-a por ambas as alças e deite-se no banco.",
+    "Estenda os braços para que você esteja segurando as alças da banda na sua frente na largura do ombro.",
+    "Uma vez na largura do ombro, gire os pulsos para a frente para que as palmas das mãos estejam voltadas para longe de você. Esta será sua posição inicial.",
+    "Abaixe as alças lentamente até que o cotovelo forme um ângulo de 90 graus. Mantenha o controle total em todos os momentos.",
+    "medida que você expira, traga as alças usando seus músculos peitorais. Tranque os braços na posição contraída, esprema o peito, segure por um segundo e comece a descer lentamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "strength",
+  "images": [
+    "Bench_Press_-_With_Bands/0.jpg",
+    "Bench_Press_-_With_Bands/1.jpg"
+  ],
+  "id": "Bench_Press_-_With_Bands"
+}

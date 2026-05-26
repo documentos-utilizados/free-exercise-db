@@ -1,0 +1,28 @@
+{
+  "name": "Muscle Snatch",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada na posição média da coxa com uma grande aderência. Os pés devem estar diretamente abaixo dos quadris, com os pés virados para fora conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça olhando para a frente. Os ombros devem estar bem na frente da barra. Esta será a posição inicial.",
+    "Comece a puxar dirigindo pela frente dos calcanhares, levantando a barra. Transição para a segunda tração, estendendo-se através dos joelhos e tornozelos dos quadris, dirigindo a barra para cima o mais rápido possível. A barra deve estar perto do corpo.",
+    "Continue elevando a barra para a posição superior, sem redobrar os joelhos."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Muscle_Snatch/0.jpg",
+    "Muscle_Snatch/1.jpg"
+  ],
+  "id": "Muscle_Snatch"
+}

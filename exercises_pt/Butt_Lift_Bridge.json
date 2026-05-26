@@ -1,0 +1,24 @@
+{
+  "name": "Butt Lift (Ponte)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "isquiotibiais"
+  ],
+  "instructions": [
+    "Deite-se no chão de costas com as mãos ao seu lado e os joelhos dobrados. Seus pés devem ser colocados em torno da largura do ombro. Esta será a sua posição inicial.",
+    "Empurrando principalmente com os calcanhares, levante os quadris do chão enquanto mantém as costas retas. Respire enquanto realiza essa parte do movimento e segure no topo por um segundo.",
+    "Lentamente, volte para a posição inicial enquanto respira."
+  ],
+  "category": "strength",
+  "images": [
+    "Butt_Lift_Bridge/0.jpg",
+    "Butt_Lift_Bridge/1.jpg"
+  ],
+  "id": "Butt_Lift_Bridge"
+}

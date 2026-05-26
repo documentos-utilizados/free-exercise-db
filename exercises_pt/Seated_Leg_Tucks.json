@@ -1,0 +1,23 @@
+{
+  "name": "Assento Perna Tucks",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco com as pernas estendidas na frente de você ligeiramente abaixo do paralelo e seus braços segurando para os lados do banco. Seu tronco deve estar inclinado para trás em torno de um ângulo de 45 graus do banco. Esta será a sua posição inicial.",
+    "Traga os joelhos em direção a você enquanto você move seu tronco mais perto deles ao mesmo tempo. Respire enquanto você executa esse movimento.",
+    "Depois de uma segunda pausa, volte para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Leg_Tucks/0.jpg",
+    "Seated_Leg_Tucks/1.jpg"
+  ],
+  "id": "Seated_Leg_Tucks"
+}

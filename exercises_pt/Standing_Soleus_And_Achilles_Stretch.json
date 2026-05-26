@@ -1,0 +1,21 @@
+{
+  "name": "Soleus de pé e estiramento de Aquiles",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique com os pés afastados, um pé ligeiramente na frente do outro.",
+    "Dobre os dois joelhos, mantendo o calcanhar no chão."
+  ],
+  "category": "stretching",
+  "images": [
+    "Standing_Soleus_And_Achilles_Stretch/0.jpg",
+    "Standing_Soleus_And_Achilles_Stretch/1.jpg"
+  ],
+  "id": "Standing_Soleus_And_Achilles_Stretch"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Rickshaw Deadlift",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio"
+  ],
+  "instructions": [
+    "Carregue o quadro com o peso desejado. Concentre-se entre as alças. Seus pés devem estar separados pela largura do quadril. Dobre os quadris para segurar as alças, permitindo que suas omoplatas se protraiam.",
+    "Com os pés e o aperto ajustados, respire fundo e, em seguida, abaixe os quadris e flexione os joelhos. Olhe para a frente com a cabeça, mantenha o peito para cima e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima.  medida que o peso sobe, puxe as omoplatas juntas enquanto dirige os quadris para frente.",
+    "Abaixe o peso dobrando-se nos quadris e guiando-o até o chão."
+  ],
+  "category": "strongman",
+  "images": [
+    "Rickshaw_Deadlift/0.jpg",
+    "Rickshaw_Deadlift/1.jpg"
+  ],
+  "id": "Rickshaw_Deadlift"
+}

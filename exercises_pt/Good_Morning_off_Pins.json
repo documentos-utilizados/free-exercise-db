@@ -1,0 +1,25 @@
+{
+  "name": "Bom dia fora Pins",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra em um rack com aproximadamente a mesma altura que o estômago. Dobre-se debaixo da barra e amarre a barra na parte traseira dos ombros como se fosse um agachamento de energia, não em cima dos ombros. Na altura adequada, você deve estar quase paralelo ao chão quando dobrado. Mantenha as costas apertadas, as omoplatas apertadas juntas e os joelhos ligeiramente dobrados. Mantenha as costas arqueadas e a coluna cervical em alinhamento adequado.",
+    "Comece o movimento estendendo-se através dos quadris com seus glúteos e isquiotibiais, e você está em pé com o peso. Lentamente abaixe o peso de volta para os pinos retornando à posição inicial."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Good_Morning_off_Pins/0.jpg",
+    "Good_Morning_off_Pins/1.jpg"
+  ],
+  "id": "Good_Morning_off_Pins"
+}

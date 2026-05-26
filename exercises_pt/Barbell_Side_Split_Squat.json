@@ -1,0 +1,27 @@
+{
+  "name": "Barbell lado Split Squat",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "isquiotibiais",
+    "lombar"
+  ],
+  "instructions": [
+    "Levante-se em linha reta enquanto segura uma barra colocada na parte de trás dos ombros (ligeiramente abaixo do pescoço). Seus pés devem ser colocados bem afastados com o pé da perna de chumbo inclinado para o lado. Esta será sua posição inicial.",
+    "Abaixe o corpo em direção ao lado do pé inclinado, dobrando o joelho e o quadril da perna de chumbo e mantendo a perna oposta apenas ligeiramente dobrada. Respire enquanto você baixa o corpo.",
+    "Volte para a posição inicial, estendendo o quadril e o joelho da perna de chumbo. Respire enquanto realiza este movimento.",
+    "Depois de realizar a quantidade recomendada de repetições, repita o movimento com a perna oposta."
+  ],
+  "category": "strength",
+  "images": [
+    "Barbell_Side_Split_Squat/0.jpg",
+    "Barbell_Side_Split_Squat/1.jpg"
+  ],
+  "id": "Barbell_Side_Split_Squat"
+}

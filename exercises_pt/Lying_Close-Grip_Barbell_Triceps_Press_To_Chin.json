@@ -1,0 +1,24 @@
+{
+  "name": "Deitado Close-Grip Barbell Triceps Pressione para Chin",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra W",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto segura uma barra ou barra EZ Curl com uma preensão pronada (palmas voltadas para a frente), deite-se de costas em um banco plano com a cabeça fora da extremidade do banco. Dica: Se você estiver segurando uma barra agarre-a usando uma alça de largura de ombro e se estiver usando uma barra E-Z, agarre-a nas alças internas.",
+    "Estenda os braços à sua frente enquanto segura a barra sobre o peito. Os braços devem ser perpendiculares ao seu tronco (ângulo de 90 graus). Esta será a sua posição inicial.",
+    "medida que você inala, abaixe a barra em um movimento semicircular, dobrando-se nos cotovelos e mantendo o braço parado e os cotovelos. Continue baixando a barra até tocar levemente o queixo.",
+    "Como você exalar trazer a barra de volta para a posição inicial, empurrando a barra para cima em um movimento semi-circular. Contrate o tríceps duro na parte superior do movimento por um segundo. Dica: Mais uma vez, apenas os antebraços devem se mover. Os braços superiores devem permanecer estacionários em todos os momentos.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/0.jpg",
+    "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/1.jpg"
+  ],
+  "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin"
+}

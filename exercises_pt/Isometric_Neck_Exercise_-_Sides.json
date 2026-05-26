@@ -1,0 +1,24 @@
+{
+  "name": "Exercício isométrico do pescoço - Lados",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Com a cabeça e o pescoço em uma posição neutra (posição normal com a cabeça ereta virada para a frente), coloque a mão esquerda no lado esquerdo da cabeça.",
+    "Agora empurre suavemente para a esquerda enquanto contrai os músculos do pescoço esquerdo, mas resistindo a qualquer movimento de sua cabeça. Comece com tensão lenta e aumente lentamente. Continue respirando normalmente enquanto executa essa contração.",
+    "Segure o número recomendado de segundos.",
+    "Agora libere a tensão lentamente.",
+    "Descanse pela quantidade recomendada de tempo e repita com a mão direita colocada no lado direito da cabeça."
+  ],
+  "category": "strength",
+  "images": [
+    "Isometric_Neck_Exercise_-_Sides/0.jpg",
+    "Isometric_Neck_Exercise_-_Sides/1.jpg"
+  ],
+  "id": "Isometric_Neck_Exercise_-_Sides"
+}

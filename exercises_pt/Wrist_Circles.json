@@ -1,0 +1,22 @@
+{
+  "name": "Círculos de pulso",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece por ficar em linha reta com os pés sendo largura do ombro separados uns dos outros. Eleve os braços para o lado de você até que eles estejam totalmente estendidos e paralelos ao chão a uma altura que esteja uniformemente alinhada com os ombros. Dica: Seu tronco e braços devem formar a letra \"T: Suas palmas das mãos devem estar voltadas para baixo. Esta é a posição inicial.",
+    "Mantendo todo o seu corpo parado, exceto para os pulsos, comece a girar os dois pulsos para a frente em um movimento circular. Dica: Finja que você está tentando desenhar círculos usando suas mãos como escova. Respire normalmente enquanto realiza este exercício.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "stretching",
+  "images": [
+    "Wrist_Circles/0.jpg",
+    "Wrist_Circles/1.jpg"
+  ],
+  "id": "Wrist_Circles"
+}

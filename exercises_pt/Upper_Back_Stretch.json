@@ -1,0 +1,22 @@
+{
+  "name": "Esticamento superior das costas",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "costas (meio)"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Feche os dedos junto com os polegares apontando para baixo, ao redor dos ombros enquanto você alcança as mãos para a frente."
+  ],
+  "category": "stretching",
+  "images": [
+    "Upper_Back_Stretch/0.jpg",
+    "Upper_Back_Stretch/1.jpg"
+  ],
+  "id": "Upper_Back_Stretch"
+}

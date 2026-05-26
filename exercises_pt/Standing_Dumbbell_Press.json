@@ -1,0 +1,24 @@
+{
+  "name": "Standing Dumbbell Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé com a largura do ombro dos pés separados, pegue um haltere em cada mão. Levante os halteres para a altura da cabeça, os cotovelos para fora e cerca de 90 graus. Esta será a sua posição inicial.",
+    "Mantendo técnica rigorosa, sem movimentação de perna ou inclinando-se para trás, estender através do cotovelo para levantar os pesos juntos diretamente acima de sua cabeça.",
+    "Pausa, e lentamente retornar o peso para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Dumbbell_Press/0.jpg",
+    "Standing_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Press"
+}

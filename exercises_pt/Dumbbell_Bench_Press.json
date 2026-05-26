@@ -1,0 +1,27 @@
+{
+  "name": "Dumbbell Bench Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em cada mão descansando em cima de suas coxas. As palmas das suas mãos estarão viradas uma para a outra.",
+    "Em seguida, usando suas coxas para ajudar a levantar os halteres, levante os halteres um de cada vez para que você possa segurá-los na frente de você na largura do ombro.",
+    "Uma vez na largura do ombro, gire os pulsos para a frente para que as palmas das mãos estejam voltadas para longe de você. Os halteres devem estar apenas nos lados do peito, com o braço e o antebraço criando um ângulo de 90 graus. Certifique-se de manter o controle total dos halteres em todos os momentos. Esta será sua posição inicial.",
+    "Em seguida, à medida que você expira, use o peito para empurrar os halteres para cima. Tranque os braços no topo do elevador e esprema o peito, segure por um segundo e comece a descer lentamente. Dica: Idealmente, diminuir o peso deve levar cerca de duas vezes mais tempo do que elevá-lo.",
+    "Repita o movimento para a quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Bench_Press/0.jpg",
+    "Dumbbell_Bench_Press/1.jpg"
+  ],
+  "id": "Dumbbell_Bench_Press"
+}

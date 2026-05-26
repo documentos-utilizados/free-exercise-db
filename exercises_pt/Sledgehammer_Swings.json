@@ -1,0 +1,29 @@
+{
+  "name": "Sledgehammer Swings",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "dorsais",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Você vai precisar de um pneu e um trenó para este exercício. Fique na frente do pneu a cerca de dois metros de distância com uma posição escalonada. Segure o trenó.",
+    "Se você for destro, sua mão esquerda deve estar na parte inferior da alça, e sua mão direita deve estar engasgando mais perto da cabeça.",
+    "Como você trazer o trenó para cima, sua mão direita desliza em direção à cabeça; como você balançar para baixo, sua mão direita vai deslizar para baixo para se juntar a sua mão esquerda. Slam-lo para baixo o mais difícil possível contra o pneu. Controle o salto do martelo fora do pneu.",
+    "Repita do outro lado."
+  ],
+  "category": "plyometrics",
+  "images": [
+    "Sledgehammer_Swings/0.jpg",
+    "Sledgehammer_Swings/1.jpg"
+  ],
+  "id": "Sledgehammer_Swings"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Triceps reverso Bench Press",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano. Usando um aperto próximo e supinado (em torno da largura do ombro), levante a barra do rack e segure-a diretamente sobre você com os braços fechados estendidos na sua frente e perpendicular ao chão. Esta será sua posição inicial.",
+    "medida que você respira, desça lentamente até sentir a barra no peito médio. Dica: Certifique-se de que, ao contrário de um supino regular, você mantenha os cotovelos perto do tronco em todos os momentos, a fim de maximizar o envolvimento do tríceps.",
+    "Depois de uma segunda pausa, traga a barra de volta para a posição inicial à medida que você expira e empurre a barra usando os músculos do tríceps. Tranque os braços na posição contraída, segure por um segundo e comece a descer lentamente novamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "strength",
+  "images": [
+    "Reverse_Triceps_Bench_Press/0.jpg",
+    "Reverse_Triceps_Bench_Press/1.jpg"
+  ],
+  "id": "Reverse_Triceps_Bench_Press"
+}

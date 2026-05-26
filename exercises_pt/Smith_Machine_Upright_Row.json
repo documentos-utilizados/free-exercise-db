@@ -1,0 +1,28 @@
+{
+  "name": "Smith Máquina de linha vertical",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)",
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, defina a barra na máquina de ferreiro para uma altura que está ao redor do meio de suas coxas. Uma vez que a altura correta é escolhida e a barra é carregada, segure a barra usando um aperto pronated (palms forward) que é largura do ombro distante. Você pode precisar de alguns envoltórios de pulso se usar uma quantidade significativa de peso.",
+    "Levante a barra e estenda totalmente os braços com as costas retas. Deve haver uma ligeira curvatura nos cotovelos. Esta é a posição inicial.",
+    "Use os ombros laterais para levantar a barra enquanto expira. A barra deve estar perto do corpo à medida que você a move. Continue a levantá-la até que ela quase toque seu queixo. Dica: Seus cotovelos devem dirigir o movimento. Ao levantar a barra, seus cotovelos devem sempre ser mais altos do que seus antebraços. Além disso, mantenha seu tronco estacionário e pause por um segundo no topo do movimento.",
+    "Abaixe a barra para baixo lentamente para a posição inicial. Inspire enquanto você executa essa parte do movimento.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Smith_Machine_Upright_Row/0.jpg",
+    "Smith_Machine_Upright_Row/1.jpg"
+  ],
+  "id": "Smith_Machine_Upright_Row"
+}

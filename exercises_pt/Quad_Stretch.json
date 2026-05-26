@@ -1,0 +1,21 @@
+{
+  "name": "Quad Stretch",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado. Loop um cinto, corda, ou banda em torno de seu pé superior. Flexione o joelho e estender o quadril, tentando tocar seus glúteos com o pé, e segurando o cinto com as mãos. Esta será a sua posição inicial.",
+    "Com o cinto sendo mantido sobre o ombro ou sobre a cabeça, puxe suavemente para aumentar o alongamento no quadríceps. Segure por 10-20 segundos e, em seguida, mude de lado."
+  ],
+  "category": "stretching",
+  "images": [
+    "Quad_Stretch/0.jpg",
+    "Quad_Stretch/1.jpg"
+  ],
+  "id": "Quad_Stretch"
+}

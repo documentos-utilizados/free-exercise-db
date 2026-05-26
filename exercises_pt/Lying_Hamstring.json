@@ -1,0 +1,24 @@
+{
+  "name": "Mentindo Hamstring",
+  "force": "estático",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Deite-se de costas com as pernas estendidas. Seu parceiro deve estar ajoelhado ao seu lado. Levante uma perna em direção ao teto e faça com que seu parceiro segure o tornozelo. Seu parceiro pode usar o ombro para apoiar sua perna, se necessário. Esta será sua posição inicial.",
+    "Com o seu parceiro segurando a perna no lugar, tente flexionar o joelho, contraindo os isquiotibiais por 10-20 segundos.",
+    "Em seguida, relaxe a perna, permitindo que seu parceiro empurre suavemente a perna em direção à sua cabeça. Certifique-se de informar seu ajudante quando o alongamento for adequado para evitar lesões ou alongamento excessivo. Troque os lados uma vez concluídos."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lying_Hamstring/0.jpg",
+    "Lying_Hamstring/1.jpg"
+  ],
+  "id": "Lying_Hamstring"
+}

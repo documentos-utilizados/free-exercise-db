@@ -1,0 +1,22 @@
+{
+  "name": "Monster Walk",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque uma faixa em torno de ambos os tornozelos e outra em torno de ambos os joelhos. Deve haver tensão suficiente para que eles estejam apertados quando seus pés estiverem separados pela largura do ombro.",
+    "Para começar, dê passos curtos para a frente, alternando o pé esquerdo e direito.",
+    "Depois de vários passos, faça exatamente o oposto e caminhe para trás até onde você começou."
+  ],
+  "category": "strength",
+  "images": [
+    "Monster_Walk/0.jpg",
+    "Monster_Walk/1.jpg"
+  ],
+  "id": "Monster_Walk"
+}

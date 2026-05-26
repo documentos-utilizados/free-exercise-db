@@ -1,0 +1,22 @@
+{
+  "name": "Addutor",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de frente para baixo com uma perna em um rolo de espuma.",
+    "Gire a perna para que o rolo de espuma entre em contato com sua coxa interna. Mude tanto peso para o rolo de espuma quanto puder ser tolerado.",
+    "Ao tentar relaxar os músculos se a coxa interna, role a espuma entre o quadril e o joelho, mantendo pontos de tensão por 10-30 segundos. Repita com a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Adductor/0.jpg",
+    "Adductor/1.jpg"
+  ],
+  "id": "Adductor"
+}

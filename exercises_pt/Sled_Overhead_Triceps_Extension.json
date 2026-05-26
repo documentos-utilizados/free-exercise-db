@@ -1,0 +1,23 @@
+{
+  "name": "Extensão do tríceps de cabeça de trenó",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anexe alças duplas a um trenó usando uma corrente ou corda. Carregue o trenó para uma carga apropriada.",
+    "De frente para o trenó, afaste-se até que haja tensão na linha. Levante as mãos acima da cabeça, mantendo-as juntas, as palmas das mãos voltadas umas para as outras. Seus cotovelos devem ser apontados para cima com os cotovelos flexionados. Esta será sua posição inicial.",
+    "Estenda-se através do cotovelo para endireitar o braço. Certifique-se de que seu braço fique em posição para isolar o tríceps.",
+    "Após a extensão total, dê um passo à frente para tirar a folga da linha. Você pode manter seus pés cambaleados para mais estabilidade."
+  ],
+  "category": "strength",
+  "images": [
+    "Sled_Overhead_Triceps_Extension/0.jpg",
+    "Sled_Overhead_Triceps_Extension/1.jpg"
+  ],
+  "id": "Sled_Overhead_Triceps_Extension"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Esticamento Overhead",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé para cima, amarre os dedos e abra as palmas das mãos para o teto. Mantenha os ombros para baixo enquanto estende os braços para cima.",
+    "Para criar um alongamento completo do tronco, puxe o cóccix para baixo e estabilize o tronco enquanto faz isso. Estique os músculos na frente e na parte de trás do tronco."
+  ],
+  "category": "stretching",
+  "images": [
+    "Overhead_Stretch/0.jpg",
+    "Overhead_Stretch/1.jpg"
+  ],
+  "id": "Overhead_Stretch"
+}

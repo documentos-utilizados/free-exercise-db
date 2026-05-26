@@ -1,0 +1,33 @@
+{
+  "name": "Squat Overhead",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece por ter uma barra na frente de você no chão. Seus pés devem ser mais largos do que a largura do ombro para além um do outro.",
+    "Dobre os joelhos e use uma preensão pronada (palmas viradas para você) para agarrar a barra. Suas mãos devem estar em uma largura mais larga do que o ombro antes de levantar. Uma vez que você está posicionado, levante a barra até que você possa descansar em seu peito.",
+    "Mova a barra sobre e ligeiramente atrás de sua cabeça e certifique-se de que seus braços estão totalmente estendidos. Mantenha sua cabeça erguida o tempo todo e também mantenha uma parte traseira reta. Retraia suas omoplatas. Esta é sua posição inicial.",
+    "Abaixe lentamente o peso dobrando os joelhos até que suas coxas estejam paralelas ao chão enquanto inala. Dica: Mantenha as costas retas durante a realização deste exercício para evitar lesões e seus braços devem permanecer estendidos e sobre a cabeça em todos os momentos.",
+    "Agora use seus pés e pernas para ajudar a trazer o peso de volta para a posição inicial enquanto expira.",
+    "Repita para a quantidade recomendada de repetições."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Overhead_Squat/0.jpg",
+    "Overhead_Squat/1.jpg"
+  ],
+  "id": "Overhead_Squat"
+}

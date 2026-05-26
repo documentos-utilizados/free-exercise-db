@@ -1,0 +1,27 @@
+{
+  "name": "Curvas laterais de cabo de alta polia de um braço",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre. Mova o cabo para a posição mais alta da polia.",
+    "Fique com o lado do cabo. Com uma mão, levante-se e segure a alça com o aperto de mão.",
+    "Puxe o cabo para baixo até que o cotovelo toque o seu lado e a alça esteja ao seu ombro.",
+    "Posicione os pés com a largura do quadril separados. Coloque a mão livre no quadril para ajudar a medir o ponto de pivô.",
+    "Mantenha o braço em posição estática. Contrato oblíquo para trazer o peso para baixo em uma trituração lateral.",
+    "Depois de atingir a contração máxima, solte lentamente o peso para a posição inicial. A pilha de peso nunca deve ser descarregada em uma posição de repouso. O objetivo é a tensão constante durante o conjunto.",
+    "Repita para o fracasso.",
+    "Em seguida, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
+    "One-Arm_High-Pulley_Cable_Side_Bends/1.jpg"
+  ],
+  "id": "One-Arm_High-Pulley_Cable_Side_Bends"
+}

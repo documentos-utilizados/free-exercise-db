@@ -1,0 +1,23 @@
+{
+  "name": "Extensão Dumbbell Tricep - Aperto Pronado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano segurando dois halteres diretamente acima de seus ombros. Seus braços devem ser totalmente estendidos e formar um ângulo de 90 graus do seu tronco e do chão.",
+    "As palmas das suas mãos devem estar voltadas para a frente, e seus cotovelos devem estar dobrados. Esta será a sua posição inicial.",
+    "Agora, inale e abaixe lentamente os halteres até que eles estejam perto de suas orelhas. Certifique-se de manter seus braços parados e seus cotovelos dobrados.",
+    "Em seguida, expire e use o tríceps para retornar o peso para a posição inicial."
+  ],
+  "category": "strength",
+  "images": [
+    "Dumbbell_Tricep_Extension_-Pronated_Grip/0.jpg",
+    "Dumbbell_Tricep_Extension_-Pronated_Grip/1.jpg"
+  ],
+  "id": "Dumbbell_Tricep_Extension_-Pronated_Grip"
+}

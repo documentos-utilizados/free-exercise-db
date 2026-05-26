@@ -1,0 +1,29 @@
+{
+  "name": "One Arm Floor Imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em uma superfície plana com as costas pressionadas contra o chão ou um tapete de exercícios. Certifique-se de que seus joelhos estão dobrados.",
+    "Peça a um parceiro que lhe dê a barra por um lado. Ao iniciar, seu braço deve ser quase totalmente estendido, semelhante à posição inicial de um supino de barra. No entanto, desta vez, sua aderência será neutra (palmas voltadas para o seu tronco).",
+    "Certifique-se de que a mão que você não está usando para levantar o peso é colocado ao seu lado.",
+    "Comece o exercício baixando a barra até que seu cotovelo toque o chão. Certifique-se de respirar, pois esta é a parte excêntrica (reduzindo do exercício).",
+    "Em seguida, comece a levantar a barra de volta para a posição inicial original. Lembre-se de respirar durante a parte concêntrica (levantamento do exercício).",
+    "Repita até que você tenha realizado suas repetições recomendadas.",
+    "Troque os braços e repita o movimento."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Arm_Floor_Press/0.jpg",
+    "One_Arm_Floor_Press/1.jpg"
+  ],
+  "id": "One_Arm_Floor_Press"
+}

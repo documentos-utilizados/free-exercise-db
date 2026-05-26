@@ -1,0 +1,25 @@
+{
+  "name": "Pose da criança",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Deite-se em suas mãos e joelhos, ande com as mãos na frente de você.",
+    "Abaixe suas nádegas para sentar em seus calcanhares. Deixe seus braços arrastar ao longo do chão como você se sentar para esticar toda a coluna vertebral.",
+    "Uma vez que você se estabelecer em seus calcanhares, trazer as mãos ao lado de seus pés e relaxar. \"respirar\" em suas costas. Descanse a testa no chão. Evite esta posição se você tiver problemas no joelho."
+  ],
+  "category": "stretching",
+  "images": [
+    "Childs_Pose/0.jpg",
+    "Childs_Pose/1.jpg"
+  ],
+  "id": "Childs_Pose"
+}

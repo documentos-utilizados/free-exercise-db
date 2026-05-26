@@ -1,0 +1,29 @@
+{
+  "name": "Cable Assento Lateral Raise",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "costas (meio)",
+    "trapézio"
+  ],
+  "instructions": [
+    "Fique no meio de duas polias baixas que são opostas uma à outra e coloque um banco plano bem atrás de você (na forma perpendicular a você; a borda estreita do banco deve ser a que está atrás de você). Selecione o peso a ser usado em cada polia.",
+    "Agora sente-se na borda do banco plano atrás de você com os pés colocados na frente de seus joelhos.",
+    "Dobre-se para a frente enquanto mantém as costas planas e descanse o tronco nas coxas.",
+    "Peça a alguém que lhe dê as alças únicas presas às polias. Segure a polia esquerda com a mão direita e a polia direita com a esquerda depois de selecionar seu peso. As polias devem correr sob os joelhos e seus braços serão estendidos com as palmas voltadas umas para as outras e uma ligeira curvatura nos cotovelos. Esta será a posição inicial.",
+    "Enquanto mantém os braços estacionários, levante os braços superiores para os lados até que estejam paralelos ao chão e à altura do ombro. Exale durante a execução deste movimento e segure a contração por um segundo.",
+    "Abaixe lentamente os braços para a posição inicial enquanto você inala.",
+    "Repita para a quantidade recomendada de repetições. Dica: Mantenha os braços superiores perpendiculares ao tronco e uma posição fixa do cotovelo (10 a 30 graus de ângulo) durante todo o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Cable_Seated_Lateral_Raise/0.jpg",
+    "Cable_Seated_Lateral_Raise/1.jpg"
+  ],
+  "id": "Cable_Seated_Lateral_Raise"
+}

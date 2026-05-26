@@ -1,0 +1,24 @@
+{
+  "name": "Dois Braços Kettlebell Jerk",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells para os ombros. Limpe os kettlebells para os ombros, estendendo-se através das pernas e quadris enquanto você balança os kettlebells em direção aos ombros. Gire seus pulsos enquanto você faz isso, para que as palmas fiquem voltadas para a frente. Agache-se alguns centímetros e reverta o movimento rapidamente dirigindo os dois kettlebells acima. Imediatamente após o empurrão inicial, aga novamente e fique sob os kettlebells. Uma vez que os kettlebells estão fechados para fora."
+  ],
+  "category": "strength",
+  "images": [
+    "Two-Arm_Kettlebell_Jerk/0.jpg",
+    "Two-Arm_Kettlebell_Jerk/1.jpg"
+  ],
+  "id": "Two-Arm_Kettlebell_Jerk"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Joelho através do corpo",
+  "force": "estático",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "lombar"
+  ],
+  "instructions": [
+    "Deite-se no chão com a perna direita em linha reta. Dobre a perna esquerda e abaixe-a em todo o corpo, segurando o joelho para baixo em direção ao chão com a mão direita. (O joelho não precisa tocar o chão se você estiver apertado.)",
+    "Coloque seu braço esquerdo confortavelmente ao seu lado e vire a cabeça para a esquerda. Imagine que você tem um peso amarrado ao seu cóccix. deixe seu cóccix cair de volta em direção ao chão enquanto seu peito atinge na direção oposta para esticar sua parte inferior das costas."
+  ],
+  "category": "stretching",
+  "images": [
+    "Knee_Across_The_Body/0.jpg",
+    "Knee_Across_The_Body/1.jpg"
+  ],
+  "id": "Knee_Across_The_Body"
+}

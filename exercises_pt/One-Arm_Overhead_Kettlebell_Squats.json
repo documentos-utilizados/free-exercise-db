@@ -1,0 +1,27 @@
+{
+  "name": "Um braço Overhead Kettlebell Squats",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros"
+  ],
+  "instructions": [
+    "Limpe e pressione um kettlebell com um braço. Limpe o kettlebell para o ombro, estendendo-se através das pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso enquanto faz isso. Pressione o peso acima, estendendo-se através do cotovelo. Esta será sua posição inicial.",
+    "Olhando em frente e mantendo um kettlebell trancado acima de você, flexione os joelhos e quadris e abaixe o tronco entre as pernas, mantendo a cabeça e o peito para cima.",
+    "Pausa na posição inferior por um segundo antes de subir de volta para o topo, dirigindo através dos calcanhares dos pés."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+    "One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+  ],
+  "id": "One-Arm_Overhead_Kettlebell_Squats"
+}

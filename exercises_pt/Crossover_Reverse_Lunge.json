@@ -1,0 +1,28 @@
+{
+  "name": "Crossover Reverse Lunge",
+  "force": "tração",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "abdutores",
+    "glúteos",
+    "isquiotibiais",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique de pé com os pés afastados da largura do ombro. Esta será a sua posição inicial.",
+    "Execute uma lunge traseira dando um passo para trás com um pé e flexionando os quadris e o joelho dianteiro. Ao fazê-lo, gire o tronco pela perna dianteira.",
+    "Depois de uma breve pausa, volte à posição inicial e repita do outro lado, continuando de forma alternada."
+  ],
+  "category": "stretching",
+  "images": [
+    "Crossover_Reverse_Lunge/0.jpg",
+    "Crossover_Reverse_Lunge/1.jpg"
+  ],
+  "id": "Crossover_Reverse_Lunge"
+}

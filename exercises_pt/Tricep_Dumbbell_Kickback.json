@@ -1,0 +1,23 @@
+{
+  "name": "Tricep Dumbbell Kickback",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece com um haltere em cada mão e as palmas das mãos voltadas para o tronco. Mantenha as costas retas com uma ligeira curvatura nos joelhos e dobre para a frente na cintura. Seu tronco deve ser quase paralelo ao chão. Certifique-se de manter a cabeça erguida. Seus braços devem estar próximos ao seu tronco e paralelos ao chão. Seus antebraços devem ser apontados para o chão enquanto você segura os pesos. Deve haver uma posição inicial de 90 graus entre o antebraço e a posição inicial.",
+    "Agora, enquanto mantém os braços parados, expire e use o tríceps para levantar os pesos até que o braço esteja totalmente estendido. Concentre-se em mover o antebraço.",
+    "Depois de uma breve pausa na contração superior, inale e diminua lentamente os halteres de volta para a posição inicial.",
+    "Repita o movimento para a quantidade prescrita de repetições."
+  ],
+  "category": "strength",
+  "images": [
+    "Tricep_Dumbbell_Kickback/0.jpg",
+    "Tricep_Dumbbell_Kickback/1.jpg"
+  ],
+  "id": "Tricep_Dumbbell_Kickback"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Power Jerk",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé com o peso acumulado na frente dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Vá para baixo apenas ligeiramente e reverta a direção o mais poderosamente possível.",
+    "Dirija através dos calcanhares criar tanta velocidade e força quanto possível, e certifique-se de mover a cabeça para fora do caminho como a barra deixa os ombros.",
+    "Neste momento, à medida que os pés saem do chão, os pés devem ser colocados na posição de recepção o mais rápido possível. No breve momento em que os pés não estão dirigindo ativamente contra a plataforma, o esforço dos atletas para empurrar a barra para cima os levará para baixo. Os pés devem ser movidos para uma posição um pouco mais larga, com os joelhos parcialmente dobrados.",
+    "Receba o bar com os braços trancados acima da cabeça.",
+    "Regresse a uma posição de pé."
+  ],
+  "category": "olympic weightlifting",
+  "images": [
+    "Power_Jerk/0.jpg",
+    "Power_Jerk/1.jpg"
+  ],
+  "id": "Power_Jerk"
+}

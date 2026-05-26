@@ -1,0 +1,27 @@
+{
+  "name": "Extensão de Tríceps de Um Braço de Baixo Pulley",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue uma única alça com o braço esquerdo ao lado da máquina de polia baixa. Afaste-se da máquina mantendo a alça para o lado do seu corpo com o braço totalmente estendido. Agora use ambas as mãos para elevar a única alça diretamente acima da cabeça com a palma virada para a frente. Mantenha o braço superior completamente vertical (perpendicular para o chão) e coloque a mão direita no cotovelo esquerdo para ajudar a mantê-lo estável. Esta é a posição inicial.",
+    "Mantendo seus braços superiores perto de sua cabeça (cotovelo) e perpendicular ao chão, diminua a resistência em um movimento semicircular atrás de sua cabeça até que seus antebraços toquem seu bíceps. Dica: Os braços superiores devem permanecer estacionários e apenas os antebraços devem se mover. Respire enquanto você executa este passo.",
+    "Volte para a posição inicial usando o tríceps para levantar a alça única. Respire enquanto você executa este passo.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Troque os braços e repita o exercício."
+  ],
+  "category": "strength",
+  "images": [
+    "Standing_Low-Pulley_One-Arm_Triceps_Extension/0.jpg",
+    "Standing_Low-Pulley_One-Arm_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension"
+}

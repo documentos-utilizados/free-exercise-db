@@ -1,0 +1,23 @@
+{
+  "name": "Hamstring sentado e Calf estiramento",
+  "force": "estático",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "isquiotibiais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Loop um cinto, corda, ou banda em torno de um pé. Sente-se com as duas pernas estendidas. Esta será a sua posição inicial.",
+    "Inclinando-se ligeiramente para a frente, puxe o cinto para puxar os dedos dos pés para trás. Mantenha esta posição por 10-20 segundos e, em seguida, repita com a outra perna."
+  ],
+  "category": "stretching",
+  "images": [
+    "Seated_Hamstring_and_Calf_Stretch/0.jpg",
+    "Seated_Hamstring_and_Calf_Stretch/1.jpg"
+  ],
+  "id": "Seated_Hamstring_and_Calf_Stretch"
+}

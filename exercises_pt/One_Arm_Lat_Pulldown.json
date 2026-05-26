@@ -1,0 +1,26 @@
+{
+  "name": "Um braço Lat Pulldown",
+  "force": "tração",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "costas (meio)"
+  ],
+  "instructions": [
+    "Selecione um peso adequado e ajuste a joelheira para ajudar a mantê-lo para baixo. Segure a alça com um aperto pronado. Esta será a sua posição inicial.",
+    "Puxe a alça para baixo, apertando o cotovelo para o seu lado enquanto você flexiona o cotovelo.",
+    "Pausa na parte inferior do movimento e, em seguida, lentamente retornar a alça para a posição inicial.",
+    "Para várias repetições, evite retornar completamente o peso para manter a tensão sobre os músculos que estão sendo trabalhados."
+  ],
+  "category": "strength",
+  "images": [
+    "One_Arm_Lat_Pulldown/0.jpg",
+    "One_Arm_Lat_Pulldown/1.jpg"
+  ],
+  "id": "One_Arm_Lat_Pulldown"
+}

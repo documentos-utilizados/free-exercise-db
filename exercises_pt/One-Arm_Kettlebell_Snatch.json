@@ -1,0 +1,29 @@
+{
+  "name": "Um braço Kettlebell Snatch",
+  "force": "tração",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "isquiotibiais",
+    "lombar",
+    "trapézio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés. Dobre os joelhos e empurre a bunda para trás para entrar na posição inicial adequada.",
+    "Olhe em frente e balançar o kettlebell de volta entre as pernas.",
+    "Inverta imediatamente a direção e atravesse com os quadris e joelhos, acelerando o kettlebell para cima.  medida que o kettlebell sobe até o ombro, gire a mão e bata em linha reta, usando o impulso para receber o peso bloqueado."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Snatch/0.jpg",
+    "One-Arm_Kettlebell_Snatch/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Snatch"
+}

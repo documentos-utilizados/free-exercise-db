@@ -1,0 +1,29 @@
+{
+  "name": "Inclinar o banco dumbbell com as palmas voltadas para dentro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "haltere",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado com um haltere em cada mão em cima de suas coxas. As palmas da sua mão estarão viradas uma para a outra.",
+    "Ao usar suas coxas para ajudá-lo a levantar os halteres, limpe os halteres um braço de cada vez para que você possa segurá-los na largura do ombro.",
+    "Uma vez na largura do ombro, mantenha as palmas das mãos com um aperto neutro (palmas voltadas umas para as outras). Mantenha seus cotovelos abertos com os braços superiores alinhados com os ombros (perpendicular ao tronco) e os cotovelos dobrados criando um ângulo de 90 graus entre o braço e o antebraço. Esta será sua posição inicial.",
+    "Agora, baixe os pesos lentamente para o seu lado enquanto respira. Mantenha o controle total dos halteres em todos os momentos.",
+    "Ao expirar, empurre os halteres usando seus músculos peitorais. Tranque os braços na posição contraída, segure por um segundo e comece a descer lentamente. Dica: Deve levar pelo menos duas vezes mais tempo para descer do que para subir.",
+    "Repita o movimento para a quantidade prescrita de repetições.",
+    "Quando terminar, coloque os halteres de volta em suas coxas e, em seguida, no chão. Esta é a maneira mais segura de descartar os halteres."
+  ],
+  "category": "strength",
+  "images": [
+    "Incline_Dumbbell_Bench_With_Palms_Facing_In/0.jpg",
+    "Incline_Dumbbell_Bench_With_Palms_Facing_In/1.jpg"
+  ],
+  "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In"
+}
