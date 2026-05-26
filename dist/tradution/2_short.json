@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+    "name": "Flexão de Braço Fechada sobre Haltere"
+  },
+  {
+    "id": "Close-Grip_Standing_Barbell_Curl",
+    "name": "Rosca Direta com Pegada Fechada"
+  },
+  {
+    "id": "Cocoons",
+    "name": "Abdominal Casulo (Cocoons)"
+  },
+  {
+    "id": "Conans_Wheel",
+    "name": "Roda de Conan (Strongman)"
+  },
+  {
+    "id": "Concentration_Curls",
+    "name": "Rosca Concentrada com Haltere"
+  },
+  {
+    "id": "Cross-Body_Crunch",
+    "name": "Abdominal Oblíquo Cruzado"
+  },
+  {
+    "id": "Cross_Body_Hammer_Curl",
+    "name": "Rosca Martelo Cruzada"
+  },
+  {
+    "id": "Cross_Over_-_With_Bands",
+    "name": "Crossover com Elásticos"
+  },
+  {
+    "id": "Crossover_Reverse_Lunge",
+    "name": "Afundo Reverso Cruzado (Crossover)"
+  },
+  {
+    "id": "Crucifix",
+    "name": "Crucifixo Isométrico (Ombros)"
+  },
+  {
+    "id": "Crunch_-_Hands_Overhead",
+    "name": "Abdominal com Braços Estendidos"
+  },
+  {
+    "id": "Crunch_-_Legs_On_Exercise_Ball",
+    "name": "Abdominal com Pernas na Bola Suíça"
+  },
+  {
+    "id": "Crunches",
+    "name": "Abdominal"
+  },
+  {
+    "id": "Cuban_Press",
+    "name": "Desenvolvimento Cubano (Cuban Press)"
+  },
+  {
+    "id": "Dancers_Stretch",
+    "name": "Alongamento de Bailarino"
+  },
+  {
+    "id": "Dead_Bug",
+    "name": "Abdominal Dead Bug"
+  },
+  {
+    "id": "Deadlift_with_Bands",
+    "name": "Levantamento Terra com Elásticos"
+  },
+  {
+    "id": "Deadlift_with_Chains",
+    "name": "Levantamento Terra com Correntes"
+  },
+  {
+    "id": "Decline_Barbell_Bench_Press",
+    "name": "Supino Declinado com Barra"
+  },
+  {
+    "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+    "name": "Tríceps Testa Conjugado com Supino Fechado Declinado"
+  },
+  {
+    "id": "Decline_Crunch",
+    "name": "Abdominal Declinado"
+  },
+  {
+    "id": "Decline_Dumbbell_Bench_Press",
+    "name": "Supino Declinado com Halteres"
+  },
+  {
+    "id": "Decline_Dumbbell_Flyes",
+    "name": "Crucifixo Declinado com Halteres"
+  },
+  {
+    "id": "Decline_Dumbbell_Triceps_Extension",
+    "name": "Extensão de Tríceps Declinada com Halteres"
+  },
+  {
+    "id": "Decline_EZ_Bar_Triceps_Extension",
+    "name": "Extensão de Tríceps Declinada com Barra W"
+  },
+  {
+    "id": "Decline_Oblique_Crunch",
+    "name": "Abdominal Oblíquo Declinado"
+  },
+  {
+    "id": "Decline_Push-Up",
+    "name": "Flexão de Braço Declinada"
+  },
+  {
+    "id": "Decline_Reverse_Crunch",
+    "name": "Abdominal Reverso Declinado"
+  },
+  {
+    "id": "Decline_Smith_Press",
+    "name": "Supino Declinado no Smith"
+  },
+  {
+    "id": "Deficit_Deadlift",
+    "name": "Levantamento Terra com Déficit"
+  },
+  {
+    "id": "Depth_Jump_Leap",
+    "name": "Salto de Profundidade com Salto Vertical"
+  },
+  {
+    "id": "Dip_Machine",
+    "name": "Mergulho nas Paralelas na Máquina"
+  },
+  {
+    "id": "Dips_-_Chest_Version",
+    "name": "Mergulho nas Paralelas (Foco Peitoral)"
+  },
+  {
+    "id": "Dips_-_Triceps_Version",
+    "name": "Mergulho nas Paralelas (Foco Tríceps)"
+  },
+  {
+    "id": "Donkey_Calf_Raises",
+    "name": "Panturrilha Donkey (Burrinho)"
+  },
+  {
+    "id": "Double_Kettlebell_Alternating_Hang_Clean",
+    "name": "Hang Clean Alternado com Dois Kettlebells"
+  },
+  {
+    "id": "Double_Kettlebell_Jerk",
+    "name": "Jerk com Dois Kettlebells (LPO)"
+  },
+  {
+    "id": "Double_Kettlebell_Push_Press",
+    "name": "Push Press com Dois Kettlebells"
+  },
+  {
+    "id": "Double_Kettlebell_Snatch",
+    "name": "Arranco com Dois Kettlebells (LPO)"
+  },
+  {
+    "id": "Double_Kettlebell_Windmill",
+    "name": "Alongamento Windmill com Dois Kettlebells"
+  },
+  {
+    "id": "Double_Leg_Butt_Kick",
+    "name": "Flexão de Joelhos em Pé (Calcanhar no Glúteo)"
+  },
+  {
+    "id": "Downward_Facing_Balance",
+    "name": "Postura do Cachorro Olhando para Baixo"
+  },
+  {
+    "id": "Drag_Curl",
+    "name": "Rosca Drag"
+  },
+  {
+    "id": "Drop_Push",
+    "name": "Empurrão em Queda (Drop Push)"
+  },
+  {
+    "id": "Dumbbell_Alternate_Bicep_Curl",
+    "name": "Rosca Bíceps Alternada com Halteres"
+  },
+  {
+    "id": "Dumbbell_Bench_Press",
+    "name": "Supino Reto com Halteres"
+  },
+  {
+    "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
+    "name": "Supino Reto com Halteres (Pegada Neutra)"
+  },
+  {
+    "id": "Dumbbell_Bicep_Curl",
+    "name": "Rosca Bíceps com Halteres"
+  },
+  {
+    "id": "Dumbbell_Clean",
+    "name": "Clean com Halteres"
+  },
+  {
+    "id": "Dumbbell_Floor_Press",
+    "name": "Supino no Chão com Halteres"
+  },
+  {
+    "id": "Dumbbell_Flyes",
+    "name": "Crucifixo Reto com Halteres"
+  },
+  {
+    "id": "Dumbbell_Incline_Row",
+    "name": "Remada Inclinada com Halteres"
+  },
+  {
+    "id": "Dumbbell_Incline_Shoulder_Raise",
+    "name": "Elevação Escapular Inclinada com Halteres"
+  },
+  {
+    "id": "Dumbbell_Lunges",
+    "name": "Afundo com Halteres"
+  },
+  {
+    "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+    "name": "Crucifixo Invertido Deitado Unilateral com Haltere"
+  },
+  {
+    "id": "Dumbbell_Lying_Pronation",
+    "name": "Pronação de Antebraço Deitado com Haltere"
+  },
+  {
+    "id": "Dumbbell_Lying_Rear_Lateral_Raise",
+    "name": "Crucifixo Invertido Deitado com Halteres"
+  },
+  {
+    "id": "Dumbbell_Lying_Supination",
+    "name": "Supinação de Antebraço Deitado com Haltere"
+  },
+  {
+    "id": "Dumbbell_One-Arm_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros Unilateral com Haltere"
+  },
+  {
+    "id": "Dumbbell_One-Arm_Triceps_Extension",
+    "name": "Extensão de Tríceps Unilateral com Haltere"
+  },
+  {
+    "id": "Dumbbell_One-Arm_Upright_Row",
+    "name": "Remada Alta Unilateral com Haltere"
+  },
+  {
+    "id": "Dumbbell_Prone_Incline_Curl",
+    "name": "Rosca Bíceps Inclinada Pronada (Banco Inclinado)"
+  },
+  {
+    "id": "Dumbbell_Raise",
+    "name": "Elevação Frontal/Lateral com Haltere"
+  },
+  {
+    "id": "Dumbbell_Rear_Lunge",
+    "name": "Afundo Reverso com Halteres"
+  },
+  {
+    "id": "Dumbbell_Scaption",
+    "name": "Elevação Scaption com Halteres"
+  },
+  {
+    "id": "Dumbbell_Seated_Box_Jump",
+    "name": "Salto na Caixa Sentado com Halteres"
+  },
+  {
+    "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+    "name": "Elevação de Panturrilha Unilateral Sentado com Haltere"
+  },
+  {
+    "id": "Dumbbell_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros com Halteres"
+  },
+  {
+    "id": "Dumbbell_Shrug",
+    "name": "Encolhimento com Halteres"
+  },
+  {
+    "id": "Dumbbell_Side_Bend",
+    "name": "Flexão Lateral com Haltere"
+  },
+  {
+    "id": "Dumbbell_Squat",
+    "name": "Agachamento com Halteres"
+  },
+  {
+    "id": "Dumbbell_Squat_To_A_Bench",
+    "name": "Agachamento no Banco com Halteres"
+  },
+  {
+    "id": "Dumbbell_Step_Ups",
+    "name": "Subida no Banco com Halteres (Step-Up)"
+  },
+  {
+    "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+    "name": "Extensão de Tríceps com Halteres (Pegada Pronada)"
+  },
+  {
+    "id": "Dynamic_Back_Stretch",
+    "name": "Alongamento Dinâmico de Costas"
+  },
+  {
+    "id": "Dynamic_Chest_Stretch",
+    "name": "Alongamento Dinâmico de Peitoral"
+  },
+  {
+    "id": "EZ-Bar_Curl",
+    "name": "Rosca Direta com Barra W"
+  },
+  {
+    "id": "EZ-Bar_Skullcrusher",
+    "name": "Tríceps Testa com Barra W"
+  },
+  {
+    "id": "Elbow_Circles",
+    "name": "Rotação de Cotovelos"
+  },
+  {
+    "id": "Elbow_to_Knee",
+    "name": "Abdominal Cotovelo no Joelho"
+  },
+  {
+    "id": "Elbows_Back",
+    "name": "Alongamento de Peitoral (Cotovelos para Trás)"
+  },
+  {
+    "id": "Elevated_Back_Lunge",
+    "name": "Afundo Reverso com Pé Elevado"
+  },
+  {
+    "id": "Elevated_Cable_Rows",
+    "name": "Remada no Cabo com Polia Elevada"
+  },
+  {
+    "id": "Elliptical_Trainer",
+    "name": "Elíptico"
+  },
+  {
+    "id": "Exercise_Ball_Crunch",
+    "name": "Abdominal na Bola Suíça"
+  },
+  {
+    "id": "Exercise_Ball_Pull-In",
+    "name": "Encolhimento de Pernas na Bola Suíça"
+  },
+  {
+    "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
+    "name": "Supino no Chão Unilateral com Kettlebell (Amplitude Estendida)"
+  },
+  {
+    "id": "External_Rotation",
+    "name": "Rotação Externa de Ombro"
+  }
+]

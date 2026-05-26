@@ -1,0 +1,354 @@
+[
+  {
+    "id": "3_4_Sit-Up",
+    "name": "Abdominal 3/4"
+  },
+  {
+    "id": "90_90_Hamstring",
+    "name": "Alongamento de Isquiotibiais 90/90"
+  },
+  {
+    "id": "Ab_Crunch_Machine",
+    "name": "Abdominal na Máquina"
+  },
+  {
+    "id": "Ab_Roller",
+    "name": "Abdominal com Roda"
+  },
+  {
+    "id": "Adductor",
+    "name": "Alongamento de Adutores"
+  },
+  {
+    "id": "Adductor_Groin",
+    "name": "Alongamento de Adutores/Virilha"
+  },
+  {
+    "id": "Advanced_Kettlebell_Windmill",
+    "name": "Alongamento Windmill Avançado com Kettlebell"
+  },
+  {
+    "id": "Air_Bike",
+    "name": "Abdominal Bicicleta"
+  },
+  {
+    "id": "All_Fours_Quad_Stretch",
+    "name": "Alongamento de Quadríceps em Quatro Apoios"
+  },
+  {
+    "id": "Alternate_Hammer_Curl",
+    "name": "Rosca Martelo Alternada"
+  },
+  {
+    "id": "Alternate_Heel_Touchers",
+    "name": "Abdominal Toque nos Calcanhares Alternado"
+  },
+  {
+    "id": "Alternate_Incline_Dumbbell_Curl",
+    "name": "Rosca Inclinada Alternada com Halteres"
+  },
+  {
+    "id": "Alternate_Leg_Diagonal_Bound",
+    "name": "Salto Diagonal Alternando Pernas"
+  },
+  {
+    "id": "Alternating_Cable_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros no Cabo Alternado"
+  },
+  {
+    "id": "Alternating_Deltoid_Raise",
+    "name": "Elevação de Deltoides Alternada"
+  },
+  {
+    "id": "Alternating_Floor_Press",
+    "name": "Supino no Chão Alternado"
+  },
+  {
+    "id": "Alternating_Hang_Clean",
+    "name": "Hang Clean Alternado"
+  },
+  {
+    "id": "Alternating_Kettlebell_Press",
+    "name": "Desenvolvimento Alternado com Kettlebell"
+  },
+  {
+    "id": "Alternating_Kettlebell_Row",
+    "name": "Remada Alternada com Kettlebell"
+  },
+  {
+    "id": "Alternating_Renegade_Row",
+    "name": "Remada Renegada Alternada"
+  },
+  {
+    "id": "Ankle_Circles",
+    "name": "Rotação de Tornozelos"
+  },
+  {
+    "id": "Ankle_On_The_Knee",
+    "name": "Alongamento de Glúteo (Tornozelo no Joelho)"
+  },
+  {
+    "id": "Anterior_Tibialis-SMR",
+    "name": "Liberação Miofascial de Tibial Anterior"
+  },
+  {
+    "id": "Anti-Gravity_Press",
+    "name": "Desenvolvimento Anti-Gravidade"
+  },
+  {
+    "id": "Arm_Circles",
+    "name": "Rotação de Braços"
+  },
+  {
+    "id": "Arnold_Dumbbell_Press",
+    "name": "Desenvolvimento Arnold com Halteres"
+  },
+  {
+    "id": "Around_The_Worlds",
+    "name": "Elevação 360 Graus (Around the World)"
+  },
+  {
+    "id": "Atlas_Stone_Trainer",
+    "name": "Treino de Pedra de Atlas (Strongman)"
+  },
+  {
+    "id": "Atlas_Stones",
+    "name": "Levantamento de Pedra de Atlas (Strongman)"
+  },
+  {
+    "id": "Axle_Deadlift",
+    "name": "Levantamento Terra com Barra Axle"
+  },
+  {
+    "id": "Back_Flyes_-_With_Bands",
+    "name": "Crucifixo Invertido com Elástico"
+  },
+  {
+    "id": "Backward_Drag",
+    "name": "Arrasto de Trenó para Trás"
+  },
+  {
+    "id": "Backward_Medicine_Ball_Throw",
+    "name": "Arremesso de Bola Medicinal para Trás"
+  },
+  {
+    "id": "Balance_Board",
+    "name": "Prancha de Equilíbrio"
+  },
+  {
+    "id": "Ball_Leg_Curl",
+    "name": "Flexão de Pernas na Bola Suíça"
+  },
+  {
+    "id": "Band_Assisted_Pull-Up",
+    "name": "Barra Fixa Assistida com Elástico"
+  },
+  {
+    "id": "Band_Good_Morning",
+    "name": "Bom Dia com Elástico"
+  },
+  {
+    "id": "Band_Good_Morning_Pull_Through",
+    "name": "Bom Dia com Elástico (Pull Through)"
+  },
+  {
+    "id": "Band_Hip_Adductions",
+    "name": "Adução de Quadril com Elástico"
+  },
+  {
+    "id": "Band_Pull_Apart",
+    "name": "Crucifixo Invertido com Elástico (Pull Apart)"
+  },
+  {
+    "id": "Band_Skull_Crusher",
+    "name": "Tríceps Testa com Elástico"
+  },
+  {
+    "id": "Barbell_Ab_Rollout",
+    "name": "Abdominal Roda com Barra"
+  },
+  {
+    "id": "Barbell_Ab_Rollout_-_On_Knees",
+    "name": "Abdominal Roda com Barra (de Joelhos)"
+  },
+  {
+    "id": "Barbell_Bench_Press_-_Medium_Grip",
+    "name": "Supino Reto com Barra (Pegada Média)"
+  },
+  {
+    "id": "Barbell_Curl",
+    "name": "Rosca Direta com Barra"
+  },
+  {
+    "id": "Barbell_Curls_Lying_Against_An_Incline",
+    "name": "Rosca Direta Inclinada com Barra (Peito no Banco)"
+  },
+  {
+    "id": "Barbell_Deadlift",
+    "name": "Levantamento Terra com Barra"
+  },
+  {
+    "id": "Barbell_Full_Squat",
+    "name": "Agachamento Completo com Barra"
+  },
+  {
+    "id": "Barbell_Glute_Bridge",
+    "name": "Elevação Pélvica com Barra (Ponte)"
+  },
+  {
+    "id": "Barbell_Guillotine_Bench_Press",
+    "name": "Supino Guilhotina com Barra"
+  },
+  {
+    "id": "Barbell_Hack_Squat",
+    "name": "Agachamento Hack com Barra"
+  },
+  {
+    "id": "Barbell_Hip_Thrust",
+    "name": "Elevação Pélvica com Barra"
+  },
+  {
+    "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+    "name": "Supino Inclinado com Barra (Pegada Média)"
+  },
+  {
+    "id": "Barbell_Incline_Shoulder_Raise",
+    "name": "Elevação Escapular Inclinada com Barra"
+  },
+  {
+    "id": "Barbell_Lunge",
+    "name": "Afundo com Barra"
+  },
+  {
+    "id": "Barbell_Rear_Delt_Row",
+    "name": "Remada Curvada para Deltoide Posterior com Barra"
+  },
+  {
+    "id": "Barbell_Rollout_from_Bench",
+    "name": "Abdominal Rolo com Barra no Banco"
+  },
+  {
+    "id": "Barbell_Seated_Calf_Raise",
+    "name": "Elevação de Panturrilha Sentado com Barra"
+  },
+  {
+    "id": "Barbell_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros com Barra"
+  },
+  {
+    "id": "Barbell_Shrug",
+    "name": "Encolhimento com Barra"
+  },
+  {
+    "id": "Barbell_Shrug_Behind_The_Back",
+    "name": "Encolhimento por Trás com Barra"
+  },
+  {
+    "id": "Barbell_Side_Bend",
+    "name": "Flexão Lateral com Barra"
+  },
+  {
+    "id": "Barbell_Side_Split_Squat",
+    "name": "Agachamento Split Lateral com Barra"
+  },
+  {
+    "id": "Barbell_Squat",
+    "name": "Agachamento Livre com Barra"
+  },
+  {
+    "id": "Barbell_Squat_To_A_Bench",
+    "name": "Agachamento na Caixa com Barra"
+  },
+  {
+    "id": "Barbell_Step_Ups",
+    "name": "Subida no Banco com Barra (Step-Up)"
+  },
+  {
+    "id": "Barbell_Walking_Lunge",
+    "name": "Passada com Barra"
+  },
+  {
+    "id": "Battling_Ropes",
+    "name": "Corda Naval"
+  },
+  {
+    "id": "Bear_Crawl_Sled_Drags",
+    "name": "Arrasto de Trenó em Quatro Apoios (Bear Crawl)"
+  },
+  {
+    "id": "Behind_Head_Chest_Stretch",
+    "name": "Alongamento de Peitoral atrás da Cabeça"
+  },
+  {
+    "id": "Bench_Dips",
+    "name": "Tríceps no Banco"
+  },
+  {
+    "id": "Bench_Jump",
+    "name": "Salto na Caixa/Banco"
+  },
+  {
+    "id": "Bench_Press_-_Powerlifting",
+    "name": "Supino Reto - Powerlifting"
+  },
+  {
+    "id": "Bench_Press_-_With_Bands",
+    "name": "Supino Reto com Elásticos"
+  },
+  {
+    "id": "Bench_Press_with_Chains",
+    "name": "Supino Reto com Correntes"
+  },
+  {
+    "id": "Bench_Sprint",
+    "name": "Corrida Estática no Banco"
+  },
+  {
+    "id": "Bent-Arm_Barbell_Pullover",
+    "name": "Pullover com Barra (Braços Flexionados)"
+  },
+  {
+    "id": "Bent-Arm_Dumbbell_Pullover",
+    "name": "Pullover com Haltere (Braços Flexionados)"
+  },
+  {
+    "id": "Bent-Knee_Hip_Raise",
+    "name": "Elevação de Quadril Deitado (Joelhos Flexionados)"
+  },
+  {
+    "id": "Bent_Over_Barbell_Row",
+    "name": "Remada Curvada com Barra"
+  },
+  {
+    "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+    "name": "Crucifixo Invertido com Halteres (Cabeça no Banco)"
+  },
+  {
+    "id": "Bent_Over_Low-Pulley_Side_Lateral",
+    "name": "Elevação Lateral Curvada na Polia Baixa"
+  },
+  {
+    "id": "Bent_Over_One-Arm_Long_Bar_Row",
+    "name": "Remada Cavalinho Unilateral com Barra"
+  },
+  {
+    "id": "Bent_Over_Two-Arm_Long_Bar_Row",
+    "name": "Remada Cavalinho com Barra"
+  },
+  {
+    "id": "Bent_Over_Two-Dumbbell_Row",
+    "name": "Remada Curvada com Halteres"
+  },
+  {
+    "id": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+    "name": "Remada Curvada com Halteres (Pegada Neutra)"
+  },
+  {
+    "id": "Bent_Press",
+    "name": "Desenvolvimento Bent Press"
+  },
+  {
+    "id": "Bicycling",
+    "name": "Ciclismo"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Palms-Down_Wrist_Curl_Over_A_Bench",
+    "name": "Rosca de Punho Inversa no Banco"
+  },
+  {
+    "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+    "name": "Rosca de Punho com Barra no Banco"
+  },
+  {
+    "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
+    "name": "Rosca de Punho com Haltere no Banco"
+  },
+  {
+    "id": "Parallel_Bar_Dip",
+    "name": "Mergulho nas Paralelas"
+  },
+  {
+    "id": "Pelvic_Tilt_Into_Bridge",
+    "name": "Elevação Pélvica com Retroversão (Ponte)"
+  },
+  {
+    "id": "Peroneals-SMR",
+    "name": "Liberação Miofascial de Peroniais"
+  },
+  {
+    "id": "Peroneals_Stretch",
+    "name": "Alongamento de Peroniais"
+  },
+  {
+    "id": "Physioball_Hip_Bridge",
+    "name": "Elevação Pélvica na Bola Suíça"
+  },
+  {
+    "id": "Pin_Presses",
+    "name": "Supino no Power Rack (Pin Press)"
+  },
+  {
+    "id": "Piriformis-SMR",
+    "name": "Liberação Miofascial de Piriforme"
+  },
+  {
+    "id": "Plank",
+    "name": "Prancha Isométrica"
+  },
+  {
+    "id": "Plate_Pinch",
+    "name": "Pinch Press com Anilha"
+  },
+  {
+    "id": "Plate_Twist",
+    "name": "Giro Russo com Anilha"
+  },
+  {
+    "id": "Platform_Hamstring_Slides",
+    "name": "Flexão de Pernas Deslizante na Plataforma"
+  },
+  {
+    "id": "Plie_Dumbbell_Squat",
+    "name": "Agachamento Sumô com Haltere"
+  },
+  {
+    "id": "Plyo_Kettlebell_Pushups",
+    "name": "Flexão de Braço Pliométrica com Kettlebell"
+  },
+  {
+    "id": "Plyo_Push-up",
+    "name": "Flexão de Braço Pliométrica (com palmas)"
+  },
+  {
+    "id": "Posterior_Tibialis_Stretch",
+    "name": "Alongamento de Tibial Posterior"
+  },
+  {
+    "id": "Power_Clean",
+    "name": "Power Clean (LPO)"
+  },
+  {
+    "id": "Power_Clean_from_Blocks",
+    "name": "Power Clean a partir dos Blocos (LPO)"
+  },
+  {
+    "id": "Power_Jerk",
+    "name": "Power Jerk (LPO)"
+  },
+  {
+    "id": "Power_Partials",
+    "name": "Elevação Lateral Parcial (Power Partials)"
+  },
+  {
+    "id": "Power_Snatch",
+    "name": "Power Snatch (LPO)"
+  },
+  {
+    "id": "Power_Snatch_from_Blocks",
+    "name": "Power Snatch a partir de Blocos (LPO)"
+  },
+  {
+    "id": "Power_Stairs",
+    "name": "Subida de Escada com Carga (Strongman)"
+  },
+  {
+    "id": "Preacher_Curl",
+    "name": "Rosca Scott"
+  },
+  {
+    "id": "Preacher_Hammer_Dumbbell_Curl",
+    "name": "Rosca Martelo Scott com Haltere"
+  },
+  {
+    "id": "Press_Sit-Up",
+    "name": "Abdominal Sit-Up com Carga"
+  },
+  {
+    "id": "Prone_Manual_Hamstring",
+    "name": "Flexão de Pernas Assistida (Deitado)"
+  },
+  {
+    "id": "Prowler_Sprint",
+    "name": "Empurrão de Trenó (Prowler)"
+  },
+  {
+    "id": "Pull_Through",
+    "name": "Pull Through no Cabo (Elevação Pélvica no Cabo)"
+  },
+  {
+    "id": "Pullups",
+    "name": "Barra Fixa"
+  },
+  {
+    "id": "Push-Up_Wide",
+    "name": "Flexão de Braço com Pegada Aberta"
+  },
+  {
+    "id": "Push-Ups_-_Close_Triceps_Position",
+    "name": "Flexão de Braço Fechada (Tríceps)"
+  },
+  {
+    "id": "Push-Ups_With_Feet_Elevated",
+    "name": "Flexão de Braço Declinada (Pés Elevados)"
+  },
+  {
+    "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
+    "name": "Flexão de Braço com Pés na Bola Suíça"
+  },
+  {
+    "id": "Push_Press",
+    "name": "Push Press (LPO)"
+  },
+  {
+    "id": "Push_Press_-_Behind_the_Neck",
+    "name": "Push Press por Trás da Nuca (LPO)"
+  },
+  {
+    "id": "Push_Up_to_Side_Plank",
+    "name": "Flexão de Braço com Transição para Prancha Lateral"
+  },
+  {
+    "id": "Pushups",
+    "name": "Flexão de Braço"
+  },
+  {
+    "id": "Pushups_Close_and_Wide_Hand_Positions",
+    "name": "Flexão de Braço (Pegadas Aberta e Fechada)"
+  },
+  {
+    "id": "Pyramid",
+    "name": "Salto de Pirâmide"
+  },
+  {
+    "id": "Quad_Stretch",
+    "name": "Alongamento de Quadríceps"
+  },
+  {
+    "id": "Quadriceps-SMR",
+    "name": "Liberação Miofascial de Quadríceps"
+  },
+  {
+    "id": "Quick_Leap",
+    "name": "Salto Rápido"
+  },
+  {
+    "id": "Rack_Delivery",
+    "name": "Recebimento no Rack (LPO)"
+  },
+  {
+    "id": "Rack_Pull_with_Bands",
+    "name": "Meio Terra com Elásticos (Rack Pull)"
+  },
+  {
+    "id": "Rack_Pulls",
+    "name": "Meio Terra (Rack Pull)"
+  },
+  {
+    "id": "Rear_Leg_Raises",
+    "name": "Glúteo 4 Apoios (Elevação de Perna)"
+  },
+  {
+    "id": "Recumbent_Bike",
+    "name": "Bicicleta Ergométrica Horizontal"
+  },
+  {
+    "id": "Return_Push_from_Stance",
+    "name": "Empurrão de Retorno da Posição"
+  },
+  {
+    "id": "Reverse_Band_Bench_Press",
+    "name": "Supino Reto com Elástico Invertido"
+  },
+  {
+    "id": "Reverse_Band_Box_Squat",
+    "name": "Agachamento na Caixa com Elástico Invertido"
+  },
+  {
+    "id": "Reverse_Band_Deadlift",
+    "name": "Levantamento Terra com Elástico Invertido"
+  },
+  {
+    "id": "Reverse_Band_Power_Squat",
+    "name": "Agachamento com Elástico Invertido"
+  },
+  {
+    "id": "Reverse_Band_Sumo_Deadlift",
+    "name": "Levantamento Terra Sumô com Elástico Invertido"
+  },
+  {
+    "id": "Reverse_Barbell_Curl",
+    "name": "Rosca Inversa com Barra"
+  },
+  {
+    "id": "Reverse_Barbell_Preacher_Curls",
+    "name": "Rosca Inversa Scott com Barra"
+  },
+  {
+    "id": "Reverse_Cable_Curl",
+    "name": "Rosca Inversa no Cabo"
+  },
+  {
+    "id": "Reverse_Crunch",
+    "name": "Abdominal Reverso"
+  },
+  {
+    "id": "Reverse_Flyes",
+    "name": "Crucifixo Invertido com Halteres"
+  },
+  {
+    "id": "Reverse_Flyes_With_External_Rotation",
+    "name": "Crucifixo Invertido com Rotação Externa com Halteres"
+  },
+  {
+    "id": "Reverse_Grip_Bent-Over_Rows",
+    "name": "Remada Curvada com Pegada Supinada"
+  },
+  {
+    "id": "Reverse_Grip_Triceps_Pushdown",
+    "name": "Tríceps Pulley Inverso"
+  },
+  {
+    "id": "Reverse_Hyperextension",
+    "name": "Extensão Lombar Inversa"
+  },
+  {
+    "id": "Reverse_Machine_Flyes",
+    "name": "Voador Invertido (Máquina)"
+  },
+  {
+    "id": "Reverse_Plate_Curls",
+    "name": "Rosca Inversa com Anilha"
+  },
+  {
+    "id": "Reverse_Triceps_Bench_Press",
+    "name": "Supino com Pegada Invertida para Tríceps"
+  },
+  {
+    "id": "Rhomboids-SMR",
+    "name": "Liberação Miofascial de Romboides"
+  },
+  {
+    "id": "Rickshaw_Carry",
+    "name": "Transporte Rickshaw (Strongman)"
+  },
+  {
+    "id": "Rickshaw_Deadlift",
+    "name": "Levantamento Terra com Rickshaw (Strongman)"
+  },
+  {
+    "id": "Ring_Dips",
+    "name": "Paralelas nas Argolas"
+  },
+  {
+    "id": "Rocket_Jump",
+    "name": "Salto Foguete"
+  },
+  {
+    "id": "Rocking_Standing_Calf_Raise",
+    "name": "Elevação de Panturrilha Balanceando"
+  },
+  {
+    "id": "Rocky_Pull-Ups_Pulldowns",
+    "name": "Barra Fixa / Puxada Estilo Rocky"
+  },
+  {
+    "id": "Romanian_Deadlift",
+    "name": "Levantamento Terra Romeno"
+  },
+  {
+    "id": "Romanian_Deadlift_from_Deficit",
+    "name": "Levantamento Terra Romeno com Déficit (Plataforma)"
+  },
+  {
+    "id": "Rope_Climb",
+    "name": "Subida na Corda"
+  },
+  {
+    "id": "Rope_Crunch",
+    "name": "Abdominal com Corda na Polia"
+  },
+  {
+    "id": "Rope_Jumping",
+    "name": "Pular Corda"
+  },
+  {
+    "id": "Rope_Straight-Arm_Pulldown",
+    "name": "Pullover na Polia Alta com Corda (Pulldown)"
+  },
+  {
+    "id": "Round_The_World_Shoulder_Stretch",
+    "name": "Alongamento de Ombros Around The World"
+  },
+  {
+    "id": "Rowing_Stationary",
+    "name": "Remo Seco (Ergômetro)"
+  },
+  {
+    "id": "Runners_Stretch",
+    "name": "Alongamento de Corredor"
+  },
+  {
+    "id": "Running_Treadmill",
+    "name": "Corrida na Esteira"
+  },
+  {
+    "id": "Russian_Twist",
+    "name": "Giro Russo"
+  },
+  {
+    "id": "Sandbag_Load",
+    "name": "Carregamento de Saco de Areia (Strongman)"
+  },
+  {
+    "id": "Scapular_Pull-Up",
+    "name": "Barra Fixa Escapular"
+  }
+]

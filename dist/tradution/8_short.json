@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Smith_Machine_Hip_Raise",
+    "name": "Elevação Pélvica no Smith"
+  },
+  {
+    "id": "Smith_Machine_Incline_Bench_Press",
+    "name": "Supino Inclinado no Smith"
+  },
+  {
+    "id": "Smith_Machine_Leg_Press",
+    "name": "Leg Press no Smith"
+  },
+  {
+    "id": "Smith_Machine_One-Arm_Upright_Row",
+    "name": "Remada Alta Unilateral no Smith"
+  },
+  {
+    "id": "Smith_Machine_Overhead_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros no Smith"
+  },
+  {
+    "id": "Smith_Machine_Pistol_Squat",
+    "name": "Agachamento Pistol no Smith"
+  },
+  {
+    "id": "Smith_Machine_Reverse_Calf_Raises",
+    "name": "Elevação de Tibial Anterior no Smith (Panturrilha Inversa)"
+  },
+  {
+    "id": "Smith_Machine_Squat",
+    "name": "Agachamento no Smith"
+  },
+  {
+    "id": "Smith_Machine_Stiff-Legged_Deadlift",
+    "name": "Stiff no Smith"
+  },
+  {
+    "id": "Smith_Machine_Upright_Row",
+    "name": "Remada Alta no Smith"
+  },
+  {
+    "id": "Smith_Single-Leg_Split_Squat",
+    "name": "Agachamento Búlgaro no Smith"
+  },
+  {
+    "id": "Snatch",
+    "name": "Snatch (Arranco / LPO)"
+  },
+  {
+    "id": "Snatch_Balance",
+    "name": "Snatch Balance (LPO)"
+  },
+  {
+    "id": "Snatch_Deadlift",
+    "name": "Levantamento Terra com Pegada de Snatch"
+  },
+  {
+    "id": "Snatch_Pull",
+    "name": "Puxada de Snatch (LPO)"
+  },
+  {
+    "id": "Snatch_Shrug",
+    "name": "Encolhimento com Pegada de Snatch"
+  },
+  {
+    "id": "Snatch_from_Blocks",
+    "name": "Snatch a partir de Blocos (LPO)"
+  },
+  {
+    "id": "Speed_Band_Overhead_Triceps",
+    "name": "Extensão de Tríceps com Elástico Veloz"
+  },
+  {
+    "id": "Speed_Box_Squat",
+    "name": "Agachamento na Caixa Veloz"
+  },
+  {
+    "id": "Speed_Squats",
+    "name": "Agachamento Dinâmico (Velocidade)"
+  },
+  {
+    "id": "Spell_Caster",
+    "name": "Abdominal Spell Caster (com Halteres)"
+  },
+  {
+    "id": "Spider_Crawl",
+    "name": "Passo de Aranha (Spider Crawl)"
+  },
+  {
+    "id": "Spider_Curl",
+    "name": "Rosca Spider (Banco Inclinado)"
+  },
+  {
+    "id": "Spinal_Stretch",
+    "name": "Alongamento da Coluna"
+  },
+  {
+    "id": "Split_Clean",
+    "name": "Split Clean (LPO)"
+  },
+  {
+    "id": "Split_Jerk",
+    "name": "Split Jerk (LPO)"
+  },
+  {
+    "id": "Split_Jump",
+    "name": "Salto Afundo (Split Jump)"
+  },
+  {
+    "id": "Split_Snatch",
+    "name": "Split Snatch (LPO)"
+  },
+  {
+    "id": "Split_Squat_with_Dumbbells",
+    "name": "Agachamento Búlgaro com Halteres"
+  },
+  {
+    "id": "Split_Squats",
+    "name": "Agachamento Búlgaro"
+  },
+  {
+    "id": "Squat_Jerk",
+    "name": "Squat Jerk (LPO)"
+  },
+  {
+    "id": "Squat_with_Bands",
+    "name": "Agachamento com Elásticos"
+  },
+  {
+    "id": "Squat_with_Chains",
+    "name": "Agachamento com Correntes"
+  },
+  {
+    "id": "Squat_with_Plate_Movers",
+    "name": "Agachamento com Deslocamento de Anilha"
+  },
+  {
+    "id": "Squats_-_With_Bands",
+    "name": "Agachamento com Elásticos"
+  },
+  {
+    "id": "Stairmaster",
+    "name": "Simulador de Escada (Stairmaster)"
+  },
+  {
+    "id": "Standing_Alternating_Dumbbell_Press",
+    "name": "Desenvolvimento Alternado com Halteres"
+  },
+  {
+    "id": "Standing_Barbell_Calf_Raise",
+    "name": "Elevação de Panturrilha em Pé com Barra"
+  },
+  {
+    "id": "Standing_Barbell_Press_Behind_Neck",
+    "name": "Desenvolvimento por Trás com Barra em Pé"
+  },
+  {
+    "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+    "name": "Tríceps Coice Unilateral em Pé"
+  },
+  {
+    "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+    "name": "Tríceps Coice em Pé com Halteres"
+  },
+  {
+    "id": "Standing_Biceps_Cable_Curl",
+    "name": "Rosca Direta no Cabo"
+  },
+  {
+    "id": "Standing_Biceps_Stretch",
+    "name": "Alongamento de Bíceps em Pé"
+  },
+  {
+    "id": "Standing_Bradford_Press",
+    "name": "Desenvolvimento Bradford em Pé"
+  },
+  {
+    "id": "Standing_Cable_Chest_Press",
+    "name": "Supino no Cabo em Pé"
+  },
+  {
+    "id": "Standing_Cable_Lift",
+    "name": "Elevação em Pé no Cabo"
+  },
+  {
+    "id": "Standing_Cable_Wood_Chop",
+    "name": "Abdominal Wood Chop no Cabo"
+  },
+  {
+    "id": "Standing_Calf_Raises",
+    "name": "Elevação de Panturrilha em Pé"
+  },
+  {
+    "id": "Standing_Concentration_Curl",
+    "name": "Rosca Concentrada em Pé"
+  },
+  {
+    "id": "Standing_Dumbbell_Calf_Raise",
+    "name": "Elevação de Panturrilha em Pé com Halteres"
+  },
+  {
+    "id": "Standing_Dumbbell_Press",
+    "name": "Desenvolvimento em Pé com Halteres"
+  },
+  {
+    "id": "Standing_Dumbbell_Reverse_Curl",
+    "name": "Rosca Inversa com Halteres"
+  },
+  {
+    "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+    "name": "Elevação Frontal Completa com Halteres em Pé"
+  },
+  {
+    "id": "Standing_Dumbbell_Triceps_Extension",
+    "name": "Tríceps Francês em Pé com Haltere"
+  },
+  {
+    "id": "Standing_Dumbbell_Upright_Row",
+    "name": "Remada Alta com Halteres"
+  },
+  {
+    "id": "Standing_Elevated_Quad_Stretch",
+    "name": "Alongamento de Quadríceps em Pé com Pé Elevado"
+  },
+  {
+    "id": "Standing_Front_Barbell_Raise_Over_Head",
+    "name": "Elevação Frontal Completa com Barra em Pé"
+  },
+  {
+    "id": "Standing_Gastrocnemius_Calf_Stretch",
+    "name": "Alongamento de Panturrilha em Pé (Gastrocnêmio)"
+  },
+  {
+    "id": "Standing_Hamstring_and_Calf_Stretch",
+    "name": "Alongamento de Posterior de Coxa e Panturrilha em Pé"
+  },
+  {
+    "id": "Standing_Hip_Circles",
+    "name": "Rotação de Quadril em Pé"
+  },
+  {
+    "id": "Standing_Hip_Flexors",
+    "name": "Alongamento de Flexores de Quadril em Pé"
+  },
+  {
+    "id": "Standing_Inner-Biceps_Curl",
+    "name": "Rosca Bíceps em Pé com Rotação Externa"
+  },
+  {
+    "id": "Standing_Lateral_Stretch",
+    "name": "Alongamento Lateral de Tronco em Pé"
+  },
+  {
+    "id": "Standing_Leg_Curl",
+    "name": "Flexão de Perna em Pé"
+  },
+  {
+    "id": "Standing_Long_Jump",
+    "name": "Salto em Distância em Pé"
+  },
+  {
+    "id": "Standing_Low-Pulley_Deltoid_Raise",
+    "name": "Elevação Lateral na Polia Baixa"
+  },
+  {
+    "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+    "name": "Tríceps Francês Unilateral na Polia Baixa"
+  },
+  {
+    "id": "Standing_Military_Press",
+    "name": "Desenvolvimento Militar em Pé"
+  },
+  {
+    "id": "Standing_Olympic_Plate_Hand_Squeeze",
+    "name": "Aperto de Anilha Olímpica em Pé"
+  },
+  {
+    "id": "Standing_One-Arm_Cable_Curl",
+    "name": "Rosca Bíceps Unilateral no Cabo em Pé"
+  },
+  {
+    "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+    "name": "Rosca Concentrada Unilateral no Banco Inclinado"
+  },
+  {
+    "id": "Standing_One-Arm_Dumbbell_Triceps_Extension",
+    "name": "Extensão de Tríceps Unilateral em Pé com Haltere"
+  },
+  {
+    "id": "Standing_Overhead_Barbell_Triceps_Extension",
+    "name": "Tríceps Testa em Pé com Barra"
+  },
+  {
+    "id": "Standing_Palm-In_One-Arm_Dumbbell_Press",
+    "name": "Desenvolvimento Unilateral em Pé com Haltere (Pegada Neutra)"
+  },
+  {
+    "id": "Standing_Palms-In_Dumbbell_Press",
+    "name": "Desenvolvimento em Pé com Halteres (Pegada Neutra)"
+  },
+  {
+    "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+    "name": "Rosca de Punho com Barra por Trás em Pé"
+  },
+  {
+    "id": "Standing_Pelvic_Tilt",
+    "name": "Basculação Pélvica em Pé"
+  },
+  {
+    "id": "Standing_Rope_Crunch",
+    "name": "Abdominal com Corda em Pé na Polia"
+  },
+  {
+    "id": "Standing_Soleus_And_Achilles_Stretch",
+    "name": "Alongamento de Sóleo e Tendão de Aquiles"
+  },
+  {
+    "id": "Standing_Toe_Touches",
+    "name": "Alongamento Toque nos Pés em Pé"
+  },
+  {
+    "id": "Standing_Towel_Triceps_Extension",
+    "name": "Extensão de Tríceps com Toalha em Pé"
+  },
+  {
+    "id": "Standing_Two-Arm_Overhead_Throw",
+    "name": "Arremesso de Bola sobre a Cabeça em Pé (Duas Mãos)"
+  },
+  {
+    "id": "Star_Jump",
+    "name": "Salto Estrela"
+  },
+  {
+    "id": "Step-up_with_Knee_Raise",
+    "name": "Subida no Banco com Elevação de Joelho (Step-up)"
+  },
+  {
+    "id": "Step_Mill",
+    "name": "Simulador de Escada (Stairmaster)"
+  },
+  {
+    "id": "Stiff-Legged_Barbell_Deadlift",
+    "name": "Stiff com Barra"
+  },
+  {
+    "id": "Stiff-Legged_Dumbbell_Deadlift",
+    "name": "Stiff com Halteres"
+  },
+  {
+    "id": "Stiff_Leg_Barbell_Good_Morning",
+    "name": "Bom Dia com Barra (Pernas Rígidas)"
+  }
+]

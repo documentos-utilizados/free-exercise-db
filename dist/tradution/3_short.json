@@ -1,0 +1,354 @@
+[
+  {
+    "id": "External_Rotation_with_Band",
+    "name": "Rotação Externa com Elástico"
+  },
+  {
+    "id": "External_Rotation_with_Cable",
+    "name": "Rotação Externa no Cabo"
+  },
+  {
+    "id": "Face_Pull",
+    "name": "Face Pull"
+  },
+  {
+    "id": "Farmers_Walk",
+    "name": "Caminhada do Fazendeiro (Farmer's Walk)"
+  },
+  {
+    "id": "Fast_Skipping",
+    "name": "Skipping Rápido"
+  },
+  {
+    "id": "Finger_Curls",
+    "name": "Rosca de Dedos (Flexão de Dedos)"
+  },
+  {
+    "id": "Flat_Bench_Cable_Flyes",
+    "name": "Crucifixo no Cabo Deitado"
+  },
+  {
+    "id": "Flat_Bench_Leg_Pull-In",
+    "name": "Abdominal Infra no Banco Plano"
+  },
+  {
+    "id": "Flat_Bench_Lying_Leg_Raise",
+    "name": "Elevação de Pernas Deitado no Banco Plano"
+  },
+  {
+    "id": "Flexor_Incline_Dumbbell_Curls",
+    "name": "Rosca Bíceps Inclinada com Flexão de Punho"
+  },
+  {
+    "id": "Floor_Glute-Ham_Raise",
+    "name": "Flexão Nórdica no Chão"
+  },
+  {
+    "id": "Floor_Press",
+    "name": "Supino no Chão"
+  },
+  {
+    "id": "Floor_Press_with_Chains",
+    "name": "Supino no Chão com Correntes"
+  },
+  {
+    "id": "Flutter_Kicks",
+    "name": "Abdominal Tesoura"
+  },
+  {
+    "id": "Foot-SMR",
+    "name": "Liberação Miofascial da Planta do Pé"
+  },
+  {
+    "id": "Forward_Drag_with_Press",
+    "name": "Arrasto de Trenó para Frente com Desenvolvimento"
+  },
+  {
+    "id": "Frankenstein_Squat",
+    "name": "Agachamento Frankenstein"
+  },
+  {
+    "id": "Freehand_Jump_Squat",
+    "name": "Agachamento Livre com Salto"
+  },
+  {
+    "id": "Frog_Hops",
+    "name": "Salto de Rã (Frog Hops)"
+  },
+  {
+    "id": "Frog_Sit-Ups",
+    "name": "Abdominal Borboleta"
+  },
+  {
+    "id": "Front_Barbell_Squat",
+    "name": "Agachamento Frontal com Barra"
+  },
+  {
+    "id": "Front_Barbell_Squat_To_A_Bench",
+    "name": "Agachamento Frontal no Banco com Barra"
+  },
+  {
+    "id": "Front_Box_Jump",
+    "name": "Salto na Caixa Frontal"
+  },
+  {
+    "id": "Front_Cable_Raise",
+    "name": "Elevação Frontal no Cabo"
+  },
+  {
+    "id": "Front_Cone_Hops_or_hurdle_hops",
+    "name": "Salto sobre Cones/Barreiras"
+  },
+  {
+    "id": "Front_Dumbbell_Raise",
+    "name": "Elevação Frontal com Halteres"
+  },
+  {
+    "id": "Front_Incline_Dumbbell_Raise",
+    "name": "Elevação Frontal Inclinada com Halteres"
+  },
+  {
+    "id": "Front_Leg_Raises",
+    "name": "Elevação Frontal de Pernas"
+  },
+  {
+    "id": "Front_Plate_Raise",
+    "name": "Elevação Frontal com Anilha"
+  },
+  {
+    "id": "Front_Raise_And_Pullover",
+    "name": "Elevação Frontal Conjugada com Pullover"
+  },
+  {
+    "id": "Front_Squat_Clean_Grip",
+    "name": "Agachamento Frontal (Pegada Clean)"
+  },
+  {
+    "id": "Front_Squats_With_Two_Kettlebells",
+    "name": "Agachamento Frontal com Dois Kettlebells"
+  },
+  {
+    "id": "Front_Two-Dumbbell_Raise",
+    "name": "Elevação Frontal com Halteres"
+  },
+  {
+    "id": "Full_Range-Of-Motion_Lat_Pulldown",
+    "name": "Puxada Frontal com Amplitude Máxima"
+  },
+  {
+    "id": "Gironda_Sternum_Chins",
+    "name": "Barra Fixa Estilo Gironda"
+  },
+  {
+    "id": "Glute_Ham_Raise",
+    "name": "Flexão Nórdica (Glute Ham Raise)"
+  },
+  {
+    "id": "Glute_Kickback",
+    "name": "Glúteo Coice na Polia"
+  },
+  {
+    "id": "Goblet_Squat",
+    "name": "Agachamento Goblet (Taça)"
+  },
+  {
+    "id": "Good_Morning",
+    "name": "Bom Dia"
+  },
+  {
+    "id": "Good_Morning_off_Pins",
+    "name": "Bom Dia no Power Rack (A partir dos Pinos)"
+  },
+  {
+    "id": "Gorilla_Chin_Crunch",
+    "name": "Barra Fixa Conjugada com Abdominal (Gorilla)"
+  },
+  {
+    "id": "Groin_and_Back_Stretch",
+    "name": "Alongamento de Adutores e Costas"
+  },
+  {
+    "id": "Groiners",
+    "name": "Alongamento de Adutores e Quadril (Groiners)"
+  },
+  {
+    "id": "Hack_Squat",
+    "name": "Agachamento Hack"
+  },
+  {
+    "id": "Hammer_Curls",
+    "name": "Rosca Martelo com Halteres"
+  },
+  {
+    "id": "Hammer_Grip_Incline_DB_Bench_Press",
+    "name": "Supino Inclinado com Halteres (Pegada Neutra)"
+  },
+  {
+    "id": "Hamstring-SMR",
+    "name": "Liberação Miofascial de Posteriores de Coxa"
+  },
+  {
+    "id": "Hamstring_Stretch",
+    "name": "Alongamento de Posteriores de Coxa"
+  },
+  {
+    "id": "Handstand_Push-Ups",
+    "name": "Flexão de Braço de Cabeça para Baixo (Handstand)"
+  },
+  {
+    "id": "Hang_Clean",
+    "name": "Hang Clean (LPO)"
+  },
+  {
+    "id": "Hang_Clean_-_Below_the_Knees",
+    "name": "Hang Clean Abaixo dos Joelhos (LPO)"
+  },
+  {
+    "id": "Hang_Snatch",
+    "name": "Hang Snatch (Arranco Suspenso)"
+  },
+  {
+    "id": "Hang_Snatch_-_Below_Knees",
+    "name": "Hang Snatch Abaixo do Joelho (LPO)"
+  },
+  {
+    "id": "Hanging_Bar_Good_Morning",
+    "name": "Bom Dia Suspenso com Barra"
+  },
+  {
+    "id": "Hanging_Leg_Raise",
+    "name": "Elevação de Pernas Suspenso"
+  },
+  {
+    "id": "Hanging_Pike",
+    "name": "Abdominal Canivete Suspenso"
+  },
+  {
+    "id": "Heaving_Snatch_Balance",
+    "name": "Snatch Balance com Impulso (LPO)"
+  },
+  {
+    "id": "Heavy_Bag_Thrust",
+    "name": "Empurrão de Saco Pesado"
+  },
+  {
+    "id": "High_Cable_Curls",
+    "name": "Rosca Bíceps Duplo no Cabo (Polia Alta)"
+  },
+  {
+    "id": "Hip_Circles_prone",
+    "name": "Rotação de Quadril (Deitado)"
+  },
+  {
+    "id": "Hip_Extension_with_Bands",
+    "name": "Extensão de Quadril com Elásticos"
+  },
+  {
+    "id": "Hip_Flexion_with_Band",
+    "name": "Flexão de Quadril com Elástico"
+  },
+  {
+    "id": "Hip_Lift_with_Band",
+    "name": "Elevação de Quadril com Elástico"
+  },
+  {
+    "id": "Hug_A_Ball",
+    "name": "Alongamento de Costas com Bola Suíça"
+  },
+  {
+    "id": "Hug_Knees_To_Chest",
+    "name": "Alongamento Abraçando os Joelhos"
+  },
+  {
+    "id": "Hurdle_Hops",
+    "name": "Salto sobre Barreiras (Hurdle Hops)"
+  },
+  {
+    "id": "Hyperextensions_Back_Extensions",
+    "name": "Extensão Lombar (Banco Romano)"
+  },
+  {
+    "id": "Hyperextensions_With_No_Hyperextension_Bench",
+    "name": "Extensão Lombar no Solo (sem banco)"
+  },
+  {
+    "id": "IT_Band_and_Glute_Stretch",
+    "name": "Alongamento de Banda Iliotibial e Glúteos"
+  },
+  {
+    "id": "Iliotibial_Tract-SMR",
+    "name": "Liberação Miofascial do Trato Iliotibial"
+  },
+  {
+    "id": "Inchworm",
+    "name": "Exercício Lagarta (Inchworm)"
+  },
+  {
+    "id": "Incline_Barbell_Triceps_Extension",
+    "name": "Tríceps Testa Inclinado com Barra"
+  },
+  {
+    "id": "Incline_Bench_Pull",
+    "name": "Remada Inclinada no Banco (Peito Apoiado)"
+  },
+  {
+    "id": "Incline_Cable_Chest_Press",
+    "name": "Supino Inclinado no Cabo"
+  },
+  {
+    "id": "Incline_Cable_Flye",
+    "name": "Crucifixo Inclinado no Cabo"
+  },
+  {
+    "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
+    "name": "Supino Inclinado com Halteres (Pegada Neutra)"
+  },
+  {
+    "id": "Incline_Dumbbell_Curl",
+    "name": "Rosca Inclinada com Halteres"
+  },
+  {
+    "id": "Incline_Dumbbell_Flyes",
+    "name": "Crucifixo Inclinado com Halteres"
+  },
+  {
+    "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+    "name": "Crucifixo Inclinado com Rotação de Punhos com Halteres"
+  },
+  {
+    "id": "Incline_Dumbbell_Press",
+    "name": "Supino Inclinado com Halteres"
+  },
+  {
+    "id": "Incline_Hammer_Curls",
+    "name": "Rosca Martelo Inclinada com Halteres"
+  },
+  {
+    "id": "Incline_Inner_Biceps_Curl",
+    "name": "Rosca Bíceps Inclinada com Rotação Externa"
+  },
+  {
+    "id": "Incline_Push-Up",
+    "name": "Flexão de Braço Inclinada"
+  },
+  {
+    "id": "Incline_Push-Up_Close-Grip",
+    "name": "Flexão de Braço Fechada Inclinada"
+  },
+  {
+    "id": "Incline_Push-Up_Depth_Jump",
+    "name": "Flexão de Braço Inclinada com Salto de Profundidade"
+  },
+  {
+    "id": "Incline_Push-Up_Medium",
+    "name": "Flexão de Braço Inclinada (Pegada Média)"
+  },
+  {
+    "id": "Incline_Push-Up_Reverse_Grip",
+    "name": "Flexão de Braço Inclinada com Pegada Invertida"
+  },
+  {
+    "id": "Incline_Push-Up_Wide",
+    "name": "Flexão de Braço Aberta Inclinada"
+  }
+]

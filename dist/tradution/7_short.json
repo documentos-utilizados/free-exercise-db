@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Scissor_Kick",
+    "name": "Chute Tesoura"
+  },
+  {
+    "id": "Scissors_Jump",
+    "name": "Salto Tesoura"
+  },
+  {
+    "id": "Seated_Band_Hamstring_Curl",
+    "name": "Flexão de Pernas Sentado com Elástico"
+  },
+  {
+    "id": "Seated_Barbell_Military_Press",
+    "name": "Desenvolvimento Militar Sentado com Barra"
+  },
+  {
+    "id": "Seated_Barbell_Twist",
+    "name": "Rotação de Tronco Sentado com Barra"
+  },
+  {
+    "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+    "name": "Tríceps Coice Unilateral Sentado Curvado"
+  },
+  {
+    "id": "Seated_Bent-Over_Rear_Delt_Raise",
+    "name": "Crucifixo Invertido Sentado com Halteres"
+  },
+  {
+    "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+    "name": "Tríceps Coice Sentado Curvado com Halteres"
+  },
+  {
+    "id": "Seated_Biceps",
+    "name": "Rosca Bíceps Sentado"
+  },
+  {
+    "id": "Seated_Cable_Rows",
+    "name": "Remada Baixa no Cabo"
+  },
+  {
+    "id": "Seated_Cable_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros Sentado no Cabo"
+  },
+  {
+    "id": "Seated_Calf_Raise",
+    "name": "Elevação de Panturrilha Sentado (Solear)"
+  },
+  {
+    "id": "Seated_Calf_Stretch",
+    "name": "Alongamento de Panturrilha Sentado"
+  },
+  {
+    "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+    "name": "Rosca Concentrada Fechada com Barra"
+  },
+  {
+    "id": "Seated_Dumbbell_Curl",
+    "name": "Rosca Direta Sentado com Halteres"
+  },
+  {
+    "id": "Seated_Dumbbell_Inner_Biceps_Curl",
+    "name": "Rosca Bíceps Sentado com Rotação Externa"
+  },
+  {
+    "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+    "name": "Rosca de Punho Inversa Sentado com Haltere"
+  },
+  {
+    "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+    "name": "Rosca de Punho Sentado com Haltere"
+  },
+  {
+    "id": "Seated_Dumbbell_Press",
+    "name": "Desenvolvimento Sentado com Halteres"
+  },
+  {
+    "id": "Seated_Flat_Bench_Leg_Pull-In",
+    "name": "Abdominal Infra Sentado no Banco Plano"
+  },
+  {
+    "id": "Seated_Floor_Hamstring_Stretch",
+    "name": "Alongamento de Posterior de Coxa Sentado no Solo"
+  },
+  {
+    "id": "Seated_Front_Deltoid",
+    "name": "Elevação Frontal Sentado (Foco Deltoide Anterior)"
+  },
+  {
+    "id": "Seated_Glute",
+    "name": "Alongamento de Glúteo Sentado"
+  },
+  {
+    "id": "Seated_Good_Mornings",
+    "name": "Bom Dia Sentado"
+  },
+  {
+    "id": "Seated_Hamstring",
+    "name": "Alongamento de Posterior de Coxa Sentado"
+  },
+  {
+    "id": "Seated_Hamstring_and_Calf_Stretch",
+    "name": "Alongamento de Posterior de Coxa e Panturrilha Sentado"
+  },
+  {
+    "id": "Seated_Head_Harness_Neck_Resistance",
+    "name": "Exercício de Pescoço Sentado com Head Harness"
+  },
+  {
+    "id": "Seated_Leg_Curl",
+    "name": "Cadeira Flexora"
+  },
+  {
+    "id": "Seated_Leg_Tucks",
+    "name": "Abdominal Encolhimento Sentado"
+  },
+  {
+    "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+    "name": "Rosca de Punho Inversa Unilateral Sentado com Haltere"
+  },
+  {
+    "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+    "name": "Rosca de Punho Unilateral Sentado com Haltere"
+  },
+  {
+    "id": "Seated_One-arm_Cable_Pulley_Rows",
+    "name": "Remada Unilateral Sentado no Cabo"
+  },
+  {
+    "id": "Seated_Overhead_Stretch",
+    "name": "Alongamento de Braços Sentado (acima da cabeça)"
+  },
+  {
+    "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+    "name": "Rosca de Punho Sentado com Barra"
+  },
+  {
+    "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
+    "name": "Rosca de Punho Inversa Sentado com Barra"
+  },
+  {
+    "id": "Seated_Side_Lateral_Raise",
+    "name": "Elevação Lateral Sentado com Halteres"
+  },
+  {
+    "id": "Seated_Triceps_Press",
+    "name": "Tríceps Francês Sentado com Haltere"
+  },
+  {
+    "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+    "name": "Rosca de Punho Sentado com Barra na Polia Baixa (Palmas para Cima)"
+  },
+  {
+    "id": "See-Saw_Press_Alternating_Side_Press",
+    "name": "Desenvolvimento Alternado Estilo Gangorra"
+  },
+  {
+    "id": "Shotgun_Row",
+    "name": "Remada Shotgun no Cabo"
+  },
+  {
+    "id": "Shoulder_Circles",
+    "name": "Rotação de Ombros"
+  },
+  {
+    "id": "Shoulder_Press_-_With_Bands",
+    "name": "Desenvolvimento de Ombros com Elásticos"
+  },
+  {
+    "id": "Shoulder_Raise",
+    "name": "Elevação de Ombros"
+  },
+  {
+    "id": "Shoulder_Stretch",
+    "name": "Alongamento de Ombros"
+  },
+  {
+    "id": "Side-Lying_Floor_Stretch",
+    "name": "Alongamento de Quadril Deitado de Lado"
+  },
+  {
+    "id": "Side_Bridge",
+    "name": "Prancha Lateral"
+  },
+  {
+    "id": "Side_Hop-Sprint",
+    "name": "Salto Lateral seguido de Tiro"
+  },
+  {
+    "id": "Side_Jackknife",
+    "name": "Abdominal Lateral Canivete"
+  },
+  {
+    "id": "Side_Lateral_Raise",
+    "name": "Elevação Lateral com Halteres"
+  },
+  {
+    "id": "Side_Laterals_to_Front_Raise",
+    "name": "Elevação Combo (Lateral para Frontal)"
+  },
+  {
+    "id": "Side_Leg_Raises",
+    "name": "Elevação Lateral de Perna"
+  },
+  {
+    "id": "Side_Lying_Groin_Stretch",
+    "name": "Alongamento de Adutores Deitado de Lado"
+  },
+  {
+    "id": "Side_Neck_Stretch",
+    "name": "Alongamento Lateral de Pescoço"
+  },
+  {
+    "id": "Side_Standing_Long_Jump",
+    "name": "Salto em Distância Lateral (em Pé)"
+  },
+  {
+    "id": "Side_To_Side_Chins",
+    "name": "Barra Fixa Alternada Lateral"
+  },
+  {
+    "id": "Side_Wrist_Pull",
+    "name": "Alongamento de Punho Lateral"
+  },
+  {
+    "id": "Side_to_Side_Box_Shuffle",
+    "name": "Deslocamento Lateral na Caixa"
+  },
+  {
+    "id": "Single-Arm_Cable_Crossover",
+    "name": "Crossover Unilateral"
+  },
+  {
+    "id": "Single-Arm_Linear_Jammer",
+    "name": "Desenvolvimento Unilateral Jammer"
+  },
+  {
+    "id": "Single-Arm_Push-Up",
+    "name": "Flexão de Braço Unilateral"
+  },
+  {
+    "id": "Single-Cone_Sprint_Drill",
+    "name": "Tiro Contornando Cone"
+  },
+  {
+    "id": "Single-Leg_High_Box_Squat",
+    "name": "Agachamento Unilateral na Caixa Alta"
+  },
+  {
+    "id": "Single-Leg_Hop_Progression",
+    "name": "Progressão de Saltos Unilaterais"
+  },
+  {
+    "id": "Single-Leg_Lateral_Hop",
+    "name": "Salto Lateral Unilateral"
+  },
+  {
+    "id": "Single-Leg_Leg_Extension",
+    "name": "Cadeira Extensora Unilateral"
+  },
+  {
+    "id": "Single-Leg_Stride_Jump",
+    "name": "Salto Passada Unilateral"
+  },
+  {
+    "id": "Single_Dumbbell_Raise",
+    "name": "Elevação Frontal com Haltere (Pegada Dupla)"
+  },
+  {
+    "id": "Single_Leg_Butt_Kick",
+    "name": "Flexão de Joelho Unilateral em Pé"
+  },
+  {
+    "id": "Single_Leg_Glute_Bridge",
+    "name": "Elevação Pélvica Unilateral Livre"
+  },
+  {
+    "id": "Single_Leg_Push-off",
+    "name": "Step-up com Salto Unilateral"
+  },
+  {
+    "id": "Sit-Up",
+    "name": "Abdominal"
+  },
+  {
+    "id": "Sit_Squats",
+    "name": "Agachamento na Cadeira"
+  },
+  {
+    "id": "Skating",
+    "name": "Exercício Patinador (Skating)"
+  },
+  {
+    "id": "Sled_Drag_-_Harness",
+    "name": "Arrasto de Trenó com Colete"
+  },
+  {
+    "id": "Sled_Overhead_Backward_Walk",
+    "name": "Caminhada de Costas com Trenó sobre a Cabeça"
+  },
+  {
+    "id": "Sled_Overhead_Triceps_Extension",
+    "name": "Extensão de Tríceps com Trenó"
+  },
+  {
+    "id": "Sled_Push",
+    "name": "Empurrão de Trenó (Sled Push)"
+  },
+  {
+    "id": "Sled_Reverse_Flye",
+    "name": "Crucifixo Invertido com Trenó"
+  },
+  {
+    "id": "Sled_Row",
+    "name": "Remada com Trenó"
+  },
+  {
+    "id": "Sledgehammer_Swings",
+    "name": "Marretada no Pneu"
+  },
+  {
+    "id": "Smith_Incline_Shoulder_Raise",
+    "name": "Elevação Escapular Inclinada no Smith"
+  },
+  {
+    "id": "Smith_Machine_Behind_the_Back_Shrug",
+    "name": "Encolhimento por Trás no Smith"
+  },
+  {
+    "id": "Smith_Machine_Bench_Press",
+    "name": "Supino Reto no Smith"
+  },
+  {
+    "id": "Smith_Machine_Bent_Over_Row",
+    "name": "Remada Curvada no Smith"
+  },
+  {
+    "id": "Smith_Machine_Calf_Raise",
+    "name": "Elevação de Panturrilha no Smith"
+  },
+  {
+    "id": "Smith_Machine_Close-Grip_Bench_Press",
+    "name": "Supino Reto com Pegada Fechada no Smith"
+  },
+  {
+    "id": "Smith_Machine_Decline_Press",
+    "name": "Supino Declinado no Smith"
+  },
+  {
+    "id": "Smith_Machine_Hang_Power_Clean",
+    "name": "Hang Power Clean no Smith (LPO)"
+  }
+]

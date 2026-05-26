@@ -1,0 +1,326 @@
+[
+  {
+    "id": "Stomach_Vacuum",
+    "name": "Vácuo Estomacal (Stomach Vacuum)"
+  },
+  {
+    "id": "Straight-Arm_Dumbbell_Pullover",
+    "name": "Pullover com Haltere"
+  },
+  {
+    "id": "Straight-Arm_Pulldown",
+    "name": "Pullover na Polia Alta (Pulldown)"
+  },
+  {
+    "id": "Straight_Bar_Bench_Mid_Rows",
+    "name": "Remada Invertida com Barra"
+  },
+  {
+    "id": "Straight_Raises_on_Incline_Bench",
+    "name": "Elevação de Braços Estendidos no Banco Inclinado"
+  },
+  {
+    "id": "Stride_Jump_Crossover",
+    "name": "Salto Passada Cruzado"
+  },
+  {
+    "id": "Sumo_Deadlift",
+    "name": "Levantamento Terra Sumô"
+  },
+  {
+    "id": "Sumo_Deadlift_with_Bands",
+    "name": "Levantamento Terra Sumô com Elásticos"
+  },
+  {
+    "id": "Sumo_Deadlift_with_Chains",
+    "name": "Levantamento Terra Sumô com Correntes"
+  },
+  {
+    "id": "Superman",
+    "name": "Super-homem (Extensão Lombar no Solo)"
+  },
+  {
+    "id": "Supine_Chest_Throw",
+    "name": "Arremesso de Bola Medicinal Deitado"
+  },
+  {
+    "id": "Supine_One-Arm_Overhead_Throw",
+    "name": "Arremesso de Bola sobre a Cabeça Deitado (Unilateral)"
+  },
+  {
+    "id": "Supine_Two-Arm_Overhead_Throw",
+    "name": "Arremesso de Bola Medicinal sobre a Cabeça Deitado"
+  },
+  {
+    "id": "Suspended_Fallout",
+    "name": "Abdominal Prancha Suspenso (Fallout)"
+  },
+  {
+    "id": "Suspended_Push-Up",
+    "name": "Flexão de Braço Suspensa (fita de treinamento)"
+  },
+  {
+    "id": "Suspended_Reverse_Crunch",
+    "name": "Abdominal Reverso Suspenso"
+  },
+  {
+    "id": "Suspended_Row",
+    "name": "Remada Suspensa (fita de treinamento)"
+  },
+  {
+    "id": "Suspended_Split_Squat",
+    "name": "Agachamento Búlgaro Suspenso"
+  },
+  {
+    "id": "Svend_Press",
+    "name": "Svend Press (Aperto de Anilha)"
+  },
+  {
+    "id": "T-Bar_Row_with_Handle",
+    "name": "Remada Cavalinho com Puxador (Remada T)"
+  },
+  {
+    "id": "Tate_Press",
+    "name": "Tríceps Tate Press"
+  },
+  {
+    "id": "The_Straddle",
+    "name": "Alongamento de Pernas Afastadas"
+  },
+  {
+    "id": "Thigh_Abductor",
+    "name": "Abdução de Coxa (Cadeira Abdutora)"
+  },
+  {
+    "id": "Thigh_Adductor",
+    "name": "Adução de Coxa (Cadeira Adutora)"
+  },
+  {
+    "id": "Tire_Flip",
+    "name": "Tombamento de Pneu (Tire Flip)"
+  },
+  {
+    "id": "Toe_Touchers",
+    "name": "Abdominal Toque no Pé"
+  },
+  {
+    "id": "Torso_Rotation",
+    "name": "Rotação de Tronco"
+  },
+  {
+    "id": "Trail_Running_Walking",
+    "name": "Corrida / Caminhada em Trilha"
+  },
+  {
+    "id": "Trap_Bar_Deadlift",
+    "name": "Levantamento Terra com Barra Hexagonal (Trap Bar)"
+  },
+  {
+    "id": "Tricep_Dumbbell_Kickback",
+    "name": "Tríceps Coice com Haltere"
+  },
+  {
+    "id": "Tricep_Side_Stretch",
+    "name": "Alongamento Lateral de Tríceps"
+  },
+  {
+    "id": "Triceps_Overhead_Extension_with_Rope",
+    "name": "Tríceps Francês na Polia Alta com Corda"
+  },
+  {
+    "id": "Triceps_Pushdown",
+    "name": "Tríceps Pulley"
+  },
+  {
+    "id": "Triceps_Pushdown_-_Rope_Attachment",
+    "name": "Tríceps Pulley com Corda"
+  },
+  {
+    "id": "Triceps_Pushdown_-_V-Bar_Attachment",
+    "name": "Tríceps Pulley com Barra V"
+  },
+  {
+    "id": "Triceps_Stretch",
+    "name": "Alongamento de Tríceps"
+  },
+  {
+    "id": "Tuck_Crunch",
+    "name": "Abdominal Grupado"
+  },
+  {
+    "id": "Two-Arm_Dumbbell_Preacher_Curl",
+    "name": "Rosca Scott com Halteres"
+  },
+  {
+    "id": "Two-Arm_Kettlebell_Clean",
+    "name": "Clean com Dois Kettlebells"
+  },
+  {
+    "id": "Two-Arm_Kettlebell_Jerk",
+    "name": "Jerk com Dois Kettlebells"
+  },
+  {
+    "id": "Two-Arm_Kettlebell_Military_Press",
+    "name": "Desenvolvimento Militar com Dois Kettlebells"
+  },
+  {
+    "id": "Two-Arm_Kettlebell_Row",
+    "name": "Remada com Kettlebells"
+  },
+  {
+    "id": "Underhand_Cable_Pulldowns",
+    "name": "Puxada Frontal com Pegada Supinada"
+  },
+  {
+    "id": "Upper_Back-Leg_Grab",
+    "name": "Alongamento Superior das Costas com Pega na Perna"
+  },
+  {
+    "id": "Upper_Back_Stretch",
+    "name": "Alongamento das Costas (Superior)"
+  },
+  {
+    "id": "Upright_Barbell_Row",
+    "name": "Remada Alta com Barra"
+  },
+  {
+    "id": "Upright_Cable_Row",
+    "name": "Remada Alta no Cabo"
+  },
+  {
+    "id": "Upright_Row_-_With_Bands",
+    "name": "Remada Alta com Elásticos"
+  },
+  {
+    "id": "Upward_Stretch",
+    "name": "Alongamento para Cima"
+  },
+  {
+    "id": "V-Bar_Pulldown",
+    "name": "Puxada com Triângulo"
+  },
+  {
+    "id": "V-Bar_Pullup",
+    "name": "Barra Fixa com Triângulo"
+  },
+  {
+    "id": "Vertical_Swing",
+    "name": "Balanço Vertical com Kettlebell"
+  },
+  {
+    "id": "Walking_Treadmill",
+    "name": "Caminhada na Esteira"
+  },
+  {
+    "id": "Weighted_Ball_Hyperextension",
+    "name": "Extensão Lombar com Bola Suíça e Carga"
+  },
+  {
+    "id": "Weighted_Ball_Side_Bend",
+    "name": "Flexão Lateral com Bola Suíça e Carga"
+  },
+  {
+    "id": "Weighted_Bench_Dip",
+    "name": "Tríceps no Banco com Carga"
+  },
+  {
+    "id": "Weighted_Crunches",
+    "name": "Abdominal com Carga"
+  },
+  {
+    "id": "Weighted_Jump_Squat",
+    "name": "Agachamento com Salto (Carga)"
+  },
+  {
+    "id": "Weighted_Pull_Ups",
+    "name": "Barra Fixa com Carga"
+  },
+  {
+    "id": "Weighted_Sissy_Squat",
+    "name": "Agachamento Sissy com Carga"
+  },
+  {
+    "id": "Weighted_Sit-Ups_-_With_Bands",
+    "name": "Abdominal com Carga e Elástico"
+  },
+  {
+    "id": "Weighted_Squat",
+    "name": "Agachamento com Carga"
+  },
+  {
+    "id": "Wide-Grip_Barbell_Bench_Press",
+    "name": "Supino Reto Pegada Aberta com Barra"
+  },
+  {
+    "id": "Wide-Grip_Decline_Barbell_Bench_Press",
+    "name": "Supino Declinado Pegada Aberta com Barra"
+  },
+  {
+    "id": "Wide-Grip_Decline_Barbell_Pullover",
+    "name": "Pullover com Barra Pegada Aberta Declinado"
+  },
+  {
+    "id": "Wide-Grip_Lat_Pulldown",
+    "name": "Puxada Aberta Frontal"
+  },
+  {
+    "id": "Wide-Grip_Pulldown_Behind_The_Neck",
+    "name": "Puxada por Trás"
+  },
+  {
+    "id": "Wide-Grip_Rear_Pull-Up",
+    "name": "Barra Fixa por Trás"
+  },
+  {
+    "id": "Wide-Grip_Standing_Barbell_Curl",
+    "name": "Rosca Direta com Pegada Aberta"
+  },
+  {
+    "id": "Wide_Stance_Barbell_Squat",
+    "name": "Agachamento Sumô com Barra"
+  },
+  {
+    "id": "Wide_Stance_Stiff_Legs",
+    "name": "Stiff com Pernas Afastadas"
+  },
+  {
+    "id": "Wind_Sprints",
+    "name": "Tiros de Velocidade (Sprints)"
+  },
+  {
+    "id": "Windmills",
+    "name": "Alongamento Moinho de Vento (Windmills)"
+  },
+  {
+    "id": "Worlds_Greatest_Stretch",
+    "name": "Alongamento World's Greatest Stretch"
+  },
+  {
+    "id": "Wrist_Circles",
+    "name": "Rotação de Punhos"
+  },
+  {
+    "id": "Wrist_Roller",
+    "name": "Rosca de Punho com Rolo (Wrist Roller)"
+  },
+  {
+    "id": "Wrist_Rotations_with_Straight_Bar",
+    "name": "Rotação de Punho com Barra Reta"
+  },
+  {
+    "id": "Yoke_Walk",
+    "name": "Yoke Walk (Caminhada com Yoke/Strongman)"
+  },
+  {
+    "id": "Zercher_Squats",
+    "name": "Agachamento Zercher"
+  },
+  {
+    "id": "Zottman_Curl",
+    "name": "Rosca Zottman"
+  },
+  {
+    "id": "Zottman_Preacher_Curl",
+    "name": "Rosca Scott Zottman"
+  }
+]

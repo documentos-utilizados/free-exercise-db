@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Bicycling_Stationary",
+    "name": "Bicicleta Ergométrica"
+  },
+  {
+    "id": "Board_Press",
+    "name": "Supino com Tábua (Board Press)"
+  },
+  {
+    "id": "Body-Up",
+    "name": "Flexão Body-Up para Tríceps"
+  },
+  {
+    "id": "Body_Tricep_Press",
+    "name": "Rosca Tríceps Corporal"
+  },
+  {
+    "id": "Bodyweight_Flyes",
+    "name": "Crucifixo com Peso Corporal"
+  },
+  {
+    "id": "Bodyweight_Mid_Row",
+    "name": "Remada Invertida com Peso Corporal"
+  },
+  {
+    "id": "Bodyweight_Squat",
+    "name": "Agachamento Livre (Peso Corporal)"
+  },
+  {
+    "id": "Bodyweight_Walking_Lunge",
+    "name": "Passada Livre (Peso Corporal)"
+  },
+  {
+    "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+    "name": "Abdominal no Cabo no Bosu com Flexão Lateral"
+  },
+  {
+    "id": "Bottoms-Up_Clean_From_The_Hang_Position",
+    "name": "Hang Clean Bottoms-Up"
+  },
+  {
+    "id": "Bottoms_Up",
+    "name": "Abdominal Bottoms Up (Elevação de Quadril)"
+  },
+  {
+    "id": "Box_Jump_Multiple_Response",
+    "name": "Salto na Caixa (Repetições Múltiplas)"
+  },
+  {
+    "id": "Box_Skip",
+    "name": "Salto sobre a Caixa"
+  },
+  {
+    "id": "Box_Squat",
+    "name": "Agachamento na Caixa (Box Squat)"
+  },
+  {
+    "id": "Box_Squat_with_Bands",
+    "name": "Agachamento na Caixa com Elásticos"
+  },
+  {
+    "id": "Box_Squat_with_Chains",
+    "name": "Agachamento na Caixa com Correntes"
+  },
+  {
+    "id": "Brachialis-SMR",
+    "name": "Liberação Miofascial de Braquial"
+  },
+  {
+    "id": "Bradford_Rocky_Presses",
+    "name": "Desenvolvimento Bradford (Rocky Press)"
+  },
+  {
+    "id": "Butt-Ups",
+    "name": "Prancha Butt-Up (Elevação de Quadril)"
+  },
+  {
+    "id": "Butt_Lift_Bridge",
+    "name": "Elevação Pélvica (Ponte)"
+  },
+  {
+    "id": "Butterfly",
+    "name": "Voador (Pec Deck)"
+  },
+  {
+    "id": "Cable_Chest_Press",
+    "name": "Supino no Cabo"
+  },
+  {
+    "id": "Cable_Crossover",
+    "name": "Crossover"
+  },
+  {
+    "id": "Cable_Crunch",
+    "name": "Abdominal no Cabo (Polia Alta)"
+  },
+  {
+    "id": "Cable_Deadlifts",
+    "name": "Levantamento Terra no Cabo"
+  },
+  {
+    "id": "Cable_Hammer_Curls_-_Rope_Attachment",
+    "name": "Rosca Martelo no Cabo com Corda"
+  },
+  {
+    "id": "Cable_Hip_Adduction",
+    "name": "Adução de Quadril no Cabo"
+  },
+  {
+    "id": "Cable_Incline_Pushdown",
+    "name": "Tríceps Pulley Inclinado no Cabo"
+  },
+  {
+    "id": "Cable_Incline_Triceps_Extension",
+    "name": "Extensão de Tríceps Inclinada no Cabo"
+  },
+  {
+    "id": "Cable_Internal_Rotation",
+    "name": "Rotação Interna de Ombro no Cabo"
+  },
+  {
+    "id": "Cable_Iron_Cross",
+    "name": "Crucifixo Cruzado no Cabo (Iron Cross)"
+  },
+  {
+    "id": "Cable_Judo_Flip",
+    "name": "Giro de Quadril no Cabo (Judo Flip)"
+  },
+  {
+    "id": "Cable_Lying_Triceps_Extension",
+    "name": "Tríceps Testa no Cabo Deitado"
+  },
+  {
+    "id": "Cable_One_Arm_Tricep_Extension",
+    "name": "Tríceps Unilateral no Cabo"
+  },
+  {
+    "id": "Cable_Preacher_Curl",
+    "name": "Rosca Scott no Cabo"
+  },
+  {
+    "id": "Cable_Rear_Delt_Fly",
+    "name": "Crucifixo Invertido no Cabo"
+  },
+  {
+    "id": "Cable_Reverse_Crunch",
+    "name": "Abdominal Inverso no Cabo"
+  },
+  {
+    "id": "Cable_Rope_Overhead_Triceps_Extension",
+    "name": "Tríceps Francês com Corda no Cabo"
+  },
+  {
+    "id": "Cable_Rope_Rear-Delt_Rows",
+    "name": "Remada Alta para Deltoide Posterior com Corda"
+  },
+  {
+    "id": "Cable_Russian_Twists",
+    "name": "Giro Russo no Cabo"
+  },
+  {
+    "id": "Cable_Seated_Crunch",
+    "name": "Abdominal Sentado no Cabo"
+  },
+  {
+    "id": "Cable_Seated_Lateral_Raise",
+    "name": "Elevação Lateral Sentado no Cabo"
+  },
+  {
+    "id": "Cable_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros no Cabo"
+  },
+  {
+    "id": "Cable_Shrugs",
+    "name": "Encolhimento no Cabo"
+  },
+  {
+    "id": "Cable_Wrist_Curl",
+    "name": "Rosca de Punho no Cabo"
+  },
+  {
+    "id": "Calf-Machine_Shoulder_Shrug",
+    "name": "Encolhimento de Ombros na Máquina de Panturrilha"
+  },
+  {
+    "id": "Calf_Press",
+    "name": "Panturrilha no Leg Press"
+  },
+  {
+    "id": "Calf_Press_On_The_Leg_Press_Machine",
+    "name": "Panturrilha no Leg Press"
+  },
+  {
+    "id": "Calf_Raise_On_A_Dumbbell",
+    "name": "Elevação de Panturrilha Unilateral com Haltere"
+  },
+  {
+    "id": "Calf_Raises_-_With_Bands",
+    "name": "Elevação de Panturrilha com Elásticos"
+  },
+  {
+    "id": "Calf_Stretch_Elbows_Against_Wall",
+    "name": "Alongamento de Panturrilha (Cotovelos na Parede)"
+  },
+  {
+    "id": "Calf_Stretch_Hands_Against_Wall",
+    "name": "Alongamento de Panturrilha (Mãos na Parede)"
+  },
+  {
+    "id": "Calves-SMR",
+    "name": "Liberação Miofascial de Panturrilha"
+  },
+  {
+    "id": "Car_Deadlift",
+    "name": "Levantamento Terra com Carro (Strongman)"
+  },
+  {
+    "id": "Car_Drivers",
+    "name": "Giro de Anilha (Car Drivers)"
+  },
+  {
+    "id": "Carioca_Quick_Step",
+    "name": "Passo Carioca (Carioca Quick Step)"
+  },
+  {
+    "id": "Cat_Stretch",
+    "name": "Alongamento do Gato"
+  },
+  {
+    "id": "Catch_and_Overhead_Throw",
+    "name": "Lançamento de Bola Medicinal sobre a Cabeça"
+  },
+  {
+    "id": "Chain_Handle_Extension",
+    "name": "Extensão com Corrente"
+  },
+  {
+    "id": "Chain_Press",
+    "name": "Supino com Correntes"
+  },
+  {
+    "id": "Chair_Leg_Extended_Stretch",
+    "name": "Alongamento de Posterior de Coxa na Cadeira"
+  },
+  {
+    "id": "Chair_Lower_Back_Stretch",
+    "name": "Alongamento Lombar na Cadeira"
+  },
+  {
+    "id": "Chair_Squat",
+    "name": "Agachamento na Cadeira"
+  },
+  {
+    "id": "Chair_Upper_Body_Stretch",
+    "name": "Alongamento de Tronco na Cadeira"
+  },
+  {
+    "id": "Chest_And_Front_Of_Shoulder_Stretch",
+    "name": "Alongamento de Peitoral e Ombro Anterior"
+  },
+  {
+    "id": "Chest_Push_from_3_point_stance",
+    "name": "Arremesso de Bola Medicinal em 3 Apoios"
+  },
+  {
+    "id": "Chest_Push_multiple_response",
+    "name": "Arremesso de Bola Medicinal no Peito (Múltiplo)"
+  },
+  {
+    "id": "Chest_Push_single_response",
+    "name": "Arremesso de Bola Medicinal no Peito (Único)"
+  },
+  {
+    "id": "Chest_Push_with_Run_Release",
+    "name": "Arremesso de Bola Medicinal com Corrida"
+  },
+  {
+    "id": "Chest_Stretch_on_Stability_Ball",
+    "name": "Alongamento de Peitoral na Bola Suíça"
+  },
+  {
+    "id": "Childs_Pose",
+    "name": "Postura da Criança (Alongamento)"
+  },
+  {
+    "id": "Chin-Up",
+    "name": "Barra Fixa Supinada"
+  },
+  {
+    "id": "Chin_To_Chest_Stretch",
+    "name": "Alongamento de Pescoço (Queixo no Peito)"
+  },
+  {
+    "id": "Circus_Bell",
+    "name": "Halter de Circo (Strongman)"
+  },
+  {
+    "id": "Clean",
+    "name": "Clean (LPO)"
+  },
+  {
+    "id": "Clean_Deadlift",
+    "name": "Levantamento Terra com Pegada de Clean"
+  },
+  {
+    "id": "Clean_Pull",
+    "name": "Puxada de Clean (LPO)"
+  },
+  {
+    "id": "Clean_Shrug",
+    "name": "Encolhimento com Pegada de Clean"
+  },
+  {
+    "id": "Clean_and_Jerk",
+    "name": "Arremesso (Clean and Jerk)"
+  },
+  {
+    "id": "Clean_and_Press",
+    "name": "Clean e Desenvolvimento (LPO)"
+  },
+  {
+    "id": "Clean_from_Blocks",
+    "name": "Clean a partir de Blocos (LPO)"
+  },
+  {
+    "id": "Clock_Push-Up",
+    "name": "Flexão de Braço Relógio"
+  },
+  {
+    "id": "Close-Grip_Barbell_Bench_Press",
+    "name": "Supino Reto com Pegada Fechada"
+  },
+  {
+    "id": "Close-Grip_Dumbbell_Press",
+    "name": "Supino com Halteres Pegada Fechada"
+  },
+  {
+    "id": "Close-Grip_EZ-Bar_Curl_with_Band",
+    "name": "Rosca Direta Fechada com Barra W com Elástico"
+  },
+  {
+    "id": "Close-Grip_EZ-Bar_Press",
+    "name": "Supino Reto Fechado com Barra W"
+  },
+  {
+    "id": "Close-Grip_EZ_Bar_Curl",
+    "name": "Rosca Direta Fechada com Barra W"
+  },
+  {
+    "id": "Close-Grip_Front_Lat_Pulldown",
+    "name": "Puxada Frontal com Pegada Fechada"
+  }
+]

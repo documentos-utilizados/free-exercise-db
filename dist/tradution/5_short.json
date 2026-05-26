@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Lying_Crossover",
+    "name": "Alongamento de Quadril Deitado (Torção)"
+  },
+  {
+    "id": "Lying_Dumbbell_Tricep_Extension",
+    "name": "Tríceps Testa com Halteres"
+  },
+  {
+    "id": "Lying_Face_Down_Plate_Neck_Resistance",
+    "name": "Extensão de Pescoço Deitado (Peito no Banco) com Anilha"
+  },
+  {
+    "id": "Lying_Face_Up_Plate_Neck_Resistance",
+    "name": "Flexão de Pescoço Deitado (Costas no Banco) com Anilha"
+  },
+  {
+    "id": "Lying_Glute",
+    "name": "Alongamento de Glúteos Deitado"
+  },
+  {
+    "id": "Lying_Hamstring",
+    "name": "Alongamento de Posterior de Coxa Deitado"
+  },
+  {
+    "id": "Lying_High_Bench_Barbell_Curl",
+    "name": "Rosca Direta Deitado no Banco Alto"
+  },
+  {
+    "id": "Lying_Leg_Curls",
+    "name": "Mesa Flexora (Deitado)"
+  },
+  {
+    "id": "Lying_Machine_Squat",
+    "name": "Agachamento na Máquina Deitado"
+  },
+  {
+    "id": "Lying_One-Arm_Lateral_Raise",
+    "name": "Elevação Lateral Deitado Unilateral com Haltere"
+  },
+  {
+    "id": "Lying_Prone_Quadriceps",
+    "name": "Alongamento de Quadríceps Deitado Pronado"
+  },
+  {
+    "id": "Lying_Rear_Delt_Raise",
+    "name": "Crucifixo Invertido Deitado com Halteres"
+  },
+  {
+    "id": "Lying_Supine_Dumbbell_Curl",
+    "name": "Rosca Bíceps Deitado com Halteres"
+  },
+  {
+    "id": "Lying_T-Bar_Row",
+    "name": "Remada Cavalinho Deitado"
+  },
+  {
+    "id": "Lying_Triceps_Press",
+    "name": "Tríceps Testa Deitado com Halteres"
+  },
+  {
+    "id": "Machine_Bench_Press",
+    "name": "Supino na Máquina"
+  },
+  {
+    "id": "Machine_Bicep_Curl",
+    "name": "Rosca Bíceps na Máquina"
+  },
+  {
+    "id": "Machine_Preacher_Curls",
+    "name": "Rosca Scott na Máquina"
+  },
+  {
+    "id": "Machine_Shoulder_Military_Press",
+    "name": "Desenvolvimento de Ombros na Máquina"
+  },
+  {
+    "id": "Machine_Triceps_Extension",
+    "name": "Extensão de Tríceps na Máquina"
+  },
+  {
+    "id": "Medicine_Ball_Chest_Pass",
+    "name": "Passe de Peito com Bola Medicinal"
+  },
+  {
+    "id": "Medicine_Ball_Full_Twist",
+    "name": "Rotação de Tronco Completa com Bola Medicinal"
+  },
+  {
+    "id": "Medicine_Ball_Scoop_Throw",
+    "name": "Arremesso de Bola Medicinal por Baixo (Scoop Throw)"
+  },
+  {
+    "id": "Middle_Back_Shrug",
+    "name": "Encolhimento para Trapézio Médio"
+  },
+  {
+    "id": "Middle_Back_Stretch",
+    "name": "Alongamento de Costas (Região Média)"
+  },
+  {
+    "id": "Mixed_Grip_Chin",
+    "name": "Barra Fixa com Pegada Mista"
+  },
+  {
+    "id": "Monster_Walk",
+    "name": "Passada Lateral com Mini Band (Monster Walk)"
+  },
+  {
+    "id": "Mountain_Climbers",
+    "name": "Exercício Escalador (Mountain Climbers)"
+  },
+  {
+    "id": "Moving_Claw_Series",
+    "name": "Série de Alongamento Garra em Movimento"
+  },
+  {
+    "id": "Muscle_Snatch",
+    "name": "Muscle Snatch (LPO)"
+  },
+  {
+    "id": "Muscle_Up",
+    "name": "Muscle Up (Crossfit/Calistenia)"
+  },
+  {
+    "id": "Narrow_Stance_Hack_Squats",
+    "name": "Agachamento Hack com Pés Juntos"
+  },
+  {
+    "id": "Narrow_Stance_Leg_Press",
+    "name": "Leg Press com Pés Juntos"
+  },
+  {
+    "id": "Narrow_Stance_Squats",
+    "name": "Agachamento Livre com Pés Juntos"
+  },
+  {
+    "id": "Natural_Glute_Ham_Raise",
+    "name": "Flexão Nórdica Natural"
+  },
+  {
+    "id": "Neck-SMR",
+    "name": "Liberação Miofascial de Pescoço"
+  },
+  {
+    "id": "Neck_Press",
+    "name": "Desenvolvimento de Pescoço"
+  },
+  {
+    "id": "Oblique_Crunches",
+    "name": "Abdominal Oblíquo"
+  },
+  {
+    "id": "Oblique_Crunches_-_On_The_Floor",
+    "name": "Abdominal Oblíquo no Chão"
+  },
+  {
+    "id": "Olympic_Squat",
+    "name": "Agachamento Olímpico"
+  },
+  {
+    "id": "On-Your-Back_Quad_Stretch",
+    "name": "Alongamento de Quadríceps deitado de Costas"
+  },
+  {
+    "id": "On_Your_Side_Quad_Stretch",
+    "name": "Alongamento de Quadríceps deitado de Lado"
+  },
+  {
+    "id": "One-Arm_Dumbbell_Row",
+    "name": "Remada Unilateral com Haltere"
+  },
+  {
+    "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+    "name": "Crucifixo Reto Unilateral com Haltere"
+  },
+  {
+    "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+    "name": "Flexão Lateral Unilateral na Polia Alta"
+  },
+  {
+    "id": "One-Arm_Incline_Lateral_Raise",
+    "name": "Elevação Lateral Unilateral Inclinada com Haltere"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Clean",
+    "name": "Clean Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+    "name": "Arremesso Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Floor_Press",
+    "name": "Supino no Chão Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Jerk",
+    "name": "Jerk Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+    "name": "Desenvolvimento Militar Unilateral com Kettlebell para o Lado"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Para_Press",
+    "name": "Desenvolvimento Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Push_Press",
+    "name": "Push Press Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Row",
+    "name": "Remada Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Snatch",
+    "name": "Arranco Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Split_Jerk",
+    "name": "Split Jerk Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Split_Snatch",
+    "name": "Split Snatch Unilateral com Kettlebell"
+  },
+  {
+    "id": "One-Arm_Kettlebell_Swings",
+    "name": "Balanço Unilateral com Kettlebell (Swing)"
+  },
+  {
+    "id": "One-Arm_Long_Bar_Row",
+    "name": "Remada Cavalinho Unilateral com Barra"
+  },
+  {
+    "id": "One-Arm_Medicine_Ball_Slam",
+    "name": "Arremesso de Bola Medicinal Unilateral no Chão (Slam)"
+  },
+  {
+    "id": "One-Arm_Open_Palm_Kettlebell_Clean",
+    "name": "Clean Unilateral com Kettlebell e Palma da Mão Aberta"
+  },
+  {
+    "id": "One-Arm_Overhead_Kettlebell_Squats",
+    "name": "Agachamento Unilateral com Kettlebell sobre a Cabeça"
+  },
+  {
+    "id": "One-Arm_Side_Deadlift",
+    "name": "Levantamento Terra Unilateral Lateral (Suitcase Deadlift)"
+  },
+  {
+    "id": "One-Arm_Side_Laterals",
+    "name": "Elevação Lateral Unilateral com Haltere"
+  },
+  {
+    "id": "One-Legged_Cable_Kickback",
+    "name": "Glúteo Coice Unilateral no Cabo"
+  },
+  {
+    "id": "One_Arm_Against_Wall",
+    "name": "Alongamento de Peitoral Unilateral na Parede"
+  },
+  {
+    "id": "One_Arm_Chin-Up",
+    "name": "Barra Fixa Supinada Unilateral"
+  },
+  {
+    "id": "One_Arm_Dumbbell_Bench_Press",
+    "name": "Supino Reto Unilateral com Haltere"
+  },
+  {
+    "id": "One_Arm_Dumbbell_Preacher_Curl",
+    "name": "Rosca Scott Unilateral com Haltere"
+  },
+  {
+    "id": "One_Arm_Floor_Press",
+    "name": "Supino no Chão Unilateral com Haltere"
+  },
+  {
+    "id": "One_Arm_Lat_Pulldown",
+    "name": "Puxada Frontal Unilateral"
+  },
+  {
+    "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+    "name": "Extensão de Tríceps Unilateral com Haltere (Pegada Pronada)"
+  },
+  {
+    "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+    "name": "Extensão de Tríceps Unilateral com Haltere (Pegada Supinada)"
+  },
+  {
+    "id": "One_Half_Locust",
+    "name": "Postura da Meia Gafanhoto (Yoga)"
+  },
+  {
+    "id": "One_Handed_Hang",
+    "name": "Suspensão Unilateral na Barra Fixa"
+  },
+  {
+    "id": "One_Knee_To_Chest",
+    "name": "Alongamento Joelho no Peito"
+  },
+  {
+    "id": "One_Leg_Barbell_Squat",
+    "name": "Agachamento Unilateral com Barra"
+  },
+  {
+    "id": "Open_Palm_Kettlebell_Clean",
+    "name": "Clean com Kettlebell e Palma da Mão Aberta"
+  },
+  {
+    "id": "Otis-Up",
+    "name": "Abdominal Otis-Up"
+  },
+  {
+    "id": "Overhead_Cable_Curl",
+    "name": "Rosca Bíceps Duplo no Cabo"
+  },
+  {
+    "id": "Overhead_Lat",
+    "name": "Alongamento de Latíssimo do Dorso"
+  },
+  {
+    "id": "Overhead_Slam",
+    "name": "Slam com Bola Medicinal (Batida no Chão)"
+  },
+  {
+    "id": "Overhead_Squat",
+    "name": "Agachamento Overhead"
+  },
+  {
+    "id": "Overhead_Stretch",
+    "name": "Alongamento de Braços acima da Cabeça"
+  },
+  {
+    "id": "Overhead_Triceps",
+    "name": "Tríceps Francês"
+  },
+  {
+    "id": "Pallof_Press",
+    "name": "Prensa Pallof"
+  },
+  {
+    "id": "Pallof_Press_With_Rotation",
+    "name": "Prensa Pallof com Rotação"
+  },
+  {
+    "id": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+    "name": "Rosca de Punho Inversa com Haltere no Banco"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Intermediate_Groin_Stretch",
+    "name": "Alongamento Intermediário de Adutores"
+  },
+  {
+    "id": "Intermediate_Hip_Flexor_and_Quad_Stretch",
+    "name": "Alongamento Intermediário de Flexores de Quadril e Quadríceps"
+  },
+  {
+    "id": "Internal_Rotation_with_Band",
+    "name": "Rotação Interna com Elástico"
+  },
+  {
+    "id": "Inverted_Row",
+    "name": "Remada Invertida"
+  },
+  {
+    "id": "Inverted_Row_with_Straps",
+    "name": "Remada Invertida com Fitas de Treinamento"
+  },
+  {
+    "id": "Iron_Cross",
+    "name": "Crucifixo Cruzado no Cabo (Iron Cross)"
+  },
+  {
+    "id": "Iron_Crosses_stretch",
+    "name": "Alongamento Cruz de Ferro"
+  },
+  {
+    "id": "Isometric_Chest_Squeezes",
+    "name": "Aperto Isométrico de Peitoral"
+  },
+  {
+    "id": "Isometric_Neck_Exercise_-_Front_And_Back",
+    "name": "Exercício Isométrico de Pescoço (Frente e Trás)"
+  },
+  {
+    "id": "Isometric_Neck_Exercise_-_Sides",
+    "name": "Exercício Isométrico de Pescoço (Laterais)"
+  },
+  {
+    "id": "Isometric_Wipers",
+    "name": "Limpador de Para-brisa Isométrico"
+  },
+  {
+    "id": "JM_Press",
+    "name": "Tríceps JM Press"
+  },
+  {
+    "id": "Jackknife_Sit-Up",
+    "name": "Abdominal Canivete"
+  },
+  {
+    "id": "Janda_Sit-Up",
+    "name": "Abdominal Janda"
+  },
+  {
+    "id": "Jefferson_Squats",
+    "name": "Agachamento Jefferson"
+  },
+  {
+    "id": "Jerk_Balance",
+    "name": "Equilíbrio de Jerk (LPO)"
+  },
+  {
+    "id": "Jerk_Dip_Squat",
+    "name": "Agachamento de Preparação para Jerk (Jerk Dip)"
+  },
+  {
+    "id": "Jogging_Treadmill",
+    "name": "Corrida Leve na Esteira (Trote)"
+  },
+  {
+    "id": "Keg_Load",
+    "name": "Carregamento de Barril (Strongman)"
+  },
+  {
+    "id": "Kettlebell_Arnold_Press",
+    "name": "Desenvolvimento Arnold com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Dead_Clean",
+    "name": "Dead Clean com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Figure_8",
+    "name": "Exercício Oito com Kettlebell (Figure 8)"
+  },
+  {
+    "id": "Kettlebell_Hang_Clean",
+    "name": "Hang Clean com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_One-Legged_Deadlift",
+    "name": "Levantamento Terra Unilateral com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Pass_Between_The_Legs",
+    "name": "Passagem de Kettlebell entre as Pernas"
+  },
+  {
+    "id": "Kettlebell_Pirate_Ships",
+    "name": "Balanço de Kettlebell Lateral (Pirate Ships)"
+  },
+  {
+    "id": "Kettlebell_Pistol_Squat",
+    "name": "Agachamento Pistol com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Seated_Press",
+    "name": "Desenvolvimento Sentado com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Seesaw_Press",
+    "name": "Desenvolvimento Gangorra com Kettlebells (Seesaw)"
+  },
+  {
+    "id": "Kettlebell_Sumo_High_Pull",
+    "name": "Remada Alta Sumô com Kettlebell (Sumo High Pull)"
+  },
+  {
+    "id": "Kettlebell_Thruster",
+    "name": "Thruster com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
+    "name": "Levantamento Turco Estilo Afundo com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Turkish_Get-Up_Squat_style",
+    "name": "Levantamento Turco Estilo Agachamento com Kettlebell"
+  },
+  {
+    "id": "Kettlebell_Windmill",
+    "name": "Alongamento Windmill com Kettlebell"
+  },
+  {
+    "id": "Kipping_Muscle_Up",
+    "name": "Muscle Up com Kipping (Crossfit)"
+  },
+  {
+    "id": "Knee_Across_The_Body",
+    "name": "Alongamento Joelho Cruzado sobre o Corpo"
+  },
+  {
+    "id": "Knee_Circles",
+    "name": "Rotação de Joelhos"
+  },
+  {
+    "id": "Knee_Hip_Raise_On_Parallel_Bars",
+    "name": "Elevação de Pernas nas Paralelas"
+  },
+  {
+    "id": "Knee_Tuck_Jump",
+    "name": "Salto com Joelhos no Peito"
+  },
+  {
+    "id": "Kneeling_Arm_Drill",
+    "name": "Treino de Braço de Joelhos (Corrida)"
+  },
+  {
+    "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+    "name": "Abdominal de Joelhos no Cabo com Rotação Alternada de Oblíquos"
+  },
+  {
+    "id": "Kneeling_Cable_Triceps_Extension",
+    "name": "Extensão de Tríceps de Joelhos no Cabo"
+  },
+  {
+    "id": "Kneeling_Forearm_Stretch",
+    "name": "Alongamento de Antebraço de Joelhos"
+  },
+  {
+    "id": "Kneeling_High_Pulley_Row",
+    "name": "Remada de Joelhos na Polia Alta"
+  },
+  {
+    "id": "Kneeling_Hip_Flexor",
+    "name": "Alongamento de Flexores de Quadril de Joelhos"
+  },
+  {
+    "id": "Kneeling_Jump_Squat",
+    "name": "Agachamento com Salto de Joelhos"
+  },
+  {
+    "id": "Kneeling_Single-Arm_High_Pulley_Row",
+    "name": "Remada Unilateral de Joelhos na Polia Alta"
+  },
+  {
+    "id": "Kneeling_Squat",
+    "name": "Agachamento de Joelhos"
+  },
+  {
+    "id": "Landmine_180s",
+    "name": "Giro com Barra Landmine 180"
+  },
+  {
+    "id": "Landmine_Linear_Jammer",
+    "name": "Desenvolvimento Unilateral com Barra Landmine"
+  },
+  {
+    "id": "Lateral_Bound",
+    "name": "Salto Lateral"
+  },
+  {
+    "id": "Lateral_Box_Jump",
+    "name": "Salto Lateral na Caixa"
+  },
+  {
+    "id": "Lateral_Cone_Hops",
+    "name": "Salto Lateral sobre Cones"
+  },
+  {
+    "id": "Lateral_Raise_-_With_Bands",
+    "name": "Elevação Lateral com Elásticos"
+  },
+  {
+    "id": "Latissimus_Dorsi-SMR",
+    "name": "Liberação Miofascial de Dorsal"
+  },
+  {
+    "id": "Leg-Over_Floor_Press",
+    "name": "Supino no Chão com Rotação de Quadril"
+  },
+  {
+    "id": "Leg-Up_Hamstring_Stretch",
+    "name": "Alongamento de Posterior de Coxa deitado com Perna Elevada"
+  },
+  {
+    "id": "Leg_Extensions",
+    "name": "Cadeira Extensora"
+  },
+  {
+    "id": "Leg_Lift",
+    "name": "Elevação de Pernas"
+  },
+  {
+    "id": "Leg_Press",
+    "name": "Leg Press 45"
+  },
+  {
+    "id": "Leg_Pull-In",
+    "name": "Abdominal Infra (Encolhimento de Pernas)"
+  },
+  {
+    "id": "Leverage_Chest_Press",
+    "name": "Supino na Máquina Articulada (Leverage)"
+  },
+  {
+    "id": "Leverage_Deadlift",
+    "name": "Levantamento Terra na Máquina Articulada"
+  },
+  {
+    "id": "Leverage_Decline_Chest_Press",
+    "name": "Supino Declinado na Máquina Articulada"
+  },
+  {
+    "id": "Leverage_High_Row",
+    "name": "Remada Alta na Máquina Articulada"
+  },
+  {
+    "id": "Leverage_Incline_Chest_Press",
+    "name": "Supino Inclinado na Máquina Articulada"
+  },
+  {
+    "id": "Leverage_Iso_Row",
+    "name": "Remada Unilateral na Máquina Articulada"
+  },
+  {
+    "id": "Leverage_Shoulder_Press",
+    "name": "Desenvolvimento de Ombros na Máquina Articulada"
+  },
+  {
+    "id": "Leverage_Shrug",
+    "name": "Encolhimento de Ombros na Máquina Articulada"
+  },
+  {
+    "id": "Linear_3-Part_Start_Technique",
+    "name": "Técnica de Partida de Corrida em 3 Partes"
+  },
+  {
+    "id": "Linear_Acceleration_Wall_Drill",
+    "name": "Aceleração Linear na Parede"
+  },
+  {
+    "id": "Linear_Depth_Jump",
+    "name": "Salto de Profundidade Linear"
+  },
+  {
+    "id": "Log_Lift",
+    "name": "Levantamento de Tronco (Log Press/Strongman)"
+  },
+  {
+    "id": "London_Bridges",
+    "name": "Alongamento Ponte de Londres"
+  },
+  {
+    "id": "Looking_At_Ceiling",
+    "name": "Alongamento de Pescoço (Olhando para o Teto)"
+  },
+  {
+    "id": "Low_Cable_Crossover",
+    "name": "Crossover na Polia Baixa"
+  },
+  {
+    "id": "Low_Cable_Triceps_Extension",
+    "name": "Extensão de Tríceps na Polia Baixa"
+  },
+  {
+    "id": "Low_Pulley_Row_To_Neck",
+    "name": "Remada na Polia Baixa até o Pescoço"
+  },
+  {
+    "id": "Lower_Back-SMR",
+    "name": "Liberação Miofascial Lombar"
+  },
+  {
+    "id": "Lower_Back_Curl",
+    "name": "Extensão Lombar na Máquina"
+  },
+  {
+    "id": "Lunge_Pass_Through",
+    "name": "Passada Alternada com Kettlebell entre as Pernas"
+  },
+  {
+    "id": "Lunge_Sprint",
+    "name": "Tiro de Corrida a partir de Afundo"
+  },
+  {
+    "id": "Lying_Bent_Leg_Groin",
+    "name": "Alongamento de Adutores Deitado com Joelho Flexionado"
+  },
+  {
+    "id": "Lying_Cable_Curl",
+    "name": "Rosca Direta Deitada no Cabo"
+  },
+  {
+    "id": "Lying_Cambered_Barbell_Row",
+    "name": "Remada Curvada Deitado no Banco com Barra"
+  },
+  {
+    "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+    "name": "Rosca Bíceps Fechada na Polia Alta Deitado"
+  },
+  {
+    "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+    "name": "Extensão de Tríceps Fechada com Barra por Trás da Cabeça"
+  },
+  {
+    "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
+    "name": "Tríceps Testa na Altura do Queixo com Barra"
+  }
+]
